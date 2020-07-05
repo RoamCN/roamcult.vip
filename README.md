@@ -1,4 +1,4 @@
-# roam-cn.github.io
+# [[ roam/cn ]] 中文社区 ⛏🚀
 
 Roam Research 中文社区： https://roamresearchfan.com
 
