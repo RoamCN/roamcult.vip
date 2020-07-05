@@ -534,8 +534,8 @@
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1593873269408,
                 "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1593873277333,
-                "string": "\u5b98\u65b9 CHANGELOG",
+                "edit-time": 1593909144742,
+                "string": "\u5b98\u65b9 CHANGELOG https://roamresearch.com/#/app/help/page/dxTi-iUs2",
                 "uid": "pBRr8rtTx"
               }
             ],
@@ -594,17 +594,37 @@
           },
           {
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1593873170725,
-            "string": "4. BitBar\uff1amarkdown \u6587\u4ef6\u81ea\u52a8\u5b9a\u671f\u62c9\u53d6\u5230\u672c\u5730\u6587\u4ef6\u7cfb\u7edf",
+            "edit-time": 1593909173563,
+            "string": "4. BitBar\uff1amarkdown \u6587\u4ef6\u81ea\u52a8\u5b9a\u671f\u62c9\u53d6\u5230\u672c\u5730\u6587\u4ef6\u7cfb\u7edf\uff08git pull\u811a\u672c\u5b9a\u671f\u4efb\u52a1\uff09",
             "uid": "23-W7rzIn"
           },
           {
+            "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1593909180095,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1593909200327,
+                "string": "A note-taking tool\nfor networked thought.",
+                "uid": "WNxtOhqpm"
+              }
+            ],
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1593872976351,
-            "string": "5. \u5f00\u6e90\u667a\u80fd\uff1aRoam\u767d\u76ae\u4e66\u4e0e\u77e5\u8bc6\u754cGitHub\uff0c\u4eba\u7c7b\u6700\u540e\u7684\u5c0a\u4e25\u662f\u601d\u8003\u3002",
+            "edit-time": 1593909213558,
+            "string": "5. \u5f00\u6e90\u667a\u80fd\uff1aRoam\u767d\u76ae\u4e66\u4e0e\u77e5\u8bc6\u754cGitHub\uff0c\u5728\u673a\u5668\u667a\u80fd\u65f6\u4ee3\uff0c\u4eba\u7c7b\u6700\u540e\u7684\u5c0a\u4e25\u662f\u601d\u8003\u3002",
             "uid": "h6UTFgc3M"
           },
           {
+            "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1593909224060,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1593909257335,
+                "string": "\u66f4\u7a33\u5b9a\u3001\u66f4\u7cbe\u51c6\u3001\u66f4\u5168\u9762\u7684\u754c\u9762\u5143\u7d20\u9009\u62e9\u5668",
+                "uid": "ZqduOihtJ"
+              }
+            ],
             "create-email": "lv460051518@gmail.com",
             "create-time": 1593873185678,
             "edit-email": "lv460051518@gmail.com",
@@ -613,6 +633,16 @@
             "uid": "SE7M1UUVh"
           },
           {
+            "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1593909265891,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1593909463894,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fvvc0i-rM0T.png?alt=media&token=b39b841e-ffe1-4b6a-bafe-e6db6ff7c5e9)",
+                "uid": "CZX6Ou3NA"
+              }
+            ],
             "create-email": "lv460051518@gmail.com",
             "create-time": 1593873185678,
             "edit-email": "lv460051518@gmail.com",
