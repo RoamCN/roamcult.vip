@@ -532,8 +532,8 @@
             "create-email": "wuxuebin1993@gmail.com",
             "create-time": 1593931762681,
             "edit-email": "wuxuebin1993@gmail.com",
-            "edit-time": 1593932270570,
-            "string": "\u5411Andy\u00a0Henson\u7533\u8bf7\u4e86\u8bfe\u7a0b\u7248\u6743\uff0c\u63a5\u4e0b\u6765\u6211\u4eec\u5c06\u7ffb\u8bd1 [[Effective Note-Taking]]\u7684\u8bfe\u7a0b\n![S1msrq](http://victor-oss.oss-cn-shanghai.aliyuncs.com/uPic/S1msrq.png)",
+            "edit-time": 1593933260753,
+            "string": "\u5411[Andy Henson@elaptics](https://twitter.com/elaptics)\u7533\u8bf7\u4e86Roam Research\u8bfe\u7a0b\u7248\u6743\uff0c\u63a5\u4e0b\u6765\u6211\u4eec\u5c06\u7ffb\u8bd1 [[Effective Note-Taking]]\u7684\u8bfe\u7a0b\n![S1msrq](http://victor-oss.oss-cn-shanghai.aliyuncs.com/uPic/S1msrq.png)",
             "uid": "NRF9WZkkx"
           },
           {
@@ -1072,9 +1072,17 @@
         "create-email": "wuxuebin1993@gmail.com",
         "create-time": 1593932817028,
         "edit-email": "wuxuebin1993@gmail.com",
-        "edit-time": 1593932817028,
-        "string": "",
+        "edit-time": 1593933024255,
+        "string": "\u7531[Andy Henson@elaptics](https://twitter.com/elaptics)\u521b\u529e\u7684Roam Research \u514d\u8d39\u6587\u5b57\u8bfe\u7a0b\uff0c[\u8ba2\u9605\u94fe\u63a5](https://roam.elaptics.co.uk/learn)",
         "uid": "Q_eWy3luV"
+      },
+      {
+        "create-email": "wuxuebin1993@gmail.com",
+        "create-time": 1593932963456,
+        "edit-email": "wuxuebin1993@gmail.com",
+        "edit-time": 1593932963456,
+        "string": "",
+        "uid": "EmVpMsSBR"
       }
     ],
     "create-email": "wuxuebin1993@gmail.com",
