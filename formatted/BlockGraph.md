@@ -1,2 +1,2 @@
-- [June 24th, 2020](<June 24th, 2020.md>)01期
-- [June 28th, 2020](<June 28th, 2020.md>)02期
+- [June 24th, 2020](June 24th, 2020.md)01期
+- [June 28th, 2020](June 28th, 2020.md)02期
