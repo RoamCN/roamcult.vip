@@ -23,7 +23,9 @@ jobs:
           run: |
             pip install git+https://github.com/MatthieuBizien/roam-to-git.git
       -   name: Run backup
-          run: roam-to-git --skip-git .
+          run: |
+            roam-to-git --skip-git .
+            sed -i '' 's/- #/#/g;s/](</](/g;s/.md>)/.md)/g' formatted/*.md
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
