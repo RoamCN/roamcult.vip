@@ -26,7 +26,7 @@ jobs:
           run: |
             roam-to-git --skip-git .
             pwd
-            sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g' ./formatted/*.md
+            sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\1\./g' ./formatted/*.md
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
