@@ -25,7 +25,8 @@ jobs:
       -   name: Run backup
           run: |
             roam-to-git --skip-git .
-            sed -i '' 's/- #/#/g;s/](</](/g;s/.md>)/.md)/g' formatted/*.md
+            pwd
+            sed -i '' 's/- #/#/g;s/](</](/g;s/.md>)/.md)/g' /home/runner/work/roam-cn.github.io/roam-cn.github.io/formatted/*.md
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
