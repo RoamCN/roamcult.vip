@@ -4,11 +4,13 @@ Roam Research 中文社区： https://roamresearchfan.com
 
 备用地址：https://jinglv.gitbook.io/roam-cn/
 
+![roam cn newsletter](https://jimmylv.github.io/images/2020/roam cn newsletter.jpg)
+
 ## Roamcn isn't built in a day.
 
 - 每周，Roam中文站会将本周的重点Roam官方动态，中文站动态和中文站成员总结的Roam使用技巧和用例整理成周报，分享给社区。
 - 也欢迎社区小伙伴将自己的使用技巧和应用案例分享给出来，让更多人受益！可以通过投稿的方式发送邮件到**[hq@roamcn.club](mailto:hq@roamcn.club)**。我们会添加到周报和中文站的Roam graph中！
-- 是的，我们用Roam建立了一个[[[公共graph]]](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)，想要聚集集体智慧(Collective Intelligence)，实现Roam社区的生长。
+- 是的，我们还用Roam建立了一个[[[公共graph]]](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)，想要聚集集体智慧(Collective Intelligence)，实现Roam社区的生长。
 - 关注我们![👽](https://mail.google.com/mail/e/1f47d) ：[b站](https://space.bilibili.com/599106362) | [Graph](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ) | [Notion](https://www.notion.so/Roam-cn-e64eb6c374f44cb9aafc8f1992ee2e98)
 
 ## 捐赠渠道
