@@ -6,12 +6,13 @@ Roam Research 中文社区： https://roamresearchfan.com
 
 ![roam cn newsletter](https://jimmylv.github.io/images/2020/roam%20cn%20newsletter.jpg)
 
-## Roamcn isn't built in a day.
+## RoamCN isn't built in a day.
 
 - 每周，Roam中文站会将本周的重点Roam官方动态，中文站动态和中文站成员总结的Roam使用技巧和用例整理成周报，分享给社区。
 - 也欢迎社区小伙伴将自己的使用技巧和应用案例分享给出来，让更多人受益！可以通过投稿的方式发送邮件到**[hq@roamcn.club](mailto:hq@roamcn.club)**。我们会添加到周报和中文站的Roam Graph 当中！
 - 是的，我们还用Roam建立了一个[[[公共graph]]](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)，想要聚集集体智慧(Collective Intelligence)，实现Roam社区的生长。
-- 关注我们![👽](https://mail.google.com/mail/e/1f47d) ：[B站](https://space.bilibili.com/599106362) | [Roam Graph](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ) | [Notion](https://www.notion.so/Roam-cn-e64eb6c374f44cb9aafc8f1992ee2e98) | [微信群] 👇
+
+关注我们![👽](https://mail.google.com/mail/e/1f47d) ：[B站](https://space.bilibili.com/599106362) | [Roam Graph](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ) | [Notion](https://www.notion.so/Roam-cn-e64eb6c374f44cb9aafc8f1992ee2e98) | [微信群] 👇
 
 <img width=620 src="https://jimmylv.github.io/images/2020/Roam%E5%BE%AE%E4%BF%A1%E5%9C%88%E5%AD%90.JPG" alt="Roam微信圈子" style="max-width:100%;">
 
