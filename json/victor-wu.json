@@ -398,8 +398,8 @@
           },
           {
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594131225850,
-            "string": "\u662f\u7684\uff0c\u6211\u4eec\u7528Roam\u5efa\u7acb\u4e86\u4e00\u4e2a[[[\u516c\u5171graph]]](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)\uff0c\u60f3\u8981\u805a\u96c6\u96c6\u4f53\u667a\u6167(Collective Intelligence)\uff0c\u5b9e\u73b0Roam\u793e\u533a\u7684\u751f\u957f\u3002",
+            "edit-time": 1594133636234,
+            "string": "\u662f\u7684\uff0c\u6211\u4eec\u7528Roam\u5efa\u7acb\u4e86\u4e00\u4e2a[\u516c\u5171graph](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)\uff0c\u60f3\u8981\u805a\u96c6\u96c6\u4f53\u667a\u6167(Collective Intelligence)\uff0c\u5b9e\u73b0Roam\u793e\u533a\u7684\u751f\u957f\u3002",
             "uid": "HFfD9wJuU"
           },
           {
@@ -1276,12 +1276,5 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594081153712,
     "title": "July 7th, 2020"
-  },
-  {
-    "create-email": "lv460051518@gmail.com",
-    "create-time": 1594131225847,
-    "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594131225850,
-    "title": "[\u516c\u5171graph"
   }
 ]
