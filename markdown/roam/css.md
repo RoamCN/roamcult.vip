@@ -1,5 +1,5 @@
 - alzen_theme
-    - ```css
+    - ```clojure
 /* IMPORT CORE THEME */
 @import url('https://azlen.github.io/roam-themes/core.css');
 
