@@ -4,12 +4,10 @@
       {
         "children": [
           {
-            "create-email": "wuxuebin1993@gmail.com",
-            "create-time": 1592723404219,
-            "edit-email": "weichuanwen@126.com",
-            "edit-time": 1594183153228,
-            "string": "```clojure\n/* IMPORT CORE THEME */\n@import url('https://azlen.github.io/roam-themes/core.css');\n\n/* GOOGLE FONTS */\n@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@600&display=swap');\n@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');\n\n/* VARIABLES */\n:root {\n    --page-width: 800px;\n    \n    --header-font: \"Oxanium\", \"Inter\", sans-serif;\n    --body-font: \"Ubuntu\", \"Inter\", sans-serif;\n    \n    --bg-color: #000000;\n    --page-color: rgba(44, 44, 44, 0.95);\n    \n    --text-color: #FFFFFF;\n    --icon-color: rgb(102, 102, 102);\n    --bullet-color: rgba(255, 255, 255, 0.3);\n    \n    --page-shadow: 0px 8px 14px rgba(0, 0, 0, 0.25);\n    \n    --color-primary: 47, 155, 249;\n    --color-primary-contrast: #FFFFFF;\n    --color-secondary: 228, 78, 244;\n    \n    --color-secondary-contrast: #FFFFFF;\n}\n\n/* CHANGE COLOURS IN CANVAS */\ncanvas[data-id=\"layer2-node\"] {\n    filter: invert(1) contrast(1.1) hue-rotate(180deg) saturate(2);\n}\n\n/* CODE BLOCK STYLING */\n/* modified from https://codemirror.net/demo/theme.html#night */\n.CodeMirror { background: var(--bg-color) !important; color: #f8f8f8 !important; }\ndiv.CodeMirror-selected { background: #447 !important;  }\n.CodeMirror-line::selection, .CodeMirror-line > span::selection, .CodeMirror-line > span > span::selection { background: rgba(68, 68, 119, .99); }\n.CodeMirror-line::-moz-selection, .CodeMirror-line > span::-moz-selection, .CodeMirror-line > span > span::-moz-selection { background: rgba(68, 68, 119, .99); }\n.CodeMirror-gutters { background: var(--bg-color); border-right: 1px solid #252525; }\n.CodeMirror-guttermarker { color: white !important; }\n.CodeMirror-guttermarker-subtle { color: #bbb !important; }\n.CodeMirror-linenumber { color: #f8f8f8; }\n.CodeMirror-cursor { border-left: 1px solid white !important; }\nspan.cm-qualifier { color: #666666 !important; }\nspan.cm-comment { color: #C71FF9 !important; }\nspan.cm-atom { color: #B58AFD !important; }\nspan.cm-number, span.cm-attribute { color: #ffd500 !important; }\nspan.cm-keyword { color: #599eff !important; }\nspan.cm-string { color: #37f14a !important; }\nspan.cm-meta { color: #369BFF !important; }\nspan.cm-variable-2, span.cm-tag { color: #99b2ff !important; }\nspan.cm-variable-3, span.cm-def, span.cm-type { color: white !important; }\nspan.cm-bracket { color: #8da6ce !important; }\nspan.cm-builtin, pan.cm-special { color: #ff9e59 !important; }\nspan.cm-link { color: #845dc4 !important; }\nspan.cm-error { color: #F41000 !important; }\n.CodeMirror-activeline-background { background: #1C005A !important; }\n.CodeMirror-matchingbracket { outline:1px solid grey !important; color:white !important; }```",
-            "uid": "8Vm_SVtRV"
+            "edit-email": "wuxuebin1993@gmail.com",
+            "edit-time": 1592723612208,
+            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');```",
+            "uid": "DAPNRD3qb"
           }
         ],
         "create-email": "wuxuebin1993@gmail.com",
