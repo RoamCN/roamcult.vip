@@ -1287,6 +1287,19 @@
         "create-time": 1594262194030,
         "edit-email": "wangxh1000@gmail.com",
         "edit-time": 1594262381032,
+        "emojis": [
+          {
+            "emoji": {
+              "native": "\ud83d\udc4d"
+            },
+            "users": [
+              {
+                "email": "wuxuebin1993@gmail.com",
+                "time": 1594273090709
+              }
+            ]
+          }
+        ],
         "string": "\u5bfc\u5165 [[\u7ffb\u8bd1: What is Roam?]]",
         "uid": "83yIQ6_rs"
       },
