@@ -1,2 +1,2 @@
 - 导入 [翻译: What is Roam?](翻译: What is Roam?.md)
-- 
+- 校对 [翻译：Lesson 1](翻译：Lesson 1.md)

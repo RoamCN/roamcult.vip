@@ -34,11 +34,11 @@
     - 其次，页面的概念也有所不同。你可以在任何时候使用 "All Pages" 旁的 `+` 按钮创建页面。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - ![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggh1f4sjtug30f004ata1.gif)
 - You can also create a page by merely wrapping a word or phrase with double brackets like so: `[ ]( .md)`. As you're writing your thought, if you type the double opening brackets, Roam will help you auto-complete and choose any existing pages across your database. Or you can continue typing to create a new page. The editor is smart enough that you can also highlight a word or phrase, and then hit the double opening brackets to wrap the selection and create a reference. You can remove the reference just by deleting the brackets.
-    - 你也可以仅仅通过用双括号包裹一个单词或短语的方式来创建页面，就像这样：`[ ]( .md)`。当你写下你的想法时，如果你键入`[`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文](`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+    - 你也可以仅仅通过用双括号包裹一个单词或短语的方式来创建页面，就像这样：`[ ]( .md)`。当你写下你的想法时，如果你键入`[`，Roam 就会自动让你选择数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文](`，Roam 就会自动让你选择数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Pages are effectively a collection of blocks. Typically they're going to relate to that page in some way. These page references are the glue which links your different notes together.
     - 页面实际上就是 block 的集合。通常它们会以某种方式与该页相关联。这些页面引用是将你的不同笔记联在一起的胶水。#[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - You can also create a reference by starting with a hash, `#` - this works the same way as the brackets syntax, letting you auto-complete existing pages, or you can type to create new ones. The difference is that by using only a hash, you're limited to a single word. To create one with multiple words, you combine the hash with the brackets, i.e. `#[ ]( .md)`. Whichever syntax you choose, it creates the same page references. The difference is in how they look. Brackets are best for inline references. The hashtag format is best to represent "tags", where you want to make a connection to something else, which doesn't lend itself to being inline. In essence, they allow you to add multiple page references to a block in a more unobtrusive and frictionless way. As we'll see later in the course, you can colour tags with CSS to imbue them with more meaning.
-    - 你也可以通过以哈希，`#`开头来创建一个引用--这和括号语法的工作方式一样，让你自动完成现有的页面，或者你也可以键入来创建新的页面。不同的是，通过只使用一个哈希值，你被限制在一个词上。要创建一个多字的，你可以将哈希值与括号结合起来，即`#[[]]`。无论你选择哪种语法，它都会创建同样的页面引用。区别在于它们的外观。方括号最好用于内联引用。哈希塔格格式最适合表示 "标签"，在这里，你想与其他东西建立连接，这不适合内联。从本质上讲，它们允许你以一种更不显眼和无摩擦的方式将多个页面引用添加到一个区块中。正如我们在后面的课程中会看到的，你可以用CSS给标签着色，赋予它们更多的意义。
+    - 你也可以通过以`#`开头的方式来创建引用 —— 这和括号语法的工作方式一样，会让你自动选择现有页面，或者也可以输入创建新的页面。不同的是，只用`#`你将被限制在名字为一个词的引用上。如果想要创建一个名字为多个词的引用，你可以将`#`与括号结合起来，即`#[ ]( .md)`。无论你用哪种语法，它都会创建同样的页面引用。区别只在它们的外观。方括号最好用于内联引用。`#`最适合表示 "标签"，此处你想与其他东西建立连接，这就不适合用内联引用。从本质上讲，它们允许你以一种更隐蔽和无摩擦的方式将多个页面引用添加到 block 中。正如我们将在以后课程中会看到的，你可以用 CSS 给标签上色，使其具有更多意义。#[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Thirdly, the power of Roam is in what you can do with these blocks. Every block has its own unique reference. You can get it by right-clicking on the bullet, and choosing ***Copy Block Ref\***.
     - 第三，Roam的强大之处在于你可以用这些区块做什么。每个区块都有自己独特的引用。你可以通过右击子弹，然后选择***Copy Block Ref/***来获得它。
 - ![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggh1f6kycpg30m809x1ky.gif)
@@ -65,6 +65,9 @@
 - Andy Henson
 
 # Backlinks
+## [July 9th, 2020](July 9th, 2020.md)
+- 校对 [翻译：Lesson 1](翻译：Lesson 1.md)
+
 ## [临时](临时.md)
 - {{[query](query.md): {and: [翻译：Lesson 1](翻译：Lesson 1.md)
 
@@ -93,7 +96,9 @@
 
 - 其次，页面的概念也有所不同。你可以在任何时候使用 "All Pages" 旁的 `+` 按钮创建页面。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
-- 你也可以仅仅通过用双括号包裹一个单词或短语的方式来创建页面，就像这样：`[ ]( .md)`。当你写下你的想法时，如果你键入`[`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文](`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+- 你也可以仅仅通过用双括号包裹一个单词或短语的方式来创建页面，就像这样：`[ ]( .md)`。当你写下你的想法时，如果你键入`[`，Roam 就会自动让你选择数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文](`，Roam 就会自动让你选择数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
 - 页面实际上就是 block 的集合。通常它们会以某种方式与该页相关联。这些页面引用是将你的不同笔记联在一起的胶水。#[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 你也可以通过以`#`开头的方式来创建引用 —— 这和括号语法的工作方式一样，会让你自动选择现有页面，或者也可以输入创建新的页面。不同的是，只用`#`你将被限制在名字为一个词的引用上。如果想要创建一个名字为多个词的引用，你可以将`#`与括号结合起来，即`#[ ]( .md)`。无论你用哪种语法，它都会创建同样的页面引用。区别只在它们的外观。方括号最好用于内联引用。`#`最适合表示 "标签"，此处你想与其他东西建立连接，这就不适合用内联引用。从本质上讲，它们允许你以一种更隐蔽和无摩擦的方式将多个页面引用添加到 block 中。正如我们将在以后课程中会看到的，你可以用 CSS 给标签上色，使其具有更多意义。#[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
