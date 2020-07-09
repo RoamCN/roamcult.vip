@@ -20,9 +20,9 @@
 - I decided to create this course with my self-interest in mind. Firstly, I was looking for a way to organise and consolidate my knowledge of Roam so that I could use it effectively. Then through the amazing [roamcult](roamcult.md) community, I became interested in the broader act of note-taking itself and thinking through writing. I am also interested in seeing how Roam may unlock a higher form of collaborative learning in public. By building on each other's shoulders, we can more quickly reach the summit of wisdom and knowledge.
     - 我决定创建这门课程完全是出于私利。首先，我在寻找一种方法来组织和巩固我对 Roam 的认识，以便我能有效地使用它。然后，通过惊人的 [roamcult](roamcult.md) 社区，我对更广泛的记笔记行为本身和通过写作进行思考产生了兴趣。我也很想看看 Roam 如何在公共场合开启更高形式的协作学习。通过互相砥砺，我们可以更快地达到智慧和知识的顶峰。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - I have tried to break down the functionality of Roam into pieces that make sense and that you can build on, bit by bit. I start out with the basics for those brand-new to Roam, but I throw in tips and tricks along the way as I build up to more advanced concepts and use-cases. While I'm delivering this to you as a series of emails right now, I plan to move the content and examples into a public Roam database. Roam moves fast, and I've already had to revise the lessons a few times since starting. Doing this in a public database means you can keep up with it too, and pull the content into your own Roam database if you wish. I also think it would be an interesting experiment to give you all collaborative access to it as well as a form of meta-playground where we can all learn together.
-    - 我尝试将 Roam 的功能分解成一个个有意义的部分，你可以一点一点地建立起来。我从最基础的部分开始讲起，为那些刚接触Roam的人提供帮助，但当我逐渐深入到更高级的概念和使用案例时，我也会加入一些提示和技巧。虽然我现在是以一系列电子邮件的形式向你提供这些内容，但我计划将这些内容和示例移到一个公共的Roam数据库中。Roam的发展速度很快，从开始到现在，我已经修改了几次课程。在公共数据库中做这件事意味着你也可以跟上它，如果你愿意的话，还可以把内容拉到你自己的Roam数据库中。我也认为这将是一个有趣的实验，让你们都能协同访问它，同时也是一种元游戏场的形式，我们可以一起学习。
+    - 我尝试将 Roam 的功能分解成一个个有意义的部分，让你可以一点点地建立了解。我从最基础的部分开始讲起，为那些刚接触 Roam 的人提供帮助，但当我逐渐深入到更高级的概念和使用案例时，我也会加入一些提示和技巧。虽然我现在是以一系列电子邮件的形式向你提供这些内容，但我计划将这些内容和示例移到一个公共的 Roam 数据库中。Roam 的发展速度很快，从开始到现在，我已经修改了几次课程。在公共数据库中做这件事情意味着你能跟上它的变化，如果你愿意的话，你还可以把这些内容拉到自己的 Roam 数据库中。我也认为，如果能让大家协作共用，将是一个有趣的实验，同时这也是一种大家共同学习的元(meta)游戏场的形式。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Finally, I don't profess to have all the answers, but I am excited to find and share them with you. I would love any feedback you have as you progress through this course, good and bad. And with that, onto our first lesson.
-    - 最后，我不自称拥有所有的答案，但我很高兴能找到并与你们分享。我很希望你们在这门课程的学习过程中能有任何反馈，无论是好的还是坏的。就这样，进入我们的第一课。
+    - 最后，我不自称拥有所有的答案，但我很高兴能找到并与你分享它们。我很希望你们在这门课程的学习过程中能有所反馈，无论是好是坏。就这样，让我们进入第一课。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
 ## Key Concepts
     - 关键概念
@@ -82,4 +82,8 @@
 - 小管家：本课程中的所有邮件都会在主题栏中写上 `[Effective Note-Taking] `，以便你能方便地搜索或过滤它们。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
 - 我决定创建这门课程完全是出于私利。首先，我在寻找一种方法来组织和巩固我对 Roam 的认识，以便我能有效地使用它。然后，通过惊人的 [roamcult](roamcult.md) 社区，我对更广泛的记笔记行为本身和通过写作进行思考产生了兴趣。我也很想看看 Roam 如何在公共场合开启更高形式的协作学习。通过互相砥砺，我们可以更快地达到智慧和知识的顶峰。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 我尝试将 Roam 的功能分解成一个个有意义的部分，让你可以一点点地建立了解。我从最基础的部分开始讲起，为那些刚接触 Roam 的人提供帮助，但当我逐渐深入到更高级的概念和使用案例时，我也会加入一些提示和技巧。虽然我现在是以一系列电子邮件的形式向你提供这些内容，但我计划将这些内容和示例移到一个公共的 Roam 数据库中。Roam 的发展速度很快，从开始到现在，我已经修改了几次课程。在公共数据库中做这件事情意味着你能跟上它的变化，如果你愿意的话，你还可以把这些内容拉到自己的 Roam 数据库中。我也认为，如果能让大家协作共用，将是一个有趣的实验，同时这也是一种大家共同学习的元(meta)游戏场的形式。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 最后，我不自称拥有所有的答案，但我很高兴能找到并与你分享它们。我很希望你们在这门课程的学习过程中能有所反馈，无论是好是坏。就这样，让我们进入第一课。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
