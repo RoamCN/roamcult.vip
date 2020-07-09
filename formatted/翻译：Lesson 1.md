@@ -4,23 +4,23 @@
 - 
 - 
 - Welcome victor, fellow Roaman. Citizen of Roam. Roam is a pretty exciting place to be right now.
-    - 欢迎胜利者，Roaman同胞。Roam的公民 漫威现在是一个非常令人兴奋的地方 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+    - 欢迎胜利者，Roaman 同胞。Roam 世界的公民。Roam 现在是一个非常令人兴奋的地方。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - 
 - Let me start with an apology; I fear I may have sold you a dummy. You're probably here because you want to take better notes in Roam. Roam isn't a note-taking app, though. What?! I hear you cry. Wait, don't unsubscribe and close your email yet. As they say on their homepage, **it's a tool for networked thought.**
-    - 我首先要道歉，我怕我可能把你卖给了一个假人。你来这里可能是因为你想用Roam做更好的笔记。但Roam并不是一个记笔记的应用。什么? 我听到你在哭 等等，先别退订，先别关闭你的邮箱。就像他们在主页上说的那样，**是一个网络思维的工具。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+    - 让我先道个歉，我怕我可能给了你个假货。你来这里可能是因为你想用 Roam做更好的笔记。但它却并不是一个记笔记的应用。什么?  我听到你哭了。等等，别退订别关闭邮件。就像他们在主页上说的，**这是个网络思维的工具**。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Yes, Roam is excellent as a tool for making notes, but its primary purpose is to help you think with greater clarity. The ease with which you can take notes is a crucial part of that process, but the notes should almost be the by-product of doing the work of thinking. The connections you make in Roam are, in effect, you actively teaching yourself; it is a brain trainer.
-    - 是的，Roam作为一个做笔记的工具非常优秀，但它的主要目的是帮助你更清晰地思考。在这个过程中，你可以轻松地做笔记是至关重要的一部分，但笔记几乎应该是做思考工作的副产品。你在Roam中建立的联系，实际上是你在主动教导自己，它是一个大脑训练器。
+    - 是的，作为一个做笔记的工具 Roam 非常出色，但它更主要目的是帮你更清晰地思考。在这个过程中，你可以轻松地做笔记是至关重要的一部分，但笔记几乎应该是做思考工作的副产品。你在 Roam 中建立的联系，实际上是你在主动教导自己，它是一个大脑训练器。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Further, Roam gives you a toolkit of building blocks to enable you to develop your daily workflows that work the way you want to work. This openness and flexibility come with a price, though. There's no one-size-fits-all. You need a solid foundation of the toolkit, and some inspiration to see the possibilities laid before you. Then you can remix and reuse to supercharge your brain and productivity.
-    - 此外，Roam还为你提供了一个构建模块的工具包，让你能够开发出自己的日常工作流程，以你想要的方式工作。不过，这种开放性和灵活性是有代价的。没有放之四海而皆准的方法。你需要一个坚实的工具箱基础，以及一些灵感，看看摆在你面前的可能性。然后，你可以重新组合和重复使用，以超强的大脑和生产力。
+    - 此外，Roam 还为你提供了一个创建块(block，最小的可复用的信息实体) 的工具箱，让你能够开发出你想要的日常工作流程。不过，这种开放性和灵活性是有代价的。没有放之四海而皆准的方法。你需要一个坚实的工具箱基础和一些灵感，看看摆在你面前的可能性。然后，你可以重新混合和重复使用，来为您的大脑和生产力充电。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
 ## Aim of this course
-    - 本课程的目的
+    - 本课程的目的 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - A little housekeeping: all the emails in this course will have [Effective Note-Taking] in the subject line so that you can easily search or filter them.
-    - 一个小小的管家：本课程中的所有邮件都会在主题行中注明【有效记笔记】，这样你就可以很容易地搜索或过滤它们。
+    - 小管家：本课程中的所有邮件都会在主题栏中写上 `[Effective Note-Taking] `，以便你能方便地搜索或过滤它们。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - I decided to create this course with my self-interest in mind. Firstly, I was looking for a way to organise and consolidate my knowledge of Roam so that I could use it effectively. Then through the amazing [roamcult](roamcult.md) community, I became interested in the broader act of note-taking itself and thinking through writing. I am also interested in seeing how Roam may unlock a higher form of collaborative learning in public. By building on each other's shoulders, we can more quickly reach the summit of wisdom and knowledge.
-    - 我决定创建这门课程是考虑到我的自身利益。首先，我在寻找一种方法来组织和巩固我对Roam的知识，以便我能够有效地使用它。然后，通过惊人的[roamcult](roamcult.md)社区，我对更广泛的记笔记行为本身和通过写作进行思考产生了兴趣。我也很有兴趣看到Roam如何在公共场合开启更高形式的协作学习。通过建立在彼此的肩膀上，我们可以更快地达到智慧和知识的巅峰。
+    - 我决定创建这门课程完全是出于私利。首先，我在寻找一种方法来组织和巩固我对 Roam 的认识，以便我能有效地使用它。然后，通过惊人的 [roamcult](roamcult.md) 社区，我对更广泛的记笔记行为本身和通过写作进行思考产生了兴趣。我也很想看看 Roam 如何在公共场合开启更高形式的协作学习。通过互相砥砺，我们可以更快地达到智慧和知识的顶峰。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - I have tried to break down the functionality of Roam into pieces that make sense and that you can build on, bit by bit. I start out with the basics for those brand-new to Roam, but I throw in tips and tricks along the way as I build up to more advanced concepts and use-cases. While I'm delivering this to you as a series of emails right now, I plan to move the content and examples into a public Roam database. Roam moves fast, and I've already had to revise the lessons a few times since starting. Doing this in a public database means you can keep up with it too, and pull the content into your own Roam database if you wish. I also think it would be an interesting experiment to give you all collaborative access to it as well as a form of meta-playground where we can all learn together.
-    - 我试图将Roam的功能分解成有意义的部分，你可以一点一点地建立起来。我从最基础的部分开始讲起，为那些刚接触Roam的人提供帮助，但当我逐渐深入到更高级的概念和使用案例时，我也会加入一些提示和技巧。虽然我现在是以一系列电子邮件的形式向你提供这些内容，但我计划将这些内容和示例移到一个公共的Roam数据库中。Roam的发展速度很快，从开始到现在，我已经修改了几次课程。在公共数据库中做这件事意味着你也可以跟上它，如果你愿意的话，还可以把内容拉到你自己的Roam数据库中。我也认为这将是一个有趣的实验，让你们都能协同访问它，同时也是一种元游戏场的形式，我们可以一起学习。
+    - 我尝试将 Roam 的功能分解成一个个有意义的部分，你可以一点一点地建立起来。我从最基础的部分开始讲起，为那些刚接触Roam的人提供帮助，但当我逐渐深入到更高级的概念和使用案例时，我也会加入一些提示和技巧。虽然我现在是以一系列电子邮件的形式向你提供这些内容，但我计划将这些内容和示例移到一个公共的Roam数据库中。Roam的发展速度很快，从开始到现在，我已经修改了几次课程。在公共数据库中做这件事意味着你也可以跟上它，如果你愿意的话，还可以把内容拉到你自己的Roam数据库中。我也认为这将是一个有趣的实验，让你们都能协同访问它，同时也是一种元游戏场的形式，我们可以一起学习。
 - Finally, I don't profess to have all the answers, but I am excited to find and share them with you. I would love any feedback you have as you progress through this course, good and bad. And with that, onto our first lesson.
     - 最后，我不自称拥有所有的答案，但我很高兴能找到并与你们分享。我很希望你们在这门课程的学习过程中能有任何反馈，无论是好的还是坏的。就这样，进入我们的第一课。
 
@@ -69,7 +69,17 @@
 - {{[query](query.md): {and: [翻译：Lesson 1](翻译：Lesson 1.md)
 
 ## [翻译：Lesson 1](翻译：Lesson 1.md)
-- 欢迎胜利者，Roaman同胞。Roam的公民 漫威现在是一个非常令人兴奋的地方 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+- 欢迎胜利者，Roaman 同胞。Roam 世界的公民。Roam 现在是一个非常令人兴奋的地方。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
-- 我首先要道歉，我怕我可能把你卖给了一个假人。你来这里可能是因为你想用Roam做更好的笔记。但Roam并不是一个记笔记的应用。什么? 我听到你在哭 等等，先别退订，先别关闭你的邮箱。就像他们在主页上说的那样，**是一个网络思维的工具。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+- 让我先道个歉，我怕我可能给了你个假货。你来这里可能是因为你想用 Roam做更好的笔记。但它却并不是一个记笔记的应用。什么?  我听到你哭了。等等，别退订别关闭邮件。就像他们在主页上说的，**这是个网络思维的工具**。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 是的，作为一个做笔记的工具 Roam 非常出色，但它更主要目的是帮你更清晰地思考。在这个过程中，你可以轻松地做笔记是至关重要的一部分，但笔记几乎应该是做思考工作的副产品。你在 Roam 中建立的联系，实际上是你在主动教导自己，它是一个大脑训练器。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 此外，Roam 还为你提供了一个创建块(block，最小的可复用的信息实体) 的工具箱，让你能够开发出你想要的日常工作流程。不过，这种开放性和灵活性是有代价的。没有放之四海而皆准的方法。你需要一个坚实的工具箱基础和一些灵感，看看摆在你面前的可能性。然后，你可以重新混合和重复使用，来为您的大脑和生产力充电。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 本课程的目的 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 小管家：本课程中的所有邮件都会在主题栏中写上 `[Effective Note-Taking] `，以便你能方便地搜索或过滤它们。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 我决定创建这门课程完全是出于私利。首先，我在寻找一种方法来组织和巩固我对 Roam 的认识，以便我能有效地使用它。然后，通过惊人的 [roamcult](roamcult.md) 社区，我对更广泛的记笔记行为本身和通过写作进行思考产生了兴趣。我也很想看看 Roam 如何在公共场合开启更高形式的协作学习。通过互相砥砺，我们可以更快地达到智慧和知识的顶峰。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
