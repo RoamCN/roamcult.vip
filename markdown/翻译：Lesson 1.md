@@ -21,13 +21,13 @@
 - I have tried to break down the functionality of Roam into pieces that make sense and that you can build on, bit by bit. I start out with the basics for those brand-new to Roam, but I throw in tips and tricks along the way as I build up to more advanced concepts and use-cases. While I'm delivering this to you as a series of emails right now, I plan to move the content and examples into a public Roam database. Roam moves fast, and I've already had to revise the lessons a few times since starting. Doing this in a public database means you can keep up with it too, and pull the content into your own Roam database if you wish. I also think it would be an interesting experiment to give you all collaborative access to it as well as a form of meta-playground where we can all learn together.
     - 我尝试将 Roam 的功能分解成一个个有意义的部分，让你可以一点点地建立了解。我从最基础的部分开始讲起，为那些刚接触 Roam 的人提供帮助，但当我逐渐深入到更高级的概念和使用案例时，我也会加入一些提示和技巧。虽然我现在是以一系列电子邮件的形式向你提供这些内容，但我计划将这些内容和示例移到一个公共的 Roam 数据库中。Roam 的发展速度很快，从开始到现在，我已经修改了几次课程。在公共数据库中做这件事情意味着你能跟上它的变化，如果你愿意的话，你还可以把这些内容拉到自己的 Roam 数据库中。我也认为，如果能让大家协作共用，将是一个有趣的实验，同时这也是一种大家共同学习的元(meta)游戏场的形式。 #[[译文]] #[[翻译：Lesson 1]]
 - Finally, I don't profess to have all the answers, but I am excited to find and share them with you. I would love any feedback you have as you progress through this course, good and bad. And with that, onto our first lesson.
-    - 最后，我不自称拥有所有的答案，但我很高兴能找到并与你分享它们。我很希望你们在这门课程的学习过程中能有所反馈，无论是好是坏。就这样，让我们进入第一课。 #[[译文]] #[[翻译：Lesson 1]]
+    - 最后，我不敢自称拥有所有答案，但我很高兴能找到并与你们分享它们。我很希望你们在这门课程的学习过程中能有所反馈，无论是好是坏。就这样，让我们进入第一课。 #[[译文]] #[[翻译：Lesson 1]]
 - ## Key Concepts
     - 关键概念
 - There are a few key concepts which are worth understanding from the beginning which influence the direction you go in to organise your thoughts and your notes in Roam.
-    - 有几个关键的概念是值得从一开始就理解的，它们会影响你在Roam中组织思想和笔记的方向。
+    - 有几个关键的概念是值得从一开始就了解的，它们会影响你在 Roam 中组织思想和笔记的方向。 #[[译文]] #[[翻译：Lesson 1]]
 - First is the notion that the atomic unit of a note is not a page of text but a bullet. Each bullet, which in Roam parlance is called a block, is its own note. Unlike a typical file-based approach where you usually need or want, to give it some form of title and possibly a filename, or choose a folder for it to live in, you can immediately begin writing what comes to mind.
-    - 首先，笔记的原子单位不是一页文字，而是一个子弹。每一个子弹，在Roam中被称为一个块，都是自己的笔记。不像典型的基于文件的方法，你通常需要或想要，给它一些形式的标题和可能的文件名，或者为它选择一个文件夹，你可以立即开始写想到的东西。
+    - 首先是笔记的原子单元不是一页文字，而是一个 bullet (子弹笔记的一个节点) 的概念。每个bullet，在 Roam 中被称为 block，都是它自己的笔记。与典型的基于文件的方法不同，在呢种方法中你通常需要或想要，给它一个标题和可能的文件名，或者为它选择一个文件夹，你可以立即开始写想到的东西。
 - Second, the concept of a page is a little different too. You can create a page at any time using the + button next to *All Pages*.
     - 其次，页面的概念也有些不同。你可以在任何时候使用*所有页面*旁边的+按钮创建一个页面。
 - ![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggh1f4sjtug30f004ata1.gif)
