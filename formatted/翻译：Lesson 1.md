@@ -29,14 +29,14 @@
 - There are a few key concepts which are worth understanding from the beginning which influence the direction you go in to organise your thoughts and your notes in Roam.
     - 有几个关键的概念是值得从一开始就了解的，它们会影响你在 Roam 中组织思想和笔记的方向。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - First is the notion that the atomic unit of a note is not a page of text but a bullet. Each bullet, which in Roam parlance is called a block, is its own note. Unlike a typical file-based approach where you usually need or want, to give it some form of title and possibly a filename, or choose a folder for it to live in, you can immediately begin writing what comes to mind.
-    - 首先是笔记的原子单元不是一页文字，而是一个 bullet (子弹笔记的一个节点) 的概念。每个bullet，在 Roam 中被称为 block，都是它自己的笔记。与典型的基于文件的方法不同，在呢种方法中你通常需要或想要，给它一个标题和可能的文件名，或者为它选择一个文件夹，你可以立即开始写想到的东西。
+    - 首先是笔记的原子单元不是一页文字，而是一个 bullet (子弹笔记的一个节点) 的概念。每个bullet(在 Roam 中被称为 block)都是它自己的笔记。与典型的基于文件的方法不同，在那些方法中你通常需要或想要给笔记一个标题也可能是文件名，或者为它选个存放的文件夹，在 Roam 里你可以立即开始写下你想到的东西。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Second, the concept of a page is a little different too. You can create a page at any time using the + button next to *All Pages*.
-    - 其次，页面的概念也有些不同。你可以在任何时候使用*所有页面*旁边的+按钮创建一个页面。
+    - 其次，页面的概念也有所不同。你可以在任何时候使用 "All Pages" 旁的 `+` 按钮创建页面。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - ![img](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggh1f4sjtug30f004ata1.gif)
 - You can also create a page by merely wrapping a word or phrase with double brackets like so: `[ ]( .md)`. As you're writing your thought, if you type the double opening brackets, Roam will help you auto-complete and choose any existing pages across your database. Or you can continue typing to create a new page. The editor is smart enough that you can also highlight a word or phrase, and then hit the double opening brackets to wrap the selection and create a reference. You can remove the reference just by deleting the brackets.
-    - 你也可以仅仅通过用双括号包裹一个单词或短语来创建一个页面，就像这样。`[ ]( .md)`. 当你写下你的想法时，如果你键入双开括号，Roam会帮你自动完成并选择整个数据库中任何现有的页面。或者你也可以继续输入创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后打双开括号来包选并创建一个参考文献。你只需删除括号就可以删除引用。
+    - 你也可以仅仅通过用双括号包裹一个单词或短语的方式来创建页面，就像这样：`[ ]( .md)`。当你写下你的想法时，如果你键入`[`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文](`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - Pages are effectively a collection of blocks. Typically they're going to relate to that page in some way. These page references are the glue which links your different notes together.
-    - 页面实际上是一个块的集合。通常情况下，它们会以某种方式与该页面相关联。这些页面引用是将你的不同笔记联系在一起的胶水。
+    - 页面实际上就是 block 的集合。通常它们会以某种方式与该页相关联。这些页面引用是将你的不同笔记联在一起的胶水。#[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 - You can also create a reference by starting with a hash, `#` - this works the same way as the brackets syntax, letting you auto-complete existing pages, or you can type to create new ones. The difference is that by using only a hash, you're limited to a single word. To create one with multiple words, you combine the hash with the brackets, i.e. `#[ ]( .md)`. Whichever syntax you choose, it creates the same page references. The difference is in how they look. Brackets are best for inline references. The hashtag format is best to represent "tags", where you want to make a connection to something else, which doesn't lend itself to being inline. In essence, they allow you to add multiple page references to a block in a more unobtrusive and frictionless way. As we'll see later in the course, you can colour tags with CSS to imbue them with more meaning.
     - 你也可以通过以哈希，`#`开头来创建一个引用--这和括号语法的工作方式一样，让你自动完成现有的页面，或者你也可以键入来创建新的页面。不同的是，通过只使用一个哈希值，你被限制在一个词上。要创建一个多字的，你可以将哈希值与括号结合起来，即`#[[]]`。无论你选择哪种语法，它都会创建同样的页面引用。区别在于它们的外观。方括号最好用于内联引用。哈希塔格格式最适合表示 "标签"，在这里，你想与其他东西建立连接，这不适合内联。从本质上讲，它们允许你以一种更不显眼和无摩擦的方式将多个页面引用添加到一个区块中。正如我们在后面的课程中会看到的，你可以用CSS给标签着色，赋予它们更多的意义。
 - Thirdly, the power of Roam is in what you can do with these blocks. Every block has its own unique reference. You can get it by right-clicking on the bullet, and choosing ***Copy Block Ref\***.
@@ -88,4 +88,12 @@
 - 最后，我不敢自称拥有所有答案，但我很高兴能找到并与你们分享它们。我很希望你们在这门课程的学习过程中能有所反馈，无论是好是坏。就这样，让我们进入第一课。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
 - 有几个关键的概念是值得从一开始就了解的，它们会影响你在 Roam 中组织思想和笔记的方向。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 首先是笔记的原子单元不是一页文字，而是一个 bullet (子弹笔记的一个节点) 的概念。每个bullet(在 Roam 中被称为 block)都是它自己的笔记。与典型的基于文件的方法不同，在那些方法中你通常需要或想要给笔记一个标题也可能是文件名，或者为它选个存放的文件夹，在 Roam 里你可以立即开始写下你想到的东西。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 其次，页面的概念也有所不同。你可以在任何时候使用 "All Pages" 旁的 `+` 按钮创建页面。 #[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 你也可以仅仅通过用双括号包裹一个单词或短语的方式来创建页面，就像这样：`[ ]( .md)`。当你写下你的想法时，如果你键入`[`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文](`，Roam 就会帮你自动完成和选择你数据库中的任何现有页面。或者你也可以继续输入以创建一个新的页面。编辑器很聪明，你也可以高亮显示一个单词或短语，然后键入`[[`包选文字并创建引用。只要删除括号，就能删除引用。#[[译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
+
+- 页面实际上就是 block 的集合。通常它们会以某种方式与该页相关联。这些页面引用是将你的不同笔记联在一起的胶水。#[译文](译文.md) #[翻译：Lesson 1](翻译：Lesson 1.md)
 
