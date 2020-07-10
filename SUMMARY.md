@@ -4,8 +4,8 @@
 
 ## Roam 每周动态
 
-- [周报2020-07-04 001期](./formatted/周报2020-07-04 001期.md)
-- [周报2020-07-12 002期](./formatted/周报2020-07-12 002期.md)
+- [周报Newsletter 2020-07-04 001期](./formatted/周报Newsletter 2020-07-04 001期.md)
+- [周报Newsletter 2020-07-12 002期](./formatted/周报Newsletter 2020-07-12 002期.md)
 
 ## Daily Notes
 
