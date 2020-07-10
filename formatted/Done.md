@@ -1,8 +1,5 @@
 
 # Backlinks
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 1 关键概念 ]([Effective Note-Taking](Effective Note-Taking.md) Lesson 1 关键概念 .md)
-- **[Metadata](Metadata.md):**
-
-## [翻译: What is Roam?](翻译: What is Roam?.md)
-- **[Metadata](Metadata.md):**
+- **[Tags](Tags.md):** #[Effective Note-Taking](Effective Note-Taking.md) #[翻译](翻译.md) #[Done](Done.md)
 
