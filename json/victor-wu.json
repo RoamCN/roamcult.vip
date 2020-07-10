@@ -4,9 +4,9 @@
       {
         "children": [
           {
-            "edit-email": "wuxuebin1993@gmail.com",
-            "edit-time": 1592723612208,
-            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');```",
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594366118094,
+            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');\n\n:root {\n\t--page-width: 800px;\n}\n\ndiv.kanban-board {\n\tmax-width: 670px;\n}\n\ndiv.rm-block-text {\n    max-width: none;\n}\n\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
             "uid": "DAPNRD3qb"
           }
         ],
@@ -2029,19 +2029,11 @@
               {
                 "children": [
                   {
-                    "create-email": "wangxh1000@gmail.com",
-                    "create-time": 1594342948178,
-                    "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1594359945898,
-                    "string": "\u5b8c\u6210\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]]",
-                    "uid": "S2fxgpaNY"
-                  },
-                  {
                     "create-email": "lv460051518@gmail.com",
                     "create-time": 1594364823108,
                     "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594364843487,
-                    "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-04 002\u671f]]",
+                    "edit-time": 1594366380934,
+                    "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-04 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
                     "uid": "QlX3ppgzT"
                   }
                 ],
@@ -2053,6 +2045,16 @@
                 "uid": "yf1s5vBUb"
               },
               {
+                "children": [
+                  {
+                    "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594365426795,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594365436766,
+                    "string": "((83yIQ6_rs))",
+                    "uid": "NdTtrHfma"
+                  }
+                ],
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364805290,
                 "edit-email": "lv460051518@gmail.com",
@@ -2061,6 +2063,16 @@
                 "uid": "jAH091GG2"
               },
               {
+                "children": [
+                  {
+                    "create-email": "wangxh1000@gmail.com",
+                    "create-time": 1594342948178,
+                    "edit-email": "wangxh1000@gmail.com",
+                    "edit-time": 1594359945898,
+                    "string": "\u5b8c\u6210\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]]",
+                    "uid": "S2fxgpaNY"
+                  }
+                ],
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364809513,
                 "edit-email": "lv460051518@gmail.com",
@@ -2148,9 +2160,23 @@
   },
   {
     "create-email": "lv460051518@gmail.com",
-    "create-time": 1594364830238,
+    "create-time": 1594364843488,
     "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594364830239,
-    "title": ""
+    "edit-time": 1594364843489,
+    "title": "\u5468\u62a5Newsletter 2020-07-04 002\u671f"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594365499025,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594365499028,
+    "title": "Jessie"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594366380935,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594366380940,
+    "title": "July 12th, 2020"
   }
 ]
