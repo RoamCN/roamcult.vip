@@ -1,5 +1,7 @@
 - Metadata::
-    - Tags:: #[[Effective Note-Taking]] #[[翻译]] #[[Done]] #[[wangxh1000]]
+    - Tags:: #[[翻译]] #[[Done]] #[[未发布]]
+    - Source:: #[[Effective Note-Taking]] 
+    - Translator:: #wangxh1000
     - Url:
 - 
 - 欢迎胜利者，Roaman 同胞。Roam 世界的公民。Roam 现在是一个非常令人兴奋的地方。

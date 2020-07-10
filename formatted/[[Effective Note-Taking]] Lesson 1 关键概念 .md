@@ -1,5 +1,7 @@
 - **[Metadata](Metadata.md):**
-    - **[Tags](Tags.md):** #[Effective Note-Taking](Effective Note-Taking.md) #[翻译](翻译.md) #[Done](Done.md) #[wangxh1000](wangxh1000.md)
+    - **[Tags](Tags.md):** #[翻译](翻译.md) #[Done](Done.md) #[未发布](未发布.md)
+    - **[Source](Source.md):** #[Effective Note-Taking](Effective Note-Taking.md) 
+    - **[Translator](Translator.md):** [wangxh1000](wangxh1000.md)
     - Url:
 - 
 - 欢迎胜利者，Roaman 同胞。Roam 世界的公民。Roam 现在是一个非常令人兴奋的地方。

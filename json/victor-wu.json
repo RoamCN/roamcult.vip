@@ -5,8 +5,8 @@
         "children": [
           {
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594374703682,
-            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');\n\n:root {\n\t--page-width: 1000px;\n}\n\ndiv.kanban-board {\n\tmax-width: 870px;\n}\n\ndiv.rm-block-text {\n    max-width: none;\n}\n\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
+            "edit-time": 1594397916436,
+            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');\n\n:root {\n\t--page-width: 950px;\n}\n\ndiv.kanban-board {\n\tmax-width: 830px;\n}\n\ndiv.rm-block-text, textarea.rm-block-text {\n    max-width: none;\n}\n\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
             "uid": "DAPNRD3qb"
           }
         ],
@@ -1294,7 +1294,7 @@
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594262194030,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594262381032,
+        "edit-time": 1594398552009,
         "emojis": [
           {
             "emoji": {
@@ -1308,7 +1308,7 @@
             ]
           }
         ],
-        "string": "\u5bfc\u5165 [[\u7ffb\u8bd1: What is Roam?]]",
+        "string": "\u5b8c\u6210 [[\u7ffb\u8bd1: What is Roam?]]",
         "uid": "83yIQ6_rs"
       },
       {
@@ -1332,8 +1332,8 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594262254375,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594262305337,
-            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[\u642c\u8fd0]] #[[\u672a\u53d1\u5e03]]",
+            "edit-time": 1594398641131,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[\u642c\u8fd0]] #[[\u672a\u53d1\u5e03]] #[[Done]] #[[wangxh1000]]",
             "uid": "1UB0lCVtK"
           },
           {
@@ -1689,9 +1689,25 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594359902290,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594359919844,
-            "string": "Tags:: #[[Effective Note-Taking]] #[[\u7ffb\u8bd1]] #[[Done]] #[[wangxh1000]]",
+            "edit-time": 1594398713792,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[Done]] #[[\u672a\u53d1\u5e03]]",
             "uid": "823BaNZWb"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594398687231,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594398707100,
+            "string": "Source:: #[[Effective Note-Taking]] ",
+            "uid": "mBt0IKVeO"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594398687231,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594398687242,
+            "string": "Translator:: #wangxh1000",
+            "uid": "CuhYCeIjc"
           },
           {
             "create-email": "wangxh1000@gmail.com",
@@ -2047,14 +2063,6 @@
                     "edit-time": 1594395911565,
                     "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-12 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
                     "uid": "QlX3ppgzT"
-                  },
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594365426795,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594374755696,
-                    "string": "((83yIQ6_rs))",
-                    "uid": "NdTtrHfma"
                   }
                 ],
                 "create-email": "lv460051518@gmail.com",
@@ -2076,6 +2084,14 @@
                 "children": [
                   {
                     "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594365426795,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594374755696,
+                    "string": "((83yIQ6_rs))",
+                    "uid": "NdTtrHfma"
+                  },
+                  {
+                    "create-email": "lv460051518@gmail.com",
                     "create-time": 1594375510765,
                     "edit-email": "lv460051518@gmail.com",
                     "edit-time": 1594375559549,
@@ -2094,7 +2110,7 @@
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364809513,
                 "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594364815022,
+                "edit-time": 1594397475877,
                 "string": "Done",
                 "uid": "SC3WGpLVC"
               }
@@ -2216,6 +2232,14 @@
             "edit-time": 1594396648363,
             "string": "[[Roam Toolkit]] \u5feb\u6377\u952e\u652f\u6301\uff0c\u5feb\u901f\u590d\u5236 Block ref \u548c embed",
             "uid": "meOYi9TLQ"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594397522902,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594397539505,
+            "string": "\u4f7f\u7528 [[Keyboard Maestro]] \u5feb\u901f\u8f93\u5165 `[[]]",
+            "uid": "LEpb53L6H"
           },
           {
             "create-email": "lv460051518@gmail.com",
@@ -2377,8 +2401,8 @@
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594397155689,
         "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594397269116,
-        "string": "{{embed: ((2MraIFWdD))}}",
+        "edit-time": 1594397962943,
+        "string": "{{embed: ((((uWGbRlO7C))))}}",
         "uid": "TG4oxLND0"
       }
     ],
@@ -2392,5 +2416,26 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594397234134,
     "title": "Team Kanban"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594397471257,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594397471258,
+    "title": ""
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594397529624,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594397529625,
+    "title": "Keyboard Maestro"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594398687235,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594398687241,
+    "title": "- Translator"
   }
 ]

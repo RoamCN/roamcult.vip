@@ -3,14 +3,14 @@
 @import url('https://azlen.github.io/roam-themes/zenith.css');
 
 :root {
-	--page-width: 1000px;
+	--page-width: 950px;
 }
 
 div.kanban-board {
-	max-width: 870px;
+	max-width: 830px;
 }
 
-div.rm-block-text {
+div.rm-block-text, textarea.rm-block-text {
     max-width: none;
 }
 
