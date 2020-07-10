@@ -2034,14 +2034,6 @@
                 "children": [
                   {
                     "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594375510765,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594375559549,
-                    "string": "((sHSjstNjs))",
-                    "uid": "ae16tW6_d"
-                  },
-                  {
-                    "create-email": "lv460051518@gmail.com",
                     "create-time": 1594364823108,
                     "edit-email": "lv460051518@gmail.com",
                     "edit-time": 1594366380934,
@@ -2084,6 +2076,14 @@
               },
               {
                 "children": [
+                  {
+                    "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594375510765,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594375559549,
+                    "string": "((sHSjstNjs))",
+                    "uid": "ae16tW6_d"
+                  },
                   {
                     "create-email": "wangxh1000@gmail.com",
                     "create-time": 1594342948178,
@@ -2286,8 +2286,8 @@
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594375516360,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594375549964,
-            "string": "{{[[TODO]]}} \u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210",
+            "edit-time": 1594390803259,
+            "string": "{{[[DONE]]}}  \u6d4b\u8bd5\uff1a\u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210",
             "uid": "sHSjstNjs"
           },
           {
