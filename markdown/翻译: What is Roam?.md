@@ -1,5 +1,5 @@
 - Metadata::
-    - Tags:: #[[翻译]] #[[搬运]] #[[未发布]] #[[Done]] #[[wangxh1000]]
+    - Tags:: #[[翻译]] #[[搬运]] #[[未发布]] #[[Done]]
     - Source:: #RoamHack
     - Translator:: #wangxh1000
     - Url: [[What is Roam?]]

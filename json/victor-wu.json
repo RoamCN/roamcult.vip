@@ -5,9 +5,9 @@
         "children": [
           {
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594397916436,
-            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');\n\n:root {\n\t--page-width: 950px;\n}\n\ndiv.kanban-board {\n\tmax-width: 830px;\n}\n\ndiv.rm-block-text, textarea.rm-block-text {\n    max-width: none;\n}\n\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
-            "uid": "DAPNRD3qb"
+            "edit-time": 1594400309828,
+            "string": "```css\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
+            "uid": "sIyJwh8si"
           }
         ],
         "create-email": "wuxuebin1993@gmail.com",
@@ -1332,8 +1332,8 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594262254375,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594398641131,
-            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[\u642c\u8fd0]] #[[\u672a\u53d1\u5e03]] #[[Done]] #[[wangxh1000]]",
+            "edit-time": 1594399533077,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[\u642c\u8fd0]] #[[\u672a\u53d1\u5e03]] #[[Done]]",
             "uid": "1UB0lCVtK"
           },
           {
@@ -2047,6 +2047,16 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594400332915,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594400356484,
+                    "string": "For U: \u6240\u6709\u60f3\u5230\u7684\u4efb\u4f55\u4e8b\u60c5\u4e8b\u60c5\u5148\u4e22 [[Backlog]] \u54e6~",
+                    "uid": "xPYJQ9ZGJ"
+                  }
+                ],
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364796372,
                 "edit-email": "lv460051518@gmail.com",
@@ -2085,9 +2095,9 @@
                   {
                     "create-email": "lv460051518@gmail.com",
                     "create-time": 1594365426795,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594374755696,
-                    "string": "((83yIQ6_rs))",
+                    "edit-email": "wangxh1000@gmail.com",
+                    "edit-time": 1594399462687,
+                    "string": "((83yIQ6_rs)) #wangxh1000",
                     "uid": "NdTtrHfma"
                   },
                   {
@@ -2102,8 +2112,8 @@
                     "create-email": "wangxh1000@gmail.com",
                     "create-time": 1594342948178,
                     "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1594359945898,
-                    "string": "\u5b8c\u6210\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]]",
+                    "edit-time": 1594399472400,
+                    "string": "\u5b8c\u6210\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]] #wangxh1000",
                     "uid": "S2fxgpaNY"
                   }
                 ],
@@ -2398,12 +2408,12 @@
   {
     "children": [
       {
-        "create-email": "lv460051518@gmail.com",
-        "create-time": 1594397155689,
-        "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594397962943,
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594399011877,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594399257784,
         "string": "{{embed: ((((uWGbRlO7C))))}}",
-        "uid": "TG4oxLND0"
+        "uid": "k_-qdE15g"
       }
     ],
     "edit-email": "lv460051518@gmail.com",
