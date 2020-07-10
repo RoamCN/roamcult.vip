@@ -1,2 +1,2 @@
 - 导入 [[翻译: What is Roam?]]
-- 校对 [[翻译：Lesson 1]]
+- 校对 [[[[Effective Note-Taking]] Lesson 1 关键概念 ]]
