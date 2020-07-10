@@ -5,8 +5,8 @@
         "children": [
           {
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594366118094,
-            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');\n\n:root {\n\t--page-width: 800px;\n}\n\ndiv.kanban-board {\n\tmax-width: 670px;\n}\n\ndiv.rm-block-text {\n    max-width: none;\n}\n\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
+            "edit-time": 1594374703682,
+            "string": "```css\n@import url('https://azlen.github.io/roam-themes/zenith.css');\n\n:root {\n\t--page-width: 1000px;\n}\n\ndiv.kanban-board {\n\tmax-width: 870px;\n}\n\ndiv.rm-block-text {\n    max-width: none;\n}\n\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
             "uid": "DAPNRD3qb"
           }
         ],
@@ -2034,6 +2034,14 @@
                 "children": [
                   {
                     "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594375510765,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594375559549,
+                    "string": "((sHSjstNjs))",
+                    "uid": "ae16tW6_d"
+                  },
+                  {
+                    "create-email": "lv460051518@gmail.com",
                     "create-time": 1594364823108,
                     "edit-email": "lv460051518@gmail.com",
                     "edit-time": 1594366380934,
@@ -2044,8 +2052,8 @@
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364796372,
                 "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594364805293,
-                "string": "Todo",
+                "edit-time": 1594375479085,
+                "string": "Ready For Development",
                 "uid": "yf1s5vBUb"
               },
               {
@@ -2054,7 +2062,7 @@
                     "create-email": "lv460051518@gmail.com",
                     "create-time": 1594365426795,
                     "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594365436766,
+                    "edit-time": 1594374755696,
                     "string": "((83yIQ6_rs))",
                     "uid": "NdTtrHfma"
                   }
@@ -2062,9 +2070,17 @@
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364805290,
                 "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594364809516,
-                "string": "Doing {{[[POMO]]}}",
+                "edit-time": 1594375483783,
+                "string": "In Progress {{[[POMO]]}}",
                 "uid": "jAH091GG2"
+              },
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1594375484786,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594375488078,
+                "string": "In Review",
+                "uid": "4HjJaiP4A"
               },
               {
                 "children": [
@@ -2088,7 +2104,7 @@
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594364792224,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594364796375,
+            "edit-time": 1594375467807,
             "string": "{{[[kanban]]}}",
             "uid": "uWGbRlO7C"
           }
@@ -2163,6 +2179,44 @@
     "title": "POMO"
   },
   {
+    "children": [
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594373721961,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594373742381,
+        "heading": 2,
+        "string": "Roam\u5b98\u65b9\u52a8\u6001",
+        "uid": "SSCCPxxUt"
+      },
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594373742376,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594373760546,
+        "heading": 2,
+        "string": "RoamCN\u52a8\u6001",
+        "uid": "ErBRNB7o_"
+      },
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594373762600,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594373770879,
+        "heading": 2,
+        "string": "\u4f7f\u7528\u6280\u5de7",
+        "uid": "5v9HljuYy"
+      },
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594373776881,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594373778946,
+        "heading": 2,
+        "string": "\u4f7f\u7528\u6848\u4f8b",
+        "uid": "4t_jbOeMW"
+      }
+    ],
     "create-email": "lv460051518@gmail.com",
     "create-time": 1594364843488,
     "edit-email": "lv460051518@gmail.com",
@@ -2182,5 +2236,95 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594366380940,
     "title": "July 12th, 2020"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594374607243,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594374607254,
+    "title": "TODO"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594375129671,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594375142306,
+            "string": "\u6240\u6709\u5f85\u529e\u4e8b\u9879\u90fd\u5148\u653e\u5230 Backlog",
+            "uid": "Pdtp-sGG8"
+          }
+        ],
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594375154786,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594375154786,
+        "string": "[[Concept]]",
+        "uid": "VwGvOxMeV"
+      },
+      {
+        "children": [
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594375160067,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594375442898,
+            "string": "{{[[TODO]]}} \u4efb\u52a1 1",
+            "uid": "ERSAsWu2b"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594375442893,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594375449353,
+            "string": "{{[[TODO]]}} \u65b0\u7684\u4efb\u52a1\u53c8\u6765\u4e86 1",
+            "uid": "oiEnjd_GR"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594375516360,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594375549964,
+            "string": "{{[[TODO]]}} \u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210",
+            "uid": "sHSjstNjs"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594375449351,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594375457764,
+            "string": "{{[[TODO]]}} \u6682\u65f6\u4e0d\u60f3\u505a\u7684\u4e8b\u60c5",
+            "uid": "3FKxgCQJE"
+          }
+        ],
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594375142303,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594375160070,
+        "string": "[[Inbox]]",
+        "uid": "KYQLi7Hky"
+      }
+    ],
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594374834888,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594374834892,
+    "title": "Backlog"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594375154796,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594375154797,
+    "title": "Concept"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594375160071,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594375160072,
+    "title": "Inbox"
   }
 ]
