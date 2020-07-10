@@ -2031,16 +2031,6 @@
           {
             "children": [
               {
-                "children": [
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594364823108,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594395911565,
-                    "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-12 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
-                    "uid": "QlX3ppgzT"
-                  }
-                ],
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594364796372,
                 "edit-email": "lv460051518@gmail.com",
@@ -2050,6 +2040,14 @@
               },
               {
                 "children": [
+                  {
+                    "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594364823108,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594395911565,
+                    "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-12 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
+                    "uid": "QlX3ppgzT"
+                  },
                   {
                     "create-email": "lv460051518@gmail.com",
                     "create-time": 1594365426795,
@@ -2112,8 +2110,8 @@
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594364783386,
         "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594364792228,
-        "string": "#Kanban",
+        "edit-time": 1594397234123,
+        "string": "#[[Team Kanban]]",
         "uid": "2MraIFWdD"
       }
     ],
@@ -2159,13 +2157,6 @@
   },
   {
     "create-email": "lv460051518@gmail.com",
-    "create-time": 1594364792229,
-    "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594364792230,
-    "title": "Kanban"
-  },
-  {
-    "create-email": "lv460051518@gmail.com",
     "create-time": 1594364796376,
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594364796378,
@@ -2201,23 +2192,59 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1594396561805,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594396564215,
+                "string": "[Roam Research - Vim Keyboard Shortcuts via roam-toolkit - YouTube](https://www.youtube.com/watch?v=ZxtT05CjOyo&feature=youtu.be)",
+                "uid": "uEC4UJVWl"
+              }
+            ],
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594395919407,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594395922642,
-            "string": "",
+            "edit-time": 1594396303106,
+            "string": "[[Roam Toolkit]] Vim Navigator \u6a21\u5f0f",
             "uid": "4Hc5qtjC_"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594396575944,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594396648363,
+            "string": "[[Roam Toolkit]] \u5feb\u6377\u952e\u652f\u6301\uff0c\u5feb\u901f\u590d\u5236 Block ref \u548c embed",
+            "uid": "meOYi9TLQ"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594396397519,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594396624199,
+            "string": "\u8d44\u6e90\u63a8\u8350 [Top 5 Roam Research Tips for Beginners - YouTube](https://www.youtube.com/watch?v=b2Q5bAhtV9Y)",
+            "uid": "UfeP6iHxz"
           }
         ],
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594373762600,
         "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594373770879,
+        "edit-time": 1594396125132,
         "heading": 2,
         "string": "\u4f7f\u7528\u6280\u5de7",
         "uid": "5v9HljuYy"
       },
       {
+        "children": [
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594396649473,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594396664292,
+            "string": "\u4f7f\u7528 Roam \u95f4\u9694\u91cd\u590d\u52a0\u5f3a\u8bb0\u5fc6\uff0c[[Roam Toolkit]]",
+            "uid": "3x3HElB9s"
+          }
+        ],
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594373776881,
         "edit-email": "lv460051518@gmail.com",
@@ -2336,5 +2363,34 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594375160072,
     "title": "Inbox"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594395970706,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594395970707,
+    "title": "Roam Toolkit"
+  },
+  {
+    "children": [
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594397155689,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594397269116,
+        "string": "{{embed: ((2MraIFWdD))}}",
+        "uid": "TG4oxLND0"
+      }
+    ],
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594397149113,
+    "title": "July 11th, 2020"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594397234124,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594397234134,
+    "title": "Team Kanban"
   }
 ]
