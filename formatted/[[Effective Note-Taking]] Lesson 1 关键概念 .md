@@ -52,13 +52,13 @@
 - For now, the key takeaway is the ability to reference other blocks on other pages. This concept enables immense possibilities for reuse in ways you cannot do with plain text notes. When you use these block references, you'll see that they are displayed visually different, and are clickable. Clicking one, Roam will take you to the original location of the block so you can see the source and its context. You'll also see a small number to the side to show you how many times you've referenced that block across your database. Click the number to open all the places you have referred to it, which you can also navigate around.
     - 现在，关键的收获是能引用其他页面上的其他 block。这个概念实现了重用的巨大可能性，这是用纯文本笔记无法做到的。当你使用这些 block 引用时，你会发现它们在视觉上的显示是不同的，并且是可点击的。我们点击一个，Roam 会带你到 block 的原始位置，这样你就可以看到它的来源和上下文。你还会看到边上有一个小数字，显示你在整个数据库中引用该 block 的次数。点击数字可以打开所有你引用过它的地方，你可以在列表中进行浏览。#[译文](译文.md) #[[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]]
 - Finally, the fourth key concept is that of the daily note. Roam automatically creates a new page for you every day. Clicking the **Daily Notes** link will take you to the days page. You can also scroll downwards, to move back through the previous days.
-    - 最后，第四个关键概念是日记。Roam每天都会自动为你创建一个新的页面。点击**每日笔记**的链接，你就会进入到这几天的页面。你也可以向下滚动，来回溯前几天的内容。
+    - 最后，第四个关键概念是日记。Roam 每天都会自动为你创建一个新的页面。点击**每日笔记**链接就会进入日期页面。你也可以向下滚动，返回到前几天的内容。#[译文](译文.md) #[[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]]
 - It is a quick and straightforward way to start taking notes or capturing ideas and thoughts. You don't need to decide where to go, or if you need to create a page first. Since each block is its own atomic thought, you can quickly amend it or break it out into its own page later. Since it's so easy to navigate your notes, the daily page is a great anchor to come back to when you get lost in the warren.
-    - 这是一种快速而直接的方式来开始做笔记或捕捉想法和思想。你不需要决定去哪里，或者你是否需要先创建一个页面。由于每个区块都是自己的原子思想，你可以在以后快速修改它或将其分解成自己的页面。因为它很容易浏览你的笔记，每天的页面是一个很好的锚，当你在经纶中迷失时，可以回来。
+    - 这是一种快速而直接的方式来开始做笔记或捕捉点子和想法。你不需要决定去哪，或者是否要先创建一个页面。由于每个 block 都是它自己的原子想法，你可以在以后很快地修改它或者将其分解成自己的页面。因为浏览笔记非常容易，当你在 Roam 数据库中迷路时，日期页面是个帮你返回的很好的锚点。 #[译文](译文.md) #[[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]]
 - When I first came across this feature, I overlooked it's importance and simplicity. I have come to realise it's an essential part of my Roam workflow, and will likely become central to yours. Using it as a daily log, of what you're thinking about and working on will become a habit and a record for future you.
-    - 当我第一次接触这个功能时，我忽略了它的重要性和简单性。我已经意识到它是我的Roam工作流程中必不可少的一部分，而且很可能会成为你的核心。将它作为每日日志，记录你正在思考和工作的内容，将成为一种习惯，并为未来的你留下记录。
+    - 当我第一次接触这个功能时，我忽略了它的重要性和简单性。现在我已经意识到它是我的 Roam 工作流程中的一个重要部分，而且很可能会成为核心。把 Roam 作为每日日志，记录正在思考和工作的内容，将成为一种习惯，并为未来的你留下记录。
 - We'll dig more into this in tomorrow's lesson as we explore the dates, and introduce the **Slash Commands**.
-    - 我们将在明天的课程中更深入地探讨这个问题，因为我们将探索日期，并介绍**斜线命令**。
+    - 我们将在明天的课程中更深入地探讨这个问题，到时我们将会探索日期功能，并介绍 `\` 命令。
 - If you have any feedback or a burning question you'd like answered, feel free to reply to this email. I'll do my best to respond and incorporate it into revised versions and future lessons.
     - 如果你有什么反馈或者你想回答的迫切问题，欢迎回复这个邮件。我会尽最大努力回复并将其纳入修订版和未来的课程中。
 - Until tomorrow,
