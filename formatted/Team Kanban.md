@@ -7,6 +7,7 @@
     - [IN PROGRESS](IN PROGRESS.md) {{[POMO](POMO.md)}}
         - 整理第二期周报 [周报Newsletter 2020-07-12 002期](周报Newsletter 2020-07-12 002期.md) [JimmyLv](JimmyLv.md) [Jessie](Jessie.md) [July 12th, 2020](July 12th, 2020.md)
         - 校对 [Effective Note-Taking](Effective Note-Taking.md) Lesson 2 [wangxh1000](wangxh1000.md)
+        - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) #
     - [DONE](DONE.md)
         - "[翻译: What is Roam?](翻译: What is Roam?.md)" [wangxh1000](wangxh1000.md)
         - "[x] 测试：紧急事情来啦 [July 12th, 2020](July 12th, 2020.md) 必须完成"
@@ -21,4 +22,6 @@
 - [wangxh1000](wangxh1000.md) 在 [Team Kanban](Team Kanban.md)
 
 - 在 [Team Kanban](Team Kanban.md)
+
+- 我因为参与了 [Alex](Alex.md) [文字教程翻译](文字教程翻译.md) 部分的工作，我是在 Roam [Team Kanban](Team Kanban.md)
 

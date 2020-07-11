@@ -7,6 +7,7 @@
     - [[IN PROGRESS]] {{[[POMO]]}}
         - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
         - 校对 [[Effective Note-Taking]] Lesson 2 #wangxh1000
+        - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) #
     - [[DONE]]
         - "[[翻译: What is Roam?]]" #wangxh1000
         - "{{[[DONE]]}}  测试：紧急事情来啦 [[July 12th, 2020]] 必须完成"
