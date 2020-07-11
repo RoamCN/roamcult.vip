@@ -1660,8 +1660,8 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594398687231,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594398687242,
-            "string": "Translator:: #wangxh1000",
+            "edit-time": 1594459998865,
+            "string": "\u521d\u7ffb: #wangxh1000",
             "uid": "CuhYCeIjc"
           },
           {
@@ -4134,5 +4134,12 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594454405154,
     "title": "Andy Henson Series"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594459993467,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594459993470,
+    "title": "\u521d\u7ffb"
   }
 ]
