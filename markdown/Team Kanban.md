@@ -7,7 +7,12 @@
     - [[IN PROGRESS]] {{[[POMO]]}}
         - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
         - 校对 [[Effective Note-Taking]] Lesson 2 #wangxh1000
-        - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) #
+        - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) #Alex #[[Frank Wu]]
+        - [1.5: Unlinked References](https://www.notion.so/1-5-Unlinked-References-9ab449a5dde74ef4bc016927fe2c46d1) #Alex #[[JΛKΞ]]
+        - [1.6: The Navigation Bar](https://www.notion.so/1-6-The-Navigation-Bar-06e85b3e56614395a03409a01ea5322a) #Alex #[[Frank Wu]]
+        - [1.7- Soft Line Breaks & Cmd-shift-v](https://www.notion.so/1-7-Soft-Line-Breaks-Cmd-shift-v-db913a901cab43ff84cc19bf36ade4dd) #Alex #[[JΛKΞ]]
+        - [1.8: The Sidebar](https://www.notion.so/1-8-The-Sidebar-95a50097bffc4629af02efd322e826ea)  #Alex #[[Frank Wu]]
+        - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   #Alex #[[Frank Wu]]
     - [[DONE]]
         - "[[翻译: What is Roam?]]" #wangxh1000
         - "{{[[DONE]]}}  测试：紧急事情来啦 [[July 12th, 2020]] 必须完成"
