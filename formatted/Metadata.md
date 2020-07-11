@@ -9,6 +9,9 @@
 ## [岗位分工](岗位分工.md)
 - **[Metadata](Metadata.md):**
 
+## [成员](成员.md)
+- **[Metadata](Metadata.md):**
+
 ## [文字教程翻译](文字教程翻译.md)
 - **[Metadata](Metadata.md):**
 
