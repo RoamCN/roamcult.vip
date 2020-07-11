@@ -1,0 +1,7 @@
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):** #[翻译](翻译.md) #[Done](Done.md) #[未发布](未发布.md)
+    - **[Tags](Tags.md):**
+    - **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md) 
+    - **[Translator](Translator.md):** [wangxh1000](wangxh1000.md)
+    - Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7
+    - Url: [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 2]]

@@ -1191,22 +1191,6 @@
   {
     "children": [
       {
-        "create-email": "wuxuebin1993@gmail.com",
-        "create-time": 1593932817028,
-        "edit-email": "wuxuebin1993@gmail.com",
-        "edit-time": 1593933024255,
-        "string": "\u7531[Andy Henson@elaptics](https://twitter.com/elaptics)\u521b\u529e\u7684Roam Research \u514d\u8d39\u6587\u5b57\u8bfe\u7a0b\uff0c[\u8ba2\u9605\u94fe\u63a5](https://roam.elaptics.co.uk/learn)",
-        "uid": "Q_eWy3luV"
-      },
-      {
-        "create-email": "wuxuebin1993@gmail.com",
-        "create-time": 1593932963456,
-        "edit-email": "wuxuebin1993@gmail.com",
-        "edit-time": 1594346569404,
-        "string": "\u8be5\u8bfe\u7a0b\u4e2d\u6587\u7ffb\u8bd1{{[[embed]]: ((8yISQsaeE))}}",
-        "uid": "EmVpMsSBR"
-      },
-      {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594298545449,
         "edit-email": "wangxh1000@gmail.com",
@@ -1567,35 +1551,6 @@
         "children": [
           {
             "create-email": "wuxuebin1993@gmail.com",
-            "create-time": 1594346362372,
-            "edit-email": "wuxuebin1993@gmail.com",
-            "edit-time": 1594346629716,
-            "emojis": [
-              {
-                "emoji": {
-                  "native": "\ud83d\udc4d"
-                },
-                "users": [
-                  {
-                    "email": "wuxuebin1993@gmail.com",
-                    "time": 1594346422967
-                  },
-                  {
-                    "email": "jessie@fat-garage.com",
-                    "time": 1594363568750
-                  },
-                  {
-                    "email": "lv460051518@gmail.com",
-                    "time": 1594367855958
-                  }
-                ]
-              }
-            ],
-            "string": "Translator\uff1a@wang xh\uff08\u8bf7\u5927\u5bb6\u4e3a\u8f9b\u52b3\u7684\u7ffb\u8bd1\u4eba\u5458\u70b9\u4e2a\u8d5e\uff09",
-            "uid": "KqNWjuGZi"
-          },
-          {
-            "create-email": "wuxuebin1993@gmail.com",
             "create-time": 1594346174068,
             "edit-email": "wangxh1000@gmail.com",
             "edit-time": 1594359956854,
@@ -1697,8 +1652,8 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594398687231,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594398707100,
-            "string": "Source:: #[[Effective Note-Taking]] ",
+            "edit-time": 1594454627137,
+            "string": "Source:: #[[Andy Henson Series]]  ",
             "uid": "mBt0IKVeO"
           },
           {
@@ -1995,8 +1950,8 @@
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594359902290,
         "edit-email": "alex.hanyang@gmail.com",
-        "edit-time": 1594452795167,
-        "string": "\u4f60\u4e5f\u53ef\u4ee5\u901a\u8fc7\u4ee5`#`\u5f00\u5934\u7684\u65b9\u5f0f\u6765\u521b\u5efa\u5f15\u7528 \u2014\u2014 \u8fd9\u548c\u62ec\u53f7\u8bed\u6cd5\u4e00\u6837\uff0c\u4f1a\u8ba9\u4f60\u81ea\u52a8\u9009\u62e9\u73b0\u6709\u9875\u9762\uff0c\u6216\u8005\u901a\u8fc7\u8f93\u5165\u6765\u521b\u5efa\u65b0\u7684\u9875\u9762\u3002\u4e0d\u540c\u7684\u662f\uff0c\u53ea\u7528`#`\u4f60\u5c06\u88ab\u9650\u5236\u5728\u540d\u5b57\u4e3a\u4e00\u4e2a\u8bcd\u7684\u5f15\u7528\u4e0a\u3002\u5982\u679c\u60f3\u8981\u521b\u5efa\u4e00\u4e2a\u540d\u5b57\u4e3a\u591a\u4e2a\u8bcd\u7684\u5f15\u7528\uff0c\u4f60\u53ef\u4ee5\u5c06`#`\u4e0e\u62ec\u53f7\u7ed3\u5408\u8d77\u6765\uff0c\u5373`# [[ ]]`\u3002\u4f46\u65e0\u8bba\u4f60\u7528\u54ea\u79cd\u8bed\u6cd5\uff0c\u5b83\u90fd\u4f1a\u521b\u5efa\u540c\u6837\u7684\u9875\u9762\u5f15\u7528\uff0c\u533a\u522b\u53ea\u5728\u5b83\u4eec\u7684\u5916\u89c2\u4e0a\u3002\u65b9\u62ec\u53f7\u9002\u7528\u4e8e\u5185\u8054\u5f15\u7528\u3002`#`\u9002\u7528\u4e8e\u52a0\u5165 \"\u6807\u7b7e\"\uff0c\u6b64\u5904\u4f60\u60f3\u4e0e\u5176\u4ed6\u4e1c\u897f\u5efa\u7acb\u8fde\u63a5\uff0c\u8fd9\u5c31\u4e0d\u9002\u5408\u7528\u5185\u8054\u5f15\u7528\u3002\u4ece\u672c\u8d28\u4e0a\u8bb2\uff0c\u5b83\u4eec\u5141\u8bb8\u4f60\u4ee5\u4e00\u79cd\u4e0d\u5f15\u4eba\u6ce8\u76ee\u7684\u65e0\u969c\u788d\u7684\u65b9\u5f0f\u5c06\u591a\u4e2a\u9875\u9762\u5f15\u7528\u6dfb\u52a0\u5230 block \u4e2d\u3002\u6b63\u5982\u6211\u4eec\u5c06\u5728\u4ee5\u540e\u8bfe\u7a0b\u4e2d\u4f1a\u770b\u5230\u7684\uff0c\u4f60\u8fd8\u53ef\u4ee5\u7528 CSS \u7ed9\u6807\u7b7e\u81ea\u5b9a\u4e49\u989c\u8272\uff0c\u4f7f\u5176\u5177\u6709\u66f4\u591a\u542b\u4e49\u3002",
+        "edit-time": 1594452904013,
+        "string": "\u4f60\u4e5f\u53ef\u4ee5\u901a\u8fc7\u4ee5`#`\u5f00\u5934\u7684\u65b9\u5f0f\u6765\u521b\u5efa\u5f15\u7528 \u2014\u2014 \u8fd9\u548c\u62ec\u53f7\u8bed\u6cd5\u4e00\u6837\uff0c\u4f1a\u8ba9\u4f60\u81ea\u52a8\u9009\u62e9\u73b0\u6709\u9875\u9762\uff0c\u6216\u8005\u901a\u8fc7\u8f93\u5165\u6765\u521b\u5efa\u65b0\u7684\u9875\u9762\u3002\u4e0d\u540c\u7684\u662f\uff0c\u53ea\u7528`#`\u4f60\u5c06\u88ab\u9650\u5236\u5728\u540d\u5b57\u4e3a\u4e00\u4e2a\u8bcd\u7684\u5f15\u7528\u4e0a\u3002\u5982\u679c\u60f3\u8981\u521b\u5efa\u4e00\u4e2a\u540d\u5b57\u4e3a\u591a\u4e2a\u8bcd\u7684\u5f15\u7528\uff0c\u4f60\u53ef\u4ee5\u5c06`#`\u4e0e\u62ec\u53f7\u7ed3\u5408\u8d77\u6765\uff0c\u5373`# [[ ]]`\u3002\u4f46\u65e0\u8bba\u4f60\u7528\u54ea\u79cd\u8bed\u6cd5\uff0c\u5b83\u90fd\u4f1a\u521b\u5efa\u540c\u6837\u7684\u9875\u9762\u5f15\u7528\uff0c\u533a\u522b\u53ea\u5728\u5b83\u4eec\u7684\u5916\u89c2\u4e0a\u3002\u65b9\u62ec\u53f7\u9002\u7528\u4e8e\u5185\u8054\u5f15\u7528\u3002`#`\u9002\u7528\u4e8e\u52a0\u5165 \"\u6807\u7b7e\"\uff0c\u6b64\u5904\u4f60\u60f3\u4e0e\u5176\u4ed6\u4e1c\u897f\u5efa\u7acb\u8fde\u63a5\uff0c\u8fd9\u5c31\u4e0d\u9002\u5408\u7528\u5185\u8054\u5f15\u7528\u3002\u4ece\u672c\u8d28\u4e0a\u8bb2\uff0c\u5b83\u4eec\u53ef\u4ee5\u8ba9\u4f60\u4ee5\u4e00\u79cd\u4e0d\u5f15\u4eba\u6ce8\u76ee\u7684\u65e0\u969c\u788d\u7684\u65b9\u5f0f\u5c06\u591a\u4e2a\u9875\u9762\u5f15\u7528\u6dfb\u52a0\u5230 block \u4e2d\u3002\u6b63\u5982\u6211\u4eec\u5c06\u5728\u4ee5\u540e\u8bfe\u7a0b\u4e2d\u4f1a\u770b\u5230\u7684\uff0c\u4f60\u8fd8\u53ef\u4ee5\u7528 CSS \u7ed9\u6807\u7b7e\u81ea\u5b9a\u4e49\u989c\u8272\u4f7f\u5176\u5177\u6709\u66f4\u591a\u542b\u4e49\u3002",
         "uid": "m6hmee2oL"
       },
       {
@@ -2010,9 +1965,9 @@
       {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594359902290,
-        "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594360560951,
-        "string": "\u7b2c\u4e09\uff0cRoam \u7684\u5f3a\u5927\u4e4b\u5904\u5728\u4e8e\u4f60\u80fd\u7528\u8fd9\u4e9b block \u505a\u4ec0\u4e48\u3002\u6bcf\u4e2a block \u90fd\u6709\u81ea\u5df1\u552f\u4e00\u7684\u5f15\u7528\u3002\u4f60\u53ef\u4ee5\u901a\u8fc7\u53f3\u952e\u70b9\u51fb bullet\uff0c\u7136\u540e\u9009\u62e9**Copy Block Ref** \u6765\u83b7\u53d6\u5f15\u7528\u3002",
+        "edit-email": "alex.hanyang@gmail.com",
+        "edit-time": 1594452981227,
+        "string": "\u7b2c\u4e09\uff0cRoam \u7684\u5f3a\u5927\u4e4b\u5904\u5728\u4e8e\u4f60\u80fd\u7528\u8fd9\u4e9b block \u6765\u505a\u4ec0\u4e48\u3002\u6bcf\u4e2a block \u90fd\u6709\u81ea\u5df1\u552f\u4e00\u7684\u5f15\u7528\u5730\u5740\u3002\u4f60\u53ef\u4ee5\u901a\u8fc7\u53f3\u952e\u70b9\u51fb bullet\uff0c\u7136\u540e\u9009\u62e9 **Copy Block Ref** \u6765\u83b7\u53d6\u3002",
         "uid": "O4a_PVkDW"
       },
       {
@@ -2042,9 +1997,9 @@
       {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594359902290,
-        "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594360478953,
-        "string": "\u5f53\u4f60\u7c98\u8d34\u7684\u65f6\u5019\uff0c\u4f60\u4f1a\u770b\u5230\u4e00\u4e9b\u968f\u673a\u5b57\u7b26\u5305\u88f9\u5728\u62ec\u53f7\u91cc\uff0c\u5c31\u50cf`((e7U3Ax3Qy))`\u3002\u5b83\u4eec\u662f\u8bc6\u522b block \u7684\u552f\u4e00\u5f15\u7528\uff0c\u5171\u540c\u6784\u6210\u4e86 block \u5f15\u7528\u8bed\u6cd5\u3002\u4f60\u53ef\u4ee5\u50cf\u521b\u5efa\u9875\u9762\u5f15\u7528\u4e00\u6837\uff0c\u901a\u8fc7\u952e\u5165`((` \u521b\u5efa block \u5f15\u7528\u3002\u7136\u540e Roam \u4f1a\u663e\u793a\u4e00\u4e2a\u81ea\u52a8\u5b8c\u6210\u5217\u8868\u8ba9\u4f60\u9009\u62e9\u60f3\u8981\u6307\u5b9a\u7684 block\u3002",
+        "edit-email": "alex.hanyang@gmail.com",
+        "edit-time": 1594454200869,
+        "string": "\u5f53\u4f60\u7c98\u8d34\u7684\u65f6\u5019\uff0c\u4f1a\u770b\u5230\u62ec\u53f7\u91cc\u6709\u4e00\u4e9b\u968f\u673a\u5b57\u7b26\uff0c\u5c31\u50cf`((e7U3Ax3Qy))`\u3002\u5b83\u4eec\u662f\u7528\u6765\u8bc6\u522b block \u7684\u72ec\u7279\u5f15\u7528\u7801\uff0c\u5171\u540c\u6784\u6210\u4e86 block \u5f15\u7528\u8bed\u6cd5\u3002\u4f60\u53ef\u4ee5\u50cf\u521b\u5efa\u9875\u9762\u5f15\u7528\u4e00\u6837\uff0c\u901a\u8fc7\u952e\u5165`((` \u521b\u5efa block \u5f15\u7528\u3002\u7136\u540e Roam \u4f1a\u663e\u793a\u4e00\u4e2a\u81ea\u52a8\u5b8c\u6210\u5217\u8868\u8ba9\u4f60\u9009\u62e9\u60f3\u8981\u6307\u5b9a\u7684 block\u3002",
         "uid": "FG-4GTYWV"
       },
       {
@@ -2074,9 +2029,9 @@
       {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594359902290,
-        "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594360701173,
-        "string": "\u5143\u6570\u636e\uff0c\u5bf9\u5427\uff1f :-D",
+        "edit-email": "alex.hanyang@gmail.com",
+        "edit-time": 1594454183560,
+        "string": "Meta\uff0c\u5bf9\u5427\uff1f\ud83d\ude01 (\u6ce8\uff1ameta\u4e0d\u597d\u627e\u5230\u4e2d\u6587\u91cc\u5bf9\u5e94\u7684\u6982\u5ff5\uff0c\u82f1\u6587\u7684\u4e00\u79cd\u89e3\u91ca\u662freferring to itself\uff0c\u5373\u201c\u5f15\u7528\u81ea\u5df1\u201d)",
         "uid": "nNtOb1Zg_"
       },
       {
@@ -2090,9 +2045,9 @@
       {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594359902290,
-        "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594359902382,
-        "string": "Roam \u8fd8\u6709\u5176\u4ed6\u51e0\u79cd\u65b9\u6cd5\u6765\u505a block \u5f15\u7528\uff0c\u5bf9\u4e8e\u8fd9\u4e9b\u65b9\u6cd5\u82b1\u54e8\u7684\u8bf4\u6cd5\u662f**transclusion**\u3002\u5f53\u4f60\u60f3\u542c\u8d77\u6765\u5f88\u806a\u660e\u7684\u65f6\u5019\u5c31\u8fd9\u4e48\u8bf4\u3002\u540e\u9762\u6211\u4eec\u4f1a\u4ecb\u7ecd\u66f4\u591a\u8fd9\u65b9\u9762\u7684\u5185\u5bb9\u3002",
+        "edit-email": "alex.hanyang@gmail.com",
+        "edit-time": 1594454397422,
+        "string": "Roam \u8fd8\u6709\u5176\u4ed6\u51e0\u79cd\u65b9\u6cd5\u6765\u505a block \u5f15\u7528\uff0c\u5bf9\u4e8e\u8fd9\u4e9b\u65b9\u6cd5\u82b1\u54e8\u7684\u8bf4\u6cd5\u662f**transclusion** (\u5d4c\u5165\u5305\u542b)\u3002\u5f53\u4f60\u60f3\u542c\u8d77\u6765\u5f88\u806a\u660e\u7684\u65f6\u5019\u5c31\u8fd9\u4e48\u8bf4\u3002\u540e\u9762\u6211\u4eec\u4f1a\u4ecb\u7ecd\u66f4\u591a\u8fd9\u65b9\u9762\u7684\u5185\u5bb9\u3002",
         "uid": "SudhfdB70"
       },
       {
@@ -2170,9 +2125,9 @@
       {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594359902290,
-        "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594359902382,
-        "string": "\u6211\u4eec\u5c06\u5728\u660e\u5929\u7684\u8bfe\u7a0b\u4e2d\u66f4\u6df1\u5165\u5730\u63a2\u8ba8\u8fd9\u4e2a\u95ee\u9898\uff0c\u5230\u65f6\u6211\u4eec\u5c06\u4f1a\u63a2\u7d22\u65e5\u671f\u529f\u80fd\uff0c\u5e76\u4ecb\u7ecd ** \\ \u547d\u4ee4**\u3002 ",
+        "edit-email": "alex.hanyang@gmail.com",
+        "edit-time": 1594454916662,
+        "string": "\u6211\u4eec\u5c06\u5728\u660e\u5929\u7684\u8bfe\u7a0b\u4e2d\u66f4\u6df1\u5165\u5730\u63a2\u8ba8\u8fd9\u4e2a\u95ee\u9898\uff0c\u5230\u65f6\u6211\u4eec\u5c06\u4f1a\u63a2\u7d22\u65e5\u671f\u529f\u80fd\uff0c\u5e76\u4ecb\u7ecd **\u547d\u4ee4\u884c\u6307\u4ee4** `/Commands`\u3002 ",
         "uid": "8LelphCTG"
       },
       {
@@ -2338,13 +2293,6 @@
     "title": "DONE"
   },
   {
-    "create-email": "wuxuebin1993@gmail.com",
-    "create-time": 1594346569405,
-    "edit-email": "wuxuebin1993@gmail.com",
-    "edit-time": 1594346569407,
-    "title": "embed"
-  },
-  {
     "create-email": "wangxh1000@gmail.com",
     "create-time": 1594359919847,
     "edit-email": "wangxh1000@gmail.com",
@@ -2367,13 +2315,6 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594364796378,
     "title": "kanban"
-  },
-  {
-    "create-email": "lv460051518@gmail.com",
-    "create-time": 1594364809517,
-    "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594364809519,
-    "title": "POMO"
   },
   {
     "children": [
@@ -2674,6 +2615,14 @@
             "edit-time": 1594447891584,
             "string": "[[Backlog]]",
             "uid": "fIAgARCgL"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594453362643,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594453397155,
+            "string": "\u5220\u9664 \u756a\u8304\u949f\uff0c\u53ef\u80fd\u8fd9\u4e2a\u8fd8\u662f\u5404\u81ea\u9700\u8981\uff0c\u6709\u9700\u8981\u7684\u5730\u65b9\u81ea\u5df1\u52a0\u6bd4\u8f83\u597d",
+            "uid": "ZUMwFwNCK"
           }
         ],
         "create-email": "wangxh1000@gmail.com",
@@ -2840,32 +2789,6 @@
         "uid": "hci2OGEA0"
       },
       {
-        "children": [
-          {
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594448797966,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594448830507,
-            "string": "\u6dfb\u52a0 `\u5c97\u4f4d\u5206\u5de5` \u94fe\u63a5",
-            "uid": "Rc7LFnufy"
-          },
-          {
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594448830677,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594448840773,
-            "string": "\u6dfb\u52a0 `\u8d26\u53f7` \u94fe\u63a5",
-            "uid": "uEcBXgFNM"
-          },
-          {
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594448842190,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594448850971,
-            "string": "\u6dfb\u52a0 `\u770b\u677f` \u94fe\u63a5",
-            "uid": "PtoyGpIwu"
-          }
-        ],
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594448776796,
         "edit-email": "wangxh1000@gmail.com",
@@ -3004,7 +2927,7 @@
                 "create-email": "wangxh1000@gmail.com",
                 "create-time": 1594448082890,
                 "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594448174979,
+                "edit-time": 1594453052444,
                 "string": "\u7ed9 Roam \u4e2d\u5468\u62a5\u4fe1\u606f\u6536\u96c6\u7684 block \u6253\u4e00\u4e2a\u56fa\u5b9a\u7684\u6807\u7b7e #[[roam/cn]]",
                 "uid": "MKN0CYfyl"
               }
@@ -3030,8 +2953,8 @@
                 "create-email": "wangxh1000@gmail.com",
                 "create-time": 1594443115544,
                 "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594447788081,
-                "string": "\u6821\u5bf9 [[Effective Note-Taking]] Lesson 2 #wangxh1000",
+                "edit-time": 1594453610513,
+                "string": "\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 2]] #wangxh1000",
                 "uid": "ews7g9UJ4"
               },
               {
@@ -3086,8 +3009,11 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594443115544,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594443187518,
-            "string": "[[IN PROGRESS]] {{[[POMO]]}}",
+            "edit-time": 1594453350151,
+            "props": {
+              "POMO": 1594453319342
+            },
+            "string": "[[IN PROGRESS]]",
             "uid": "rtf05cQrU"
           },
           {
@@ -3195,6 +3121,14 @@
             "edit-time": 1594442473391,
             "string": "Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7",
             "uid": "yOzCL26hl"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594442473833,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594453660501,
+            "string": "Attachment: https://gg9cqwfhs9.feishu.cn/file/boxcnOgBH29xQR0JwjvVFmvYiTW",
+            "uid": "UTIYd0VRJ"
           }
         ],
         "create-email": "wangxh1000@gmail.com",
@@ -3206,19 +3140,227 @@
       },
       {
         "create-email": "wangxh1000@gmail.com",
-        "create-time": 1594442474130,
+        "create-time": 1594453662301,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594442474130,
+        "edit-time": 1594453662301,
         "string": "",
-        "uid": "o4axs-LIH"
+        "uid": "oMpS5hNaE"
       },
       {
         "create-email": "wangxh1000@gmail.com",
-        "create-time": 1594442473833,
+        "create-time": 1594454175827,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594442473833,
-        "string": "",
-        "uid": "UTIYd0VRJ"
+        "edit-time": 1594454175847,
+        "string": "Hi,",
+        "uid": "bsoIs1elB"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Yesterday we learned about the key concepts behind Roam and introduced the Daily Notes pages. Today we'll dive into the dates and introduce the slash commands and basic note formatting.",
+        "uid": "_Gjh5CDfm"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Slash Commands",
+        "uid": "PZWpeGU3l"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "When you type a / character in Roam, it'll pop open a menu with a whole set of options. These are what we call the Slash Commands. They are shortcuts to everyday operations, and mainly just insert the syntax that you could otherwise type out yourself. It's a handy shortcut, especially for some of the more difficult to remember command codes.",
+        "uid": "sDbznw3gz"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "When you've hit the slash key you can type to autocomplete the operation you're looking for, and then press return to insert it.",
+        "uid": "fHYeF2AYI"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Formatting",
+        "uid": "QMBmmbKI-"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "So let's start with some formatting commands to get the idea.",
+        "uid": "WcVkgddrI"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "A quick digression: Roam doesn't have what's called a WYSIWYG (What You See Is What You Get) editor, so there are no buttons to click to switch on bold or italics. Instead, you type special characters to denote where you want the formatting to start and then end. This syntax is very similar to one called Markdown. While there are plenty of references to it on the internet, Roam also has a few special syntaxes, like the double brackets and parentheses, which aren't part of the Markdown syntax. You'll soon come to know what's what.",
+        "uid": "qT6xrtrVd"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Here's where the slash commands come in handy to learn the characters. In Roam, type a slash / and then start typing bol to auto-complete the bold option and hit enter when it's selected. You'll see four asterisks inserted and the cursor in the middle. Anything you type here will appear as bold text when you leave this block and move to or create another one. Play around with these; there are menu options for bold, italics, and strike-through. There's also inline code and code blocks, especially handy for developers. Inline code is useful where you want to visually indicate something like a key press or command, as I've been doing as I write these lessons in Roam.",
+        "uid": "dxaxt9zqT"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Links warrant a special mention. Using the slash command inserts the syntax and puts the cursor in the parentheses. This is where you put the URL. The square brackets would wrap the word or phrase you want to link up. For example a link to Google, the syntax looks like this, [Clicking here sends me to Google](https://www.google.com).",
+        "uid": "WBY-ALaZr"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Keyboard Shortcuts",
+        "uid": "9STkRV0TZ"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "If you were paying close attention to the slash commands menu when you selected the bold option, you'll see it was giving you the keyboard shortcuts that are available too. They are different, depending on whether you use a PC or a Mac. Macs use the Command (Cmd \u2318) key while on PCs it's the Control (Ctrl) key you press in combination. They are pretty much as you'd expect and be familiar with in other editors. So, B for Bold, I for italics. Now, while it's not shown on the menu, you also have Ctrl-K or Cmd-K for links. This is particularly convenient if you highlight the text you want to turn into an external link, then press Control/Cmd-K. It'll wrap the words and put your cursor ready to type or paste in the URL.",
+        "uid": "rwxONw2FY"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Roam's help shows you more of the keyboard shortcuts, but the best, most complete, reference I've found is on the Roam Tricks site, which is a public Roam database.",
+        "uid": "f1w4M8pvq"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "https://roamresearch.com/#/app/roam-tricks/page/JvCkIiXDk",
+        "uid": "gCCuniIMn"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "One final formatting note. Roam also has a Highlight option. This isn't part of typical markdown syntax. Using the caret symbols (^) in the same way as the other formatting characters will allow you to add a background highlight. You can use this in combination with bold and is especially useful for techniques like Progressive Summarization. The keyboard shortcut for it is Ctrl-H for Windows or Cmd-H for Macs.",
+        "uid": "Aw8lq_GFz"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Dates and Time",
+        "uid": "EfHKPjBKX"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Now we return to the daily notes and dates. You may have seen on the slash commands menu some date-related ones. Yesterday, Today, Tomorrow, and Date Picker. These are all convenient shortcuts to creating a correctly formatted daily note page reference.",
+        "uid": "1w0o4AxeT"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "The date picker pops up a calendar so you can create any date. Combine this with TODOs and the backlinks it gives you a compelling task management and planning system.",
+        "uid": "uyKaVRwsl"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "It's best understood with an illustration. I use this technique as part of a weekly plan I create in Roam. I'll be covering more about this use-case in a future lesson.",
+        "uid": "boc9UcYUN"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Here's a snippet of my weekly plan for the upcoming weekend, you'll see I have tagged each day with its date using the /date commands to pick the dates. (Actually, I use a TextExpander snippet to create them for me automatically).",
+        "uid": "3Rl8wJnE7"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Now, when I am on the daily note page for Saturday, I'll see this information show up in the linked references.",
+        "uid": "XhtWeJIb0"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "While we're on the topic of dates, let's also briefly mention the /Current Time slash command. This just inserts the current time, e.g. 07:43. I have found this is an excellent habit to cultivate when you are adding a thought on your daily notes page, perhaps you're tracking how you feel throughout the day, or as I do, practice Interstitial Journaling.",
+        "uid": "TRs9IAqte"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "You get a rapid way of looking back and seeing precisely what time and date you came up with ideas and is a handy way of using daily notes.",
+        "uid": "Z69_gGZwo"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Tomorrow, we'll learn more about navigating around Roam and the outlining functions.",
+        "uid": "LLvR08S_f"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "If you have any feedback or a burning question you'd like answered, feel free to reply to this email. I'll do my best to respond and incorporate it into revised versions and future lessons.",
+        "uid": "od3PmXxF1"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Until tomorrow,",
+        "uid": "Gx4prtLsC"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454175827,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454175847,
+        "string": "Andy Henson",
+        "uid": "G0AJ9-Ueo"
       }
     ],
     "edit-email": "wangxh1000@gmail.com",
@@ -3718,11 +3860,11 @@
         "children": [
           {
             "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594450177898,
+            "create-time": 1594454401848,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594450177904,
-            "string": "[Andy Henson Series](https://www.notion.so/2a25ab1e36304e90ac60d8b8326eb6ea)",
-            "uid": "CoVbBTx5v"
+            "edit-time": 1594454426974,
+            "string": "[[Andy Henson Series]]",
+            "uid": "SepcUZiZk"
           }
         ],
         "create-email": "wangxh1000@gmail.com",
@@ -3861,5 +4003,136 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594450484421,
     "title": "Notion"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454316022,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454316040,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[Done]] #[[\u672a\u53d1\u5e03]]",
+            "uid": "rKVWZcNe0"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454240118,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454240119,
+            "string": "Tags::",
+            "uid": "c-09JDlFs"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454316022,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454584533,
+            "string": "Source:: #[[Andy Henson Series]] ",
+            "uid": "0mB1lY-as"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454316022,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454316040,
+            "string": "Translator:: #wangxh1000",
+            "uid": "f3O-5lbsr"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454316022,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454316040,
+            "string": "Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7",
+            "uid": "MG-2drvwk"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454240118,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454289960,
+            "string": "Url: [[[[Effective Note-Taking]] Lesson 2]]",
+            "uid": "yw7LJgk-9"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454240118,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454240119,
+        "string": "Metadata::",
+        "uid": "dkk5vH4Gf"
+      }
+    ],
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594454230130,
+    "title": "\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 2"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594454316023,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594454316040,
+    "title": "- Tags"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454685879,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454685887,
+            "string": "Tags::",
+            "uid": "-627DTKbY"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594454685879,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594454707161,
+            "string": "Url: https://www.notion.so/2a25ab1e36304e90ac60d8b8326eb6ea?v=ddda49d63d6a4797ae4d34071567dd11",
+            "uid": "0rDGC0ItH"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454685879,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454685887,
+        "string": "Metadata::",
+        "uid": "-3wKpoAam"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454711578,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454711578,
+        "string": "",
+        "uid": "a0inQ36uh"
+      },
+      {
+        "create-email": "wuxuebin1993@gmail.com",
+        "create-time": 1593932817028,
+        "edit-email": "wuxuebin1993@gmail.com",
+        "edit-time": 1593933024255,
+        "string": "\u7531[Andy Henson@elaptics](https://twitter.com/elaptics)\u521b\u529e\u7684Roam Research \u514d\u8d39\u6587\u5b57\u8bfe\u7a0b\uff0c[\u8ba2\u9605\u94fe\u63a5](https://roam.elaptics.co.uk/learn)",
+        "uid": "Q_eWy3luV"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454690654,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594454690654,
+        "string": "",
+        "uid": "THZzMU8gW"
+      }
+    ],
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594454405152,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594454405154,
+    "title": "Andy Henson Series"
   }
 ]

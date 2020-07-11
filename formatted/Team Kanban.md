@@ -4,9 +4,9 @@
         - For U: 所有想到的任何事情事情先丢 [Backlog](Backlog.md) 哦~
         - Tips: 所有渠道看到的可能用于周报的信息都在这里记一笔
         - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[roam/cn](roam/cn.md)
-    - [IN PROGRESS](IN PROGRESS.md) {{[POMO](POMO.md)}}
+    - [IN PROGRESS](IN PROGRESS.md)
         - 整理第二期周报 [周报Newsletter 2020-07-12 002期](周报Newsletter 2020-07-12 002期.md) [JimmyLv](JimmyLv.md) [Jessie](Jessie.md) [July 12th, 2020](July 12th, 2020.md)
-        - 校对 [Effective Note-Taking](Effective Note-Taking.md) Lesson 2 [wangxh1000](wangxh1000.md)
+        - 校对 [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 2]] [wangxh1000](wangxh1000.md)
         - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
         - [1.5: Unlinked References](https://www.notion.so/1-5-Unlinked-References-9ab449a5dde74ef4bc016927fe2c46d1) [Alex](Alex.md) #[JΛKΞ](JΛKΞ.md)
         - [1.6: The Navigation Bar](https://www.notion.so/1-6-The-Navigation-Bar-06e85b3e56614395a03409a01ea5322a) [Alex](Alex.md) #[Frank Wu](Frank Wu.md)

@@ -1,0 +1,6 @@
+- Metadata::
+    - Tags::
+    - Url: https://www.notion.so/2a25ab1e36304e90ac60d8b8326eb6ea?v=ddda49d63d6a4797ae4d34071567dd11
+- 
+- 由[Andy Henson@elaptics](https://twitter.com/elaptics)创办的Roam Research 免费文字课程，[订阅链接](https://roam.elaptics.co.uk/learn)
+- 
