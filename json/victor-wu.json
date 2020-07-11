@@ -2985,6 +2985,22 @@
         "edit-time": 1594465748323,
         "string": "#wangxh1000 \u6dfb\u52a0[[\u77ed\u671f\u76ee\u6807]]\u3001[[\u957f\u671f\u76ee\u6807]]",
         "uid": "D3Yz7bQxs"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594476793427,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594476875752,
+        "string": "\u665a\u4e0a\u53d1\u73b0\u539f\u6765 #Constantincs \u548c #[[J\u039bK\u039e]] \u662f\u540c\u4e00\u4e2a\u4eba\uff0c\u95ee\u4e86\u4e00\u4e0b #Constantincs\u7684\u610f\u89c1\uff0c\u4ed6\u8bf4\u7edf\u4e00\u7528\u4e00\u4e2a\u540d\u5b57\u7684\u8bdd\uff0c\u5c31\u7528 #Constantincs\uff0c\u66f4\u65b0\u4e86 [[\u6210\u5458]]",
+        "uid": "ajx5cIO4o"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594476875751,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594476875751,
+        "string": "",
+        "uid": "bIgssM1Xp"
       }
     ],
     "edit-email": "lv460051518@gmail.com",
@@ -3305,8 +3321,8 @@
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594454175827,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594454175847,
-        "string": "Here's where the slash commands come in handy to learn the characters. In Roam, type a slash / and then start typing bol to auto-complete the bold option and hit enter when it's selected. You'll see four asterisks inserted and the cursor in the middle. Anything you type here will appear as bold text when you leave this block and move to or create another one. Play around with these; there are menu options for bold, italics, and strike-through. There's also inline code and code blocks, especially handy for developers. Inline code is useful where you want to visually indicate something like a key press or command, as I've been doing as I write these lessons in Roam.",
+        "edit-time": 1594477239376,
+        "string": "Here's where the slash commands come in handy ^^to learn the characters^^. In Roam, type a slash / and then start typing bol to auto-complete the bold option and hit enter when it's selected. You'll see four asterisks inserted and the cursor in the middle. Anything you type here will appear as bold text when you leave this block and move to or create another one. Play around with these; there are menu options for bold, italics, and strike-through. There's also inline code and code blocks, especially handy for developers. Inline code is useful where you want to visually indicate something like a key press or command, as I've been doing as I write these lessons in Roam.",
         "uid": "dxaxt9zqT"
       },
       {
@@ -4256,8 +4272,8 @@
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594460360933,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594462517137,
-        "string": "^^\u8fd9\u91cc\u662f\u659c\u7ebf\u547d\u4ee4\u5b66\u4e60\u5b57\u7b26\u7684\u5730\u65b9\u3002\u5728Roam\u4e2d\uff0c\u952e\u5165\u659c\u7ebf/\uff0c\u7136\u540e\u5f00\u59cb\u952e\u5165bol\u6765\u81ea\u52a8\u5b8c\u6210\u7c97\u4f53\u9009\u9879\uff0c\u9009\u62e9\u540e\u6309\u56de\u8f66\u952e\u3002\u4f60\u4f1a\u770b\u5230\u56db\u4e2a\u661f\u53f7\u63d2\u5165\uff0c\u5149\u6807\u5728\u4e2d\u95f4\u3002\u5f53\u4f60\u79bb\u5f00\u8fd9\u4e2a\u533a\u5757\u5e76\u79fb\u52a8\u5230\u6216\u521b\u5efa\u53e6\u4e00\u4e2a\u533a\u5757\u65f6\uff0c\u4f60\u5728\u8fd9\u91cc\u8f93\u5165\u7684\u4efb\u4f55\u5185\u5bb9\u90fd\u4f1a\u663e\u793a\u4e3a\u7c97\u4f53\u6587\u672c\u3002\u4f60\u53ef\u4ee5\u73a9\u73a9\u8fd9\u4e9b\uff1b\u6709\u7c97\u4f53\u3001\u659c\u4f53\u548c\u5220\u9664\u7ebf\u7684\u83dc\u5355\u9009\u9879\u3002\u8fd8\u6709\u5185\u8054\u4ee3\u7801\u548c\u4ee3\u7801\u5757\uff0c\u7279\u522b\u662f\u5bf9\u5f00\u53d1\u8005\u6765\u8bf4\u5f88\u65b9\u4fbf\u3002\u5185\u8054\u4ee3\u7801\u5728\u4f60\u60f3\u76f4\u89c2\u5730\u663e\u793a\u8bf8\u5982\u6309\u952e\u6216\u547d\u4ee4\u4e4b\u7c7b\u7684\u4e1c\u897f\u65f6\u975e\u5e38\u6709\u7528\uff0c\u5c31\u50cf\u6211\u5728Roam\u4e2d\u5199\u8fd9\u4e9b\u8bfe\u7a0b\u65f6\u4e00\u76f4\u5728\u505a\u7684\u90a3\u6837\u3002^^",
+        "edit-time": 1594477926476,
+        "string": "\u5728\u8fd9\u91cc\uff0c `/` \u547d\u4ee4\u5c31\u80fd\u6d3e\u4e0a\u7528\u573a\u3002\u5728 Roam \u4e2d\uff0c\u952e\u5165 `/` \uff0c\u7136\u540e\u952e\u5165 `bol` \u6765\u81ea\u52a8\u9009\u62e9\u7c97\u4f53\u9009\u9879\uff0c\u6309\u56de\u8f66\u952e\u3002\u4f60\u4f1a\u770b\u5230\u63d2\u5165\u4e86\u56db\u4e2a\u661f\u53f7\uff0c\u5149\u6807\u5b9a\u4f4d\u5728\u4e2d\u95f4\u4f4d\u7f6e\u3002\u5f53\u4f60\u79bb\u5f00\u8fd9\u4e2a block \u5e76\u79fb\u52a8\u5230\u6216\u521b\u5efa\u53e6\u4e00\u4e2a block \u65f6\uff0c\u4f60\u5728\u8fd9\u91cc\u8f93\u5165\u7684\u4efb\u4f55\u5185\u5bb9\u90fd\u4f1a\u663e\u793a\u4e3a\u7c97\u4f53\u6587\u672c\u3002\u4f60\u53ef\u4ee5\u73a9\u73a9\u8fd9\u4e9b\uff1b\u6709\u7c97\u4f53\u3001\u659c\u4f53\u548c\u5220\u9664\u7ebf\u7684\u83dc\u5355\u9009\u9879\u3002\u8fd8\u6709\u7279\u522b\u662f\u5bf9\u5f00\u53d1\u8005\u6765\u8bf4\u5f88\u65b9\u4fbf\u7684\u5185\u8054\u4ee3\u7801\u548c\u4ee3\u7801\u5757\u3002\u5185\u8054\u4ee3\u7801\u5728\u4f60\u60f3\u76f4\u89c2\u5730\u663e\u793a\u8bf8\u5982\u6309\u952e\u6216\u547d\u4ee4\u4e4b\u7c7b\u7684\u4e1c\u897f\u65f6\u975e\u5e38\u6709\u7528\uff0c\u5c31\u50cf\u6211\u5728Roam\u4e2d\u5199\u8fd9\u4e9b\u8bfe\u7a0b\u65f6\u4e00\u76f4\u5728\u505a\u7684\u90a3\u6837\u3002^^",
         "uid": "0Q7xLWh_V"
       },
       {
