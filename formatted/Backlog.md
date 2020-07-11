@@ -5,7 +5,7 @@
 
 # Backlinks
 ## [July 11th, 2020](July 11th, 2020.md)
-- [wangxh1000](wangxh1000.md) 重构 [Backlog](Backlog.md)
+- [Backlog](Backlog.md)
 
 ## [Team Kanban](Team Kanban.md)
 - [Backlog](Backlog.md)

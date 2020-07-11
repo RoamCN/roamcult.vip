@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 1 关键概念 ]([Effective Note-Taking](Effective Note-Taking.md) Lesson 1 关键概念 .md)
-- **[Tags](Tags.md):** #[翻译](翻译.md) #[Done](Done.md)
+Tags:: #[翻译](翻译.md) #[Done](Done.md)
 
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 2]([Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
 - **[Tags](Tags.md):** #[翻译](翻译.md) #[Done](Done.md)
