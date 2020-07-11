@@ -4,6 +4,7 @@
         - For U: 所有想到的任何事情事情先丢 [[Backlog]] 哦~
         - Tips: 所有渠道看到的可能用于周报的信息都在这里记一笔
         - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[[roam/cn]]
+        - [[roam互动教学第一期]]#[[晚甘侯]]#Jessie
     - [[IN PROGRESS]]
         - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
         - 校对 [[[[Effective Note-Taking]] Lesson 2]] #wangxh1000
