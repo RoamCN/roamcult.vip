@@ -8,7 +8,3 @@
 - **[Source](Source.md):** [RoamHack](RoamHack.md)
     - **[Translator](Translator.md):**
 
-## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
-- **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md) 
-    - **[Translator](Translator.md):**
-

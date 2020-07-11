@@ -1,7 +1,8 @@
 Metadata::
     Tags:: #[翻译](翻译.md) #[Done](Done.md) #[未发布](未发布.md)
     Source:: #[Andy Henson Series](Andy Henson Series.md)  
-    初翻:: [wangxh1000](wangxh1000.md)
+    初翻: [wangxh1000](wangxh1000.md)
+    校对: [Alex](Alex.md)
     Url:
 
 欢迎，Roam 同胞。Roam 世界的公民。Roam 现在是一个非常令人兴奋的地方。

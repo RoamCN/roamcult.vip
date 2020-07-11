@@ -24,9 +24,6 @@
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
-- **[Tags](Tags.md):** #[翻译](翻译.md) #[Done](Done.md) #[未发布](未发布.md)
-    - **[Tags](Tags.md):**
-
 ## [视频翻译及字幕制作](视频翻译及字幕制作.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**

@@ -1,7 +1,8 @@
 Metadata::
     Tags:: #[[翻译]] #[[Done]] #[[未发布]]
     Source:: #[[Andy Henson Series]]  
-    初翻:: #wangxh1000
+    初翻: #wangxh1000
+    校对: #Alex
     Url:
 
 欢迎，Roam 同胞。Roam 世界的公民。Roam 现在是一个非常令人兴奋的地方。

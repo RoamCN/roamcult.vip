@@ -1666,6 +1666,14 @@
           },
           {
             "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594460000389,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594460012492,
+            "string": "\u6821\u5bf9: #Alex",
+            "uid": "FCEmFeUIi"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
             "create-time": 1594359902290,
             "edit-email": "wangxh1000@gmail.com",
             "edit-time": 1594359902381,
@@ -2887,6 +2895,32 @@
         "edit-time": 1594450857667,
         "string": "#wangxh1000 \u5728\u6574\u7406 #Alex \u5206\u7ba1\u7684\u4e24\u5757\u4e8b\u52a1\u7684\u4fe1\u606f\u7684\u65f6\u5019\uff0c\u5fc3\u91cc\u8fd8\u662f\u6709\u4e9b\u611f\u89e6 #[[\u60f3\u6cd5]]",
         "uid": "AfJpUKplr"
+      },
+      {
+        "children": [
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594460202981,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594460305689,
+            "string": "\u4efb\u4f55\u4eba\u7fa4\u90fd\u662f\u8fd9\u6837\uff0c\u5927\u5230\u793e\u533a\uff0c\u5c0f\u5230\u4e00\u4e2a\u4e24\u4eba\u4e16\u754c\u3002\u60f3\u60f3\u4e3a\u5565\u8fd9\u4e48\u591a\u4eba\u73b0\u5728\u9009\u62e9\u4e0d\u7ed3\u5a5a\uff0c\u591a\u5c11\u662f\u6709\u4e0a\u9762\u8fd9\u79cd\u539f\u56e0\uff0c\u5acc\u9ebb\u70e6\uff0c\u592a\u9ebb\u70e6\u4e86",
+            "uid": "IZnwFQE7c"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460076900,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460191865,
+        "string": "#wangxh1000 \u4eba\u548c\u4eba\u4e4b\u95f4\u7684\u8bef\u4f1a\u548c\u4e0d\u7406\u89e3\uff0c\u4ece\u6765\u662f\u5e38\u6001\u3002\u7ecf\u5e38\u63d0\u9192\u81ea\u5df1\u8fd9\u4e00\u70b9\uff0c\u8fd9\u6837\u5c31\u5c11\u4f1a\u5728\u53d1\u751f\u8fd9\u79cd\u72b6\u51b5\u7684\u65f6\u5019\u59d4\u5c48\u70e6\u607c #[[\u60f3\u6cd5]]",
+        "uid": "-ALsAadQV"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594461946993,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594462050078,
+        "string": "#wangxh1000 \u53e6\u5916\uff0c\u5c3d\u7ba1\u8fd9\u662f [[\u6587\u5b57\u6559\u7a0b\u7ffb\u8bd1]] \u7ec4\u5185\u7684\u4e8b\u52a1\uff0c\u4f46\u6211\u4e2a\u4eba\u4f1a\u9009\u62e9\u6709\u9650\u5ea6\u5730\u5f00\u653e\u4e00\u4e9b\u4fe1\u606f\u7ed9\u5927\u5bb6\uff0c\u8ba9\u5927\u5bb6\u80fd\u6709\u4e00\u4e2a\u201c\u6211\u4eec\u662f\u4e00\u4f53\u201d\u7684\u611f\u89c9\uff0c\u4e0b\u9762\u662f\u6211s",
+        "uid": "gP9dmnCgq"
       }
     ],
     "edit-email": "lv460051518@gmail.com",
@@ -3080,13 +3114,6 @@
     "title": "Keyboard Maestro"
   },
   {
-    "create-email": "wangxh1000@gmail.com",
-    "create-time": 1594398687235,
-    "edit-email": "wangxh1000@gmail.com",
-    "edit-time": 1594398687241,
-    "title": "- Translator"
-  },
-  {
     "children": [
       {
         "children": [
@@ -3198,8 +3225,8 @@
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594454175827,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594454175847,
-        "string": "So let's start with some formatting commands to get the idea.",
+        "edit-time": 1594461199452,
+        "string": "So let's start with some formatting commands^^ to get the idea.^^",
         "uid": "WcVkgddrI"
       },
       {
@@ -4018,14 +4045,6 @@
           },
           {
             "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594454240118,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594454240119,
-            "string": "Tags::",
-            "uid": "c-09JDlFs"
-          },
-          {
-            "create-email": "wangxh1000@gmail.com",
             "create-time": 1594454316022,
             "edit-email": "wangxh1000@gmail.com",
             "edit-time": 1594454584533,
@@ -4034,11 +4053,19 @@
           },
           {
             "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594454316022,
+            "create-time": 1594460024388,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594454316040,
-            "string": "Translator:: #wangxh1000",
-            "uid": "f3O-5lbsr"
+            "edit-time": 1594460024391,
+            "string": "\u521d\u7ffb: #wangxh1000",
+            "uid": "pg6ffQnAn"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594460024388,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594460024391,
+            "string": "\u6821\u5bf9: #Alex",
+            "uid": "xJavVU3NY"
           },
           {
             "create-email": "wangxh1000@gmail.com",
@@ -4047,14 +4074,6 @@
             "edit-time": 1594454316040,
             "string": "Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7",
             "uid": "MG-2drvwk"
-          },
-          {
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594454240118,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594454289960,
-            "string": "Url: [[[[Effective Note-Taking]] Lesson 2]]",
-            "uid": "yw7LJgk-9"
           }
         ],
         "create-email": "wangxh1000@gmail.com",
@@ -4063,6 +4082,246 @@
         "edit-time": 1594454240119,
         "string": "Metadata::",
         "uid": "dkk5vH4Gf"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594454240118,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460043270,
+        "string": "[[[[Effective Note-Taking]] Lesson 2]]",
+        "uid": "yw7LJgk-9"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460045587,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460045587,
+        "string": "",
+        "uid": "jBsxpP9hL"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460047102,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460588668,
+        "string": "",
+        "uid": "294VGjRjg"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u55e8\uff0c",
+        "uid": "vNX-BrsMK"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594461690085,
+        "string": "\u6628\u5929\u6211\u4eec\u5b66\u4e60\u4e86 Roam \u80cc\u540e\u7684\u5173\u952e\u6982\u5ff5\uff0c\u5e76\u4ecb\u7ecd\u4e86\u6bcf\u65e5\u7b14\u8bb0\u9875\u3002\u4eca\u5929\u6211\u4eec\u5c06\u6df1\u5165\u4e86\u89e3\u65e5\u671f\uff0c\u5e76\u4ecb\u7ecd `/` \u547d\u4ee4\u548c\u57fa\u672c\u7b14\u8bb0\u683c\u5f0f\u3002",
+        "uid": "BlyxRNE-n"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460595166,
+        "string": "`/` \u547d\u4ee4",
+        "uid": "YaMbr6-kH"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594461683340,
+        "string": "\u5f53\u4f60\u5728 Roam \u4e2d\u8f93\u5165\u4e00\u4e2a `/` \u5b57\u7b26\u65f6\uff0c\u5b83\u4f1a\u5f39\u51fa\u4e00\u4e2a\u83dc\u5355\uff0c\u91cc\u9762\u6709\u4e00\u7cfb\u5217\u7684\u9009\u9879\u3002\u8fd9\u4e9b\u5c31\u662f\u6211\u4eec\u6240\u8bf4\u7684 `/` \u547d\u4ee4\u3002\u5b83\u4eec\u662f\u4e9b\u65e5\u5e38\u64cd\u4f5c\u7684\u5feb\u6377\u65b9\u5f0f\uff0c\u4e3b\u8981\u7528\u4e8e\u63d2\u5165\u4e00\u4e9b\u4f60\u4e5f\u53ef\u4ee5\u81ea\u5df1\u8f93\u5165\u7684\u4e00\u4e9b\u8bed\u6cd5\u3002\u8fd9\u662f\u4e00\u4e2a\u5f88\u65b9\u4fbf\u7684\u5feb\u6377\u952e\uff0c\u7279\u522b\u662f\u5bf9\u4e8e\u4e00\u4e9b\u6bd4\u8f83\u96be\u8bb0\u7684\u547d\u4ee4\u4ee3\u7801\u3002",
+        "uid": "QvEOXXKuv"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594461142508,
+        "string": "\u5f53\u4f60\u6309\u4e0b `/` \u952e\u540e\uff0c\u8f93\u5165\u547d\u4ee4\u5173\u952e\u5b57\u4f1a\u81ea\u52a8\u7b5b\u9009\u51fa\u4f60\u6240\u5bfb\u627e\u7684\u76f8\u5173\u64cd\u4f5c\uff0c\u6309\u56de\u8f66\u952e\u5c31\u80fd\u63d2\u5165\u547d\u4ee4\u3002",
+        "uid": "7KEl8BSqL"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u683c\u5f0f\u5316",
+        "uid": "tTm_oJ3bE"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594461208740,
+        "string": "\u6211\u4eec\u5148\u4ece\u4e00\u4e9b\u683c\u5f0f\u5316\u547d\u4ee4\u6765\u4e86\u89e3\u4e00\u4e0b\u3002",
+        "uid": "te73fwV4q"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594461916719,
+        "string": "\u5148\u8bf4\u4e2a\u9898\u5916\u8bdd\u3002Roam \u6ca1\u6709\u6240\u8c13\u7684\u6240\u89c1\u5373\u6240\u5f97\uff08WYSIWYG\uff09\u7f16\u8f91\u5668\uff0c\u6240\u4ee5\u6ca1\u6709\u6309\u94ae\u53ef\u4ee5\u70b9\u51fb\u6765\u5207\u6362\u7c97\u4f53\u6216\u659c\u4f53\u3002\u7528\u4e8e\u66ff\u4ee3\u7684\u662f\uff0c\u4f60\u8f93\u5165\u4e00\u4e9b\u7279\u6b8a\u5b57\u7b26\u6765\u6807\u6ce8\u60f3\u8981\u683c\u5f0f\u5316\u7684\u5185\u5bb9\u7684\u5f00\u59cb\u548c\u7ed3\u675f\u7684\u4f4d\u7f6e\u3002\u8fd9\u79cd\u8bed\u6cd5\u4e0e Markdown \u8bed\u6cd5\u975e\u5e38\u76f8\u4f3c\u3002\u867d\u7136\u4e92\u8054\u7f51\u4e0a\u6709\u5f88\u591a\u5173\u4e8e Markdown \u7684\u53c2\u8003\u8d44\u6599\uff0c\u4f46 Roam \u4e5f\u6709\u4e00\u4e9b\u7279\u6b8a\u7684\u8bed\u6cd5\uff0c\u6bd4\u5982\u53cc\u62ec\u53f7\u548c\u62ec\u53f7\uff0c\u8fd9\u4e9b\u90fd\u4e0d\u662f Markdown \u8bed\u6cd5\u7684\u4e00\u90e8\u5206\u3002\u4f60\u5f88\u5feb\u5c31\u4f1a\u77e5\u9053\u5b83\u4eec\u7684\u5177\u4f53\u5185\u5bb9\u3002",
+        "uid": "lbxWpu9bZ"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u8fd9\u91cc\u662f\u659c\u7ebf\u547d\u4ee4\u5b66\u4e60\u5b57\u7b26\u7684\u5730\u65b9\u3002\u5728Roam\u4e2d\uff0c\u952e\u5165\u659c\u7ebf/\uff0c\u7136\u540e\u5f00\u59cb\u952e\u5165bol\u6765\u81ea\u52a8\u5b8c\u6210\u7c97\u4f53\u9009\u9879\uff0c\u9009\u62e9\u540e\u6309\u56de\u8f66\u952e\u3002\u4f60\u4f1a\u770b\u5230\u56db\u4e2a\u661f\u53f7\u63d2\u5165\uff0c\u5149\u6807\u5728\u4e2d\u95f4\u3002\u5f53\u4f60\u79bb\u5f00\u8fd9\u4e2a\u533a\u5757\u5e76\u79fb\u52a8\u5230\u6216\u521b\u5efa\u53e6\u4e00\u4e2a\u533a\u5757\u65f6\uff0c\u4f60\u5728\u8fd9\u91cc\u8f93\u5165\u7684\u4efb\u4f55\u5185\u5bb9\u90fd\u4f1a\u663e\u793a\u4e3a\u7c97\u4f53\u6587\u672c\u3002\u4f60\u53ef\u4ee5\u73a9\u73a9\u8fd9\u4e9b\uff1b\u6709\u7c97\u4f53\u3001\u659c\u4f53\u548c\u5220\u9664\u7ebf\u7684\u83dc\u5355\u9009\u9879\u3002\u8fd8\u6709\u5185\u8054\u4ee3\u7801\u548c\u4ee3\u7801\u5757\uff0c\u7279\u522b\u662f\u5bf9\u5f00\u53d1\u8005\u6765\u8bf4\u5f88\u65b9\u4fbf\u3002\u5185\u8054\u4ee3\u7801\u5728\u4f60\u60f3\u76f4\u89c2\u5730\u663e\u793a\u8bf8\u5982\u6309\u952e\u6216\u547d\u4ee4\u4e4b\u7c7b\u7684\u4e1c\u897f\u65f6\u975e\u5e38\u6709\u7528\uff0c\u5c31\u50cf\u6211\u5728Roam\u4e2d\u5199\u8fd9\u4e9b\u8bfe\u7a0b\u65f6\u4e00\u76f4\u5728\u505a\u7684\u90a3\u6837\u3002",
+        "uid": "0Q7xLWh_V"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u7279\u522b\u503c\u5f97\u4e00\u63d0\u7684\u662f\u94fe\u63a5\u3002\u4f7f\u7528\u659c\u7ebf\u547d\u4ee4\u63d2\u5165\u8bed\u6cd5\u5e76\u628a\u5149\u6807\u653e\u5728\u62ec\u53f7\u91cc\u3002\u8fd9\u662f\u4f60\u653eURL\u7684\u5730\u65b9\u3002\u65b9\u62ec\u53f7\u4f1a\u628a\u4f60\u8981\u94fe\u63a5\u7684\u5355\u8bcd\u6216\u77ed\u8bed\u5305\u8d77\u6765\u3002\u4f8b\u5982\u94fe\u63a5\u5230Google\uff0c\u8bed\u6cd5\u662f\u8fd9\u6837\u7684\uff0c[\u70b9\u51fb\u8fd9\u91cc\uff0c\u6211\u5c31\u4f1a\u8fdb\u5165Google](https://www.google.com)\u3002",
+        "uid": "x_csml1UA"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u952e\u76d8\u5feb\u6377\u952e",
+        "uid": "ymKHoF5NR"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u5982\u679c\u4f60\u5728\u9009\u62e9\u7c97\u4f53\u9009\u9879\u65f6\u5bc6\u5207\u5173\u6ce8\u659c\u7ebf\u547d\u4ee4\u83dc\u5355\uff0c\u4f60\u4f1a\u53d1\u73b0\u5b83\u4e5f\u5728\u7ed9\u4f60\u63d0\u4f9b\u952e\u76d8\u5feb\u6377\u952e\u3002\u5b83\u4eec\u662f\u4e0d\u540c\u7684\uff0c\u53d6\u51b3\u4e8e\u4f60\u4f7f\u7528\u7684\u662fPC\u8fd8\u662fMac\u3002Mac\u4f7f\u7528\u7684\u662fCommd\uff08Cmd \u2318\uff09\u952e\uff0c\u800c\u5728PC\u4e0a\u5219\u662f\u7ec4\u5408\u6309Control\uff08Ctrl\uff09\u952e\u3002\u5b83\u4eec\u548c\u4f60\u5728\u5176\u4ed6\u7f16\u8f91\u5668\u4e2d\u6240\u671f\u671b\u548c\u719f\u6089\u7684\u5dee\u4e0d\u591a\u3002\u6240\u4ee5\uff0cB\u4ee3\u8868\u7c97\u4f53\uff0cI\u4ee3\u8868\u659c\u4f53\u3002\u73b0\u5728\uff0c\u867d\u7136\u5b83\u6ca1\u6709\u663e\u793a\u5728\u83dc\u5355\u4e0a\uff0c\u4f46\u4f60\u4e5f\u6709Ctrl-K\u6216Cmd-K\u7684\u94fe\u63a5\u3002\u5982\u679c\u4f60\u7a81\u51fa\u663e\u793a\u4f60\u60f3\u53d8\u6210\u5916\u90e8\u94fe\u63a5\u7684\u6587\u672c\uff0c\u7136\u540e\u6309Control/Cmd-K\uff0c\u8fd9\u5c31\u7279\u522b\u65b9\u4fbf\u3002\u5b83\u4f1a\u5c06\u6587\u5b57\u5305\u8d77\u6765\uff0c\u5e76\u5c06\u4f60\u7684\u5149\u6807\u653e\u5165\uff0c\u4ee5\u4fbf\u8f93\u5165\u6216\u7c98\u8d34URL\u3002",
+        "uid": "Y2-NLxuEv"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "Roam\u7684\u5e2e\u52a9\u4e2d\u5411\u4f60\u5c55\u793a\u4e86\u66f4\u591a\u7684\u952e\u76d8\u5feb\u6377\u952e\uff0c\u4f46\u6211\u627e\u5230\u7684\u6700\u597d\u3001\u6700\u5b8c\u6574\u7684\u53c2\u8003\u8d44\u6599\u662f\u5728Roam Tricks\u7f51\u7ad9\u4e0a\uff0c\u8fd9\u662f\u4e00\u4e2a\u516c\u5171\u7684Roam\u6570\u636e\u5e93\u3002",
+        "uid": "JylVnEBz-"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "https://roamresearch.com/#/app/roam-tricks/page/JvCkIiXDk",
+        "uid": "19hENucuO"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u6700\u540e\u4e00\u4e2a\u683c\u5f0f\u8bf4\u660e\u3002Roam\u4e5f\u6709\u4e00\u4e2a\u9ad8\u4eae\u9009\u9879\u3002\u8fd9\u4e0d\u662f\u5178\u578b\u7684markdown\u8bed\u6cd5\u7684\u4e00\u90e8\u5206\u3002\u4ee5\u4e0e\u5176\u4ed6\u683c\u5f0f\u5316\u5b57\u7b26\u76f8\u540c\u7684\u65b9\u5f0f\u4f7f\u7528\u659c\u7ebf\u7b26\u53f7(^)\u5c06\u5141\u8bb8\u4f60\u6dfb\u52a0\u4e00\u4e2a\u80cc\u666f\u9ad8\u4eae\u3002\u60a8\u53ef\u4ee5\u5c06\u5176\u4e0e\u7c97\u4f53\u7ed3\u5408\u8d77\u6765\u4f7f\u7528\uff0c\u5e76\u4e14\u5bf9\u4e8e\u50cfProgressive Summarization\u8fd9\u6837\u7684\u6280\u672f\u7279\u522b\u6709\u7528\u3002\u5b83\u7684\u952e\u76d8\u5feb\u6377\u952e\u662fCtrl-H\uff08Windows\uff09\u6216Cmd-H\uff08Mac\uff09\u3002",
+        "uid": "37bp8mocT"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u65e5\u671f\u548c\u65f6\u95f4",
+        "uid": "mKk8R01lN"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u73b0\u5728\u6211\u4eec\u56de\u5230\u65e5\u5e38\u7b14\u8bb0\u548c\u65e5\u671f\u3002\u4f60\u53ef\u80fd\u5df2\u7ecf\u5728\u659c\u7ebf\u547d\u4ee4\u83dc\u5355\u4e0a\u770b\u5230\u4e86\u4e00\u4e9b\u4e0e\u65e5\u671f\u6709\u5173\u7684\u547d\u4ee4\u3002\u6628\u5929\u3001\u4eca\u5929\u3001\u660e\u5929\u548c\u65e5\u671f\u9009\u62e9\u5668\u3002\u8fd9\u4e9b\u90fd\u662f\u521b\u5efa\u6b63\u786e\u683c\u5f0f\u7684\u6bcf\u65e5\u7b14\u8bb0\u9875\u9762\u53c2\u8003\u7684\u65b9\u4fbf\u5feb\u6377\u65b9\u5f0f\u3002",
+        "uid": "7U4lDf0fn"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u65e5\u671f\u6311\u9009\u5668\u4f1a\u5f39\u51fa\u4e00\u4e2a\u65e5\u5386\uff0c\u6240\u4ee5\u4f60\u53ef\u4ee5\u521b\u5efa\u4efb\u4f55\u65e5\u671f\u3002\u5c06\u5176\u4e0eTODO\u548c\u53cd\u5411\u94fe\u63a5\u76f8\u7ed3\u5408\uff0c\u5b83\u4e3a\u4f60\u63d0\u4f9b\u4e86\u4e00\u4e2a\u5f15\u4eba\u6ce8\u76ee\u7684\u4efb\u52a1\u7ba1\u7406\u548c\u8ba1\u5212\u7cfb\u7edf\u3002",
+        "uid": "2fbDj2xrM"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u6700\u597d\u7528\u4e00\u4e2a\u56fe\u89e3\u6765\u7406\u89e3\u5b83\u3002\u6211\u4f7f\u7528\u8fd9\u79cd\u6280\u672f\u4f5c\u4e3a\u6211\u5728Roam\u4e2d\u521b\u5efa\u7684\u6bcf\u5468\u8ba1\u5212\u7684\u4e00\u90e8\u5206\u3002\u6211\u5c06\u5728\u672a\u6765\u7684\u8bfe\u7a0b\u4e2d\u4ecb\u7ecd\u66f4\u591a\u5173\u4e8e\u8fd9\u4e2a\u7528\u4f8b\u7684\u5185\u5bb9\u3002",
+        "uid": "JO2q-Zo9s"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u8fd9\u662f\u6211\u4e3a\u5373\u5c06\u5230\u6765\u7684\u5468\u672b\u5236\u5b9a\u7684\u5468\u8ba1\u5212\u7684\u4e00\u4e2a\u7247\u6bb5\uff0c\u4f60\u4f1a\u770b\u5230\u6211\u7528/date\u547d\u4ee4\u7ed9\u6bcf\u4e00\u5929\u7684\u65e5\u671f\u6253\u4e0a\u4e86\u6807\u7b7e\u3002\u5b9e\u9645\u4e0a\uff0c\u6211\u4f7f\u7528\u4e00\u4e2aTextExpander\u7247\u6bb5\u6765\u81ea\u52a8\u4e3a\u6211\u521b\u5efa\u5b83\u4eec\uff09\u3002",
+        "uid": "nrmwLbxfT"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u73b0\u5728\uff0c\u5f53\u6211\u5728\u5468\u516d\u7684\u6bcf\u65e5\u7b14\u8bb0\u9875\u9762\u4e0a\uff0c\u6211\u4f1a\u770b\u5230\u8fd9\u4e9b\u4fe1\u606f\u663e\u793a\u5728\u94fe\u63a5\u7684\u53c2\u8003\u8d44\u6599\u4e2d\u3002",
+        "uid": "250QUrRNG"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u5f53\u6211\u4eec\u5728\u8ba8\u8bba\u65e5\u671f\u7684\u65f6\u5019\uff0c\u6211\u4eec\u4e5f\u7b80\u5355\u5730\u63d0\u4e00\u4e0b/Current Time\u659c\u7ebf\u547d\u4ee4\u3002\u8fd9\u53ea\u662f\u63d2\u5165\u5f53\u524d\u65f6\u95f4\uff0c\u4f8b\u598207:43\u3002\u6211\u53d1\u73b0\uff0c\u5f53\u4f60\u5728\u6bcf\u65e5\u7b14\u8bb0\u9875\u9762\u4e0a\u6dfb\u52a0\u4e00\u4e2a\u60f3\u6cd5\u65f6\uff0c\u4e5f\u8bb8\u4f60\u6b63\u5728\u8ffd\u8e2a\u4f60\u4e00\u5929\u7684\u611f\u53d7\uff0c\u6216\u8005\u50cf\u6211\u4e00\u6837\uff0c\u7ec3\u4e60\u95f4\u6b47\u5f0f\u65e5\u8bb0\u65f6\uff0c\u8fd9\u662f\u4e00\u4e2a\u6781\u597d\u7684\u4e60\u60ef\uff0c\u53ef\u4ee5\u57f9\u517b\u3002",
+        "uid": "Djdq8wn5x"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u4f60\u53ef\u4ee5\u5feb\u901f\u5730\u56de\u60f3\uff0c\u7cbe\u786e\u5730\u770b\u5230\u4f60\u63d0\u51fa\u60f3\u6cd5\u7684\u65f6\u95f4\u548c\u65e5\u671f\uff0c\u662f\u4e00\u79cd\u4fbf\u5229\u7684\u65e5\u5e38\u7b14\u8bb0\u4f7f\u7528\u65b9\u6cd5\u3002",
+        "uid": "JbJnFvH_K"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u660e\u5929\uff0c\u6211\u4eec\u5c06\u5b66\u4e60\u66f4\u591a\u5173\u4e8eRoam\u7684\u5bfc\u822a\u548c\u5927\u7eb2\u529f\u80fd\u3002",
+        "uid": "cWFH5kIjh"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u5982\u679c\u4f60\u6709\u4efb\u4f55\u53cd\u9988\u6216\u4f60\u60f3\u77e5\u9053\u7684\u95ee\u9898\uff0c\u8bf7\u968f\u65f6\u56de\u590d\u8fd9\u5c01\u90ae\u4ef6\u3002\u6211\u4f1a\u5c3d\u6211\u6700\u5927\u7684\u52aa\u529b\u53bb\u56de\u5e94\uff0c\u5e76\u5c06\u5176\u7eb3\u5165\u5230\u4fee\u8ba2\u7248\u548c\u672a\u6765\u7684\u8bfe\u7a0b\u4e2d\u3002",
+        "uid": "gA7Gg4bBO"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u76f4\u5230\u660e\u5929\u3002",
+        "uid": "kjNAZFmP0"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594460360933,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594460360946,
+        "string": "\u5b89\u8fea-\u4ea8\u68ee",
+        "uid": "2luZlmHyY"
       }
     ],
     "edit-email": "wangxh1000@gmail.com",
@@ -4134,12 +4393,5 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594454405154,
     "title": "Andy Henson Series"
-  },
-  {
-    "create-email": "wangxh1000@gmail.com",
-    "create-time": 1594459993467,
-    "edit-email": "wangxh1000@gmail.com",
-    "edit-time": 1594459993470,
-    "title": "\u521d\u7ffb"
   }
 ]
