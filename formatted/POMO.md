@@ -1,5 +1,5 @@
 
 # Backlinks
-## [July 10th, 2020](July 10th, 2020.md)
-- In Progress {{[POMO](POMO.md)}
+## [Team Kanban](Team Kanban.md)
+- [IN PROGRESS](IN PROGRESS.md) {{[POMO](POMO.md)}
 

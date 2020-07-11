@@ -1294,7 +1294,7 @@
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594262194030,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594398552009,
+        "edit-time": 1594442566524,
         "emojis": [
           {
             "emoji": {
@@ -1308,15 +1308,15 @@
             ]
           }
         ],
-        "string": "\u5b8c\u6210 [[\u7ffb\u8bd1: What is Roam?]]",
+        "string": "[[\u7ffb\u8bd1: What is Roam?]]",
         "uid": "83yIQ6_rs"
       },
       {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594262197648,
-        "edit-email": "wuxuebin1993@gmail.com",
-        "edit-time": 1594346139854,
-        "string": "\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]]",
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594442577222,
+        "string": "[[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]]",
         "uid": "d1OFsUczr"
       }
     ],
@@ -2045,100 +2045,28 @@
       {
         "children": [
           {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594400332915,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594400356484,
-                    "string": "For U: \u6240\u6709\u60f3\u5230\u7684\u4efb\u4f55\u4e8b\u60c5\u4e8b\u60c5\u5148\u4e22 [[Backlog]] \u54e6~",
-                    "uid": "xPYJQ9ZGJ"
-                  }
-                ],
-                "create-email": "lv460051518@gmail.com",
-                "create-time": 1594364796372,
-                "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594375479085,
-                "string": "Ready For Development",
-                "uid": "yf1s5vBUb"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594364823108,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594395911565,
-                    "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-12 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
-                    "uid": "QlX3ppgzT"
-                  }
-                ],
-                "create-email": "lv460051518@gmail.com",
-                "create-time": 1594364805290,
-                "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594375483783,
-                "string": "In Progress {{[[POMO]]}}",
-                "uid": "jAH091GG2"
-              },
-              {
-                "create-email": "lv460051518@gmail.com",
-                "create-time": 1594375484786,
-                "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594375488078,
-                "string": "In Review",
-                "uid": "4HjJaiP4A"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594365426795,
-                    "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1594399462687,
-                    "string": "((83yIQ6_rs)) #wangxh1000",
-                    "uid": "NdTtrHfma"
-                  },
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594375510765,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594375559549,
-                    "string": "((sHSjstNjs))",
-                    "uid": "ae16tW6_d"
-                  },
-                  {
-                    "create-email": "wangxh1000@gmail.com",
-                    "create-time": 1594342948178,
-                    "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1594399472400,
-                    "string": "\u5b8c\u6210\u6821\u5bf9 [[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]] #wangxh1000",
-                    "uid": "S2fxgpaNY"
-                  }
-                ],
-                "create-email": "lv460051518@gmail.com",
-                "create-time": 1594364809513,
-                "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594397475877,
-                "string": "Done",
-                "uid": "SC3WGpLVC"
-              }
-            ],
-            "create-email": "lv460051518@gmail.com",
-            "create-time": 1594364792224,
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594375467807,
-            "string": "{{[[kanban]]}}",
-            "uid": "uWGbRlO7C"
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594443922510,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594444026484,
+            "string": "\u628a public roam \u7684\u6a21\u677f\u8c03\u4e3a\u9ed8\u8ba4",
+            "uid": "Kav4k1NMl"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594444041562,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594444074454,
+            "string": "\u8bf7\u5927\u5bb6\u7528 [[Roam Toolkit]] \u63d2\u4ef6\u505a\u5404\u81ea\u7684\u5b9a\u5236",
+            "uid": "qzdHwM5I-"
           }
         ],
-        "create-email": "lv460051518@gmail.com",
-        "create-time": 1594364783386,
-        "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594397234123,
-        "string": "#[[Team Kanban]]",
-        "uid": "2MraIFWdD"
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594444026479,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594444114766,
+        "string": "#Tips: \u56e0\u4e3a\u73b0\u5728\u7528\u7684 [[azlen]] \u7684\u7eff\u8272\u6a21\u677f\u4e0d\u662f100%\u4f18\u5316\u7684\uff0c\u4e3a\u4e86\u517c\u987e\u6240\u6709\u6210\u5458\u5b9a\u4e49\u6a21\u677f\u7684\u9700\u8981 #[[JimmyLv]] #wangxh1000",
+        "uid": "-mWDBA8qM"
       }
     ],
     "edit-email": "wangxh1000@gmail.com",
@@ -2182,6 +2110,16 @@
     "title": "Done"
   },
   {
+    "children": [
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594443076579,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594443076579,
+        "string": "",
+        "uid": "3Iby1mckl"
+      }
+    ],
     "create-email": "lv460051518@gmail.com",
     "create-time": 1594364796376,
     "edit-email": "lv460051518@gmail.com",
@@ -2356,9 +2294,9 @@
           {
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594375516360,
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594390803259,
-            "string": "{{[[DONE]]}}  \u6d4b\u8bd5\uff1a\u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210",
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443246080,
+            "string": "{{[[TODO]]}}  \u6d4b\u8bd5\uff1a\u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210",
             "uid": "sHSjstNjs"
           },
           {
@@ -2408,11 +2346,99 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "wangxh1000@gmail.com",
+                    "create-time": 1594443612890,
+                    "edit-email": "wangxh1000@gmail.com",
+                    "edit-time": 1594443612890,
+                    "string": "\u628a\u770b\u677f\u5d4c\u5728\u6bcf\u65e5\u65e5\u62a5\u7684\u5f00\u5934\uff0c\u7b14\u8bb0\u672c\u4e0a\uff0c\u6240\u6709\u7a7a\u95f4\u90fd\u88ab\u5360\u4e86\uff0c\u57fa\u672c\u6ca1\u6709\u5199\u65e5\u5fd7\u7684\u51b2\u52a8\u3002",
+                    "uid": "ijEZ87o62"
+                  },
+                  {
+                    "create-email": "wangxh1000@gmail.com",
+                    "create-time": 1594443614074,
+                    "edit-email": "wangxh1000@gmail.com",
+                    "edit-time": 1594443705632,
+                    "string": "\u5982\u679c\u8981\u6bcf\u5929\u90fd\u624b\u52a8\u5d4c\u4e00\u4e0b kanban block\uff0c\u662f\u4e2a\u624b\u5de5\u6d3b\u3002\u800c\u4e14\u8fd8\u8981\u8bb0\u5f97\u5220\u9664\u524d\u4e00\u5929\u5d4c\u5165\u7684 kanban\u3002\u5426\u5219\uff0c\u6574\u4e2a\u65e5\u8bb0\u533a\u6eda\u52a8\u8d77\u6765\uff0c\u5c31\u90fd\u662f\u91cd\u590d\u7684 kanban \u5185\u5bb9\uff0c\u65e5\u8bb0\u533a\u5c31\u5e9f\u4e86",
+                    "uid": "02pvGDZbz"
+                  },
+                  {
+                    "create-email": "wangxh1000@gmail.com",
+                    "create-time": 1594443418612,
+                    "edit-email": "wangxh1000@gmail.com",
+                    "edit-time": 1594443612893,
+                    "string": "\u79fb\u6389\u4ee5\u540e\uff0c\u53ea\u8981\u70b9\u51fb`Shortcuts`\u5c31\u80fd\u5feb\u901f\u8fdb\u5165\u770b\u677f\u9875\uff0c\u628a\u7a7a\u95f4\u8fd8\u7ed9\u65e5\u8bb0\u533a",
+                    "uid": "cp_P_MbCb"
+                  }
+                ],
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443603033,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443603033,
+                "string": "#wangxh1000: \u8fd9\u6837\u505a\u9488\u5bf9\u7684\u95ee\u9898",
+                "uid": "HblCWkUXj"
+              }
+            ],
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594442718396,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443722765,
+            "string": "\u62bd\u53d6 [[Team Kanban]] \u9875\uff0c\u94fe\u63a5\u52a0\u5165`Shortcuts`",
+            "uid": "uHpkyqSSE"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594443709659,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443799104,
+            "string": "\u7ed9 kanban \u6807\u9898\u53c2\u7167 Roam \u793a\u4f8b\u52a0 `[[ ]]`\u4fee\u9970\uff0c\u8fd9\u6837\u65b9\u4fbf\u70b9\u51fb\u5230 TODO \u548c DONE \u7684\u5217\u8868",
+            "uid": "S4mc-39zB"
+          },
+          {
+            "children": [
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443779811,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443834178,
+                "string": "\u6682\u65f6\u770b\u4e0a\u53bb\u7528\u4e0d\u7740",
+                "uid": "UIMOim-xi"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443840240,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443882613,
+                "string": "\u770b\u677f\u5bbd\u5ea6\u6709\u9650\uff0c\u4e0d\u8c03\u6574\u683c\u5f0f\u7684\u60c5\u51b5\u4e0b\u53ea\u80fd\u663e\u793a\u4e09\u5217\u3002\u4f3c\u4e4e\u5b98\u65b9\u793a\u4f8b\u4e5f\u53ea\u662f\u4e09\u5217",
+                "uid": "Ojs82VPXW"
+              }
+            ],
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594443827337,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443827337,
+            "string": "\u5220\u9664 `In Review` \u5217",
+            "uid": "GeLxqJQvD"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594443556318,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594444137923,
+        "string": "\u91cd\u6784 [[Team Kanban]] ",
+        "uid": "oNG5n8GSP"
+      },
+      {
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594399011877,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594399257784,
-        "string": "{{embed: ((((uWGbRlO7C))))}}",
+        "edit-time": 1594444179611,
+        "string": "To #JimmyLv: \u4e0a\u9762\u7684\u8c03\u6574\u6211\u6ca1\u5148",
         "uid": "k_-qdE15g"
       }
     ],
@@ -2421,6 +2447,96 @@
     "title": "July 11th, 2020"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443115544,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443115554,
+                "string": "For U: \u6240\u6709\u60f3\u5230\u7684\u4efb\u4f55\u4e8b\u60c5\u4e8b\u60c5\u5148\u4e22 [[Backlog]] \u54e6~",
+                "uid": "FbtmgSUvi"
+              }
+            ],
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594443115544,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443155936,
+            "string": "[[TODO]]",
+            "uid": "zrWssoz1T"
+          },
+          {
+            "children": [
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443115544,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443115554,
+                "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-12 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
+                "uid": "drRTammVu"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443115544,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443890890,
+                "string": "\u6821\u5bf9 [[Effective Note-Taking]] Lesson 2 #wangxh1000",
+                "uid": "ews7g9UJ4"
+              }
+            ],
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594443115544,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443187518,
+            "string": "[[IN PROGRESS]] {{[[POMO]]}}",
+            "uid": "rtf05cQrU"
+          },
+          {
+            "children": [
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443115544,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443115555,
+                "string": "\"[[\u7ffb\u8bd1: What is Roam?]]\" #wangxh1000",
+                "uid": "Cqt0mUlws"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443115544,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443115555,
+                "string": "\"{{[[DONE]]}}  \u6d4b\u8bd5\uff1a\u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210\"",
+                "uid": "ol3EcFus8"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594443115544,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594443115555,
+                "string": "[[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]] #wangxh1000",
+                "uid": "2ZbqDuJnc"
+              }
+            ],
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594443115544,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594443231355,
+            "string": "[[DONE]]",
+            "uid": "kqMvNbJx7"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594443115544,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594443115554,
+        "string": "{{[[kanban]]}}",
+        "uid": "VqWKYvPqX"
+      }
+    ],
     "create-email": "lv460051518@gmail.com",
     "create-time": 1594397234124,
     "edit-email": "lv460051518@gmail.com",
@@ -2447,5 +2563,143 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594398687241,
     "title": "- Translator"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594442273727,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594442273738,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[Done]] #[[\u672a\u53d1\u5e03]]",
+            "uid": "p9qWFBT0-"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594442273727,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594442273738,
+            "string": "Source:: #[[Effective Note-Taking]] ",
+            "uid": "GmQGP0xQz"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594442273727,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594442273739,
+            "string": "Translator:: #wangxh1000",
+            "uid": "Dnwu-edhl"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594442273727,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594442473391,
+            "string": "Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7",
+            "uid": "yOzCL26hl"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594442255952,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594442282607,
+        "string": "Metadata::",
+        "uid": "oZfHswTbH"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594442474130,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594442474130,
+        "string": "",
+        "uid": "o4axs-LIH"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594442473833,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594442473833,
+        "string": "",
+        "uid": "UTIYd0VRJ"
+      }
+    ],
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594442255957,
+    "title": "[[Effective Note-Taking]] Lesson 2"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594442273728,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594442273738,
+    "title": "    - Tags"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594442273729,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594442273738,
+    "title": "    - Source"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594442273730,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594442273739,
+    "title": "    - Translator"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594442282609,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594442282610,
+    "title": "Metadata"
+  },
+  {
+    "children": [
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1594443221332,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1594443221323,
+        "string": "",
+        "uid": "vrKjUZ2qY"
+      }
+    ],
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594443187519,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594443187519,
+    "title": "IN PROGRESS"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594443482012,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594443482022,
+    "title": "wangxh1000:"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594443969658,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594443969666,
+    "title": "azlen"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594444037804,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594444037811,
+    "title": "Tips:"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1594444179613,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1594444179614,
+    "title": "JimmyLv:"
   }
 ]

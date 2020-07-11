@@ -1,0 +1,10 @@
+- {{[[kanban]]}}
+    - [[TODO]]
+        - For U: 所有想到的任何事情事情先丢 [[Backlog]] 哦~
+    - [[IN PROGRESS]] {{[[POMO]]}}
+        - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
+        - 校对 [[Effective Note-Taking]] Lesson 2 #wangxh1000
+    - [[DONE]]
+        - "[[翻译: What is Roam?]]" #wangxh1000
+        - "{{[[DONE]]}}  测试：紧急事情来啦 [[July 12th, 2020]] 必须完成"
+        - [[[[Effective Note-Taking]] Lesson 1 关键概念 ]] #wangxh1000
