@@ -1,0 +1,7 @@
+- 吕立青
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F7629hteEIk.png?alt=media&token=ed0f9182-98d2-42a7-be47-149e5a384c68)
+- 想做产品，却误入程序世界爱上设计的摄影师。 
+- 微信：jimmylv_jing (Roam Believer) 
+- 微信公众号：「鸡米油菜花」 
+- 博客：https://blog.jimmylv.info/
+- 少数派专栏：https://sspai.com/u/jimmylv/
