@@ -24,7 +24,7 @@
 - Now we return to the daily notes and dates. You may have seen on the slash commands menu some date-related ones. Yesterday, Today, Tomorrow, and Date Picker. These are all convenient shortcuts to creating a correctly formatted daily note page reference.
 - The date picker pops up a calendar so you can create any date. Combine this with TODOs and the backlinks it gives you a compelling task management and planning system.
 - ^^It's best understood with an illustration. ^^I use this technique as part of a weekly plan I create in Roam. I'll be covering more about this use-case in a future lesson.
-- Here's a snippet of my weekly plan for the upcoming weekend, you'll see I have tagged each day with its date using the /date commands to pick the dates. (Actually, I use a TextExpander snippet to create them for me automatically).
+- Here's a snippet of my weekly plan for the upcoming weekend, ^^you'll see I have tagged each day with its date using the /date commands to pick the dates^^. (Actually, I use a TextExpander snippet to create them for me automatically).
 - Now, when I am on the daily note page for Saturday, I'll see this information show up in the linked references.
 - While we're on the topic of dates, let's also briefly mention the /Current Time slash command. This just inserts the current time, e.g. 07:43. I have found this is an excellent habit to cultivate when you are adding a thought on your daily notes page, perhaps you're tracking how you feel throughout the day, or as I do, practice Interstitial Journaling.
 - You get a rapid way of looking back and seeing precisely what time and date you came up with ideas and is a handy way of using daily notes.
