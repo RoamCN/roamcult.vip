@@ -2319,6 +2319,16 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594516164912,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594516168750,
+            "string": "https://www.airr.io/quote/5eedf8b8d1e72c55088fccee",
+            "uid": "bx12IPNT1"
+          }
+        ],
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594373721961,
         "edit-email": "lv460051518@gmail.com",
@@ -2376,8 +2386,8 @@
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594396397519,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594396624199,
-            "string": "\u8d44\u6e90\u63a8\u8350 [Top 5 Roam Research Tips for Beginners - YouTube](https://www.youtube.com/watch?v=b2Q5bAhtV9Y)",
+            "edit-time": 1594516195860,
+            "string": "\u8d44\u6e90\u63a8\u8350 [Top 5 Roam Research Tips for Beginners - YouTube](https://www.youtube.com/watch?v=b2Q5bAhtV9Y) [[Zack Fan]]",
             "uid": "UfeP6iHxz"
           },
           {
@@ -2483,10 +2493,30 @@
     "title": "Jessie"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594516140782,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594516153415,
+            "string": "https://www.airr.io/quote/5eedf8b8d1e72c55088fccee",
+            "uid": "ZKh9k9o8W"
+          }
+        ],
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594516140782,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594516153415,
+        "string": "#[[Quick Capture]]",
+        "uid": "qxH4JdIG1"
+      }
+    ],
     "create-email": "lv460051518@gmail.com",
-    "create-time": 1594366380935,
+    "create-time": 1594516140782,
     "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594366380940,
+    "edit-time": 1594516153415,
     "title": "July 12th, 2020"
   },
   {
@@ -4959,5 +4989,19 @@
     "edit-email": "wuxuebin1993@gmail.com",
     "edit-time": 1594481111245,
     "title": "roam\u4e92\u52a8\u6559\u5b66"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594516153422,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594516153425,
+    "title": "Quick Capture"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594516195872,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594516195878,
+    "title": "Zack Fan"
   }
 ]
