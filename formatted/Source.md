@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 2]([Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
-- **[Tags](Tags.md):** #[翻译](翻译.md) #[Done](Done.md) #[未发布](未发布.md)
+- **[Tags](Tags.md):** #[翻译](翻译.md)
     - **[Source](Source.md):**
 
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
