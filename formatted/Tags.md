@@ -20,6 +20,14 @@
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
+## [文本](文本.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
+## [社区建设](社区建设.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**

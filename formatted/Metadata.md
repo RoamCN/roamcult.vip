@@ -15,6 +15,12 @@
 ## [文字教程翻译](文字教程翻译.md)
 - **[Metadata](Metadata.md):**
 
+## [文本](文本.md)
+- **[Metadata](Metadata.md):**
+
+## [社区建设](社区建设.md)
+- **[Metadata](Metadata.md):**
+
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
 - **[Metadata](Metadata.md):**
 
