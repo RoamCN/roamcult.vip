@@ -28,6 +28,14 @@
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
+## [视频](视频.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
+## [视频教程制作](视频教程制作.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
 ## [视频翻译及字幕制作](视频翻译及字幕制作.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
