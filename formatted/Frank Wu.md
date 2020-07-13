@@ -1,3 +1,8 @@
+- 位置：上海
+- 工作：咨询公司合伙人
+- 微信：requiemi
+- 微信公众号：「走出肖申克」 
+- 爱好：读书、摄影、吉他
 
 # Backlinks
 ## [Team Kanban](Team Kanban.md)
