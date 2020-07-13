@@ -2492,16 +2492,16 @@
                 "create-email": "wangxh1000@gmail.com",
                 "create-time": 1594463055730,
                 "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594486414901,
-                "string": "\u5907\u4efd\u7684\u6307\u5bfc\u89c6\u9891",
+                "edit-time": 1594617125053,
+                "string": "[\u5982\u4f55\u81ea\u52a8\u5316\u5907\u4efd Roam Research\uff1f](https://b23.tv/bbXDVg)",
                 "uid": "Yoqb5S6_D"
               },
               {
                 "create-email": "wangxh1000@gmail.com",
                 "create-time": 1594486272317,
                 "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594486418869,
-                "string": "Roam \u6709\u591a\u8d35\u7684\u89c6\u9891",
+                "edit-time": 1594617068243,
+                "string": "[\u7528 Roam Research \u5230\u5e95\u5f97\u82b1\u591a\u5c11\u94b1\uff1f](https://b23.tv/OR0qac)",
                 "uid": "jwjUcMZHe"
               }
             ],
@@ -3185,6 +3185,19 @@
         "create-time": 1594450325301,
         "edit-email": "wangxh1000@gmail.com",
         "edit-time": 1594450857667,
+        "emojis": [
+          {
+            "emoji": {
+              "native": "\ud83d\udc4d"
+            },
+            "users": [
+              {
+                "email": "wuxuebin1993@gmail.com",
+                "time": 1594626957326
+              }
+            ]
+          }
+        ],
         "string": "#wangxh1000 \u5728\u6574\u7406 #Alex \u5206\u7ba1\u7684\u4e24\u5757\u4e8b\u52a1\u7684\u4fe1\u606f\u7684\u65f6\u5019\uff0c\u5fc3\u91cc\u8fd8\u662f\u6709\u4e9b\u611f\u89e6 #[[\u60f3\u6cd5]]",
         "uid": "AfJpUKplr"
       },
@@ -3423,6 +3436,19 @@
                 "create-time": 1594443115544,
                 "edit-email": "wangxh1000@gmail.com",
                 "edit-time": 1594443115555,
+                "emojis": [
+                  {
+                    "emoji": {
+                      "native": "\ud83d\udc4d"
+                    },
+                    "users": [
+                      {
+                        "email": "wuxuebin1993@gmail.com",
+                        "time": 1594626119209
+                      }
+                    ]
+                  }
+                ],
                 "string": "\"[[\u7ffb\u8bd1: What is Roam?]]\" #wangxh1000",
                 "uid": "Cqt0mUlws"
               },
