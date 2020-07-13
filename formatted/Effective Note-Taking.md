@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 2]([Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
-- **[Source](Source.md):** #[Effective Note-Taking](Effective Note-Taking.md)
+Source:: #[Effective Note-Taking](Effective Note-Taking.md)
 
 ## [周报Newsletter 2020-07-04 001期](周报Newsletter 2020-07-04 001期.md)
 
