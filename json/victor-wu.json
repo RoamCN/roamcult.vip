@@ -2605,6 +2605,16 @@
             "uid": "MxEOvT0xA"
           },
           {
+            "children": [
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1594723862271,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1594723945960,
+                "string": "\u5ef6\u4f38\u4e00\u4e0b\u5bfc\u822a\u7684feature![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FvwIsGtxX0C.png?alt=media&token=243a26d9-73b8-415e-a6be-fe38dbcdfed2)",
+                "uid": "eB-hRLuXT"
+              }
+            ],
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594721682728,
             "edit-email": "wangxh1000@gmail.com",
@@ -2635,9 +2645,40 @@
             "create-email": "jessie@fat-garage.com",
             "create-time": 1594713743622,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1594722786660,
-            "string": "[[RoamBrain]][[July 14th, 2020]]\u5efa\u7acb\u4e86Roam\u683c\u5f0f\u7684[\u620f\u5267\u548c\u8bd7\u6b4c\u6570\u636e\u5e93](https://roamresearch.com/#/app/roam_think/page/upbkluv6Y)\u3002\u5305\u62ec\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a\uff0c\u5a01\u5ec9\u00b7\u5e03\u96f7\u514b\uff0c\u585e\u7f2a\u5c14\u00b7\u6cf0\u52d2\u00b7\u79d1\u5c14\u91cc\u5947\uff0c\u827e\u7c73\u4e3d\u00b7\u72c4\u91d1\u68ee\uff0cTS\u827e\u7565\u7279\u548c\u7ea6\u7ff0\u00b7\u7c73\u5c14\u987f\u7684\u4f5c\u54c1\u3002",
+            "edit-time": 1594723738164,
+            "emojis": [
+              {
+                "emoji": {
+                  "native": "\ud83e\udd2f"
+                },
+                "users": [
+                  {
+                    "email": "jessie@fat-garage.com",
+                    "time": 1594722821806
+                  }
+                ]
+              }
+            ],
+            "string": "[[RoamBrain]][[July 14th, 2020]]\u5efa\u7acb\u4e86Roam\u683c\u5f0f\u7684[\u620f\u5267\u548c\u8bd7\u6b4c\u6570\u636e\u5e93](https://roamresearch.com/#/app/roam_think/page/upbkluv6Y)\u3002\u5305\u62ec\u5a01\u5ec9\u00b7\u838e\u58eb\u6bd4\u4e9a\uff0c\u5a01\u5ec9\u00b7\u5e03\u96f7\u514b\uff0c\u585e\u7f2a\u5c14\u00b7\u6cf0\u52d2\u00b7\u79d1\u5c14\u91cc\u5947\uff0c\u827e\u7c73\u4e3d\u00b7\u72c4\u91d1\u68ee\uff0cTS\u827e\u7565\u7279\u548c\u7ea6\u7ff0\u00b7\u7c73\u5c14\u987f\u7684\u4f5c\u54c1\u3002![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FkhD4-T5zOQ.png?alt=media&token=8d8c29cf-8fcb-4ae9-b6d7-fd24caa1ceb1)",
             "uid": "1RAM1I60k"
+          },
+          {
+            "children": [
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1594724586895,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1594724790208,
+                "string": "\u8bfe\u5802\u7b14\u8bb0\u3001\u8bfb\u4e66\u7b14\u8bb0\u3001\u65e5\u8bb0\u4ee5\u53ca\u767d\u65e5\u68a6\u3002\u6211\u751a\u81f3\u89c9\u5f97\u6211\u4eec\u4f5c\u4e3a\u5927\u4eba\u6ca1\u6709\u5b69\u5b50\u4eec\u505a\u7684\u4e00\u534a\u597d\uff0c\u5f53\u7136\u65f6\u95f4\u5c11\u53ef\u80fd\u662f\u4e3b\u8981\u7684\u501f\u53e3\uff0c\u8bb0\u591a\u5c11\u5b57\u4e0d\u662f\u91cd\u70b9\uff0c\u91cd\u70b9\u662f\u4f60\u4ece\u8bb0\u7684\u4e1c\u897f\u91cc\u8981\u53cd\u590d\u7684\u770b\u3001\u53cd\u590d\u7684\u5b66\u4e60\u3001\u53cd\u590d\u7684\u63d0\u95ee\u3002",
+                "uid": "wSFEyLlq4"
+              }
+            ],
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1594722827086,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1594724803138,
+            "string": "[[RoamBrain]]\u7684\u6559\u80b2\u5e94\u7528\u6848\u4f8b\uff1a\u6211\u4eec\u96be\u9053\u4e0d\u5e94\u8be5\u50cf\u5b69\u5b50\u4e00\u6837\u5b66\u4e60\u5417\uff1f",
+            "uid": "0pXd9st19"
           }
         ],
         "create-email": "lv460051518@gmail.com",
