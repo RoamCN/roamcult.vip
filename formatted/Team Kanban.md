@@ -27,8 +27,6 @@
 
 - [wangxh1000](wangxh1000.md) 在 [Team Kanban](Team Kanban.md)
 
-- 我因为参与了 [Alex](Alex.md) [文字教程翻译](文字教程翻译.md) 部分的工作，我是在 Roam [Team Kanban](Team Kanban.md)
-
 ## [July 13th, 2020](July 13th, 2020.md)
 - 更新 [Team Kanban](Team Kanban.md)
 
