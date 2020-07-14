@@ -7,6 +7,9 @@
 ## [July 11th, 2020](July 11th, 2020.md)
 - [Backlog](Backlog.md)
 
+## [July 14th, 2020](July 14th, 2020.md)
+- 建议：把官方 Help Vedios 的短视频中文化，进视频渠道 #[Backlog](Backlog.md)
+
 ## [Team Kanban](Team Kanban.md)
 - [Backlog](Backlog.md)
 
