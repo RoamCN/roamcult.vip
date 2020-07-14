@@ -1,1 +1,1 @@
-- 
+- [[[[Effective Note-Taking]] Lesson 1 关键概念 ]]

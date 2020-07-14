@@ -1,4 +1,4 @@
-- 
+- [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]]
 
 # Backlinks
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 2]([Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
