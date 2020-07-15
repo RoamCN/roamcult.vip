@@ -2465,12 +2465,30 @@
             "uid": "bx12IPNT1"
           },
           {
-            "create-email": "lv460051518@gmail.com",
-            "create-time": 1594778851101,
+            "children": [
+              {
+                "create-email": "cwhitesullivan@gmail.com",
+                "create-time": 1594346348121,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594779373550,
+                "string": "#[[Hidden Features]] [Mermaid Diagrams](https://roamresearch.com/#/app/help/page/kw78QlSZ6) \u4f7f\u7528 Roam \u753b\u6d41\u7a0b\u56fe",
+                "uid": "vi0tKtsJG"
+              },
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1594779376365,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594779463553,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F-o-W78GzCI.png?alt=media&token=c2247e1f-daff-438c-a857-12b081bff75b)",
+                "uid": "2Ujy3uhMt"
+              }
+            ],
+            "create-email": "cwhitesullivan@gmail.com",
+            "create-time": 1594346343716,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594778851101,
-            "string": "",
-            "uid": "JpfFALa7_"
+            "edit-time": 1594779163790,
+            "string": "[[New Features]] \u65b0\u7279\u6027",
+            "uid": "gXVc9ACXs"
           }
         ],
         "create-email": "lv460051518@gmail.com",
@@ -2490,6 +2508,14 @@
             "edit-time": 1594728925511,
             "string": "\u65b0\u52a0\u5165 3 \u4f4d\u5c0f\u4f19\u4f34",
             "uid": "WqO2obX14"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594779028857,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594779058434,
+            "string": "\u4f7f\u7528 [[\u5fae\u4fe1\u5708\u5b50]] \u6c89\u6dc0\u5fae\u4fe1\u7fa4\u8ba8\u8bba\u7cbe\u534e\uff0c\u8d8a\u6765\u8d8a\u591a\u7fa4\u53cb\u79ef\u6781\u53c2\u4e0e \u270c\ufe0f",
+            "uid": "aZ51XojDS"
           }
         ],
         "create-email": "lv460051518@gmail.com",
@@ -2531,11 +2557,49 @@
           {
             "children": [
               {
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594779258894,
+                "string": "Roam \u5df2\u7ecf\u652f\u6301 \u901a\u8fc7 URL \u7684\u65b9\u5f0f\u5feb\u901f\u6dfb\u52a0\u5185\u5bb9\u81f3 `/#/quick-capture` \u4e86\uff0c\u4efb\u610f\u6d4f\u89c8\u5668\u6253\u5f00\u94fe\u63a5\u5373\u53ef https://roamresearch.com?text={\u8fd9\u91cc\u66ff\u6362\u4e3a\u4f60\u60f3\u6dfb\u52a0\u7684\u5185\u5bb9}#/quick-capture\u3002 \u53c2\u8003\u5b98\u65b9 [CHANGELOG](https://roamresearch.com/#/app/help/page/b3pinpDqv)",
+                "uid": "uOzGo9Een"
+              },
+              {
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594779012766,
+                "string": "\u798f\u5229\uff1a\u4f7f\u7528 Alfred \u7684\u670b\u53cb\u53ef\u4ee5\u901a\u8fc7\u4ee5\u4e0b\u94fe\u63a5\u5feb\u901f\u6dfb\u52a0\u4f7f\u7528 [alfred://customsearch/Quick%20Capture%20for%20%27%7Bquery%7D%27/r/utf8/nospace/https%3A%2F%2Froamresearch.com%3Ftext%3D%7Bquery%7D%23%2Fquick-capture](alfred://customsearch/Quick%20Capture%20for%20%27%7Bquery%7D%27/r/utf8/nospace/https%3A%2F%2Froamresearch.com%3Ftext%3D%7Bquery%7D%23%2Fquick-capture)",
+                "uid": "AksX3d0rc"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "lv460051518@gmail.com",
+                    "create-time": 1594733348693,
+                    "edit-email": "lv460051518@gmail.com",
+                    "edit-time": 1594779012765,
+                    "string": "{{[[DONE]]}} \u5feb\u901f\u6dfb\u52a0\u4f60\u60f3\u5230\u7684\u5185\u5bb9\n\u8fd9\u91cc\u8fd8\u53ef\u4ee5\u7ee7\u7eed\u7f16\u8f91\uff0c\u6216\u8005\u6dfb\u52a0 [[Roam \u5feb\u6377\u952e]]\n(\uff3e\uff0d\uff3e)",
+                    "uid": "TUJFcDrlJ"
+                  }
+                ],
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1594733348693,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594779012765,
+                "string": "\u793a\u4f8b\uff1a#[[Quick Capture]]",
+                "uid": "dx0buD2bw"
+              }
+            ],
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594779017524,
+            "string": "\ud83e\uddbe\u5982\u4f55\u901a\u8fc7 Alfred \u5feb\u901f\u6dfb\u52a0\u5185\u5bb9\u81f3 Roam Research #[[Quick Capture]]",
+            "uid": "pka38Gr3Q"
+          },
+          {
+            "children": [
+              {
                 "create-email": "lv460051518@gmail.com",
                 "create-time": 1594778866691,
                 "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594778866691,
-                "string": "",
+                "edit-time": 1594778919330,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F0FdQcHCs9v.png?alt=media&token=ded97c83-7a07-42c1-ab22-94077a53b239)",
                 "uid": "_CfDi4W6S"
               }
             ],
@@ -6953,5 +7017,26 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594742400834,
     "title": "July 15th, 2020"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594779012785,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594779012786,
+    "title": "Roam \u5feb\u6377\u952e"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594779158529,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594779158531,
+    "title": "New Features"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1594779158537,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1594779158538,
+    "title": "Hidden Features"
   }
 ]
