@@ -4,7 +4,14 @@ Metadata::
     初翻: [wangxh1000](wangxh1000.md)
     校对: [Alex](Alex.md)
     Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7
-
+------------------------------------------------------------------------------
+[x] 排版调整
+[ ] 校对
+    [ ] /命令
+    [ ] 格式
+    [ ] 日期和时间
+[ ] 排版检查和终校
+------------------------------------------------------------------------------
 [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 2]]
 
 原文：[[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 2]]
