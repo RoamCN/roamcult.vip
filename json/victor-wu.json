@@ -2463,6 +2463,14 @@
             "edit-time": 1594516168750,
             "string": "https://www.airr.io/quote/5eedf8b8d1e72c55088fccee",
             "uid": "bx12IPNT1"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1594778851101,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594778851101,
+            "string": "",
+            "uid": "JpfFALa7_"
           }
         ],
         "create-email": "lv460051518@gmail.com",
@@ -2521,11 +2529,21 @@
             "uid": "meOYi9TLQ"
           },
           {
+            "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1594778866691,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1594778866691,
+                "string": "",
+                "uid": "_CfDi4W6S"
+              }
+            ],
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594397522902,
-            "edit-email": "wuxuebin1993@gmail.com",
-            "edit-time": 1594481832935,
-            "string": "\u4f7f\u7528 [[Keyboard Maestro]] \u5feb\u901f\u8f93\u5165 `[[]]",
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1594778865065,
+            "string": "\u4f7f\u7528 [[Keyboard Maestro]] \u5feb\u901f\u8f93\u5165 `[[]]` \u7b26\u53f7",
             "uid": "LEpb53L6H"
           },
           {
@@ -2869,6 +2887,17 @@
               {
                 "email": "wuxuebin1993@gmail.com",
                 "time": 1594633112624
+              }
+            ]
+          },
+          {
+            "emoji": {
+              "native": "\ud83d\udc4d"
+            },
+            "users": [
+              {
+                "email": "lv460051518@gmail.com",
+                "time": 1594778783091
               }
             ]
           }
@@ -3666,13 +3695,6 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594397234134,
     "title": "Team Kanban"
-  },
-  {
-    "create-email": "lv460051518@gmail.com",
-    "create-time": 1594397471257,
-    "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594397471258,
-    "title": ""
   },
   {
     "create-email": "lv460051518@gmail.com",
@@ -4899,6 +4921,19 @@
         "create-time": 1594548658195,
         "edit-email": "wangxh1000@gmail.com",
         "edit-time": 1594548763376,
+        "emojis": [
+          {
+            "emoji": {
+              "native": "\ud83d\udcaa"
+            },
+            "users": [
+              {
+                "email": "lv460051518@gmail.com",
+                "time": 1594778819875
+              }
+            ]
+          }
+        ],
         "string": "\u8003\u7814\u4e2d\u3002[[July 12th, 2020]] \u540e\u7ea61\u4e2a\u534a\u6708\u5bc6\u96c6\u8bad\u7ec3\uff0c2020\u5e74\u5e95\u8003\u7814\u7ed3\u675f\uff0c\u6240\u4ee5\u8fd9\u6bb5\u65f6\u95f4\u57fa\u672c\u65e0\u6cd5\u53c2\u4e0e [[roam/cn]] \u7684\u4e8b\u52a1\u3002 ",
         "uid": "j6OQV-8nf"
       },
@@ -6905,6 +6940,16 @@
     "title": "RoamBrain"
   },
   {
+    "children": [
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1594778657289,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1594778657289,
+        "string": "",
+        "uid": "kQB-hFsMP"
+      }
+    ],
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594742400834,
     "title": "July 15th, 2020"
