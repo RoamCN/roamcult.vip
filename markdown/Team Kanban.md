@@ -3,7 +3,6 @@
     - [[TODO]]
         - For U: 所有想到的任何事情事情先丢 [[Backlog]] 哦~
         - Tips: 所有渠道看到的可能用于周报的信息都在这里记一笔
-        - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[[roam/cn]]
         - [[roam互动教学第一期]]#[[晚甘侯]]#Jessie
     - [[IN PROGRESS]]
         - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
@@ -13,6 +12,8 @@
         - [1.7- Soft Line Breaks & Cmd-shift-v](https://www.notion.so/1-7-Soft-Line-Breaks-Cmd-shift-v-db913a901cab43ff84cc19bf36ade4dd) #Alex #[[JΛKΞ]]
         - [1.8: The Sidebar](https://www.notion.so/1-8-The-Sidebar-95a50097bffc4629af02efd322e826ea)  #Alex #[[Frank Wu]]
         - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   #Alex #[[Frank Wu]]
+        - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[[roam/cn]]
+        - [[[[Effective Note-Taking]] Lesson 3]] #wangxh1000
     - [[DONE]]
         - "[[翻译: What is Roam?]]" #wangxh1000
         - "{{[[DONE]]}}  测试：紧急事情来啦 [[July 12th, 2020]] 必须完成"
