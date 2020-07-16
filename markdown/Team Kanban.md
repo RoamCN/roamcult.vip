@@ -14,6 +14,7 @@
         - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   #Alex #[[Frank Wu]]
         - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[[roam/cn]]
         - [[[[Effective Note-Taking]] Lesson 3]] #wangxh1000
+        - [[[[Effective Note-Taking]] Lesson 4]] #[[白瑞 Barry]]
     - [[DONE]]
         - "[[翻译: What is Roam?]]" #wangxh1000
         - "{{[[DONE]]}}  测试：紧急事情来啦 [[July 12th, 2020]] 必须完成"

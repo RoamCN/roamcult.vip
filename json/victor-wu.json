@@ -3686,6 +3686,14 @@
                 "edit-time": 1594780699847,
                 "string": "[[[[Effective Note-Taking]] Lesson 3]] #wangxh1000",
                 "uid": "k20RTGhkM"
+              },
+              {
+                "create-email": "ununoctiumuuo1@gmail.com",
+                "create-time": 1594893141992,
+                "edit-email": "ununoctiumuuo1@gmail.com",
+                "edit-time": 1594893326341,
+                "string": "[[[[Effective Note-Taking]] Lesson 4]] #[[\u767d\u745e Barry]]",
+                "uid": "MXkL-gY2G"
               }
             ],
             "create-email": "wangxh1000@gmail.com",
@@ -4995,6 +5003,10 @@
               {
                 "email": "lv460051518@gmail.com",
                 "time": 1594778819875
+              },
+              {
+                "email": "wangxh1000@gmail.com",
+                "time": 1594892962768
               }
             ]
           }
@@ -5875,6 +5887,14 @@
             "edit-time": 1594465275102,
             "string": "#[[wangxh1000]]",
             "uid": "C-dqyz8xZ"
+          },
+          {
+            "create-email": "ununoctiumuuo1@gmail.com",
+            "create-time": 1594893012937,
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1594893326341,
+            "string": "#[[\u767d\u745e Barry]]",
+            "uid": "s2xTFzLAE"
           }
         ],
         "create-email": "wangxh1000@gmail.com",
@@ -7142,6 +7162,16 @@
     "title": "Tips"
   },
   {
+    "children": [
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1594893182593,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1594893182593,
+        "string": "",
+        "uid": "ul2imt6hU"
+      }
+    ],
     "create-email": "wangxh1000@gmail.com",
     "create-time": 1594780699851,
     "edit-email": "wangxh1000@gmail.com",
@@ -7162,5 +7192,27 @@
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1594858817514,
     "title": "July 16th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1594893027108,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1594893027108,
+        "string": "",
+        "uid": "9YBc6s77F"
+      }
+    ],
+    "create-email": "ununoctiumuuo1@gmail.com",
+    "create-time": 1594893019602,
+    "edit-email": "ununoctiumuuo1@gmail.com",
+    "edit-time": 1594893326340,
+    "title": "\u767d\u745e Barry"
+  },
+  {
+    "edit-email": "ununoctiumuuo1@gmail.com",
+    "edit-time": 1594893230773,
+    "title": "[[Effective Note-Taking]] Lesson 4"
   }
 ]
