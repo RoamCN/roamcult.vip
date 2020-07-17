@@ -36,7 +36,7 @@
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
-## [视频翻译及字幕制作](视频翻译及字幕制作.md)
+## [视频翻译&字幕制作&发布](视频翻译&字幕制作&发布.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 

@@ -21,6 +21,6 @@
 
 #[Frank Wu](Frank Wu.md)
 
-## [视频翻译及字幕制作](视频翻译及字幕制作.md)
+## [视频翻译&字幕制作&发布](视频翻译&字幕制作&发布.md)
 - [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
 
