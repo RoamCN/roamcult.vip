@@ -4,7 +4,6 @@
         - For U: 所有想到的任何事情事情先丢 [[Backlog]] 哦~
         - Tips: 所有渠道看到的可能用于周报的信息都在这里记一笔
     - [[IN PROGRESS]]
-        - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
         - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) #Alex #[[Frank Wu]]
         - [1.5: Unlinked References](https://www.notion.so/1-5-Unlinked-References-9ab449a5dde74ef4bc016927fe2c46d1) #Alex #[[JΛKΞ]]
         - [1.6: The Navigation Bar](https://www.notion.so/1-6-The-Navigation-Bar-06e85b3e56614395a03409a01ea5322a) #Alex #[[Frank Wu]]
@@ -15,6 +14,7 @@
         - [[[[Effective Note-Taking]] Lesson 3]] #wangxh1000
         - [[[[Effective Note-Taking]] Lesson 4]] #[[白瑞 Barry]]
         - [[roam互动教学第一期]]#[[晚甘侯]]#Jessie
+        - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
     - [[DONE]]
         - "[[翻译: What is Roam?]]" #wangxh1000
         - "{{[[DONE]]}}  测试：紧急事情来啦 [[July 12th, 2020]] 必须完成"
