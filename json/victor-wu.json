@@ -7166,20 +7166,10 @@
         "uid": "DUTgJx4j2"
       },
       {
-        "children": [
-          {
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594683562199,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594695835090,
-            "string": "",
-            "uid": "_7o4vMrk5"
-          }
-        ],
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1594683562199,
-        "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594695803122,
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595046790344,
         "string": "#[[Quick Capture]]",
         "uid": "dCRwFjSkv"
       }
@@ -8087,14 +8077,6 @@
                 "uid": "Jx5K3ih_o"
               },
               {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1595042748841,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1595042751015,
-                "string": "\u5176\u4ed6",
-                "uid": "jymRhhj8n"
-              },
-              {
                 "children": [
                   {
                     "children": [
@@ -8248,16 +8230,16 @@
             "create-email": "jessie@fat-garage.com",
             "create-time": 1595044713351,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1595044867956,
-            "string": "draft\uff1aHi there,this is J from Roam/cn. We are building a community for Roam and we are wondering if it is possible for us to apply for a public graph account.",
+            "edit-time": 1595045698756,
+            "string": "Hi there,this is J from Roam/cn. We are building a community for Roam and we are wondering if it is possible for us to apply for a free public graph account.",
             "uid": "ust2NlzWt"
           },
           {
             "create-email": "jessie@fat-garage.com",
             "create-time": 1595045051324,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1595045051324,
-            "string": "Previously we are using personal graph for public usage, but with the growth of the community we got more contributors. There we are thinking to ",
+            "edit-time": 1595045398835,
+            "string": "Previously we are using personal graph for public usage, but with the growth of the community we got more contributors. From there we are thinking to make a public one.",
             "uid": "fDhi0Tnt-"
           },
           {
@@ -8271,6 +8253,16 @@
                 "uid": "CjNwv5PYc"
               },
               {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1595045430455,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595045575537,
+                    "string": "we will collect interesting discussion from various sources, e.g. wechat group,Quanzi(Chinese version of Quora),Bilibili(Chinese version of Youtube)",
+                    "uid": "YxvolMitn"
+                  }
+                ],
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1595045116022,
                 "edit-email": "jessie@fat-garage.com",
@@ -8279,35 +8271,107 @@
                 "uid": "LIKh_flH3"
               },
               {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1595045582452,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595045842456,
+                    "string": "record collaboration between contributors",
+                    "uid": "wz_vZtyGY"
+                  }
+                ],
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1595044875233,
                 "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1595045273039,
-                "string": "team **roam** management",
+                "edit-time": 1595045639388,
+                "string": "team **roam** management/organic self management",
                 "uid": "fjObk7nXu"
               },
               {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1595045290980,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595045671190,
+                    "string": "collective translation",
+                    "uid": "j4yg3KNBo"
+                  }
+                ],
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1595045154720,
                 "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1595045210154,
-                "string": "collective translation",
+                "edit-time": 1595045721747,
+                "string": "collective work/efforts\n",
                 "uid": "E3tGEopK1"
               }
             ],
             "create-email": "jessie@fat-garage.com",
             "create-time": 1595045075077,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1595045139570,
-            "string": "Expected use cases for public graph with collective intelligence\uff1a",
+            "edit-time": 1595045719940,
+            "string": "Current **use cases** for public graph with collective intelligence\uff1a",
             "uid": "8w7UgmTHi"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1595046081936,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595046146112,
+                    "string": "use for education; use for literature; use for academic; use for business etc.",
+                    "uid": "eDrOK6ZxM"
+                  }
+                ],
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1595045741322,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595045878795,
+                "string": "develop more use-case stories under different senarios like [[RoamBrain]]",
+                "uid": "mwHgtb8Cd"
+              },
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1595045889575,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595046137333,
+                "string": "onboard more good writing works as [[RoamcnCollection]] ",
+                "uid": "q2OnJIrY0"
+              }
+            ],
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595045722525,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595045737523,
+            "string": "Expected **use cases** for public graph with collective intelligence\uff1a",
+            "uid": "xVd48wMQA"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595046156154,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595046689596,
+            "string": "Thanks for Roam for creating such an amazing tool (though we all think it is way beyond just a \"tool\"), we want to grow up with it and experiment the collective intelligence of human and the power of the decentralized community. ",
+            "uid": "ed1jODv8p"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595046568787,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595046726509,
+            "string": "So let us know if we are lucky to get discounted account,thanks again!",
+            "uid": "XWnBycujT"
           }
         ],
         "create-email": "jessie@fat-garage.com",
         "create-time": 1595044673785,
         "edit-email": "jessie@fat-garage.com",
-        "edit-time": 1595044711743,
-        "string": "\u7533\u8bf7\u6559\u80b2\u4f18\u60e0\uff0c[[roam/cn]]public graph",
+        "edit-time": 1595046755567,
+        "string": "\u7533\u8bf7\u6559\u80b2\u4f18\u60e0\uff0c[[roam/cn]] public graph application (draft)",
         "uid": "lE_-6gx71"
       }
     ],
@@ -8328,5 +8392,12 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1595042193457,
     "title": "\u95ee\u9898"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595046037024,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595046037025,
+    "title": "RoamcnCollection"
   }
 ]
