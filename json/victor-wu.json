@@ -190,10 +190,28 @@
         "edit-time": 1592969163077,
         "string": "{{comments: ((236))",
         "uid": "rI9H9fLwI"
+      },
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595044470421,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595044506930,
+            "string": "{{[[comment]]}}\n\u8bd5\u8fc7\u8fd9\u4e2afeature\u5417\uff1f",
+            "uid": "gXiWwRwab"
+          }
+        ],
+        "create-email": "jessie@fat-garage.com",
+        "create-time": 1595044470422,
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595044470421,
+        "string": "{{comments: ((1692))",
+        "uid": "Fb4I8oJ0L"
       }
     ],
     "edit-email": "jessie@fat-garage.com",
-    "edit-time": 1592969163077,
+    "edit-time": 1595044470422,
     "title": "Roam/Comments"
   },
   {
@@ -2762,8 +2780,8 @@
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1594725065973,
                 "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1594725245513,
-                "string": "\u6211\u6709\u65f6\u5019\u60f3\uff0c**\u77e5\u8bc6\u7684\u8fb9\u754c\u5176\u5b9e\u662f\u4ece\u6211\u4eec\u7684\u5927\u8111\u4e2d\u95ee\u51fa\u6765\u7684**\uff0c\u5927\u8111\u5176\u5b9e\u77e5\u9053\u5f88\u591a\u4e8b\u60c5\u3002\u6709\u7684\u65f6\u5019\u6211\u4eec\u8be5\u51cf\u5c11\u4e0d\u505c\u5730\u95ee\u5916\u754c\uff0c\u95ee\u522b\u4eba\uff0c\u800c\u66f4\u5e94\u8be5\u95ee\u5927\u8111\u3001\u95ee\u81ea\u5df1\u3002\n\nRoam\u7684\u4f5c\u7528\uff0c\u4e5f\u662f\u8ba9\u4f60\u505c\u4e0b\u6765\uff0c\u628a\u81ea\u5df1\u5199\u51fa\u6765\u3002",
+                "edit-time": 1595043654194,
+                "string": "\u5176\u5b9e\u6709\u65f6\u5019\uff0c**\u77e5\u8bc6\u7684\u8fb9\u754c\u5176\u5b9e\u662f\u4ece\u6211\u4eec\u7684\u5927\u8111\u4e2d\u95ee\u51fa\u6765\u7684**\uff0c\u5927\u8111\u5176\u5b9e\u77e5\u9053\u5f88\u591a\u4e8b\u60c5\u3002\u6709\u7684\u65f6\u5019\u6211\u4eec\u8be5\u51cf\u5c11\u4e0d\u505c\u5730\u95ee\u5916\u754c\uff0c\u95ee\u522b\u4eba\uff0c\u800c\u66f4\u5e94\u8be5\u95ee\u5927\u8111\u3001\u95ee\u81ea\u5df1\u3002\n\nRoam\u7684\u4f5c\u7528\uff0c\u4e5f\u662f\u8ba9\u4f60\u505c\u4e0b\u6765\uff0c\u628a\u81ea\u5df1\u5199\u51fa\u6765\u3002",
                 "uid": "wufrP60Uo"
               }
             ],
@@ -7316,10 +7334,18 @@
     "children": [
       {
         "create-email": "wangxh1000@gmail.com",
+        "create-time": 1595043899835,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595043899835,
+        "string": "",
+        "uid": "PUY4gs2hD"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
         "create-time": 1594908316339,
         "edit-email": "wangxh1000@gmail.com",
-        "edit-time": 1594908442828,
-        "string": "\u4f60\u4eec\u6765\u8fc7\uff0c\u4e3a\u6b64\u8d21\u732e\u8fc7\u3002\u65e0\u8bba\u73b0\u5728\u8d70\u6216\u672a\u8d70\uff0c\u8fd9\u91cc\u603b\u523b\u7740\u4f60\u4eec\u7684\u540d\u5b57\u3002\u8c22\u8c22\u4f60\u4eec",
+        "edit-time": 1595043918050,
+        "string": "\u4f60\u4eec\u6765\u8fc7\uff0c\u4e3a\u6b64\u8d21\u732e\u3002\u65e0\u8bba\u73b0\u5728\u4f60\u5728\u6216\u672a\u5728\uff0c\u8fd9\u91cc\u603b\u6709\u4f60\u4eec\u7684\u540d\u5b57\u3002\u8c22\u8c22\u4f60\u4eec",
         "uid": "_BFsTRAtA"
       },
       {
@@ -7897,32 +7923,66 @@
                 "uid": "_ZK4r0e7P"
               },
               {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1595043322458,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1595043329783,
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fz6pIFVYyVg.png?alt=media&token=0be07f15-d16c-4a2b-ba4d-0725190b507d": {
+                      "height": null,
+                      "width": 580
+                    }
+                  }
+                },
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fz6pIFVYyVg.png?alt=media&token=0be07f15-d16c-4a2b-ba4d-0725190b507d)",
+                "uid": "tsFu51kyC"
+              },
+              {
                 "children": [
+                  {
+                    "create-email": "wangxh1000@gmail.com",
+                    "create-time": 1595043347787,
+                    "edit-email": "wangxh1000@gmail.com",
+                    "edit-time": 1595043401056,
+                    "string": "\u4f8b\u5982[[\u957f\u671f\u76ee\u6807]]\u9875\uff0c\u6211\u53ea\u77e5\u9053\u6709\u5934\u50cf\u7684\u884c\u88ab\u6539\u8fc7\uff0c\u4f46\u4e0d\u77e5\u9053\u4fee\u6539\u4e4b\u524d\u662f\u4ec0\u4e48\u5185\u5bb9",
+                    "uid": "JhMMLap-0"
+                  },
                   {
                     "children": [
                       {
                         "create-email": "wangxh1000@gmail.com",
-                        "create-time": 1595043149844,
-                        "edit-email": "wangxh1000@gmail.com",
-                        "edit-time": 1595043194609,
-                        "string": "\u6709\u5b8c\u5168\u65b0\u589e\u4e14\u672a\u88ab\u5f15\u7528\u7684",
-                        "uid": "MjG4aMXKK"
-                      },
-                      {
-                        "create-email": "wangxh1000@gmail.com",
                         "create-time": 1595043154961,
                         "edit-email": "wangxh1000@gmail.com",
-                        "edit-time": 1595043162551,
-                        "string": "\u6709\u4ece\u5176\u4ed6\u9875\u5f15\u7528\u7684",
+                        "edit-time": 1595043265318,
+                        "string": "\u6709\u76f4\u63a5\u4fee\u6539\u5176\u4ed6\u9875\uff0c\u5e76\u5728\u6b64\u5f15\u7528\u7684",
                         "uid": "2jjWcSX1M"
                       },
                       {
+                        "children": [
+                          {
+                            "create-email": "wangxh1000@gmail.com",
+                            "create-time": 1595043149844,
+                            "edit-email": "wangxh1000@gmail.com",
+                            "edit-time": 1595043229170,
+                            "string": "\u672a\u88ab\u5f15\u7528\u7684",
+                            "uid": "MjG4aMXKK"
+                          },
+                          {
+                            "create-email": "wangxh1000@gmail.com",
+                            "create-time": 1595043162692,
+                            "edit-email": "wangxh1000@gmail.com",
+                            "edit-time": 1595043232832,
+                            "string": "\u88ab\u5176\u4ed6\u9875\u5f15\u7528\u7684",
+                            "uid": "HNlQc5qFi"
+                          }
+                        ],
                         "create-email": "wangxh1000@gmail.com",
-                        "create-time": 1595043162692,
+                        "create-time": 1595043218237,
                         "edit-email": "wangxh1000@gmail.com",
-                        "edit-time": 1595043186915,
-                        "string": "\u6709\u5728\u8fd9\u91cc\u65b0\u589e\uff0c\u5230\u5176\u4ed6\u9875\u5f15\u7528\u7684",
-                        "uid": "HNlQc5qFi"
+                        "edit-time": 1595043218237,
+                        "string": "\u6709\u65b0\u589e",
+                        "uid": "An5PLqY_o"
                       }
                     ],
                     "create-email": "wangxh1000@gmail.com",
@@ -7936,16 +7996,16 @@
                     "create-email": "wangxh1000@gmail.com",
                     "create-time": 1595041566129,
                     "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1595041825866,
-                    "string": "\u8fd9\u662f\u4e2a\u95ee\u9898\uff0c\u4e4b\u524d\u6ca1\u6709\u534f\u4f5c\u8d77\u6765\uff0c\u6ca1\u6709\u53d1\u73b0\uff0c\u73b0\u5728\u4e00\u4e0b\u611f\u89c9\u5230\u4e0d\u4fbf",
+                    "edit-time": 1595043526686,
+                    "string": "\u8fd9\u4e2a\u95ee\u9898\uff0c\u4e4b\u524d\u6ca1\u6709\u534f\u4f5c\u8d77\u6765\uff0c\u6ca1\u6709\u53d1\u73b0\uff0c\u73b0\u5728\u4e00\u4e0b\u611f\u89c9\u5230\u95ee\u53f7",
                     "uid": "KHhOiClXL"
                   },
                   {
                     "create-email": "wangxh1000@gmail.com",
                     "create-time": 1595041825864,
                     "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1595041874704,
-                    "string": "\u6211\u76f8\u4fe1\u4e00\u5b9a\u6709 Roaman \u65e9\u6709\u9762\u5bf9\u540c\u6837\u7684\u95ee\u9898\uff0c\u5bf9\u6b64\uff0cRoam \u63a8\u8350\u7684\u505a\u6cd5\u662f\u4ec0\u4e48\uff1f",
+                    "edit-time": 1595043421649,
+                    "string": "[[\u95ee\u9898]]: \u6211\u76f8\u4fe1\u4e00\u5b9a\u6709 Roaman \u65e9\u6709\u9762\u5bf9\u540c\u6837\u7684\u95ee\u9898\uff0c\u5bf9\u6b64\uff0cRoam \u63a8\u8350\u7684\u505a\u6cd5\u662f\u4ec0\u4e48\uff1f",
                     "uid": "D3M9uJHP5"
                   }
                 ],
@@ -8027,6 +8087,14 @@
                 "uid": "Jx5K3ih_o"
               },
               {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1595042748841,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1595042751015,
+                "string": "\u5176\u4ed6",
+                "uid": "jymRhhj8n"
+              },
+              {
                 "children": [
                   {
                     "children": [
@@ -8081,21 +8149,13 @@
                 "uid": "0O3rDEaHi"
               },
               {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1595042748841,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1595042751015,
-                "string": "\u5176\u4ed6",
-                "uid": "jymRhhj8n"
-              },
-              {
                 "children": [
                   {
                     "create-email": "wangxh1000@gmail.com",
                     "create-time": 1595042771242,
                     "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1595042784321,
-                    "string": "\u4e0e\u7279\u5730\u4e3b\u9898\u76f8\u5173\u7684\u5185\u5bb9\u653e\u4e3b\u9898\u9875\u9762",
+                    "edit-time": 1595043577938,
+                    "string": "\u4e0e\u7279\u5b9a\u4e3b\u9898\u76f8\u5173\u7684\u5185\u5bb9\u653e\u4e3b\u9898\u9875\u9762",
                     "uid": "y6Izad4VX"
                   },
                   {
@@ -8138,8 +8198,8 @@
                         "create-email": "wangxh1000@gmail.com",
                         "create-time": 1595043003620,
                         "edit-email": "wangxh1000@gmail.com",
-                        "edit-time": 1595043010572,
-                        "string": "\u5728\u539f\u6709\u5185\u5bb9\u540e\u8865\u5145\u610f\u89c1",
+                        "edit-time": 1595043615881,
+                        "string": "\u5728\u539f\u6709\u5185\u5bb9\u540e\u8865\u5145\u610f\u89c1\uff1f",
                         "uid": "tavu98N7n"
                       },
                       {
@@ -8154,8 +8214,8 @@
                     "create-email": "wangxh1000@gmail.com",
                     "create-time": 1595042991460,
                     "edit-email": "wangxh1000@gmail.com",
-                    "edit-time": 1595043042169,
-                    "string": "\u5bf9\u4e4b\u524d\u5df2\u7ecf\u5f62\u6210\u6682\u65f6\u5b9a\u8bba\u7684\u516c\u5171\u7ed3\u8bba\u4e0d\u8981\u76f4\u63a5\u4fee\u6539",
+                    "edit-time": 1595043599006,
+                    "string": "\u5bf9\u4e4b\u524d\u5df2\u7ecf\u6682\u65f6\u5f62\u6210\u5b9a\u8bba\u7684\u516c\u5171\u7ed3\u8bba\u4e0d\u8981\u76f4\u63a5\u4fee\u6539",
                     "uid": "b6EADjU1n"
                   }
                 ],
@@ -8169,9 +8229,9 @@
             ],
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1595041535693,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1595041566060,
-            "string": "\u6211\u770b\u4e86\u4e0b[[Betapha]]\u7684\u5185\u5bb9\uff0c\u6709\u51e0\u4e2a\u95ee\u9898",
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595044467957,
+            "string": "\u6211\u770b\u4e86\u4e0b[[Betapha]]\u7684\u5185\u5bb9\uff0c\u6709\u51e0\u4e2a\u95ee\u9898(hover me){{comment-button}}",
             "uid": "uCXWy1Ck8"
           }
         ],
@@ -8181,6 +8241,74 @@
         "edit-time": 1595041212447,
         "string": "\u770b\u4e86[[July 17th, 2020]]\u7684\u65e5\u5fd7",
         "uid": "0sMZhTFEp"
+      },
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595044713351,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595044867956,
+            "string": "draft\uff1aHi there,this is J from Roam/cn. We are building a community for Roam and we are wondering if it is possible for us to apply for a public graph account.",
+            "uid": "ust2NlzWt"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595045051324,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595045051324,
+            "string": "Previously we are using personal graph for public usage, but with the growth of the community we got more contributors. There we are thinking to ",
+            "uid": "fDhi0Tnt-"
+          },
+          {
+            "children": [
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1595045106793,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595045106793,
+                "string": "weekly newsletter publishment",
+                "uid": "CjNwv5PYc"
+              },
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1595045116022,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595045116022,
+                "string": "daily update of roam/cn",
+                "uid": "LIKh_flH3"
+              },
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1595044875233,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595045273039,
+                "string": "team **roam** management",
+                "uid": "fjObk7nXu"
+              },
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1595045154720,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595045210154,
+                "string": "collective translation",
+                "uid": "E3tGEopK1"
+              }
+            ],
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595045075077,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595045139570,
+            "string": "Expected use cases for public graph with collective intelligence\uff1a",
+            "uid": "8w7UgmTHi"
+          }
+        ],
+        "create-email": "jessie@fat-garage.com",
+        "create-time": 1595044673785,
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595044711743,
+        "string": "\u7533\u8bf7\u6559\u80b2\u4f18\u60e0\uff0c[[roam/cn]]public graph",
+        "uid": "lE_-6gx71"
       }
     ],
     "edit-email": "wangxh1000@gmail.com",
