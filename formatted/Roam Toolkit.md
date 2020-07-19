@@ -9,5 +9,5 @@
 
 - [Roam Toolkit](Roam Toolkit.md)
 
-- 使用 Roam 间隔重复加强记忆，[Roam Toolkit](Roam Toolkit.md)
+- 🧠 直接在 Roam 挖空文本来辅助记忆，需要借助 [Roam Toolkit](Roam Toolkit.md)
 
