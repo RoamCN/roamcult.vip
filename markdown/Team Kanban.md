@@ -23,3 +23,4 @@
         - [[[[Effective Note-Taking]] Lesson 1 关键概念 ]] #wangxh1000
         - [[[[Effective Note-Taking]] Lesson 2]] #wangxh1000
         - 整理第二期周报 [[周报Newsletter 2020-07-12 002期]] #JimmyLv #Jessie [[July 12th, 2020]]
+        - RoamCN 的 roam优惠资格申请 #[[晚甘侯]]

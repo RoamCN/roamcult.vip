@@ -23,6 +23,7 @@
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]] [wangxh1000](wangxh1000.md)
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 2]] [wangxh1000](wangxh1000.md)
         - 整理第二期周报 [周报Newsletter 2020-07-12 002期](周报Newsletter 2020-07-12 002期.md) [JimmyLv](JimmyLv.md) [Jessie](Jessie.md) [July 12th, 2020](July 12th, 2020.md)
+        - RoamCN 的 roam优惠资格申请 #[晚甘侯](晚甘侯.md)
 
 # Backlinks
 ## [July 11th, 2020](July 11th, 2020.md)
