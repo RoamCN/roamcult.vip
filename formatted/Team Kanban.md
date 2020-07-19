@@ -1,8 +1,11 @@
-- [Backlog](Backlog.md)
+- [Backlog](Backlog.md) 👇
 - {{[kanban](kanban.md)}}
     - [TODO](TODO.md)
         - For U: 所有想到的任何事情事情先丢 [Backlog](Backlog.md) 哦~
-        - Tips: 所有渠道看到的可能用于周报的信息都在这里记一笔
+此列 [TODO](TODO.md) 只放确定要做的事情，Workflow：
+[Backlog](Backlog.md) -> [TODO](TODO.md) -> [IN PROGRESS](IN PROGRESS.md) -> [DONE](DONE.md)
+        - Tips: 所有渠道看到的可能用于周报的信息随时记一笔，记得加上标签 [Newsletter](Newsletter.md) 方便一块儿整理 👇
+            - {{[query](query.md): {and: [Newsletter](Newsletter.md) {not: [kanban](kanban.md)]}}}}
     - [IN PROGRESS](IN PROGRESS.md)
         - [1.4: Basics of Tags, Backlinks and Pages](https://www.notion.so/1-4-Basics-of-Tags-Backlinks-and-Pages-8ecc50cd532a49b2a15483688159155b) [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
         - [1.5: Unlinked References](https://www.notion.so/1-5-Unlinked-References-9ab449a5dde74ef4bc016927fe2c46d1) [Alex](Alex.md) #[JΛKΞ](JΛKΞ.md)
@@ -10,16 +13,16 @@
         - [1.7- Soft Line Breaks & Cmd-shift-v](https://www.notion.so/1-7-Soft-Line-Breaks-Cmd-shift-v-db913a901cab43ff84cc19bf36ade4dd) [Alex](Alex.md) #[JΛKΞ](JΛKΞ.md)
         - [1.8: The Sidebar](https://www.notion.so/1-8-The-Sidebar-95a50097bffc4629af02efd322e826ea)  [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
         - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
-        - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[roam/cn](roam/cn.md)
+        - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[Newsletter](Newsletter.md)
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 3]] [wangxh1000](wangxh1000.md)
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 4]] #[白瑞 Barry](白瑞 Barry.md)
         - [roam互动教学第一期](roam互动教学第一期.md)#[晚甘侯](晚甘侯.md)[Jessie](Jessie.md)
-        - 整理第二期周报 [周报Newsletter 2020-07-12 002期](周报Newsletter 2020-07-12 002期.md) [JimmyLv](JimmyLv.md) [Jessie](Jessie.md) [July 12th, 2020](July 12th, 2020.md)
     - [DONE](DONE.md)
         - "[翻译: What is Roam?](翻译: What is Roam?.md)" [wangxh1000](wangxh1000.md)
         - "[x] 测试：紧急事情来啦 [July 12th, 2020](July 12th, 2020.md) 必须完成"
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]] [wangxh1000](wangxh1000.md)
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 2]] [wangxh1000](wangxh1000.md)
+        - 整理第二期周报 [周报Newsletter 2020-07-12 002期](周报Newsletter 2020-07-12 002期.md) [JimmyLv](JimmyLv.md) [Jessie](Jessie.md) [July 12th, 2020](July 12th, 2020.md)
 
 # Backlinks
 ## [July 11th, 2020](July 11th, 2020.md)

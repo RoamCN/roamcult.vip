@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Team Kanban](Team Kanban.md)
+[Backlog](Backlog.md) -> [TODO](TODO.md) -> [IN PROGRESS](IN PROGRESS.md) -> [DONE](DONE.md)
+
 - [DONE](DONE.md)
 
 - "{{[DONE](DONE.md)}
