@@ -143,3 +143,8 @@ q=0.45 z=340```
     - http://www.hashcash.org/papers/hashcash.pdf, 2002.
     - [7] R.C. Merkle, "Protocols for public key cryptosystems," In __Proc. 1980 Symposium on Security and Privacy__, IEEE Computer Society, pages 122-133, April 1980.
     - [8] W. Feller, "An introduction to probability theory and its applications," 1957.
+
+# Backlinks
+## [crypto lib 📖](crypto lib 📖.md)
+- [Bitcoin Whitepaper](Bitcoin Whitepaper.md)
+

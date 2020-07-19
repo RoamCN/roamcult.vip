@@ -1,1 +1,2 @@
+- [[Bitcoin Whitepaper]]
 - [[Ethereum Whitepaper]]
