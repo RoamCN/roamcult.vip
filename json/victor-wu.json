@@ -2751,6 +2751,14 @@
             "create-time": 1594721682728,
             "edit-email": "lv460051518@gmail.com",
             "edit-time": 1595140567051,
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FyDhpUBaC9q.png?alt=media&token=aee7bb72-9420-4841-a010-47c9202c3d4b": {
+                  "height": null,
+                  "width": 580
+                }
+              }
+            },
             "string": "\u521b\u5efa\u4e00\u4e2a\u5bfc\u822a\u9875\uff0c\u5e38\u9a7b\u53f3\u8fb9\u680f\uff0c\u65b9\u4fbf\u5728\u4e3b\u9898\u3001\u5185\u5bb9\u95f4\u5feb\u901f\u5207\u6362\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FyDhpUBaC9q.png?alt=media&token=aee7bb72-9420-4841-a010-47c9202c3d4b)",
             "uid": "iwjD0cgIq"
           }
