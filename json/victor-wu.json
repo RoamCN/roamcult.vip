@@ -521,6 +521,14 @@
           {
             "edit-email": "lv460051518@gmail.com",
             "edit-time": 1594131225850,
+            "props": {
+              "image-size": {
+                "https://mail.google.com/mail/e/1f47d": {
+                  "height": null,
+                  "width": 75
+                }
+              }
+            },
             "string": "\u5173\u6ce8\u6211\u4eec![\ud83d\udc7d](https://mail.google.com/mail/e/1f47d)\u00a0\uff1a[b\u7ad9](https://space.bilibili.com/599106362)\u00a0|\u00a0[Graph](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)\u00a0|\u00a0[Notion](https://www.notion.so/Roam-cn-e64eb6c374f44cb9aafc8f1992ee2e98)",
             "uid": "5G2wSsUrU"
           }
