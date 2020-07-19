@@ -2575,21 +2575,21 @@
       {
         "children": [
           {
-            "create-email": "lv460051518@gmail.com",
-            "create-time": 1594516164912,
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594516168750,
-            "string": "https://www.airr.io/quote/5eedf8b8d1e72c55088fccee",
-            "uid": "bx12IPNT1"
-          },
-          {
             "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1595140274405,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1595140280232,
+                "string": "UI \u66f4\u65b0 [Left sidebar redesign](https://roamresearch.com/#/app/help/page/UxJ0nGW7v)",
+                "uid": "14pT1tSVp"
+              },
               {
                 "create-email": "cwhitesullivan@gmail.com",
                 "create-time": 1594346348121,
                 "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594779373550,
-                "string": "#[[Hidden Features]] [Mermaid Diagrams](https://roamresearch.com/#/app/help/page/kw78QlSZ6) \u4f7f\u7528 Roam \u753b\u6d41\u7a0b\u56fe",
+                "edit-time": 1595139773613,
+                "string": "[Mermaid Diagrams](https://roamresearch.com/#/app/help/page/kw78QlSZ6) \u4f7f\u7528 Roam \u753b\u6d41\u7a0b\u56fe #[[Hidden Features]] ",
                 "uid": "vi0tKtsJG"
               },
               {
@@ -2612,7 +2612,7 @@
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594373721961,
         "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594373742381,
+        "edit-time": 1595140242470,
         "heading": 2,
         "string": "Roam\u5b98\u65b9\u52a8\u6001",
         "uid": "SSCCPxxUt"
@@ -2620,26 +2620,26 @@
       {
         "children": [
           {
-            "create-email": "wuxuebin1993@gmail.com",
-            "create-time": 1594542469806,
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594728925511,
-            "string": "\u65b0\u52a0\u5165 3 \u4f4d\u5c0f\u4f19\u4f34",
-            "uid": "WqO2obX14"
-          },
-          {
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594779028857,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594779058434,
-            "string": "\u4f7f\u7528 [[\u5fae\u4fe1\u5708\u5b50]] \u6c89\u6dc0\u5fae\u4fe1\u7fa4\u8ba8\u8bba\u7cbe\u534e\uff0c\u8d8a\u6765\u8d8a\u591a\u7fa4\u53cb\u79ef\u6781\u53c2\u4e0e \u270c\ufe0f",
+            "edit-time": 1595139272710,
+            "string": "\u5fae\u4fe1\u7fa4\u7834 200 \u5566\uff0c\u4f7f\u7528 [[\u5fae\u4fe1\u5708\u5b50]] \u6c89\u6dc0\u5fae\u4fe1\u7fa4\u8ba8\u8bba\u7cbe\u534e\uff0c\u8d8a\u6765\u8d8a\u591a\u7fa4\u53cb\u79ef\u6781\u53c2\u4e0e \u270c\ufe0f",
             "uid": "aZ51XojDS"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1595139795277,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1595140057039,
+            "string": "[[\u7ffb\u8bd1\u7ec4]]\u53d1\u5e03 2 \u4e2a B \u7ad9\u89c6\u9891 \u3010Roam Research \u57fa\u7840\u6559\u7a0b\u3011\u8bfe\u7a0b\u4ecb\u7ecd & 1.1 \u521b\u5efa\u6570\u636e\u5e93\uff0c\u611f\u8c22 #Alex #[[Frank Wu]]",
+            "uid": "2-99kHxYW"
           }
         ],
         "create-email": "lv460051518@gmail.com",
         "create-time": 1594373742376,
         "edit-email": "lv460051518@gmail.com",
-        "edit-time": 1594373760546,
+        "edit-time": 1595139250578,
         "heading": 2,
         "string": "RoamCN\u52a8\u6001",
         "uid": "ErBRNB7o_"
@@ -2660,8 +2660,8 @@
             "create-email": "lv460051518@gmail.com",
             "create-time": 1594395919407,
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594396303106,
-            "string": "[[Roam Toolkit]] Vim Navigator \u6a21\u5f0f",
+            "edit-time": 1595140167751,
+            "string": "[[Roam Toolkit]] Vim Navigator \u6a21\u5f0f\uff0c\u7eaf\u952e\u76d8\u64cd\u4f5c Roam \u4e0d\u518d\u56f0\u96be",
             "uid": "4Hc5qtjC_"
           },
           {
@@ -2685,29 +2685,11 @@
                 "edit-time": 1594779012766,
                 "string": "\u798f\u5229\uff1a\u4f7f\u7528 Alfred \u7684\u670b\u53cb\u53ef\u4ee5\u901a\u8fc7\u4ee5\u4e0b\u94fe\u63a5\u5feb\u901f\u6dfb\u52a0\u4f7f\u7528 [alfred://customsearch/Quick%20Capture%20for%20%27%7Bquery%7D%27/r/utf8/nospace/https%3A%2F%2Froamresearch.com%3Ftext%3D%7Bquery%7D%23%2Fquick-capture](alfred://customsearch/Quick%20Capture%20for%20%27%7Bquery%7D%27/r/utf8/nospace/https%3A%2F%2Froamresearch.com%3Ftext%3D%7Bquery%7D%23%2Fquick-capture)",
                 "uid": "AksX3d0rc"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "lv460051518@gmail.com",
-                    "create-time": 1594733348693,
-                    "edit-email": "lv460051518@gmail.com",
-                    "edit-time": 1594779012765,
-                    "string": "{{[[DONE]]}} \u5feb\u901f\u6dfb\u52a0\u4f60\u60f3\u5230\u7684\u5185\u5bb9\n\u8fd9\u91cc\u8fd8\u53ef\u4ee5\u7ee7\u7eed\u7f16\u8f91\uff0c\u6216\u8005\u6dfb\u52a0 [[Roam \u5feb\u6377\u952e]]\n(\uff3e\uff0d\uff3e)",
-                    "uid": "TUJFcDrlJ"
-                  }
-                ],
-                "create-email": "lv460051518@gmail.com",
-                "create-time": 1594733348693,
-                "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1594779012765,
-                "string": "\u793a\u4f8b\uff1a#[[Quick Capture]]",
-                "uid": "dx0buD2bw"
               }
             ],
             "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594779017524,
-            "string": "\ud83e\uddbe\u5982\u4f55\u901a\u8fc7 Alfred \u5feb\u901f\u6dfb\u52a0\u5185\u5bb9\u81f3 Roam Research #[[Quick Capture]]",
+            "edit-time": 1595140198667,
+            "string": "\ud83e\uddbe \u5982\u4f55\u901a\u8fc7 Alfred \u5feb\u901f\u6dfb\u52a0\u5185\u5bb9\u81f3 Roam Research #[[Quick Capture]]",
             "uid": "pka38Gr3Q"
           },
           {
@@ -2727,74 +2709,6 @@
             "edit-time": 1594778865065,
             "string": "\u4f7f\u7528 [[Keyboard Maestro]] \u5feb\u901f\u8f93\u5165 `[[]]` \u7b26\u53f7",
             "uid": "LEpb53L6H"
-          },
-          {
-            "create-email": "lv460051518@gmail.com",
-            "create-time": 1594396397519,
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594516195860,
-            "string": "\u8d44\u6e90\u63a8\u8350 [Top 5 Roam Research Tips for Beginners - YouTube](https://www.youtube.com/watch?v=b2Q5bAhtV9Y) [[Zack Fan]]",
-            "uid": "UfeP6iHxz"
-          },
-          {
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594446919014,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594447009609,
-            "string": "((_Cxt64lxl))",
-            "uid": "OeVX_F1P1"
-          },
-          {
-            "children": [
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594463055730,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594617125053,
-                "string": "[\u5982\u4f55\u81ea\u52a8\u5316\u5907\u4efd Roam Research\uff1f](https://b23.tv/bbXDVg)",
-                "uid": "Yoqb5S6_D"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594486272317,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594617068243,
-                "string": "[\u7528 Roam Research \u5230\u5e95\u5f97\u82b1\u591a\u5c11\u94b1\uff1f](https://b23.tv/OR0qac)",
-                "uid": "jwjUcMZHe"
-              }
-            ],
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594486269835,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594486269835,
-            "string": "[[\u738b\u6811\u4e49]] \u8001\u5e08",
-            "uid": "Xo-oCONCC"
-          },
-          {
-            "children": [
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594486312689,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594486404209,
-                "string": "[Mermaid Diagrams](https://roamresearch.com/#/app/help/page/kw78QlSZ6)",
-                "uid": "c6J-Y1QSa"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594610164614,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594610202058,
-                "string": "[Left sidebar redesign](https://roamresearch.com/#/app/help/page/UxJ0nGW7v)",
-                "uid": "zcVh2MKPL"
-              }
-            ],
-            "create-email": "wangxh1000@gmail.com",
-            "create-time": 1594486305481,
-            "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594486312511,
-            "string": "\u6700\u65b0\u7684 update",
-            "uid": "HbzJunH8Z"
           },
           {
             "create-email": "wangxh1000@gmail.com",
@@ -2835,10 +2749,81 @@
         "children": [
           {
             "create-email": "lv460051518@gmail.com",
+            "create-time": 1594396397519,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1595140217031,
+            "string": " [Top 5 Roam Research Tips for Beginners - YouTube](https://www.youtube.com/watch?v=b2Q5bAhtV9Y) [[Zack Fan]]",
+            "uid": "UfeP6iHxz"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594446919014,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594447009609,
+            "string": "((_Cxt64lxl))",
+            "uid": "OeVX_F1P1"
+          },
+          {
+            "children": [
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594463055730,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594617125053,
+                "string": "[\u5982\u4f55\u81ea\u52a8\u5316\u5907\u4efd Roam Research\uff1f](https://b23.tv/bbXDVg)",
+                "uid": "Yoqb5S6_D"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594486272317,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1594617068243,
+                "string": "[\u7528 Roam Research \u5230\u5e95\u5f97\u82b1\u591a\u5c11\u94b1\uff1f](https://b23.tv/OR0qac)",
+                "uid": "jwjUcMZHe"
+              }
+            ],
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1594486269835,
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1594486269835,
+            "string": "[[\u738b\u6811\u4e49]] \u8001\u5e08",
+            "uid": "Xo-oCONCC"
+          },
+          {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1595140249717,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1595140251143,
+            "string": "[AirrQuote | 20VC: How Roam Research Analyse Product Design, Team-Building, The Future of Collaboration Tools & Applying Tesla Go-To-Market To Roam with Conor White-Sullivan, Founder & CEO @ Roam Research](https://www.airr.io/quote/5eedf8b8d1e72c55088fccee)",
+            "uid": "N65QDH2gk"
+          }
+        ],
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1595140217028,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1595140217028,
+        "heading": 2,
+        "string": "\u8d44\u6e90\u63a8\u8350",
+        "uid": "PGBpBQRQT"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1595139448309,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1595140357860,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FOgsHmP-7RE.png?alt=media&token=cd214fd6-7db2-4fa7-8bdc-77197c06e301)",
+                "uid": "lICv_bGEJ"
+              }
+            ],
+            "create-email": "lv460051518@gmail.com",
             "create-time": 1594396649473,
-            "edit-email": "wuxuebin1993@gmail.com",
-            "edit-time": 1594612048704,
-            "string": "\u4f7f\u7528 Roam \u95f4\u9694\u91cd\u590d\u52a0\u5f3a\u8bb0\u5fc6\uff0c[[Roam Toolkit]]  ",
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1595139444453,
+            "string": "\u4f7f\u7528 Roam \u95f4\u9694\u91cd\u590d\u52a0\u5f3a\u8bb0\u5fc6\uff0c[[Roam Toolkit]] ",
             "uid": "3x3HElB9s"
           },
           {
@@ -2879,10 +2864,18 @@
               {
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1594725065973,
-                "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1595043654194,
-                "string": "\u5176\u5b9e\u6709\u65f6\u5019\uff0c**\u77e5\u8bc6\u7684\u8fb9\u754c\u5176\u5b9e\u662f\u4ece\u6211\u4eec\u7684\u5927\u8111\u4e2d\u95ee\u51fa\u6765\u7684**\uff0c\u5927\u8111\u5176\u5b9e\u77e5\u9053\u5f88\u591a\u4e8b\u60c5\u3002\u6709\u7684\u65f6\u5019\u6211\u4eec\u8be5\u51cf\u5c11\u4e0d\u505c\u5730\u95ee\u5916\u754c\uff0c\u95ee\u522b\u4eba\uff0c\u800c\u66f4\u5e94\u8be5\u95ee\u5927\u8111\u3001\u95ee\u81ea\u5df1\u3002\n\nRoam\u7684\u4f5c\u7528\uff0c\u4e5f\u662f\u8ba9\u4f60\u505c\u4e0b\u6765\uff0c\u628a\u81ea\u5df1\u5199\u51fa\u6765\u3002",
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1595139408387,
+                "string": "\u5176\u5b9e\u6709\u65f6\u5019\uff0c**\u77e5\u8bc6\u7684\u8fb9\u754c\u5176\u5b9e\u662f\u4ece\u6211\u4eec\u7684\u5927\u8111\u4e2d\u95ee\u51fa\u6765\u7684**\uff0c\u5927\u8111\u5176\u5b9e\u77e5\u9053\u5f88\u591a\u4e8b\u60c5\u3002\u6709\u7684\u65f6\u5019\u6211\u4eec\u8be5\u51cf\u5c11\u4e0d\u505c\u5730\u95ee\u5916\u754c\uff0c\u95ee\u522b\u4eba\uff0c\u800c\u66f4\u5e94\u8be5\u95ee\u5927\u8111\u3001\u95ee\u81ea\u5df1\u3002",
                 "uid": "wufrP60Uo"
+              },
+              {
+                "create-email": "lv460051518@gmail.com",
+                "create-time": 1595139408380,
+                "edit-email": "lv460051518@gmail.com",
+                "edit-time": 1595139409394,
+                "string": "Roam\u7684\u4f5c\u7528\uff0c\u4e5f\u662f\u8ba9\u4f60\u505c\u4e0b\u6765\uff0c\u628a\u81ea\u5df1\u5199\u51fa\u6765\u3002",
+                "uid": "pAbA1fJis"
               }
             ],
             "create-email": "jessie@fat-garage.com",
@@ -7345,13 +7338,6 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1594742400834,
     "title": "July 15th, 2020"
-  },
-  {
-    "create-email": "lv460051518@gmail.com",
-    "create-time": 1594779012785,
-    "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1594779012786,
-    "title": "Roam \u5feb\u6377\u952e"
   },
   {
     "create-email": "lv460051518@gmail.com",
@@ -12055,5 +12041,12 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1595127246926,
     "title": "Bitcoin Whitepaper"
+  },
+  {
+    "create-email": "lv460051518@gmail.com",
+    "create-time": 1595139976168,
+    "edit-email": "lv460051518@gmail.com",
+    "edit-time": 1595139976169,
+    "title": "\u7ffb\u8bd1\u7ec4"
   }
 ]

@@ -14,6 +14,9 @@
 
 - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
 
+## [周报Newsletter 2020-07-12 002期](周报Newsletter 2020-07-12 002期.md)
+- [翻译组](翻译组.md)发布 2 个 B 站视频 【Roam Research 基础教程】课程介绍 & 1.1 创建数据库，感谢 [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
+
 ## [岗位分工](岗位分工.md)
 - 资源：[Alex](Alex.md) #[Frank Wu](Frank Wu.md)
 
