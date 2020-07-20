@@ -2585,6 +2585,14 @@
         "create-time": 1595145960775,
         "edit-email": "lv460051518@gmail.com",
         "edit-time": 1595145975705,
+        "props": {
+          "image-size": {
+            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FhurH4aFAeC.png?alt=media&token=608b933f-b889-42d1-b4d6-229a3432f2ed": {
+              "height": null,
+              "width": 580
+            }
+          }
+        },
         "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FhurH4aFAeC.png?alt=media&token=608b933f-b889-42d1-b4d6-229a3432f2ed) ",
         "uid": "CHzACOp_2"
       },
