@@ -1444,7 +1444,7 @@
     "create-email": "wuxuebin1993@gmail.com",
     "create-time": 1593932037600,
     "edit-email": "wangxh1000@gmail.com",
-    "edit-time": 1594780699858,
+    "edit-time": 1595252658570,
     "title": "Effective Note-Taking"
   },
   {
@@ -3893,14 +3893,6 @@
                 "uid": "Ztj1ot2N1"
               },
               {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594780693993,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594780699847,
-                "string": "[[[[Effective Note-Taking]] Lesson 3]] #wangxh1000",
-                "uid": "k20RTGhkM"
-              },
-              {
                 "create-email": "ununoctiumuuo1@gmail.com",
                 "create-time": 1594893141992,
                 "edit-email": "ununoctiumuuo1@gmail.com",
@@ -3989,6 +3981,14 @@
                 "edit-time": 1595176968832,
                 "string": "RoamCN \u7684 roam\u4f18\u60e0\u8d44\u683c\u7533\u8bf7 #[[\u665a\u7518\u4faf]]",
                 "uid": "3UrWBDkm5"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1594780693993,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1595252651637,
+                "string": "[[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 3]] #wangxh1000",
+                "uid": "k20RTGhkM"
               }
             ],
             "create-email": "wangxh1000@gmail.com",
@@ -7485,19 +7485,207 @@
   {
     "children": [
       {
-        "create-email": "ununoctiumuuo1@gmail.com",
-        "create-time": 1594893182593,
-        "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1594893182593,
+        "children": [
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252611640,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[Done]] #[[\u672a\u53d1\u5e03]]",
+            "uid": "k6fraiIGh"
+          },
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252611641,
+            "string": "Source:: #[[Andy Henson Series]]",
+            "uid": "Wpf_P5YIp"
+          },
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252611641,
+            "string": "\u521d\u7ffb: #wangxh1000",
+            "uid": "hSwlxs18H"
+          },
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252611641,
+            "string": "\u6821\u5bf9: #Alex",
+            "uid": "Gc0UcZy1H"
+          },
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252611641,
+            "string": "Url: https://www.notion.so/Lesson-2-2f1dd175d36a45d1bc7f8778c78371a7",
+            "uid": "kWTO0cpwl"
+          }
+        ],
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611641,
+        "string": "Metadata::",
+        "uid": "-uZsmEc3A"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252658563,
+        "string": "\u539f\u6587\uff1a[[[[Effective Note-Taking]] Lesson 3]]",
+        "uid": "bbeE36wfH"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1595252807173,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252807173,
         "string": "",
-        "uid": "ul2imt6hU"
+        "uid": "dexdtAw1t"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611637,
+        "string": "\u55e8\uff0c",
+        "uid": "Uee8llj_S"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611637,
+        "string": "\u8ba9\u6211\u4eec\u518d\u6765\u8c08\u8c08 Roam \u7684\u5bfc\u822a\u529f\u80fd\u3002\u5728\u5168\u5c40\u5c42\u9762\uff0c\u4f60\u53ef\u4ee5\u901a\u8fc7\u70b9\u51fb **All Pages** \u94fe\u63a5\u67e5\u770b\u6240\u6709\u9875\u9762\u3002\u53e6\u5916\uff0c\u8fd8\u6709 **Graph Overview**\u3002\u70b9\u51fb\u56fe\u4e2d\u7684\u8282\u70b9\u4f1a\u7a81\u51fa\u4e0e\u4e4b\u7684\u8fde\u63a5\u3002\u53cc\u51fb\u8282\u70b9\u5219\u8fdb\u5165\u5bf9\u5e94\u9875\u9762\u3002",
+        "uid": "iMY0HibNc"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611638,
+        "string": "**\u641c\u7d22\u680f**",
+        "uid": "4lgJWJM6o"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611638,
+        "string": "\u4f60\u8fd8\u53ef\u4ee5\u5728\u641c\u7d22\u680f\u67e5\u627e\u5305\u542b\u4f60\u6240\u8f93\u5185\u5bb9\u7684\u9875\u9762\u6216 block\u3002\u5339\u914d\u7684\u5355\u8bcd\u77ed\u8bed\u4f1a\u88ab\u7a81\u51fa\u663e\u793a\u5728\u7ed3\u679c\u5217\u8868\u4e2d\u3002\u5982\u679c\u540c\u65f6\u641c\u7d22\u591a\u4e2a\u4fe1\u606f\uff0c\u5219\u53ea\u4f1a\u67e5\u627e\u5305\u542b\u6240\u6709\u4fe1\u606f\u7684\u7ed3\u679c\u3002\u5982\u679c\u6ca1\u6709\u627e\u5230\u4efb\u4f55\u4fe1\u606f\uff0c\u4f60\u4e5f\u53ef\u4ee5\u7528\u8f93\u5165\u7684\u5185\u5bb9\u521b\u5efa\u4e00\u4e2a\u65b0\u7684\u9875\u9762\u3002Command-U \u662f\u641c\u7d22\u680f\u7684\u952e\u76d8\u5feb\u6377\u952e\u3002",
+        "uid": "Le57ZBToy"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611638,
+        "string": "**\u88ab\u6807\u6ce8\u661f\u53f7\u7684\u9875\u9762\u6216\u5feb\u6377\u65b9\u5f0f**",
+        "uid": "3fosXIRaK"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611638,
+        "string": "\u5bf9\u7ecf\u5e38\u8bbf\u95ee\u7684\u9875\u9762\uff0c\u5728\u9875\u9762\u4e2d\u70b9\u51fb\u661f\u53f7\u56fe\u6807\uff0c\u4f1a\u628a\u5b83\u6dfb\u52a0\u5230\u5de6\u4fa7\u7684Shortcuts \u5217\u8868\u3002\u518d\u6b21\u70b9\u51fb\u661f\u53f7\u5219\u5c06\u5176\u4ece\u5217\u8868\u5220\u9664\u3002\u4f60\u53ef\u4ee5\u7528\u62d6\u653e\u7684\u65b9\u5f0f\uff0c\u5bf9\u5217\u8868\u7684\u4efb\u610f\u5185\u5bb9\u505a\u91cd\u65b0\u6392\u5e8f\u3002",
+        "uid": "Ny8CPLNSy"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611638,
+        "string": "**\u5927\u7eb2**",
+        "uid": "KIcvN7KJA"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611638,
+        "string": "\u8ba9\u6211\u4eec\u5feb\u901f\u56de\u5230 Roam \u5927\u7eb2\uff0c\u4f60\u5e94\u8be5\u65e9\u5c31\u73a9\u8fc7\u8fd9\u4e2a\u529f\u80fd\uff0c\u4f46\u73b0\u5728\u8ba9\u6211\u4eec\u66f4\u8be6\u7ec6\u5730\u8bf4\u8bf4\u5b83\u7684\u5185\u5bb9\u3002block \u53ef\u4ee5\u65e0\u9650\u5d4c\u5957\u3002\u70b9\u51fb Tab \u952e\u53ef\u4ee5\u7f29\u8fdb block\uff0c\u70b9\u51fb Shift-Tab \u952e\u5219\u53d6\u6d88\u7f29\u8fdb\u3002\u4f60\u4e5f\u80fd\u7528\u9f20\u6807\u8fdb\u884c\u64cd\u4f5c\uff0c\u5de6\u952e\u70b9\u51fb bullet (block \u524d\u7684\u5706\u70b9) \u62d6\u52a8\u5b83\u5230\u65b0\u7684\u4f4d\u7f6e\u3002 \u5f53\u4f60\u677e\u5f00\u9f20\u6807\u952e\u65f6\uff0c\u4f1a\u51fa\u73b0\u63d2\u5165\u7ebf\u544a\u8bc9\u4f60 block \u7684\u6700\u7ec8\u4f4d\u7f6e\u3002\u5f53\u628a block \u79fb\u8fdb\u548c\u79fb\u51fa\u7f29\u8fdb\u5c42\u7ea7\u65f6\uff0c\u4f60\u4f1a\u770b\u5230\u63d2\u5165\u7ebf\u76f8\u5e94\u5730\u53d8\u957f\u548c\u53d8\u77ed\u3002",
+        "uid": "5evTIni9L"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "**\u7f16\u8f91**",
+        "uid": "eTh6_6l0l"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u6709\u4ef6\u4e8b\u60c5\u53ef\u80fd\u4e0d\u592a\u660e\u663e\uff0c\u5176\u5b9e\u5b58\u5728\u4e24\u79cd\u6a21\u5f0f\uff1a\u7f16\u8f91\u6a21\u5f0f\u548c\u9009\u62e9\u6a21\u5f0f\u3002\u5f53 block \u5904\u4e8e\u7f16\u8f91\u6a21\u5f0f\u65f6\uff0c\u4f60\u4f1a\u770b\u5230\u5149\u6807\u95ea\u70c1\uff0c\u4f60\u5728 block \u4e2d\u8f93\u5165\u6587\u5b57\u7b49\u7b49\u4fe1\u606f\u3002\u6b64\u65f6\u6309\u56de\u8f66\u952e\u4f1a\u79bb\u5f00\u5f53\u524d block\uff0c\u5e76\u5728\u4e0b\u65b9\u521b\u5efa\u65b0\u7684 block\u3002\u7136\u540e\u4f60\u7f16\u8f91\u65b0\u7684 block\uff0c\u8fd9\u4e2a\u4ea4\u4e92\u76f8\u5f53\u76f4\u89c2\u3002\u53e6\u5916\uff0c\u4f60\u4e5f\u53ef\u4ee5\u6309 Escape \u952e\u800c\u4e0d\u662f\u56de\u8f66\u952e\uff0c\u8fd9\u5c06\u4f7f block \u8fdb\u5165\u9009\u62e9\u6a21\u5f0f\uff0c\u5f53\u524d\u7f16\u8f91\u7684 block \u5c06\u88ab\u9009\u4e2d\u3002\u5f53 block \u8fdb\u5165\u9009\u62e9\u6a21\u5f0f\uff0c\u4f60\u4f1a\u770b\u5230 markdown \u8bed\u53e5\u88ab\u8f6c\u6362\u4e3a\u53ef\u89c6\u5316\u5f62\u5f0f\uff0c\u6b64\u65f6\u53ef\u4ee5\u70b9\u51fb\u94fe\u63a5\u8fdb\u884c\u8df3\u8f6c\u3002",
+        "uid": "xXz4JV3uE"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "**\u9009\u62e9**",
+        "uid": "PwofQUyKa"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u5f53 block \u88ab\u9009\u4e2d\u65f6\uff0c\u4f60\u53ef\u4ee5\u7528 Shift \u548c\u4e0a\u4e0b\u7bad\u5934\u952e\u9009\u62e9\u66f4\u591a block\u3002\u4f60\u53ef\u4ee5\u7528\u9f20\u6807\u6293\u53d6\u6240\u6709\u88ab\u9009 block\uff0c\u5c06\u5b83\u4eec\u4e00\u8d77\u79fb\u5230\u65b0\u7684\u5730\u65b9 (\u628a\u9f20\u6807\u79fb\u5230\u88ab\u9009 block \u7684\u67d0\u4e2a bullet \u4e0a\uff0c\u53d8\u6210\u624b\u7684\u5f62\u72b6\uff0c\u7136\u540e\u70b9\u51fb\u5de6\u952e\u62d6\u52a8)\u3002\u4f60\u4e5f\u53ef\u4ee5\u7528 Tab \u548c Shift-Tab \u952e\u7f29\u8fdb\u6216\u53d6\u6d88\u7f29\u8fdb\u88ab\u9009 block\u3002\u6216\u8005\u6309 Delete \u548c Backspace \u952e\u5220\u9664 block\u3002\u5f53\u4f60\u5220\u9664 block \u65f6\uff0c\u4e0d\u4f1a\u6536\u5230\u4efb\u4f55\u63d0\u793a\uff0c\u4f46\u4f60\u4e4b\u540e\u80fd\u7528 Command-Z (\u5728 Mac \u4e0a) \u548c Control-Z (\u5728 Windows \u4e0a) \u952e\u6267\u884c\u64a4\u9500\u64cd\u4f5c\u3002\u5982\u679c\u4f60\u60f3\u518d\u6b21\u6267\u884c\u5df2\u88ab\u64a4\u9500\u7684\u64cd\u4f5c\uff0c\u53ea\u8981\u6309 Command-Shift-Z \u6216 Control-Shift-Z\u952e\u5373\u53ef\u5b9e\u73b0\u3002\u5728\u6211\u5199\u8fd9\u7bc7\u6587\u7ae0\u7684\u65f6\u5019\uff0c\u5f53 block \u5904\u4e8e\u9009\u62e9\u72b6\u6001\u65f6\uff0c\u4f60\u53ef\u4ee5\u7528 Command-Shift-Up \u548c Command-Shift-Down \u952e\u6765\u4e0a\u4e0b\u79fb\u52a8 block\u3002\u4f46\u4e0d\u5e78\u7684\u662f\uff0c\u4f60\u8fd8\u4e0d\u80fd\u5bf9\u591a\u4e2a block \u6267\u884c\u8fd9\u79cd\u64cd\u4f5c\u3002\u6211\u5e0c\u671b\u5c06\u6765\u4f1a\u6709\u8fd9\u4e2a\u529f\u80fd\u3002",
+        "uid": "DMwSJR-Y_"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "**\u6298\u53e0\u548c\u7f29\u653e**",
+        "uid": "1uob8vyvu"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u4f60\u80fd\u7528\u6298\u53e0\u548c\u7f29\u653e\u529f\u80fd\u5e2e\u4f60\u5728\u5199\u4f5c\u65f6\u7ba1\u7406\u6ce8\u610f\u529b\u3002\u70b9\u51fb block \u7684 bullet \u5c06\u628a\u5185\u5bb9\u805a\u7126\u5230\u8be5 block \u548c\u5b83\u7684\u5b50\u5143\u7d20\u4e0a\u3002\u4f60\u4f1a\u770b\u5230\u9875\u9762\u4e0a\u65b9\u7684\u9762\u5305\u5c51\u8def\u5f84\uff0c\u70b9\u51fb\u5b83\u53ef\u4ee5\u8fd4\u56de\u539f\u59cb\u5185\u5bb9\u3002\u8fd9\u4e5f\u88ab\u79f0\u4e3a__\"Focus on this block\"__\uff0c\u53f3\u952e\u70b9\u51fb bullet \u5c31\u4f1a\u770b\u5230\u8be5\u83dc\u5355\u9879\u3002\u540c\u6837\u7684\uff0c\u4f60\u4e5f\u80fd\u7528\u63d0\u793a\u4e09\u89d2\u7b26\u6765\u6298\u53e0\u548c\u5c55\u5f00 block\uff0c\u5f53\u4f60\u628a\u9f20\u6807\u60ac\u505c\u5728\u5305\u542b\u5b50\u5143\u7d20\u7684 block \u4e0a\u65f6\uff0c\u63d0\u793a\u4e09\u89d2\u7b26\u5c31\u4f1a\u51fa\u73b0\u3002\u5f53 block \u5904\u4e8e\u7f16\u8f91\u6a21\u5f0f\u65f6\uff0c\u4f60\u4e5f\u80fd\u7528\u952e\u76d8\u5feb\u6377\u952e\u6267\u884c\u540c\u6837\u7684\u64cd\u4f5c\u3002\u7528 Command-Period(\u53e5\u53f7\u7b26) \u548c Command-Comma(\u9017\u53f7\u7b26) \u952e\u6267\u884c\u5185\u5bb9\u7f29\u653e\u3002\u5f53\u5149\u6807\u4f4d\u4e8e\u542b\u6709\u5b50\u5143\u7d20\u7684 block \u4e2d\u65f6\uff0c\u7528 Command-Up \u548c Command-Down \u952e\u6267\u884c\u5185\u5bb9\u7684\u6298\u53e0\u548c\u5c55\u5f00\u3002",
+        "uid": "VyOBXq5Mz"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "**\u6807\u9898**",
+        "uid": "WvBD4FUIQ"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u5728\u6628\u5929\u7684\u8bfe\u7a0b\u4e2d\uff0c\u5f53\u6211\u4eec\u8bb2\u5230\u683c\u5f0f\u7684\u65f6\u5019\uff0c\u6211\u6545\u610f\u6ca1\u8bb2\u6807\u9898\u7684\u5185\u5bb9\u3002\u6807\u9898\u4e0e\u5927\u7eb2\u529f\u80fd\u7ed3\u5408\u4f7f\u7528\u5f80\u5f80\u66f4\u6709\u610f\u4e49\u3002\u4f60\u53ef\u4ee5\u5c06\u4efb\u4f55\u4e00\u4e2a block \u53d8\u6210\u4e09\u79cd\u6807\u9898\u6837\u5f0f\u4e4b\u4e00\uff0c\u5728\u53f3\u952e\u83dc\u5355\u4e2d\u9009\u62e9 H1\u3001H2 \u6216 H3\uff0c\u4e5f\u53ef\u4ee5\u7528\u952e\u76d8\u5feb\u6377\u952e Command-Alt-(1 \u6216 2 \u6216 3) \u8bbe\u7f6e\u5b83\u4eec\u3002\u7528 Command-Alt-0 \u5c06\u628a\u6807\u9898\u683c\u5f0f\u6062\u590d\u4e3a\u6807\u51c6\u6587\u672c\u3002",
+        "uid": "wjw0dqJoc"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "**\u6587\u6863\u6a21\u5f0f**",
+        "uid": "ueyR7wxAh"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u5982\u679c\u4f60\u60f3\u8ba9\u9875\u9762\u770b\u8d77\u6765\u66f4\u50cf\u5178\u578b\u7684\u7b14\u8bb0\u9875\u9762\uff0c\u4f60\u53ef\u4ee5\u53f3\u952e\u70b9\u51fb\u9875\u9762\u6807\u9898\u9009\u62e9__View as Document__\u3002\u8fd9\u6837\uff0c\u9664\u4e86\u9f20\u6807\u60ac\u505c\u7684 block \u4ee5\u5916\uff0c\u5176\u4ed6 block \u7684 bullet \u90fd\u4f1a\u9690\u85cf\uff0c\u4f46\u9875\u9762\u4f1a\u4fdd\u7559\u683c\u5f0f\u7f29\u8fdb\u3002Roam \u7684\u529f\u80fd\u5e76\u6ca1\u6539\u53d8\u3002\u5982\u679c\u4f60\u9009\u62e9\u6240\u6709\u6587\u672c\uff0c\u590d\u5236\u5e76\u7c98\u8d34\u5230\u5176\u4ed6\u7f16\u8f91\u5668\uff0c\u4f60\u4f1a\u770b\u5230\u590d\u5236\u7684\u5185\u5bb9\u4e2d\u6ca1\u6709 bullet\uff0c\u4f46\u5176\u4ed6\u7684 markdown \u8bed\u53e5\u662f\u88ab\u5b8c\u6574\u590d\u5236\u7684\u3002\u518d\u6b21\u53f3\u952e\u70b9\u51fb\u9875\u9762\u6807\u9898\uff0c\u53ef\u4ee5\u5c06\u5b83\u8bbe\u56de Bulleted List\u3002\u4e5f\u53ef\u4ee5\u9009\u62e9 Numbered List\u3002\u4f60\u4e5f\u53ef\u4ee5\u5728 block \u5c42\u9762\uff0c\u53f3\u952e\u70b9\u51fb bullet \u5728\u8fd9\u4e9b\u6a21\u5f0f\u95f4\u8fdb\u884c\u5207\u6362\u3002",
+        "uid": "6ut6dXcA7"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "**\u7528\u4e8e\u5bfc\u822a\u7684\u952e\u76d8\u5feb\u6377\u952e**",
+        "uid": "OsyJYk6yW"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u5f53\u4f60\u5904\u4e8e\u7f16\u8f91\u6a21\u5f0f\u65f6\uff0c\u8fd8\u53ef\u4ee5\u7528\u4e00\u4e9b\u66f4\"\u9ad8\u7ea7\"\u7684\u952e\u76d8\u5feb\u6377\u952e\u3002\u5982\u679c\u4f60\u7684\u5149\u6807\u4f4d\u4e8e\u9875\u9762\u5f15\u7528\u6216 block \u5f15\u7528\u4e2d\uff0c\u4f60\u53ef\u4ee5\u6309 Control-O \u952e\u8df3\u8f6c\u5230\u5f15\u7528\u7684\u5185\u5bb9\u9875\u9762\u3002\u5728 block \u7684\u5176\u4ed6\u4efb\u4f55\u4f4d\u7f6e\u6309 Control-O \u952e\u5c06\u4f1a\u50cf\u4e0a\u9762\u8ba8\u8bba\u7684\u90a3\u6837\u628a\u5185\u5bb9\u805a\u7126\u5230\u8be5 block \u6240\u5c5e\u7684\u8303\u56f4\u3002\u6309\u4f4f Shift \u952e\u70b9\u51fb\u9875\u9762\u5f15\u7528\u6216 block \u5f15\u7528\uff0c\u6216\u8005\u6309 Control-Shift-O \u952e\u5219\u4f1a\u5728\u4fa7\u8fb9\u680f\u6253\u5f00\u5f15\u7528\u7684\u5185\u5bb9\u3002\u5f53\u4f60\u4f7f\u7528\u641c\u7d22\u680f\uff0c\u4e5f\u80fd\u5bf9\u641c\u7d22\u7ed3\u679c\u505a\u7c7b\u4f3c\u64cd\u4f5c\u3002\u5728\u641c\u7d22\u65f6\uff0c\u7528\u4e0a\u4e0b\u65b9\u5411\u952e\u5728\u641c\u7d22\u7ed3\u679c\u95f4\u8fdb\u884c\u79fb\u52a8\u3002\u6309\u56de\u8f66\u952e\u5728\u9875\u9762\u4f4d\u7f6e\u6253\u5f00\u5185\u5bb9\u3002\u6309 Shift-Enter \u952e\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u5185\u5bb9\u3002\u6216\u8005\u4f60\u4e5f\u53ef\u4ee5\u6309\u4f4f Shift \u952e\u70b9\u51fb\u641c\u7d22\u7ed3\u679c\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u5185\u5bb9\u3002",
+        "uid": "x6DDKu0HR"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611639,
+        "string": "\u5728\u660e\u5929\u7684\u8bfe\u7a0b\u4e2d\uff0c\u6211\u4eec\u5c06\u66f4\u8be6\u7ec6\u5730\u4ecb\u7ecd**\u4fa7\u8fb9\u680f**\u3002",
+        "uid": "EtfrQh6sw"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611640,
+        "string": "\u5982\u679c\u4f60\u6709\u4efb\u4f55\u53cd\u9988\u6216\u8005\u8feb\u5207\u60f3\u5f97\u5230\u56de\u7b54\u7684\u95ee\u9898\uff0c\u6b22\u8fce\u56de\u590d\u8fd9\u5c01\u90ae\u4ef6\u3002\u6211\u4f1a\u5c3d\u6700\u5927\u52aa\u529b\u56de\u590d\uff0c\u5e76\u5c06\u5176\u7eb3\u5165\u4fee\u8ba2\u7248\u548c\u4eca\u540e\u7684\u8bfe\u7a0b\u4e2d\u3002",
+        "uid": "U36pWBFoi"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611640,
+        "string": "\u660e\u5929\u89c1",
+        "uid": "83DzH4eIE"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252611640,
+        "string": "Andy Henson",
+        "uid": "rdVSnqC1A"
       }
     ],
     "create-email": "wangxh1000@gmail.com",
     "create-time": 1594780699851,
     "edit-email": "wangxh1000@gmail.com",
-    "edit-time": 1594780699858,
-    "title": "[[Effective Note-Taking]] Lesson 3"
+    "edit-time": 1595252651637,
+    "title": "\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 3"
   },
   {
     "children": [
@@ -12260,10 +12448,205 @@
         "edit-time": 1595226499451,
         "string": "\u6211\u4eec\u7684\u5468\u62a5\u88ab\u5b98\u65b9@RoamResearch @Roamcult\u8f6c\u63a8![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FrteeJhMqw3.png?alt=media&token=3b242d2f-2425-4b15-9503-1fe0cbd30c62)",
         "uid": "YtjwNkiy2"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1595252886459,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252941302,
+        "string": "\u5b8c\u6210 [[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 3]] \u7684\u521d\u7ffb",
+        "uid": "LFe9RKeQ-"
       }
     ],
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1595174403755,
     "title": "July 20th, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252675800,
+            "string": "Tags:: #[[\u7ffb\u8bd1]]",
+            "uid": "CHux1gnRZ"
+          },
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252675800,
+            "string": "Source:: #[[Effective Note-Taking]]",
+            "uid": "ov3QctuGG"
+          },
+          {
+            "edit-email": "wangxh1000@gmail.com",
+            "edit-time": 1595252675801,
+            "string": "\u6821\u5bf9: #Alex",
+            "uid": "F2ZejIyR_"
+          }
+        ],
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675801,
+        "string": "Metadata::",
+        "uid": "DhaYMHHTP"
+      },
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1595252694217,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252694217,
+        "string": "",
+        "uid": "oGbqwDBwN"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "Hi,",
+        "uid": "EbbVWE5Zd"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "Let's talk a bit more about navigating around Roam. At a high level, you can view all your pages with the **All Pages** link. Plus, there's the **Graph Overview**. Clicking a node in the graph highlights the connections. Double-clicking will take you to the page.",
+        "uid": "VbaRBVs0v"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "**Search Bar**",
+        "uid": "mrtlV_2Bq"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "There's also the Search bar where you can start typing to find pages or blocks with the words you're looking for. Exact word and phrase matches will be highlighted. Searching for multiple words will filter to only those which contain all the words. And if nothing matches, you have the option to create a new page with those words. Command-U is your keyboard shortcut to the search bar.",
+        "uid": "Ktx6N_E9A"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "**Starred pages or shortcuts**",
+        "uid": "UhwVp3guO"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "For pages which you often visit, when you're on that page, you can click the Star icon to add the page to your shortcuts. It will then show up in the Shortcuts section on the left-hand side. Clicking the star again will remove it. You can re-order any starred pages in the shortcuts area, just by dragging and dropping them around.",
+        "uid": "gNIs5FOci"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "**Outlining**",
+        "uid": "Kq2X_jgEt"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "Let's take a quick step back. Chances are you've already played around with the outlining in Roam but let's cover it in more detail. Blocks can be infinitely nested. You indent a block by hitting Tab and unindent by using Shift-Tab. You can also do this and move blocks around with your mouse by grabbing the bullet itself with a left-click and dragging it to the new location. The insertion line that appears will show you where it'll end up when you let go of the mouse button. You'll see the length of the line grow and shrink as you move it in and out of the indented levels.",
+        "uid": "lb86DZffE"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "**Editing**",
+        "uid": "29AK9yA7s"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675797,
+        "string": "One thing that may be a little less obvious is that really there are two modes: an editing mode and a selection mode. Editing is when you have a blinking cursor, and you're entering text, etc. in a block. Pressing enter will leave that block and create a new one below. And you'll be editing that one; pretty intuitive. Alternatively, you can hit Escape instead of Enter. This will put you in selection mode, and the block you were editing will be selected. When you leave editing mode in a block, you'll see the markdown that you wrote converted into its visual form, where you can then click links to navigate around.",
+        "uid": "oUKhzg8Vt"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "**Selection**",
+        "uid": "OsqQIjiIQ"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "When you have a block selected, you can use Shift and up and down arrows to add more blocks to the selection. You can use the mouse to grab all the selected blocks to move them en-masse elsewhere. You can also use Tab and Shift-Tab to indent or unindent all the blocks. Or Delete, and Backspace will delete the blocks. There's no prompting when you remove a block or blocks, but you can undo your mistakes with Command-Z (on Macs) and Control-Z (for Windows). To redo, Command-Shift-Z or Control-Shift-Z respectively. At the time I'm writing this when you have a single block selected, you can move it up and down using Command-Shift-Up and Command-Shift-Down to move them. Unfortunately, you can't (yet) do this with multiple blocks. I hope that is coming in the future.",
+        "uid": "Lvq-8hGXK"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "**Folding and Zooming**",
+        "uid": "YNvBj7HVZ"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "To help manage your focus when you are writing, you can use the folding and zooming features. Clicking on a block's bullet will __Zoom__ you into that block, and it's children. You'll see a breadcrumb trail above so you can navigate back out. This is also known as __\"Focus on this block\"__, which you'll see if you right-click the bullet. Similarly, you can collapse and expand the blocks using the disclosure triangles that appear when you hover by a block bullet that has child elements. For both functions, when you are in editing mode, there are keyboard shortcuts. To Zoom in and out, you can use Command-Period and Command-Comma respectively. To fold, when your cursor is in a block with child elements, you can use Command-Up and Command-Down to collapse and expand them.",
+        "uid": "XQWX-2xKz"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "**Headings**",
+        "uid": "V7JTsfIVM"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "In yesterday's lesson, I intentionally left out headings when we talked about formatting. Headings tend to make more sense in conjunction with the outlining features. You can turn any block into one of three heading styles, either using the right-click menu and choosing, H1, H2, or H3, or you can use the keyboard shortcut, Command-Alt-1 for H1. Replace the 1 with a 2 or 3 for the other headings. You can revert to standard text using Command-Alt-0.",
+        "uid": "f5_jHJS8Z"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "**Document mode**",
+        "uid": "B5IhhL8Gg"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "If you want your page to look more like a typical note page, you can right-click on the page title and choose __View as Document__. It hides the bullets for each block until you hover over the block with your mouse, but retains the indenting. Roam's functionality is unchanged. If you select all the text to copy and paste it elsewhere, you'll notice that you don't get the bullets included, but the rest of the markdown syntax is intact. Right-click again on the page title, to set it back to a bulleted list. You can also choose numbered lists. You can switch between these modes at the block-level too, by right-clicking on the blocks bullet.",
+        "uid": "_lEWPh0Uu"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "**Navigation keyboard shortcuts**",
+        "uid": "-rLU4sAnL"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "There are a few more \"advanced\" keyboard shortcuts you can use when you're in editing mode. If your cursor is within a page reference or a block reference you can hit Control-O to navigate to that page. Control-O anywhere else in the block will __Zoom__ you into that block as discussed above. Holding Shift when clicking on a page or block reference, or pressing Control-Shift-O will open the page or block reference in the Sidebar. You can also do similar with the search results when you're using the search bar. When you're in the search, you can use the up and down arrow keys to move through the results. Hit Enter to open the page. Use Shift-Enter to open it in the Sidebar. Or you can hold Shift while clicking to open it in the Sidebar too.",
+        "uid": "vQJjdd3Ay"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "In tomorrow's lesson, we'll be covering the **Sidebar** in much more detail.",
+        "uid": "NITsrQlYL"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675798,
+        "string": "If you have any feedback or a burning question you'd like answered, feel free to reply to this email. I'll do my best to respond and incorporate it into revised versions and future lessons.",
+        "uid": "eyOOeLbYm"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675799,
+        "string": "Until tomorrow,",
+        "uid": "5QmtppYqa"
+      },
+      {
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595252675799,
+        "string": "Andy",
+        "uid": "yIBCmbDg0"
+      }
+    ],
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1595252658567,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1595252658570,
+    "title": "[[Effective Note-Taking]] Lesson 3"
   }
 ]
