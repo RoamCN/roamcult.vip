@@ -13,3 +13,5 @@
 ## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
 {{[DONE](DONE.md)}
 
+{{[DONE](DONE.md)}
+
