@@ -3,7 +3,7 @@
     - **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md)
     - 初翻: #[白瑞 Barry](白瑞 Barry.md)
     - 校对: [Alex](Alex.md)
-    - Url: 
+    - Url: https://www.notion.so/Lesson-4-3a1e70daf397485092b81d245e5ac5b9
 - 原文：[[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 4]]
 - 
 - 今天我们要介绍的是**侧边栏（Siderbar）**和**过滤器（Filter）**。侧边栏是一个独立于主内容的面板，可开启和关闭。
@@ -25,10 +25,9 @@
 
 ## 高效使用侧栏
 - 侧边栏最方便的地方之一就是它可以很容易地在页面之间移动区块（block）。就像在同一个页面中操作。你可以把区块在两个面板之间来回拖拽。
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F3WBzJsTRqD.gif?alt=media&token=6d63ea30-8ed5-477c-9ca3-75cd3d34ce43)
 - 一个实际的例子。假设你在 Daily note 页面上记录了你与 Fred 的一次会议，他给了你电话号码，然后你在 Roam 中记录了下来。
 - 一天结束后回顾笔记，把那个电话号码放在 Fred 的页面上才是有意义的（Roam 是一个很好的个人 CRM - 我将在后面的课程中详细介绍），不过你也希望在 Daily notes 上也能看到。下图是一个简短的 GIF，因为有时候视频胜千言……
-- 
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F3WBzJsTRqD.gif?alt=media&token=6d63ea30-8ed5-477c-9ca3-75cd3d34ce43)
 - 首先，我创建一个电话号码的块引用。然后按住 `Shift` 并点击 [Fred](Fred.md)，在侧边栏中打开。最后把电话号码的原文拖拽过去。这就允许我使用引用面板来查看所有提到这个电话号码的内容，这里显示了我在 6 月 7 日与 Fred 面谈时得到了这个号码。
 - 在第五课中，我们将开始探索 Roam 的一些工具箱，用于**任务管理**。
 - 如果你有任何反馈或者你有希望得到解答的迫切问题，请随时回复这封邮件。我会尽最大努力回复并将其纳入修订版和未来的课程中。
