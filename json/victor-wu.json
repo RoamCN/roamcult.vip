@@ -13169,10 +13169,60 @@
         "edit-time": 1595380323887,
         "string": "[[Book]]{key:enter}{wait: delay=0.1s}{key:tab}{wait: delay=0.1s}Author::{key:enter}Recommended By::{key:enter}Subject::#Investment #[[Fundemental Analysis]]{key:enter}Book Notes::{key:enter}{key:tab}",
         "uid": "b-swjEtpV"
+      },
+      {
+        "children": [
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1595373960463,
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595393698052,
+            "string": "https://twitter.com/RoamResearch/status/1285654516440993792?s=09\n\n",
+            "uid": "aKSANTH2j"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1595373996533,
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595393698052,
+            "string": "https://twitter.com/Conaw/status/1285337095167291392?s=09\n\n",
+            "uid": "fohQ1Vtr4"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1595374033807,
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595393698052,
+            "string": "https://twitter.com/soenke_ahrens/status/1268851747503640578?s=09\n\n",
+            "uid": "phOsMApmo"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1595374059186,
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595393698052,
+            "string": "https://twitter.com/RoamResearch/status/1285014747935432704?s=09\n\n",
+            "uid": "1cF9hM6R3"
+          },
+          {
+            "create-email": "wangxh1000@gmail.com",
+            "create-time": 1595374265066,
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595393782581,
+            "string": "https://twitter.com/RoamFm/status/1283674168215564288?s=09\n\n",
+            "uid": "BmyohEhyZ"
+          }
+        ],
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1595373960463,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595393698052,
+        "string": "#[[Quick Capture]]",
+        "uid": "eBL_hIco8"
       }
     ],
-    "edit-email": "lv460051518@gmail.com",
-    "edit-time": 1595377233745,
+    "edit-email": "ununoctiumuuo1@gmail.com",
+    "edit-time": 1595393698052,
     "title": "July 22nd, 2020"
   },
   {
