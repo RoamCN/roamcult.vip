@@ -3905,18 +3905,10 @@
               {
                 "create-email": "wangxh1000@gmail.com",
                 "create-time": 1594780681555,
-                "edit-email": "lv460051518@gmail.com",
-                "edit-time": 1595151696469,
+                "edit-email": "ununoctiumuuo1@gmail.com",
+                "edit-time": 1595413120754,
                 "string": "\u7ed9 Roam \u4e2d\u5468\u62a5\u4fe1\u606f\u6536\u96c6\u7684 block \u6253\u4e00\u4e2a\u56fa\u5b9a\u7684\u6807\u7b7e #[[Newsletter]]",
                 "uid": "Ztj1ot2N1"
-              },
-              {
-                "create-email": "ununoctiumuuo1@gmail.com",
-                "create-time": 1594893141992,
-                "edit-email": "ununoctiumuuo1@gmail.com",
-                "edit-time": 1594893326341,
-                "string": "[[[[Effective Note-Taking]] Lesson 4]] #[[\u767d\u745e Barry]]",
-                "uid": "MXkL-gY2G"
               },
               {
                 "create-email": "wuxuebin1993@gmail.com",
@@ -4007,6 +3999,14 @@
                 "edit-time": 1595252651637,
                 "string": "[[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 3]] #wangxh1000",
                 "uid": "k20RTGhkM"
+              },
+              {
+                "create-email": "ununoctiumuuo1@gmail.com",
+                "create-time": 1595413123132,
+                "edit-email": "ununoctiumuuo1@gmail.com",
+                "edit-time": 1595413124268,
+                "string": "[[[[Effective Note-Taking]] Lesson 4]] #[[\u767d\u745e Barry]]",
+                "uid": "zqJLrh9ek"
               }
             ],
             "create-email": "wangxh1000@gmail.com",
@@ -7740,44 +7740,156 @@
   {
     "children": [
       {
-        "create-email": "ununoctiumuuo1@gmail.com",
-        "create-time": 1595412442875,
+        "children": [
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595412509945,
+            "string": "Tags:: #[[\u7ffb\u8bd1]]",
+            "uid": "_6pW09bQF"
+          },
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595412509945,
+            "string": "Source:: #[[Effective Note-Taking]]",
+            "uid": "rO8sv3jiA"
+          },
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595412509945,
+            "string": "\u6821\u5bf9: #Alex",
+            "uid": "W2lUOBhhn"
+          }
+        ],
         "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1595412454339,
-        "string": "Metadata:: ",
-        "uid": "rnxFYFCgM"
+        "edit-time": 1595412509945,
+        "string": "Metadata::",
+        "uid": "rP7GlqAx0"
       },
       {
-        "create-email": "ununoctiumuuo1@gmail.com",
-        "create-time": 1595412458105,
         "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1595412459067,
-        "string": "Source:: #[[Andy Henson Series]]",
-        "uid": "wvwjINJ3d"
+        "edit-time": 1595412598685,
+        "string": "Hi,",
+        "uid": "Jo8aqCEeJ"
       },
       {
-        "create-email": "ununoctiumuuo1@gmail.com",
-        "create-time": 1595412459059,
         "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1595412472053,
-        "string": "\u521d\u7ffb: #[[\u767d\u745e Barry]]",
-        "uid": "U77mIZaHF"
+        "edit-time": 1595412591699,
+        "string": "Today we're going to cover the\u00a0****sidebar****\u00a0and\u00a0****filters****. The sidebar is an extra panel that can be opened and closed independently of the main page content.",
+        "uid": "5dOvaIDrV"
       },
       {
-        "create-email": "ununoctiumuuo1@gmail.com",
-        "create-time": 1595412472049,
         "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1595412476331,
-        "string": "\u6821\u5bf9: #Alex",
-        "uid": "uahnHpmiW"
+        "edit-time": 1595412627683,
+        "string": "**Sidebar**",
+        "uid": "MXAccuk20"
       },
       {
-        "create-email": "ununoctiumuuo1@gmail.com",
-        "create-time": 1595412478780,
         "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1595412478780,
-        "string": "",
-        "uid": "aChln2YMR"
+        "edit-time": 1595412591699,
+        "string": "You can open the sidebar using the triple-dots menu at the top right of the screen. It's not very exciting initially. Its primary purpose is as a convenient place to put other notes side-by-side for review or reference as you write in the central pane. You can write on either pane, whichever works best for you. You can even open the same page. An easy way to do this is to right-click on the page heading and choose\u00a0____Open in sidebar____. If you do this and have the place where you're editing your notes visible in both, you'll see that one affects the other\u2014live-editing in both.",
+        "uid": "CfsJYGeC5"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591699,
+        "string": "Now, the only downside currently is no easy way to jump between the panes with the keyboard. What you can do when you're working in the main page is open the block you're currently editing in the sidebar using the\u00a0Control-Shift-O\u00a0notation, as we talked about yesterday. This will let you continue writing it in the sidebar. This is of limited benefit, but what it does demonstrate is that you can open arbitrary blocks and links into the sidebar, and they get stacked. You can open the same block multiple times. It's all the same view. Where this gets really meta is where you are using block references. Opening the original block in the sidebar when you are viewing it in context on the main page allows you to edit the original block's text and see it change in real-time in the main page.",
+        "uid": "Mxl5B1ldf"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591699,
+        "string": "When you have a page opened in the sidebar, you'll see you can collapse and expand the section using the\u00a0____minus____\u00a0and\u00a0____plus____\u00a0buttons that toggle to the left of the heading. On the right are a set of buttons, a close button, one to\u00a0____Filter this page____\u00a0and a number. The number shows the number of other linked references to that page. Clicking it will open the list of related references as a new section in the sidebar.",
+        "uid": "sobHWiiq4"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412638943,
+        "string": "**The Filter**",
+        "uid": "Td1MlHIh6"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412640236,
+        "string": "This brings us to the Filter functionality. This works identically wherever you see the funnel symbol. It will change colour when there are filters in effect. There's always a filter for the current page, this is found to the right of the search bar.",
+        "uid": "D8diRG6-t"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "This shows you all the references you have on the page as a set of buttons, and the subscript number after the text illustrates how many times it's mentioned. Again, currently, this requires a mouse to use. Clicking a button will\u00a0____include____\u00a0it; this means it'll only show the blocks hierarchy on the page which contain that reference (so you have the full context). You'll notice the filter icon turns red when there is a filter in effect. Clicking the button again will remove it.",
+        "uid": "Jfh3cMdt9"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "Shift-clicking a button will do the reverse, hiding those blocks on the page. And of course, you can combine both the\u00a0____Includes____\u00a0and\u00a0____Removes____.",
+        "uid": "Yskpd6E8V"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412649381,
+        "string": "**References filter**",
+        "uid": "P4NA0Z3kJ"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412613115,
+        "string": "The same filter is available at the bottom of each page to allow you to filter the linked references. This starts to become really useful when your linked references list starts to get long. For example, I have a page called\u00a0____Resonance Calendar____\u00a0where I collect all the things I have read or watched and found interesting. I will typically add multiple tags to each block. Here's how I'm using it to filter all my resonance calendar items to see just those that I tagged with\u00a01% rule.",
+        "uid": "Ge_EzN1y3"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412659752,
+        "string": "**Using the sidebar effectively**",
+        "uid": "Wn2iZPfzO"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "One of the handiest things about the sidebar is that it makes it easy to move blocks between pages. As you would within a page, you can drag and drop the blocks across to pages in the sidebar and back.",
+        "uid": "IgzZYnJr1"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "A real-world example: Let's say you've made a note on your daily notes page of a meeting you had with Fred and he gave you his phone number, which you duly noted in Roam.",
+        "uid": "C_Hzf-SqA"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412610405,
+        "string": "Now, you're reviewing your notes at the end of the day, it makes sense to put that phone number on Fred's page (Roam makes for an excellent personal CRM - I'll be talking more about this in later lessons), but you also want to keep it referenced on the daily page too. Here's a short GIF because sometimes a video is better than a thousand words...",
+        "uid": "V-UTeUY6U"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "First, I create a block reference inline of the phone number. Then I shift-click Fred to open his page up in the sidebar. Finally, I drag over the original text of the phone number. This then lets me use the reference button to see all the mentions of the phone number, which shows me that I got it during the meeting I had with Fred on the 7th of June.",
+        "uid": "BqZHRdKPB"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "In Lesson 5, we'll begin exploring some of Roam's toolkit for\u00a0****task management****.",
+        "uid": "pxPer8R14"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "If you have any feedback or a burning question you'd like answered, feel free to reply to this email. I'll do my best to respond and incorporate it into revised versions and future lessons.",
+        "uid": "Kr13u26a3"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "Until tomorrow's lesson,",
+        "uid": "QlltrVrBd"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412591700,
+        "string": "Andy",
+        "uid": "IPIYNkT7m"
       }
     ],
     "edit-email": "ununoctiumuuo1@gmail.com",
@@ -13322,5 +13434,221 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1595386584590,
     "title": "\u5174\u9f99"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595413007804,
+            "string": "Tags:: #[[\u7ffb\u8bd1]] #[[Done]] #[[\u672a\u53d1\u5e03]]",
+            "uid": "rLa8wOGMM"
+          },
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595413007804,
+            "string": "Source:: #[[Andy Henson Series]]",
+            "uid": "tVNRWzUcw"
+          },
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595413042834,
+            "string": "\u521d\u7ffb: #[[\u767d\u745e Barry]]",
+            "uid": "oBwTuzEAy"
+          },
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595413007804,
+            "string": "\u6821\u5bf9: #Alex",
+            "uid": "eE8xfuXTa"
+          },
+          {
+            "edit-email": "ununoctiumuuo1@gmail.com",
+            "edit-time": 1595413033256,
+            "string": "Url: ",
+            "uid": "SQJtfi9J6"
+          }
+        ],
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595413007804,
+        "string": "Metadata::",
+        "uid": "1gGj5V_PZ"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595413028174,
+        "string": "\u539f\u6587\uff1a[[[[Effective Note-Taking]] Lesson 4]]",
+        "uid": "Sr2Z7a6E1"
+      },
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595413011650,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595413011650,
+        "string": "",
+        "uid": "I-MCAjGPM"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412723920,
+        "string": "\u4eca\u5929\u6211\u4eec\u8981\u4ecb\u7ecd\u7684\u662f**\u4fa7\u8fb9\u680f\uff08Siderbar\uff09**\u548c**\u8fc7\u6ee4\u5668\uff08Filter\uff09**\u3002\u4fa7\u8fb9\u680f\u662f\u4e00\u4e2a\u72ec\u7acb\u4e8e\u4e3b\u5185\u5bb9\u7684\u9762\u677f\uff0c\u53ef\u5f00\u542f\u548c\u5173\u95ed\u3002",
+        "uid": "DdLWYZrjw"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412723919,
+        "heading": 2,
+        "string": "\u4fa7\u8fb9\u680f",
+        "uid": "NUEduQk52"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412723919,
+        "string": "\u70b9\u51fb\u9875\u9762\u53f3\u4e0a\u65b9\u7684\u4e09\u70b9\u5f0f\u83dc\u5355\uff0c\u6253\u5f00\u4fa7\u8fb9\u680f\uff08Open right sidebar\uff09\u3002\u4fa7\u8fb9\u680f\u7684\u4e3b\u8981\u76ee\u7684\u662f\u4e3a\u4e86\u65b9\u4fbf\u4f60\u5728\u300c\u4e3b\u5185\u5bb9\u9762\u677f\u300d\u5199\u4f5c\u65f6\uff0c\u53ef\u4ee5\u5c06\u5176\u4ed6\u7b14\u8bb0\u5e76\u5217\u653e\u7f6e\uff0c\u4ee5\u4fbf\u67e5\u770b\u6216\u53c2\u8003\u3002\u4f60\u53ef\u4ee5\u5728\u4efb\u4f55\u4e00\u4e2a\u9762\u677f\u4e0a\u4e66\u5199\uff08\u4ee5\u6700\u9002\u5408\u4f60\u7684\u65b9\u5f0f\u4e3a\u51c6\uff09\u3002\u751a\u81f3\u8fd8\u53ef\u4ee5\u6253\u5f00\u540c\u4e00\u7bc7\u5185\u5bb9\uff08page\uff09\uff0c\u4e00\u4e2a\u7b80\u5355\u7684\u65b9\u6cd5\u662f\u53f3\u51fb\u7b14\u8bb0\u9875\u9762\u6807\u9898\u5e76\u9009\u62e9\u5728\u4fa7\u680f\u4e2d\u6253\u5f00\u3002\u5982\u679c\u4f60\u8ba9\u7b14\u8bb0\u5728\u4e24\u4fa7\u53ef\u89c1\uff0c\u90a3\u4e48\u4e00\u4fa7\u7684\u4fee\u6539\u4f1a\u5f71\u54cd\u53e6\u4e00\u4e2a\u4fa7 \u2014\u2014 \u5b9e\u65f6\u7f16\u8f91\u3002",
+        "uid": "bgNH2Wotr"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412949393,
+        "string": "\u76ee\u524d\u552f\u4e00\u7684\u7f3a\u70b9\u662f\u65e0\u6cd5\u5229\u7528\u5feb\u6377\u952e\u5728\u9762\u677f\u4e4b\u95f4\u8df3\u8f6c\u3002\u5f53\u4f60\u5728\u4e3b\u5185\u5bb9\u9762\u677f\u4e2d\u5de5\u4f5c\u65f6\uff0c\u4f60\u53ef\u4ee5\u4f7f\u7528 `Control-Shift-O` \u6253\u5f00\u4f60\u5f53\u524d\u6b63\u5728\u7f16\u8f91\u7684\u533a\u5757\uff08block\uff09\uff0c\u5c31\u50cf\u6211\u4eec\u6628\u5929\u8c08\u5230\u7684\u90a3\u6837\u3002\u8fd9\u6837\u53ef\u4ee5\u8ba9\u4f60\u5728\u4fa7\u8fb9\u680f\u4e2d\u7ee7\u7eed\u5199\u3002\u5f53\u7136\u8fd9\u4e48\u505a\u7684\u597d\u5904\u6709\u9650\uff0c\u4e3b\u8981\u5c55\u793a\u7684\u662f\uff0c\u4f60\u53ef\u4ee5\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u4efb\u610f\u5757\u548c\u94fe\u63a5\uff0c\u800c\u4e14\u5b83\u4eec\u662f\u53ef\u4ee5\u5806\u53e0\uff08stacked\uff09\u8d77\u6765\u7684\u3002\u4f60\u53ef\u4ee5\u591a\u6b21\u6253\u5f00\u540c\u4e00\u4e2a\u5757\uff08\u90fd\u662f\u540c\u4e00\u4e2a\u89c6\u56fe\uff09\u3002\u5728\u4f60\u4f7f\u7528\u5757\u5f15\u7528\u7684\u65f6\u5019\uff0c\u8fd9\u624d\u662f\u771f\u6b63\u7684\u5f15\u7528\u4f60\u81ea\u5df1\uff08Meta\uff09\u3002\u5f53\u4f60\u5728\u4e3b\u9875\u9762\u7684\u4e0a\u4e0b\u6587\u4e2d\u67e5\u770b\u65f6\uff0c\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u5757\uff0c\u4f60\u53ef\u4ee5\u7f16\u8f91\u5757\uff0c\u5e76\u5728\u4e3b\u9875\u9762\u4e2d\u770b\u5230\u5b83\u7684\u5b9e\u65f6\u53d8\u5316\u3002",
+        "uid": "wCX3ntH8c"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412723919,
+        "string": "\u5f53\u4f60\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u4e00\u4e2a\u9762\u677f\uff0c\u4f60\u53ef\u4ee5\u4f7f\u7528\u6807\u9898\u5de6\u4fa7\u7684\u51cf\uff08-\uff09\u548c\u52a0\uff08+\uff09\u6309\u94ae\u6765\u6298\u53e0\u548c\u5c55\u5f00\u8be5\u90e8\u5206\u3002\u53f3\u8fb9\u662f\u4e00\u7ec4\u6309\u94ae\uff1a\u4e00\u4e2a\u662f\u5173\u95ed\u6309\u94ae\uff0c\u4e00\u4e2a\u662f\u8fc7\u6ee4\u6309\u94ae\u4ee5\u53ca\u4e00\u4e2a\u6570\u5b57\u3002\u8fd9\u4e2a\u6570\u5b57\u663e\u793a\u7684\u662f\u8be5\u9875\u88ab\u5f15\u7528\u7684\u6570\u91cf\uff0c\u70b9\u51fb\u6570\u5b57\u5c06\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u76f8\u5173\u53c2\u8003\u8d44\u6599\u7684\u5217\u8868\u3002",
+        "uid": "93UKjwdlB"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412723919,
+        "heading": 2,
+        "string": "\u8fc7\u6ee4\u5668\uff08The Filter\uff09",
+        "uid": "oJnyPYHmr"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412723919,
+        "string": "\u8fc7\u6ee4\u5668\u7684\u5de5\u4f5c\u539f\u7406\u4e0e\u4f60\u770b\u5230\u6f0f\u6597\u7b26\u53f7\u76f8\u540c\u3002\u5f53\u8fc7\u6ee4\u5668\u751f\u6548\u65f6\uff0c\u56fe\u6807\u989c\u8272\u53d1\u751f\u53d8\u5316\u3002\u5f53\u524d\u9875\u9762\u7684\u8fc7\u6ee4\u5668\u53ef\u4ee5\u5728\u641c\u7d22\u680f\u7684\u53f3\u8fb9\u627e\u5230\u7684\u3002",
+        "uid": "bGWlRPnMD"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412842700,
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FGw42w0M2BC.jpg?alt=media&token=832be27f-7888-432f-a4b3-4ad718ffeda2)",
+        "uid": "ROxtR275X"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412736310,
+        "string": "\u5b83\u4f1a\u4ee5\u4e00\u7ec4\u6309\u94ae\u7684\u5f62\u5f0f\u663e\u793a\u8be5\u9875\u9762\u4e0a\u7684\u6240\u6709\u53c2\u8003\u8d44\u6599\uff0c\u6587\u672c\u540e\u7684\u4e0b\u6807\u6570\u5b57\u8bf4\u660e\u4e86\u5b83\u88ab\u63d0\u53ca\u7684\u6b21\u6570\u3002\u540c\u6837\u5730\uff0c\u76ee\u524d\u9700\u8981\u9f20\u6807\u8fdb\u884c\u64cd\u4f5c\u3002\u70b9\u51fb\u6309\u94ae\u5b83\u5c31\u663e\u793a\u76f8\u5e94\u7684\u5185\u5bb9\uff0c\u8fd9\u610f\u5473\u7740\u5b83\u5c06\u53ea\u663e\u793a\u9875\u9762\u4e0a\u5305\u542b\u8be5\u53c2\u8003\u8d44\u6599\u7684\u5757\u5c42\u6b21\u7ed3\u6784\uff08\u6240\u4ee5\u5b83\u4f1a\u663e\u793a\u5b8c\u6574\u7684\u4e0a\u4e0b\u6587\uff09\u3002\u4f60\u4f1a\u6ce8\u610f\u5230\uff0c\u5f53\u8fc7\u6ee4\u5668\u751f\u6548\u65f6\uff0c\u8fc7\u6ee4\u5668\u56fe\u6807\u4f1a\u53d8\u6210\u7ea2\u8272\uff0c\u518d\u6b21\u70b9\u51fb\u76f8\u5e94\u7684\u7b5b\u9009\u6309\u94ae\u4f1a\u5c06\u5176\u79fb\u9664\u3002",
+        "uid": "pscksqe1n"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412928487,
+        "string": "\u6309\u4f4f `Shift` \u952e\u53bb\u70b9\u51fb\uff0c\u7b5b\u9009\u5668\u4f1a\u505a\u76f8\u53cd\u7684\u64cd\u4f5c \u2014\u2014 \u9690\u85cf\u9875\u9762\u4e0a\u7684\u90a3\u4e9b\u5757\u3002\u5f53\u7136\uff0c\u4f60\u4e5f\u53ef\u4ee5\u540c\u65f6\u4f7f\u7528\u5305\u542b\u548c\u79fb\u9664\u529f\u80fd\u3002",
+        "uid": "L1-YJauOD"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412736310,
+        "heading": 3,
+        "string": "\u5f15\u7528\u8fc7\u6ee4\u5668\uff08References filter\uff09",
+        "uid": "Z3HjbFwxG"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412940259,
+        "string": "\u5728\u6bcf\u4e00\u9875\u7684\u5e95\u90e8\u4e5f\u6709\u540c\u6837\u7684\u8fc7\u6ee4\u5668\uff0c\u5141\u8bb8\u4f60\u8fc7\u6ee4\u94fe\u63a5\u7684\u53c2\u8003\u6587\u732e\u3002\u5f53\u4f60\u7684\u94fe\u63a5\u53c2\u8003\u8d44\u6599\u53d8\u5f97\u5f88\u957f\u65f6\uff0c\u8fd9\u5c31\u975e\u5e38\u6709\u7528\u4e86\u3002\u4f8b\u5982\uff0c\u6211\u6709\u4e00\u4e2a\u540d\u4e3a __Resonance Calendar__ \u7684\u9875\u9762\uff0c\u5728\u8fd9\u91cc\u6211\u6536\u96c6\u4e86\u6240\u6709\u6211\u8bfb\u8fc7\u6216\u770b\u8fc7\u7684\u4e1c\u897f\uff0c\u4ee5\u53ca\u6709\u8da3\u7684\u5185\u5bb9\u3002\u6211\u901a\u5e38\u4f1a\u5728\u6bcf\u4e2a\u533a\u5757\u4e2d\u6dfb\u52a0\u591a\u4e2a\u6807\u7b7e\uff08Tag\uff09\u3002\u4e0b\u9762\u662f\u6211\u5982\u4f55\u4f7f\u7528\u5b83\u6765\u8fc7\u6ee4\u6211\u6240\u6709\u7684 __Resonance Calendar__  \u9879\u76ee\u7684\u793a\u610f\u56fe\uff0c\u53ea\u663e\u793a `1% rule` \u6807\u8bb0\u7684\u9879\u76ee\u3002",
+        "uid": "8o9gHVqD4"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412876870,
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fe-ZUan-m1_.jpg?alt=media&token=b1f23814-fc67-4044-9cfc-a60d4789d0d0)",
+        "uid": "cu_rpadsY"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412749186,
+        "heading": 2,
+        "string": "\u9ad8\u6548\u4f7f\u7528\u4fa7\u680f",
+        "uid": "LvcBLTdVR"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412749186,
+        "string": "\u4fa7\u8fb9\u680f\u6700\u65b9\u4fbf\u7684\u5730\u65b9\u4e4b\u4e00\u5c31\u662f\u5b83\u53ef\u4ee5\u5f88\u5bb9\u6613\u5730\u5728\u9875\u9762\u4e4b\u95f4\u79fb\u52a8\u533a\u5757\uff08block\uff09\u3002\u5c31\u50cf\u5728\u540c\u4e00\u4e2a\u9875\u9762\u4e2d\u64cd\u4f5c\u3002\u4f60\u53ef\u4ee5\u628a\u533a\u5757\u5728\u4e24\u4e2a\u9762\u677f\u4e4b\u95f4\u6765\u56de\u62d6\u62fd\u3002",
+        "uid": "aJSDtUkat"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595413069766,
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F3WBzJsTRqD.gif?alt=media&token=6d63ea30-8ed5-477c-9ca3-75cd3d34ce43)",
+        "uid": "7Qs1NiIsd"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412749186,
+        "string": "\u4e00\u4e2a\u5b9e\u9645\u7684\u4f8b\u5b50\u3002\u5047\u8bbe\u4f60\u5728 Daily note \u9875\u9762\u4e0a\u8bb0\u5f55\u4e86\u4f60\u4e0e Fred \u7684\u4e00\u6b21\u4f1a\u8bae\uff0c\u4ed6\u7ed9\u4e86\u4f60\u7535\u8bdd\u53f7\u7801\uff0c\u7136\u540e\u4f60\u5728 Roam \u4e2d\u8bb0\u5f55\u4e86\u4e0b\u6765\u3002",
+        "uid": "Mu9IbBVfR"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412749186,
+        "string": "\u4e00\u5929\u7ed3\u675f\u540e\u56de\u987e\u7b14\u8bb0\uff0c\u628a\u90a3\u4e2a\u7535\u8bdd\u53f7\u7801\u653e\u5728 Fred \u7684\u9875\u9762\u4e0a\u624d\u662f\u6709\u610f\u4e49\u7684\uff08Roam \u662f\u4e00\u4e2a\u5f88\u597d\u7684\u4e2a\u4eba CRM - \u6211\u5c06\u5728\u540e\u9762\u7684\u8bfe\u7a0b\u4e2d\u8be6\u7ec6\u4ecb\u7ecd\uff09\uff0c\u4e0d\u8fc7\u4f60\u4e5f\u5e0c\u671b\u5728 Daily notes \u4e0a\u4e5f\u80fd\u770b\u5230\u3002\u4e0b\u56fe\u662f\u4e00\u4e2a\u7b80\u77ed\u7684 GIF\uff0c\u56e0\u4e3a\u6709\u65f6\u5019\u89c6\u9891\u80dc\u5343\u8a00\u2026\u2026",
+        "uid": "FEBgnxGpl"
+      },
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595412908805,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412908805,
+        "string": "",
+        "uid": "kfalwuF9o"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412916649,
+        "string": "\u9996\u5148\uff0c\u6211\u521b\u5efa\u4e00\u4e2a\u7535\u8bdd\u53f7\u7801\u7684\u5757\u5f15\u7528\u3002\u7136\u540e\u6309\u4f4f `Shift` \u5e76\u70b9\u51fb [[Fred]]\uff0c\u5728\u4fa7\u8fb9\u680f\u4e2d\u6253\u5f00\u3002\u6700\u540e\u628a\u7535\u8bdd\u53f7\u7801\u7684\u539f\u6587\u62d6\u62fd\u8fc7\u53bb\u3002\u8fd9\u5c31\u5141\u8bb8\u6211\u4f7f\u7528\u5f15\u7528\u9762\u677f\u6765\u67e5\u770b\u6240\u6709\u63d0\u5230\u8fd9\u4e2a\u7535\u8bdd\u53f7\u7801\u7684\u5185\u5bb9\uff0c\u8fd9\u91cc\u663e\u793a\u4e86\u6211\u5728 6 \u6708 7 \u65e5\u4e0e Fred \u9762\u8c08\u65f6\u5f97\u5230\u4e86\u8fd9\u4e2a\u53f7\u7801\u3002",
+        "uid": "pAsnumrn7"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412909220,
+        "string": "\u5728\u7b2c\u4e94\u8bfe\u4e2d\uff0c\u6211\u4eec\u5c06\u5f00\u59cb\u63a2\u7d22 Roam \u7684\u4e00\u4e9b\u5de5\u5177\u7bb1\uff0c\u7528\u4e8e**\u4efb\u52a1\u7ba1\u7406**\u3002",
+        "uid": "hHT3dKkV3"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412909220,
+        "string": "\u5982\u679c\u4f60\u6709\u4efb\u4f55\u53cd\u9988\u6216\u8005\u4f60\u6709\u5e0c\u671b\u5f97\u5230\u89e3\u7b54\u7684\u8feb\u5207\u95ee\u9898\uff0c\u8bf7\u968f\u65f6\u56de\u590d\u8fd9\u5c01\u90ae\u4ef6\u3002\u6211\u4f1a\u5c3d\u6700\u5927\u52aa\u529b\u56de\u590d\u5e76\u5c06\u5176\u7eb3\u5165\u4fee\u8ba2\u7248\u548c\u672a\u6765\u7684\u8bfe\u7a0b\u4e2d\u3002",
+        "uid": "wUyBaqtiY"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412909220,
+        "string": "\u660e\u5929\u8bfe\u7a0b\u89c1\uff0c",
+        "uid": "EQ4AFqjjV"
+      },
+      {
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412909220,
+        "string": "Andy",
+        "uid": "oarJwh-_j"
+      }
+    ],
+    "edit-email": "ununoctiumuuo1@gmail.com",
+    "edit-time": 1595412711991,
+    "title": "\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 4"
+  },
+  {
+    "create-email": "ununoctiumuuo1@gmail.com",
+    "create-time": 1595412909216,
+    "edit-email": "ununoctiumuuo1@gmail.com",
+    "edit-time": 1595412909220,
+    "title": "Fred"
   }
 ]

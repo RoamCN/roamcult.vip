@@ -9,9 +9,6 @@
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 1 关键概念 ]([Effective Note-Taking](Effective Note-Taking.md) Lesson 1 关键概念 .md)
 Source:: #[Andy Henson Series](Andy Henson Series.md)
 
-## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 4]([Effective Note-Taking](Effective Note-Taking.md) Lesson 4.md)
-- **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md)
-
 ## [文字教程翻译](文字教程翻译.md)
 - [Andy Henson Series](Andy Henson Series.md)
 
@@ -19,5 +16,8 @@ Source:: #[Andy Henson Series](Andy Henson Series.md)
 Source:: #[Andy Henson Series](Andy Henson Series.md)
 
 ## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 3](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)
+- **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md)
+
+## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 4](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 4.md)
 - **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md)
 

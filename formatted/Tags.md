@@ -8,6 +8,10 @@
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
+## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 4]([Effective Note-Taking](Effective Note-Taking.md) Lesson 4.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
 ## [岗位分工](岗位分工.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
@@ -33,6 +37,10 @@
     - **[Tags](Tags.md):**
 
 ## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 3](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
+## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 4](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 4.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
