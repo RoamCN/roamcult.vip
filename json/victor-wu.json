@@ -12976,8 +12976,55 @@
     "title": "\u5de7\u7528\u9996\u5b57\u6bcd"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595380341887,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595380352441,
+            "string": "Zack\uff1a\u53ef\u4ee5\u7528\u8fd9\u4e2a\u505a\u6d4b\u8bd5 https://mermaid-js.github.io/mermaid-live-editor/",
+            "uid": "RqAtpPyM5"
+          }
+        ],
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595380217709,
+        "string": "{{mermaid}}\u5177\u4f53\u4f7f\u7528\u65b9\u6cd5\uff1ahttps://mermaid-js.github.io/mermaid/#/examples",
+        "uid": "KGyABz4B3"
+      },
+      {
+        "create-email": "jessie@fat-garage.com",
+        "create-time": 1595380322970,
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595380323887,
+        "string": "[[Book]]{key:enter}{wait: delay=0.1s}{key:tab}{wait: delay=0.1s}Author::{key:enter}Recommended By::{key:enter}Subject::#Investment #[[Fundemental Analysis]]{key:enter}Book Notes::{key:enter}{key:tab}",
+        "uid": "b-swjEtpV"
+      }
+    ],
     "edit-email": "lv460051518@gmail.com",
     "edit-time": 1595377233745,
     "title": "July 22nd, 2020"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595380323889,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595380323901,
+    "title": "Book"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595380323889,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595380323901,
+    "title": "Fundemental Analysis"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595380323889,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595380323901,
+    "title": "Investment"
   }
 ]
