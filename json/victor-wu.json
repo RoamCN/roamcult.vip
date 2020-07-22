@@ -7738,6 +7738,48 @@
     "title": "\u767d\u745e Barry"
   },
   {
+    "children": [
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595412442875,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412454339,
+        "string": "Metadata:: ",
+        "uid": "rnxFYFCgM"
+      },
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595412458105,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412459067,
+        "string": "Source:: #[[Andy Henson Series]]",
+        "uid": "wvwjINJ3d"
+      },
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595412459059,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412472053,
+        "string": "\u521d\u7ffb: #[[\u767d\u745e Barry]]",
+        "uid": "U77mIZaHF"
+      },
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595412472049,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412476331,
+        "string": "\u6821\u5bf9: #Alex",
+        "uid": "uahnHpmiW"
+      },
+      {
+        "create-email": "ununoctiumuuo1@gmail.com",
+        "create-time": 1595412478780,
+        "edit-email": "ununoctiumuuo1@gmail.com",
+        "edit-time": 1595412478780,
+        "string": "",
+        "uid": "aChln2YMR"
+      }
+    ],
     "edit-email": "ununoctiumuuo1@gmail.com",
     "edit-time": 1594893230773,
     "title": "[[Effective Note-Taking]] Lesson 4"

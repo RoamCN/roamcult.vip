@@ -6,6 +6,9 @@
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 3]([Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)
 - **[Metadata](Metadata.md):**
 
+## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 4]([Effective Note-Taking](Effective Note-Taking.md) Lesson 4.md)
+- **[Metadata](Metadata.md):**
+
 ## [岗位分工](岗位分工.md)
 - **[Metadata](Metadata.md):**
 
