@@ -13369,9 +13369,9 @@
         ],
         "create-email": "wangxh1000@gmail.com",
         "create-time": 1595373960463,
-        "edit-email": "ununoctiumuuo1@gmail.com",
-        "edit-time": 1595393698052,
-        "string": "#[[Quick Capture]]",
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595421572467,
+        "string": "#[[Quick Capture]] #[[\u5468\u62a5\u7d20\u6750]] #[[\u7b2c\u4e09\u671f]]",
         "uid": "eBL_hIco8"
       }
     ],
@@ -13644,5 +13644,19 @@
     "edit-email": "ununoctiumuuo1@gmail.com",
     "edit-time": 1595412909220,
     "title": "Fred"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1595421564315,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1595421564321,
+    "title": "\u5468\u62a5\u7d20\u6750"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1595421572474,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1595421572486,
+    "title": "\u7b2c\u4e09\u671f"
   }
 ]
