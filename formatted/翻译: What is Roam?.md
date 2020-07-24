@@ -21,7 +21,7 @@
 
 ## 页面和块
     - 在 Roam 中，每个笔记都被称为一个页面 —— 就像一个网页，或者实体笔记本中的一个页面。页面有标题和内容。这些内容被安排在被称为块的子弹点中。项目点可以缩进，这就形成了父子层次结构。下面是个例子。
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxwang-learning-space%2FglbeUvfUN7.png?alt=media&token=93151acf-fa11-44aa-af3d-4207b595200d)
+    - ![](../images/glbeUvfUN7.png?)
     - 如果你用过 Workflowy，或者你写过子弹笔记，你会熟悉这一点。
     - Roam 将每个块视为一个实体。我认为每个块就像 Excel 中的一个单元格。它是你可以引用的最小单元。这种块的信息粒度不同于许多其他笔记软件的页的粒度。这也是Roam 强大的部分原因。
     - Roam 与其他笔记软件的不同之处在于，它能在`块/子弹`级别而不是在页面级别搜索和引用文本。你可以很容易地说："给我整个数据库中所有包含 "Quantitative easing"的块，并告诉我它所在的页面名称"。

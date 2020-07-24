@@ -15,19 +15,19 @@
 
 ## 过滤器（The Filter）
 - 过滤器的工作原理与你看到漏斗符号相同。当过滤器生效时，图标颜色发生变化。当前页面的过滤器可以在搜索栏的右边找到的。
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FGw42w0M2BC.jpg?alt=media&token=832be27f-7888-432f-a4b3-4ad718ffeda2)
+- ![](../images/Gw42w0M2BC.jpg?)
 - 它会以一组按钮的形式显示该页面上的所有参考资料，文本后的下标数字说明了它被提及的次数。同样地，目前需要鼠标进行操作。点击按钮它就显示相应的内容，这意味着它将只显示页面上包含该参考资料的块层次结构（所以它会显示完整的上下文）。你会注意到，当过滤器生效时，过滤器图标会变成红色，再次点击相应的筛选按钮会将其移除。
 - 按住 `Shift` 键去点击，筛选器会做相反的操作 —— 隐藏页面上的那些块。当然，你也可以同时使用包含和移除功能。
 
 ### 引用过滤器（References filter）
 - 在每一页的底部也有同样的过滤器，允许你过滤链接的参考文献。当你的链接参考资料变得很长时，这就非常有用了。例如，我有一个名为 __Resonance Calendar__ 的页面，在这里我收集了所有我读过或看过的东西，以及有趣的内容。我通常会在每个区块中添加多个标签（Tag）。下面是我如何使用它来过滤我所有的 __Resonance Calendar__  项目的示意图，只显示 `1% rule` 标记的项目。
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fe-ZUan-m1_.jpg?alt=media&token=b1f23814-fc67-4044-9cfc-a60d4789d0d0)
+- ![](../images/e-ZUan-m1_.jpg?)
 
 ## 高效使用侧栏
 - 侧边栏最方便的地方之一就是它可以很容易地在页面之间移动区块（block）。就像在同一个页面中操作。你可以把区块在两个面板之间来回拖拽。
 - 一个实际的例子。假设你在 Daily note 页面上记录了你与 Fred 的一次会议，他给了你电话号码，然后你在 Roam 中记录了下来。
 - 一天结束后回顾笔记，把那个电话号码放在 Fred 的页面上才是有意义的（Roam 是一个很好的个人 CRM - 我将在后面的课程中详细介绍），不过你也希望在 Daily notes 上也能看到。下图是一个简短的 GIF，因为有时候视频胜千言……
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F3WBzJsTRqD.gif?alt=media&token=6d63ea30-8ed5-477c-9ca3-75cd3d34ce43)
+- ![](../images/3WBzJsTRqD.gif?)
 - 首先，我创建一个电话号码的块引用。然后按住 `Shift` 并点击 [Fred](Fred.md)，在侧边栏中打开。最后把电话号码的原文拖拽过去。这就允许我使用引用面板来查看所有提到这个电话号码的内容，这里显示了我在 6 月 7 日与 Fred 面谈时得到了这个号码。
 - 在第五课中，我们将开始探索 Roam 的一些工具箱，用于**任务管理**。
 - 如果你有任何反馈或者你有希望得到解答的迫切问题，请随时回复这封邮件。我会尽最大努力回复并将其纳入修订版和未来的课程中。

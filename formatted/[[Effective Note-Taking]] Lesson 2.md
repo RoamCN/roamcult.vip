@@ -26,9 +26,9 @@ Now we return to the daily notes and dates. You may have seen on the slash comma
 The date picker pops up a calendar so you can create any date. Combine this with TODOs and the backlinks it gives you a compelling task management and planning system.
 ^^It's best understood with an illustration. ^^I use this technique as part of a weekly plan I create in Roam. I'll be covering more about this use-case in a future lesson.
 Here's a snippet of my weekly plan for the upcoming weekend, ^^you'll see I have tagged each day with its date using the /date commands to pick the dates^^. (Actually, I use a TextExpander snippet to create them for me automatically).
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FbqxMqUkOZv.png?alt=media&token=faaab452-022f-49c3-91b5-27380ccb0332)
+![](../images/bqxMqUkOZv.png?)
 Now, when I am on the daily note page for Saturday, I'll see this information show up in the linked references.
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fa0wI1wRT27.png?alt=media&token=823f13ef-cb0b-4818-ba95-ddf8b0bb5718)
+![](../images/a0wI1wRT27.png?)
 While we're on the topic of dates, let's also briefly mention the /Current Time slash command. This just inserts the current time, e.g. 07:43. I have found this is an excellent habit to cultivate when you are adding a thought on your daily notes page, perhaps you're tracking how you feel throughout the day, or as I do, practice Interstitial Journaling.
 You get a rapid way of looking back and seeing precisely what time and date you came up with ideas and is a handy way of using daily notes.
 Tomorrow, we'll learn more about navigating around Roam and the outlining functions.

@@ -50,9 +50,9 @@ Roam 帮助中心展示了更多的键盘快捷键，但我找到的最好、最
 
 这是我为即将到来的周末制定的周计划的一部分，你会看到我用 `/date` 命令给每天的日期打了标签。(事实上，我是用 TextExpander 脚本自动创建的）。
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FbqxMqUkOZv.png?alt=media&token=faaab452-022f-49c3-91b5-27380ccb0332)
+![](../images/bqxMqUkOZv.png?)
 现在，如果我来到周六的每日笔记页，就会看到这些信息显示在页面下方的 `Linked References` 中。
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fa0wI1wRT27.png?alt=media&token=823f13ef-cb0b-4818-ba95-ddf8b0bb5718)
+![](../images/a0wI1wRT27.png?)
 既然我们在讨论日期，也就捎带说下 `/Current Time` 命令。我们用它插入当前时间，如 `07:43`。我发现在每日笔记页记下想法是一个值得培养的好习惯，可能你会在每天不同的时间记下感受，或者像我一样练习间歇式日记。
 
 然后你就能快速回溯，查看这下想法来源的准确时间和日期，这是一种使用每日笔记的便捷方式。

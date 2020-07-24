@@ -1,4 +1,4 @@
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FOiVXrTABWL.png?alt=media&token=09737d6d-80bd-4e04-b1ca-6ed73bb03352)
+- ![](../images/OiVXrTABWL.png?)
 - 胖车库是一个有意思人类的收集计划（开发者、创业者、自由职业者，还有你）和DAO去中心化协作实验室，看看大家都在不同领域做着什么样新的尝试，希望给你未来的可能性提供一些想象力。
 - 位置：北京
 - 微信：Jessie@Fat Garage
