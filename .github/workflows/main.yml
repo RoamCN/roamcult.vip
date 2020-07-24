@@ -26,7 +26,7 @@ jobs:
       -   name: Run Markdown backup
           run: |
             roam-to-git --skip-git .
-            python scripts/roam_image_backup.py json/Note-Tasking.json images
+            python scripts/roam_image_backup.py json/$ROAMRESEARCH_DATABASE.json images
             sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\n\1\./g;s~(https.*%2F\(.*\)\?alt=media.*)~(../images\/\1)~g' ./formatted/*.md
             
           env:
