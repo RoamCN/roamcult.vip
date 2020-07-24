@@ -13303,6 +13303,19 @@
         "create-time": 1595373960463,
         "edit-email": "wangxh1000@gmail.com",
         "edit-time": 1595421572467,
+        "emojis": [
+          {
+            "emoji": {
+              "native": "\ud83d\udc4d"
+            },
+            "users": [
+              {
+                "email": "jessie@fat-garage.com",
+                "time": 1595564332989
+              }
+            ]
+          }
+        ],
         "string": "#[[Quick Capture]] #[[\u5468\u62a5\u7d20\u6750]] #[[\u7b2c\u4e09\u671f]]",
         "uid": "eBL_hIco8"
       }
@@ -13610,8 +13623,8 @@
         "create-email": "jessie@fat-garage.com",
         "create-time": 1595557464154,
         "edit-email": "jessie@fat-garage.com",
-        "edit-time": 1595557464154,
-        "string": "",
+        "edit-time": 1595564030423,
+        "string": "[[Geeks, MOPs, and sociopaths in subculture evolution]]",
         "uid": "EbRsuNkg8"
       }
     ],
@@ -13643,5 +13656,566 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1595557292047,
     "title": "How VC uses Roam?"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012621,
+            "string": "Categories:: #Article",
+            "uid": "_KbSZ9aYs"
+          },
+          {
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012621,
+            "string": "Author:: Meaningness",
+            "uid": "V0uEaAiI0"
+          },
+          {
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012621,
+            "string": "Source:: https://meaningness.com/geeks-mops-sociopaths",
+            "uid": "-C805eVRH"
+          },
+          {
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012621,
+            "string": "Related to:: #[[creative community]]",
+            "uid": "hjy7HToT6"
+          },
+          {
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012628,
+            "string": "Why read this:: Conor recommend",
+            "uid": "F6E39tHH_"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595439970139,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012628,
+            "string": "Notes::",
+            "uid": "Au-Z8KQzT"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "![Mop](https://meaningness.com/images/mn/mop_482x480.jpg)__Image\u00a0[courtesy](http://commons.wikimedia.org/wiki/File:Mop_%28szczotka%29.JPG)\u00a0Wikimedia__",
+                "uid": "7j57tWTUS"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Subcultures are dead. I plan to write a full obituary soon.",
+                "uid": "yLJNQSWdw"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Subcultures were the main creative cultural force from roughly 1975 to 2000, when they stopped working. Why?",
+                "uid": "G9UgbpWXt"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "One reason\u2014among several\u2014is that as soon as subcultures start getting really interesting, they get invaded by muggles, who ruin them. Subcultures have a predictable lifecycle, in which popularity causes death. Eventually\u2014around 2000\u2014everyone understood this, and gave up hoping some subculture could somehow escape this dynamic.",
+                "uid": "CTEm0txA7"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "(You can read very brief previews of my analysis of subculture dynamics in\u00a0[this table](https://meaningness.com/modes-chart)\u00a0and/or\u00a0[this page](https://meaningness.com/meaningness-history).)",
+                "uid": "hzsbXmrQE"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "The muggles who invade and ruin subcultures come in two distinct flavors, mops and sociopaths, playing very different roles. This insight was influenced by Venkatesh Rao\u2019s\u00a0[Gervais Principle](http://www.amazon.com/dp/B00F9IV64W/?tag=meaningness-20), an analysis of workplace dynamics. Rao\u2019s theory is hideous, insightful\u00a0[nihilism](https://meaningness.com/preview-eternalism-and-nihilism); I recommend it.[1](https://meaningness.com/geeks-mops-sociopaths#footnote1_psfazq5)",
+                "uid": "er3WyJpON"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "heading": 2,
+                "string": "The birth of cool",
+                "uid": "buRCTweet"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Before there is a subculture, there is a scene. A\u00a0**scene**\u00a0is a small group of\u00a0**creators**\u00a0who invent an exciting New Thing\u2014a musical genre, a religious sect, a film animation technique, a political theory. Riffing off each other, they produce examples and variants, and share them for mutual enjoyment, generating positive energy.",
+                "uid": "xHMydqXj4"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "The new scene draws\u00a0**fanatics**. Fanatics don\u2019t create, but they contribute energy (time, money, adulation, organization, analysis) to support the creators.",
+                "uid": "R-Lyr_MN5"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Creators and fanatics are both\u00a0**geeks**.[2](https://meaningness.com/geeks-mops-sociopaths#footnote2_q64wfq0)\u00a0They totally love the New Thing, they\u2019re fascinated with all its esoteric ins and outs, and they spend all available time either doing it or talking about it.",
+                "uid": "cWUwuwowh"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "If the scene is sufficiently geeky, it remains a strictly geek thing; a weird hobby, not a subculture.",
+                "uid": "NET3rNx78"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "If the scene is unusually exciting, and the New Thing can be appreciated without having to get utterly geeky about details, it draws\u00a0**mops**.[3](https://meaningness.com/geeks-mops-sociopaths#footnote3_q3y1nlj)\u00a0Mops are fans, but not rabid fans like the fanatics. They show up to have a good time, and contribute as little as they reasonably can in exchange.",
+                "uid": "WQIacBCmc"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Geeks welcome mops, at first at least. It\u2019s the mass of mops who turn a scene into a subculture. Creation is always at least partly an act of generosity; creators want as many people to use and enjoy their creations as possible. It\u2019s also good for the ego; it confirms that the New Thing really is exciting, and not just a geek obsession. Further, some money can usually be extracted from mops\u2014just enough, at this stage, that some creators can quit their day jobs and go pro. (Fanatics contribute much more per head than mops, but there are few enough that it\u2019s rarely possible for creatives to go full time with support only from fanatics.) Full-time creators produce more and better of the New Thing.",
+                "uid": "Odk9hJM5O"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "heading": 2,
+                "string": "The mop invasion",
+                "uid": "n-xEZ-1lw"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Fanatics want to share their obsession, and mops initially validate it for them too. However, as mop numbers grow, they become a headache. Fanatics do all the organizational work, initially just on behalf of geeks: out of generosity, and to enjoy a geeky subsociety. They put on events, build websites, tape up publicity fliers, and deal with accountants. Mops just passively soak up the good stuff.[4](https://meaningness.com/geeks-mops-sociopaths#footnote4_ud0pzbh)\u00a0You may even have to push them around the floor; they have to be led to the drink. At best you can charge them admission or a subscription fee, but they\u2019ll inevitably argue that this is wrong because capitalism is evil, and also because they forgot their wallet.",
+                "uid": "_bGDBOXDA"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Mops also dilute the culture. The New Thing, although attractive, is more intense and weird and complicated than mops would prefer. Their favorite songs are the ones that are least the New Thing, and more like other, popular things. Some creators oblige with less radical, friendlier, simpler creations.",
+                "uid": "gHWu8RLpF"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Mops relate to each other in \u201cnormal\u201d ways, like people do on TV, which the fanatics find repellent. During intermission, geeks want to talk about the New Thing, but mops blather about sportsball and celebrities. Also, the mops also seem increasingly entitled, treating the fanatics as service workers.",
+                "uid": "7ay0jWdEU"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Fanatics may be generous, but they signed up to support geeks, not mops. At this point, they may all quit, and the subculture collapses.",
+                "uid": "Oe07_d044"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "heading": 2,
+                "string": "The sociopath invasion",
+                "uid": "JFBJuSj97"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Unless\u00a0**sociopaths**[5](https://meaningness.com/geeks-mops-sociopaths#footnote5_q93bxww)\u00a0show up. A subculture at this stage is ripe for exploitation. The creators generate\u00a0[cultural capital](http://en.wikipedia.org/wiki/Cultural_capital), i.e.\u00a0**cool**. The fanatics generate\u00a0[social capital](http://en.wikipedia.org/wiki/Social_capital): a network of relationships\u2014strong ones among the geeks, and weaker but numerous ones with mops. The mops, when properly squeezed, produce liquid capital, i.e. money. None of those groups have any clue about how to extract and manipulate any of those forms of capital.",
+                "uid": "qXsxDvlcK"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "The sociopaths quickly become best friends with selected creators. They dress\u00a0__just like__\u00a0the creators\u2014only better. They talk\u00a0__just like__\u00a0the creators\u2014only smoother. They may even do some creating\u2014competently, if not creatively. Geeks may not be completely fooled, but they also are clueless about what the sociopaths are up to.",
+                "uid": "VtAZi3n7k"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012621,
+                "string": "Mops\u00a0__are__\u00a0fooled. They don\u2019t care so much about details, and the sociopaths look to them like creators, only better. Sociopaths become the coolest kids in the room, demoting the creators. At this stage, they take their pick of the best-looking mops to sleep with. They\u2019ve extracted the cultural capital.",
+                "uid": "fUC30cVXJ"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012622,
+                "string": "The sociopaths also work out how to monetize mops\u2014which the fanatics were never good at. With better publicity materials, the addition of a light show, and new, more crowd-friendly product, admission fees go up tenfold, and mops are willing to pay. Somehow, not much of the money goes to creators. However, more of them do get enough to go full-time, which means there\u2019s more product to sell.",
+                "uid": "ejO_Cdadb"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012622,
+                "string": "The sociopaths also hire some of the fanatics as actual service workers. They resent it, but at least they too get to work full-time on the New Thing, which they still love, even in the Lite version. The rest of the fanatics get pushed out, or leave in disgust, broken-hearted.",
+                "uid": "286DJl7PC"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "heading": 2,
+                "string": "The death of cool\u2014unless\u2026",
+                "uid": "GVi6kQAV5"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "After a couple years, the cool is all used up: partly because the New Thing is no longer new, and partly because it was diluted into New Lite, which is inherently uncool. As the mops dwindle, the sociopaths loot whatever value is left, and move on to the next exploit. They leave behind only wreckage: devastated geeks who still have no idea what happened to their wonderful New Thing and the wonderful friendships they formed around it. (Often the geeks all end up hating each other, due first to the stress of supporting mops, and later due to sociopath divide-and-conquer manipulation tactics.)",
+                "uid": "TyKnpS_OY"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "Unless some of the creators are geniuses. If they can give the New Thing genuine mass appeal, they can ascend into superstardom. The subculture will reorganize around them, into a much more durable form. I won\u2019t go into that in there. I will point out that this almost never happens without sociopaths. An ambitious creator may know they have mass-appeal genius, and\u00a0__could__\u00a0be a star, but very rarely do they know how to get from here to there.",
+                "uid": "qtdWadW-S"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "heading": 2,
+                "string": "Resistance",
+                "uid": "pAjzMMYDP"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "So what is to be done?",
+                "uid": "4zpBVyqx5"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "This is a geek question. The subculture lifecycle is a problem only from a geek perspective. As far as mops are concerned, it provides reliable, low-cost waves of novelty entertainment and casual social relationships. As far as sociopaths are concerned, it generates easily-exploited pools of prestige, sex, power, and money.",
+                "uid": "AAHIljZcJ"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "From a utilitarian point of view, mops hugely outnumber geeks, so in terms of total social value, it\u2019s all good. Can\u2019t make omelettes without breaking some eggheads.",
+                "uid": "-uqF3F7pI"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "So what is to be done?",
+                "uid": "sQLiFKleL"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "Geeks can refuse to admit mops. In fact, successful subcultures always do create costly barriers to entry, to keep out the uncommitted.[6](https://meaningness.com/geeks-mops-sociopaths#footnote6_ms4yuqd)\u00a0In the heyday of subcultures, those were called\u00a0[poseurs](http://en.wikipedia.org/wiki/Poseur).[7](https://meaningness.com/geeks-mops-sociopaths#footnote7_ezao0ji)\u00a0Mop exclusion keeps the subculture comfortable for geeks, but severely limits its potential. Often there\u2019s a struggle between geeks who like their cozy little club as it is, and geeks who want a shot at greatness\u2014for themselves, or the group, or the New Thing. In any case, subculture boundaries are always porous, and if the New Thing is cool enough, mops will get in regardless.",
+                "uid": "Cs_qA1e1o"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "The optimal mop:geek ratio is maybe 6:1. At that ratio, the mops provide more energy than they consume. A ratio above about 10:1 becomes unworkable; it\u2019s a recipe for burnout among supporting fanatics. Ideally, the ratio could be controlled. I think few subcultures understand this imperative, and I\u2019m not sure how it could be done even if one did understand. Mops move in herds. Usually either there are only a few, or their numbers quickly grow too large.",
+                "uid": "IMm9uCjvw"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "Sociopaths only show up if there\u2019s enough mops to exploit, so excluding (or limiting) mops is a strategy for excluding sociopaths. Some subcultures do understand this, and succeed with it.",
+                "uid": "l1nw9IeeZ"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "Alternatively, you could recognize sociopaths and eject them. Geeks may be pretty good at the recognizing, but are lousy at the ejecting. Mops don\u2019t recognize sociopaths, and anyway don\u2019t care. Mops have little investment in the subculture, and can just walk away when sociopaths ruin it. By the time sociopaths show up, mops are numerically most of the subculture. Sociopaths manipulate the mops, and it\u2019s hard for the geeks to overrule an overwhelming majority.",
+                "uid": "hnxVcY1h2"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "Anyway, horribly, geeks\u00a0__need__\u00a0sociopaths\u2014if the New Thing is ever going to be more than a geeky hobby, or a brief fad that collapses under the weight of the mop invasion.",
+                "uid": "h-9bo0OB4"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "So what is to be done?",
+                "uid": "wFCQXbYDX"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "heading": 2,
+                "string": "Be slightly evil",
+                "uid": "maQXMWind"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "The subcultural mode mostly ended around 2000. There still are subcultures, new ones all the time, but they no longer have the cultural and social force they used to. The \u201cclassical model\u201d of subcultures no longer works, for the reasons given here, plus others I\u2019ll describe in upcoming writing. I don\u2019t think it can be rescued.",
+                "uid": "s_VmzzmC9"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "However, the\u00a0**fluid mode**\u2014my hoped-for future\u2014resembles the subcultural mode in many ways. The same social dynamics may play out, unless there is a powerful antidote.",
+                "uid": "KZeWpzng5"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012627,
+                "string": "A slogan of Rao\u2019s may point the way:\u00a0[Be slightly evil](http://www.amazon.com/dp/B00F8JTYH8/?tag=meaningness-20). Or: geeks need to learn and use some of the sociopaths\u2019 tricks. Then geeks can capture more of the value they create (and get better at ejecting true sociopaths).",
+                "uid": "vxPqVcW-p"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012628,
+                "string": "Specific strategies for sociopathy are outside the scope of this book. However, I have an abstract suggestion.",
+                "uid": "KlaaTTR8r"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012628,
+                "string": "Rao concludes his analysis by explaining that his \u201csociopaths\u201d are actually\u00a0[nihilists](https://meaningness.com/preview-eternalism-and-nihilism), in much the same sense as I use the word. Serious subcultures are usually\u00a0[eternalistic](https://meaningness.com/preview-eternalism-and-nihilism): the New Thing is a source of meaning that gives everything in life purpose. Eternalistic\u00a0[na\u00efvet\u00e9](https://meaningness.com/kitsch)\u00a0makes subcultures much easier to exploit.",
+                "uid": "WnzWMVghX"
+              },
+              {
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012628,
+                "string": "\u201cSlightly evil\u201d defense of a subculture requires realism: letting go of eternalist\u00a0[hope](https://meaningness.com/hope)\u00a0and\u00a0[faith](https://meaningness.com/faith)\u00a0in imaginary\u00a0[guarantees](https://meaningness.com/certainty)\u00a0that the New Thing will triumph. Such realism is characteristic of nihilism. Nihilism has its own delusions, though. It\u00a0__is__\u00a0worth trying to create beautiful, useful New Things\u2014and worth defending them against nihilism. A fully realistic worldview corrects both eternalistic and nihilistic errors.",
+                "uid": "HEEyN4Emt"
+              },
+              {
+                "children": [
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[1.](https://meaningness.com/geeks-mops-sociopaths#footnoteref1_psfazq5)",
+                    "uid": "aht6z6Ni-"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "Rao postulates three groups in any organization: the Clueless, the Losers, and the Sociopaths. The Clueless mistakenly believe that the organization is actually supposed to do whatever it pretends to be for: selling widgets, saving endangered herons, or educating school-children, for instance. They are dedicated to this\u00a0[mission](https://meaningness.com/mission)\u00a0and work hard, and creatively, to further it. The Losers have a job because they need a paycheck; their motivation is to make work reasonably pleasant in exchange for minimal effort. The Sociopaths recognize the reality that the organization is just the setting for a power game played among themselves. Nobody really cares about widgets, herons, or other people\u2019s children. The Losers also understand this, but don\u2019t have what it takes to play the game.",
+                    "uid": "7hkXBa0iA"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "In subcultures, Geeks are roughly parallel to the Clueless; they are passionate about whatever the subculture is supposedly about. Mops substitute for Losers: they show up for a reasonably pleasant time in exchange for minimal effort. Sociopaths are Sociopaths. The detailed dynamics are rather different, though; for instance, the Gervais Principle says that organizations begin with Sociopaths and end up with mostly Clueless, whereas subcultures begin with Geeks and end with mostly Mops.",
+                    "uid": "TwAwYVbT5"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[2.](https://meaningness.com/geeks-mops-sociopaths#footnoteref2_q64wfq0)I\u2019m using \u201cgeek\u201d here to mean \u201csomeone fascinated by the details of a subject most people don\u2019t care about.\u201d There\u2019s another sense of \u201cgeek,\u201d meaning the sort of person you\u2019d expect to find at a science fiction convention. There\u2019s significant overlap, but in the first sense there are gardening geeks and golfing geeks, and most probably aren\u2019t geeks in the second sense. They might create gardening subcultures, though.",
+                    "uid": "oxws12u7a"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[3.](https://meaningness.com/geeks-mops-sociopaths#footnoteref3_q3y1nlj)\u201cMOP\u201d is an abbreviation for \u201cmember of the public\u201d; it seems to be fairly common in Britain. My American (mis-)use of it here is probably somewhat non-standard. Other terms that could be used are \u201ccasuals\u201d or \u201ctourists.\u201d",
+                    "uid": "TDDfIKsCO"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[4.](https://meaningness.com/geeks-mops-sociopaths#footnoteref4_ud0pzbh)All the categories here\u2014creators, fanatics, mops, sociopaths\u2014are necessarily\u00a0[nebulous](https://meaningness.com/nebulosity): ambiguous and changing over time. There is no \u201cfact of the matter\u201d about whether someone is an unusually enthusiastic mop, or a fanatic who is less committed than some other fanatics; nor whether someone who creates occasionally but mainly acts to support the subculture counts as a fanatic or creator. Anyone may shift roles, too.",
+                    "uid": "-0P8u4ri5"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[5.](https://meaningness.com/geeks-mops-sociopaths#footnoteref5_q93bxww)I am using \u201csociopath\u201d here in Rao\u2019s informal sense, not a technical, clinical one.",
+                    "uid": "kwurdAK-O"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[6.](https://meaningness.com/geeks-mops-sociopaths#footnoteref6_ms4yuqd)I\u2019ll discuss these barriers more extensively in upcoming writing.",
+                    "uid": "HNRbejWy0"
+                  },
+                  {
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1595564012628,
+                    "string": "[7.](https://meaningness.com/geeks-mops-sociopaths#footnoteref7_ezao0ji)\u201cPoseur\u201d was perhaps directed even more at sociopaths than mops, but didn\u2019t clearly distinguish between the two.",
+                    "uid": "UljGw3Wmd"
+                  }
+                ],
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1595564012628,
+                "string": "Combining what works in eternalism and nihilism amounts to the\u00a0[complete stance](https://meaningness.com/preview-eternalism-and-nihilism#completion)\u2014which is essentially the same thing as the \u201cfluid mode.\u201d",
+                "uid": "YhSmzL4ph"
+              }
+            ],
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564012628,
+            "string": "Metadata ::",
+            "uid": "GBV8JzDWo"
+          }
+        ],
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564012628,
+        "heading": 2,
+        "string": "\ud83d\udcdc Articles",
+        "uid": "LmkQ3Dzm6"
+      }
+    ],
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564007291,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564030423,
+    "title": "Geeks, MOPs, and sociopaths in subculture evolution"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564012713,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564012715,
+    "title": "Author"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564012767,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564012771,
+    "title": "creative community"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564012767,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564012771,
+    "title": "Related to"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564013303,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564013310,
+    "title": "Article"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564013303,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564013310,
+    "title": "Categories"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564013346,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564013351,
+    "title": "Metadata "
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564014302,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564014302,
+    "title": "Why read this"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564014371,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564014371,
+    "title": "Notes"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564405005,
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FhurH4aFAeC.png?alt=media&token=608b933f-b889-42d1-b4d6-229a3432f2ed) ",
+        "uid": "hKLwbTrYj"
+      },
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595564851947,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564876652,
+            "string": "#[[\u6653\u6656]]",
+            "uid": "5KWtggkb8"
+          }
+        ],
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564405003,
+        "heading": 2,
+        "string": "Roam \u5b98\u65b9\u52a8\u6001",
+        "uid": "qJqpvBfLe"
+      },
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595564880840,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595565094303,
+            "string": "#Victor #Jessie #JimmyLv #Alex",
+            "uid": "Xwx-4ppN_"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595564484425,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564819306,
+            "string": "[[Roam\u9762\u5bf9\u9762\ud83c\udf5c\u7b2c\u4e8c\u671f]] with zack\u5f55\u5236\u5b8c\u6210\uff0c\u7b2c\u4e00\u671f\u53d1\u5e03",
+            "uid": "Xi8NPkjtF"
+          }
+        ],
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564405003,
+        "heading": 2,
+        "string": "RoamCN \u52a8\u6001",
+        "uid": "cSanyZl_A"
+      },
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595564900884,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564907062,
+            "string": "#JimmyLv",
+            "uid": "6Oh9C81jl"
+          }
+        ],
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564405004,
+        "heading": 2,
+        "string": "Roam \u4f7f\u7528\u6280\u5de7",
+        "uid": "Zc14F4Nfx"
+      },
+      {
+        "children": [
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1595564544870,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1595564557087,
+            "string": "[[How VC uses Roam?]]",
+            "uid": "sHm6F79h-"
+          }
+        ],
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564912925,
+        "heading": 2,
+        "string": "Roam \u4f7f\u7528\u6848\u4f8b",
+        "uid": "iLhCTFjFG"
+      },
+      {
+        "edit-email": "jessie@fat-garage.com",
+        "edit-time": 1595564482422,
+        "heading": 2,
+        "string": "Roam \u8d44\u6e90\u63a8\u8350",
+        "uid": "mruNR76xj"
+      }
+    ],
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564642837,
+    "title": "\u5468\u62a5Newsletter 2020-07-25 003\u671f"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1595564876653,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1595564876654,
+    "title": "\u6653\u6656"
   }
 ]

@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Geeks, MOPs, and sociopaths in subculture evolution](Geeks, MOPs, and sociopaths in subculture evolution.md)
+- **[Author](Author.md):** Meaningness
+    - **[Source](Source.md):**
+
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 3]([Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)
 - **[Tags](Tags.md):** #[翻译](翻译.md)
     - **[Source](Source.md):**
