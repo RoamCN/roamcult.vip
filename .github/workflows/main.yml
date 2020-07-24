@@ -22,17 +22,18 @@ jobs:
       -   name: Setup dependencies
           run: |
             pip install git+https://github.com/MatthieuBizien/roam-to-git.git
-      -   name: Run backup
+            pip install requests
+      -   name: Run Markdown backup
           run: |
             roam-to-git --skip-git .
-            pwd
-            sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\n\1\./g' ./formatted/*.md
+            python scripts/roam_image_backup.py json/Note-Tasking.json images
+            sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\n\1\./g;s~(https.*%2F\(.*\)\?alt=media.*)~(../images\/\1)~g' ./formatted/*.md
+            
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
             ROAMRESEARCH_DATABASE: ${{ secrets.ROAMRESEARCH_DATABASE }}
-
-      -   name: Commit changes
+      -   name: Git Commit changes
           uses: elstudio/actions-js-build/commit@v3
           with:
             commitMessage: Automated snapshot
