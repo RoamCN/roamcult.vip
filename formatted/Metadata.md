@@ -3,6 +3,9 @@
 ## [Andy Henson Series](Andy Henson Series.md)
 - **[Metadata](Metadata.md):**
 
+## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 12]([Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
+- **[Metadata](Metadata.md):**
+
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 3]([Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)
 - **[Metadata](Metadata.md):**
 
@@ -25,6 +28,9 @@
 - **[Metadata](Metadata.md):**
 
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
+- **[Metadata](Metadata.md):**
+
+## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
 - **[Metadata](Metadata.md):**
 
 ## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 3](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)

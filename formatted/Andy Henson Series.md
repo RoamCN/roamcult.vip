@@ -12,6 +12,9 @@ Source:: #[Andy Henson Series](Andy Henson Series.md)
 ## [文字教程翻译](文字教程翻译.md)
 - [Andy Henson Series](Andy Henson Series.md)
 
+## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
+- **[Source](Source.md):** #[Andy Henson Series](Andy Henson Series.md)
+
 ## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
 Source:: #[Andy Henson Series](Andy Henson Series.md)
 

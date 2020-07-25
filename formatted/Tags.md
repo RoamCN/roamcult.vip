@@ -4,6 +4,10 @@
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 
+## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 12]([Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 3]([Effective Note-Taking](Effective Note-Taking.md) Lesson 3.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
@@ -33,6 +37,10 @@
     - **[Tags](Tags.md):**
 
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):**
+
+## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
 - **[Metadata](Metadata.md):**
     - **[Tags](Tags.md):**
 

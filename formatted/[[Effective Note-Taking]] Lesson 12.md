@@ -1,0 +1,59 @@
+- **[Metadata](Metadata.md):**
+    - **[Tags](Tags.md):** #[翻译](翻译.md)
+    - **[Source](Source.md):** #[Effective Note-Taking](Effective Note-Taking.md)
+    - 校对: [Alex](Alex.md)
+- 
+- __Hi,__
+- One of the more significant advantages of Roam is its multiplayer capabilities. As I mentioned way back in the first lesson, Roam isn't just a note-taking app. The Roam team have a [much grander vision for a more collaborative approach to research and knowledge management](https://el2.convertkit-mail2.com/c/27uvq8mm6oa9u3oeq0t3/58hvh8u9rgrw9d/aHR0cHM6Ly9yb2FtcmVzZWFyY2guY29tLyMvYXBwL2hlbHAvcGFnZS9wTFhXRnZOQjM=). If you're interested in learning more, I highly recommend reading their [White Paper](https://el2.convertkit-mail2.com/c/27uvq8mm6oa9u3oeq0t3/25h2h9uok3kxok/aHR0cHM6Ly9yb2FtcmVzZWFyY2guY29tLyMvYXBwL2hlbHAvcGFnZS9WdTFNbWppblM=)in the help database.
+- Roam's broader goals are still some distance away, but the initial building blocks are there to begin experimenting with. At the moment, much of these things are experimental so are subject to change, plus, security is hard. If you have any doubts about making any of your notes publicly accessible, then stay with private or local-only databases to be assured that private notes aren't leaked outside of your control.
+- I'll also re-iterate my view from Lesson 8 about not putting anything into Roam that is super-sensitive or secret unless you encrypt it first.
+
+## Public and Private databases
+- When you pay for Roam, you have the option to create up to three hosted graphs (databases). These can be public or private. A private graph means that nobody but you can access it. Conversely, a public database means anyone who has a link to it has read-only access. You can optionally make the whole database editable by others too.
+
+## Granting access to your private database
+- So, you've decided to share your notes with others. You have a couple of choices. First, read-only or editor options:
+- Choose __Share__ from the triple-dot menu.
+    - ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/qU35Y21zMtDFRyeAas6A3Y?w=800&fit=max)
+    - Here, you can see that my database is private, but I have granted (myself) read-only access to it.
+    - ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/mk8RveNjRztAS7Ly1WQzNV?w=800&fit=max)
+    - To grant access to a user, just type in their email address and hit enter in the desired box. For read-only access use the __Readers__ box. To allow them to edit the database, choose the __Editors__ box.
+- Share the URL of your database with them, and when they log into Roam, they'll have access to the database just like you.
+    - __Note that collaborators to your Roam database do not need to pay anything. They can view or edit your database at no cost to themselves. They will not be able to create any databases for themselves without entering into a free trial, and then ultimately paying when the trial ends. Once you've shared your database, you'll be able to see more information about it on your account settings page.__
+- ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/9DZpWLbSa9sNtQWhyVJbf1?w=800&fit=max)
+- ****You can find this on your __Account settings and All Graphs__ page by clicking on the name of your current database.
+- ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/ggsvhmXc4YzWpd8oWNWy6f?w=800&fit=max)
+
+### Sharing individual pages
+- To share a single page with others, first you need to enable page level permissions from the __Share__ menu option.
+    - ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/jLejaD3Fn1XJFvBjy5arvo?w=800&fit=max)
+    - Now, if you visit the triple-dot menu again, you'll see a new __Share Page__ option.
+    - ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/k2jZ5oMJUZw2HUDR8ALkmN?w=800&fit=max)
+- From here you can toggle the page between three modes. __Private__, the default, __Public readonly__, and __Public Editable__.
+    - ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/iYWTQkUgXJoW9WVT4RP6i2?w=800&fit=max)
+    - People viewing the page as __Public readonly__, will see anything on the page including links, they won't be able to follow them unless those pages have also been made public. Anything you include on the page, such as queries will show up, so you do need to think about dynamic data like this. If you have shared a page which pulls in notes from across your private database, you may accidentally expose something you didn't intend to.
+- If you share your database or page and grant editable permissions to others, they will be able to make changes to your notes, adding new pages and blocks, just as you can. Roam will show a small icon next to blocks that others have edited, so can identify where changes have been made. Depending on your use case, you may want to try and set up some conventions with your other users to version blocks if you are concerned about preserving a note's history.
+
+## Backups
+- This leads us nicely into a brief discussion on exporting and the importance of having regular backups. I am firmly of the view that you can never have too many backups. The phrase, __Two Is One, One Is None__, which I think comes from a military context, absolutely applies to backups. In the not-too-distant past, there have been various reports of data loss by some users, so it's always better to be safe than sorry. If you have spent a few hours writing up notes you absolutely don't want to risk losing, take a backup.
+
+### Exporting
+- Roam provides a couple of options for exporting your notes. You can export a single page or your entire database. Both options are found on the triple-dot menu. Whichever option you choose, you can select either a markdown (plain text) export or JSON. For re-creating your database more fully, you will want the JSON export as it contains more metadata about each page and block which the markdown version does not provide.
+- Personally, I do a full export at least once a week during my weekly review. I export both markdown and JSON versions which I store in dated folders. It is worth noting that any files you have uploaded to Roam are not included in the export output. They are referenced as URLs in both the markdown and JSON, so there would be some effort required if you wanted to download copies of every image or file you added to Roam.
+
+### Roam Public
+- Francis Miller of the fantastic site, [RoamBrain](https://el2.convertkit-mail2.com/c/27uvq8mm6oa9u3oeq0t3/g3hnhwuz4m42z0/aHR0cHM6Ly93d3cucm9hbWJyYWluLmNvbQ==), has also created a directory of public Roam databases which is steadily growing. [RoamPublic](https://el2.convertkit-mail2.com/c/27uvq8mm6oa9u3oeq0t3/9qhzhdu2odo828/aHR0cHM6Ly93d3cucm9hbXB1YmxpYy5jb20=) has public texts ranging from the bible to great speeches and lectures to works like Marcus Aurelius' __Meditations__.
+- You may well want to pull some of these works into your own database. Since these are public databases created by other Roam users, there's a good chance you won't want to export the whole database and import it all, since there'll be daily pages, amongst other pages, in there which serve no specific purpose.
+
+### Selective exports
+- A better option is to use the selective export option, which you can find on the __All Pages__ page in the navigation bar. Use the checkboxes on the left-hand side to choose the pages you want to export. To make it easier, hit the calendar icon over on the right to hide the daily notes pages. Further, you can sort the columns, sorting by word count will also make it a bit easier to discern pages with content, and not just connection or "tag" pages.
+- ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/mTQffKgFfZMm5S4FQn6Y3K?w=800&fit=max)
+- When you've selected all the pages, hit the upward-facing arrow icon to export to JSON or markdown. I recommend using JSON when you're exporting and importing to and from Roam databases.
+
+### Importing
+- Getting things into Roam is pretty much the reverse. Go to __Import Files__from the triple-dot menu in your database. You can import up to 10 markdown files at once. Choose browse and select up to 10 files. Roam will process them and present you with the list where you can choose to import it or not and change the page title.
+- ![](https://embed.filekitcdn.com/e/u89MeDKEPf91PvbdZnXxHY/sgGY7NgmPFtZfJxCFFfJAj?w=800&fit=max)
+- For JSON imports from other Roam databases, all you need to do is choose the single JSON file.
+- If you have any feedback or a burning question you'd like answered, feel free to reply to this email. I'll do my best to respond and incorporate it into revised versions and future lesson.
+- See you tomorrow for the penultimate lesson.
+- Andy
