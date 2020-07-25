@@ -12,6 +12,10 @@
 - **[Tags](Tags.md):** #[翻译](翻译.md)
     - **[Source](Source.md):**
 
+## [拆解Zettelkasten | 卡片盒知识管理体系实践反思](拆解Zettelkasten | 卡片盒知识管理体系实践反思.md)
+- **[Author](Author.md):** Flynngao [roam](roam.md)/cn
+    - **[Source](Source.md):**
+
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
 - **[Tags](Tags.md):** #[翻译](翻译.md) #[搬运](搬运.md) #[未发布](未发布.md) #[Done](Done.md)
     - **[Source](Source.md):**
