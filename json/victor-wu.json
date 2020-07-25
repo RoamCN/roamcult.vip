@@ -1462,7 +1462,7 @@
     "create-email": "wuxuebin1993@gmail.com",
     "create-time": 1593932037600,
     "edit-email": "wangxh1000@gmail.com",
-    "edit-time": 1595252658570,
+    "edit-time": 1595697170486,
     "title": "Effective Note-Taking"
   },
   {
@@ -3917,6 +3917,14 @@
                 "edit-time": 1594481077195,
                 "string": "[[roam\u4e92\u52a8\u6559\u5b66\u7b2c\u4e00\u671f]]#[[\u665a\u7518\u4faf]]#Jessie",
                 "uid": "Z9wEyMKPx"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1595697165988,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1595697170480,
+                "string": "[[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 5]] #wangxh1000",
+                "uid": "x3Bl3W0jb"
               }
             ],
             "create-email": "wangxh1000@gmail.com",
@@ -4007,6 +4015,14 @@
                 "edit-time": 1595413124268,
                 "string": "[[[[Effective Note-Taking]] Lesson 4]] #[[\u767d\u745e Barry]]",
                 "uid": "zqJLrh9ek"
+              },
+              {
+                "create-email": "wangxh1000@gmail.com",
+                "create-time": 1595697127349,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1595697133095,
+                "string": "[[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 12]] #wangxh1000",
+                "uid": "oyYLbR0eX"
               }
             ],
             "create-email": "wangxh1000@gmail.com",
@@ -15017,6 +15033,16 @@
     "title": "Flynngao"
   },
   {
+    "children": [
+      {
+        "create-email": "wangxh1000@gmail.com",
+        "create-time": 1595696903788,
+        "edit-email": "wangxh1000@gmail.com",
+        "edit-time": 1595696917705,
+        "string": "\u521d\u7ffb\u5b8c\u6210 [[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 12]]",
+        "uid": "Ef6bk3-5d"
+      }
+    ],
     "edit-email": "489322130@qq.com",
     "edit-time": 1595693736335,
     "title": "July 26th, 2020"
@@ -15739,5 +15765,12 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1595695864705,
     "title": "\u54c1\u75de"
+  },
+  {
+    "create-email": "wangxh1000@gmail.com",
+    "create-time": 1595697170483,
+    "edit-email": "wangxh1000@gmail.com",
+    "edit-time": 1595697170486,
+    "title": "\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 5"
   }
 ]
