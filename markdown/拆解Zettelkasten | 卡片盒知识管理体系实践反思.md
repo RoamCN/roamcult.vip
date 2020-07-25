@@ -1,10 +1,12 @@
 - ## 📜 Articles
     - Categories:: #Article
-    - Author:: Flynngao #roam/cn
-    - Source:: https://medium.com/@gaoflynn/%E6%8B%86%E8%A7%A3zettelkasten-%E5%8D%A1%E7%89%87%E7%9B%92%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E5%AE%9E%E8%B7%B5%E5%8F%8D%E6%80%9D-5853887d6386
-    - Related to:: #
-    - Why read this::
-    - Notes::
+    - Author:: [[Flynngao]] #roam/cn
+    - Source:: [Medium](https://medium.com/@gaoflynn/%E6%8B%86%E8%A7%A3zettelkasten-%E5%8D%A1%E7%89%87%E7%9B%92%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E5%AE%9E%E8%B7%B5%E5%8F%8D%E6%80%9D-5853887d6386)
+    - Related to:: #[[Zettelkasten卡片盒笔记法]]
+    - Why recommend this:: 亮点诸多，思考力满满💡
+        - 被很多人忽视的Zettelkasten对**工作流**的重要性。
+            - "在接触了Zettelkasten之后，最大的兴奋点在于，它认可了思考的非线性特征，给出了一种脱离现有顺序框架的方式。但一个线性的工作流实际是整个Zettelkasten的重中之重，也是最容易被忽略的地方。正如上文所介绍的Zettelkasten并非一个独立的笔记方式，它是一个需要和其他的工作习惯所结合的知识管理方法论。"
+        - 分析[[Andy Matuschak]]和[[Simon Eskildsen]] working notes实例
     - Metadata ::
 - ![Image for post](https://miro.medium.com/max/1024/0*lBpzRi0jS3u1Xwao)
 - ## 为什么有这篇文章？
@@ -32,11 +34,10 @@
 - 后置流程：
     - 定期打开滑箱，从滑箱中找到适合继续发展的idea，放入inbox当中
     - 清理无用的临时Notes
-- 本文无意深入以上步骤的执行细节，但更希望引起对Zettelkasten爱好者的注意的是： **实现自己的Zettelkasten工作流至关重要** ，只有在拥有设计过工作流和笔记方式完整结合的状态下，Zettelkasten才能发挥其应有的作用。在How to的多个章节当中都强调了工作流是卢曼实现其惊人高质量的输出的关键。在开始构建一个属于自己的Zettelkasten的时候，一个正确的预期是：它是一个需要长期严格执行才能起效知识管理工作流。
+- 本文无意深入以上步骤的执行细节，但更希望引起对Zettelkasten爱好者的注意的是: **实现自己的Zettelkasten工作流至关重要** ，只有在拥有设计过工作流和笔记方式完整结合的状态下，Zettelkasten才能发挥其应有的作用。在How to的多个章节当中都强调了工作流是卢曼实现其惊人高质量的输出的关键。在开始构建一个属于自己的Zettelkasten的时候，一个正确的预期是：它是一个需要长期严格执行才能起效知识管理工作流。
 - ## 为什么Zettelkasten其实很难？
 - 接下来我想要讨论一下对于Zettelkasten的难点，在进行反复阅读和实践之后的一些感悟。
 - ## 工作流，工作流，工作流
-- ![Image for post](https://miro.medium.com/max/60/0*yem-OIhLGzeWZMfE?q=20)
 - ![Image for post](https://miro.medium.com/max/1280/0*yem-OIhLGzeWZMfE)
 - Just because writing is not a linear process doesn’t mean we should go about it haphazardly. We need a workflow — a repeatable process for collecting, organizing, and sharing ideas.
 - — [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing.](https://fortelabs.co/blog/how-to-take-smart-notes/) [⁴]Principle #4: Our tools and techniques are only as valuable as the workflow.
@@ -69,20 +70,17 @@
     - 同时通过最后一点可以非常清楚的解释这为什么Evergreen Notes是一个更好的名字，Permanent Notes其实并不Permanent。在知识深度和广度不断增大的时候，已经被放进滑箱中的任何Notes都有被再次更新的机会。
 - 由于例子真的很少，接下来拆解一下我认为优秀的Permanent Notes例子：
 - 大名鼎鼎的Andy Matuschak，前Apple，现可汗学院的工程师，以下是我分析他的其中一篇 [Working Note](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc) 。
-- ![Image for post](https://miro.medium.com/max/34/0*srYLaaa_KHiM7So5?q=20)
 - ![Image for post](https://miro.medium.com/max/595/0*srYLaaa_KHiM7So5)
 - [Simon Eskildsen](https://twitter.com/sirupsen) 一位高中毕业的学神，现在是Shopify的Director of Production Engineering，他博览多个学科的书籍，并且通过自己开发的Zettelkasten软件进行了2年左右的知识体系管理。可以通过这篇 [How to Make Yourself Into a Learning Machine](https://superorganizers.substack.com/p/how-to-build-a-learning-machine) 进行更多的了解。下面是我对他的Zettelkasten笔记进行的分析：
-- ![Image for post](https://miro.medium.com/max/56/1*_7VQBEcCKq6PIaosIuDJuA.png?q=20)
 - ![Image for post](https://miro.medium.com/max/783/1*_7VQBEcCKq6PIaosIuDJuA.png)
 - 上述例子是我对照相关材料和实践中分析出来相对合理的一种形态，读者可根据自己的需求做调整。顺便帖一篇我自己实践的例子：
-- ![Image for post](https://miro.medium.com/max/60/0*rMmbtxyjOqAzAjZu?q=20)
 - ![Image for post](https://miro.medium.com/max/747/0*rMmbtxyjOqAzAjZu)
 - ## 总结
     - Zettelkasten是一种针对学术写作涵盖**工作流**和**笔记方式**的知识管理方法论，目标是构建一个辅助思考的大脑义肢
     - 构建一套属于自己的知识工作流程，并且把Zettelkasten融入进去
     - 以标准化和小文章的方式来输出Permanent/Evergreen Notes，持续更新它们之间的逻辑联系
 - 本文脱离具体的工具软件，单独讨论在一些构建Zettelkasten过程中，对于其核心理念的做一些补充。本文是我在斟酌了一些深度讨论Zettelkasten书籍、材料和视频，使用它们所提到的笔记方法、原则、工作流程产生出了新的理解。也是我实践了Zettelkasten并且尝试找到合适自己方式的一个输出。欢迎大家交流更多的想法。
-- 参考文档
+- ## 参考文档
 - [¹]: How to Take Smart Notes
 - [²]: Andy Matuschak’s Evergreen notes. Audy Matuschak. https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155CHow
 - [³]: How to Make Yourself Into a Learning Machine. Dan Shipper. https://superorganizers.substack.com/p/how-to-build-a-learning-machine[⁴]: How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing. TIAGO FORTE. https://fortelabs.co/blog/how-to-take-smart-notes/

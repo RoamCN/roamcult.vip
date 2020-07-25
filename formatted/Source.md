@@ -13,7 +13,7 @@
     - **[Source](Source.md):**
 
 ## [拆解Zettelkasten | 卡片盒知识管理体系实践反思](拆解Zettelkasten | 卡片盒知识管理体系实践反思.md)
-- **[Author](Author.md):** Flynngao [roam](roam.md)/cn
+- **[Author](Author.md):** [Flynngao](Flynngao.md) [roam](roam.md)/cn
     - **[Source](Source.md):**
 
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
