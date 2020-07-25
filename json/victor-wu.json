@@ -4,8 +4,8 @@
       {
         "children": [
           {
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1594400309828,
+            "edit-email": "yangyangli2008@hotmail.com",
+            "edit-time": 1595679979922,
             "string": "```css\n.kanban-title > span {\n    display: flex;\n    align-items:center;\n    justify-content:center;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight, .rm-block-ref span.roam-highlight {\n    background-color: #202b33;\n}\n\n.rm-embed-inner-block-hide span.roam-highlight:hover, .rm-block-ref span.roam-highlight:hover {\n    background-color: #fef09f;\n}```",
             "uid": "sIyJwh8si"
           }
