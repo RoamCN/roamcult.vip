@@ -13332,6 +13332,14 @@
                 "create-time": 1595351316988,
                 "edit-email": "jessie@fat-garage.com",
                 "edit-time": 1595351410549,
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F7yX-iruFNw.png?alt=media&token=cf356740-defd-4a4e-a6cd-6ef68c4e6c6c": {
+                      "height": null,
+                      "width": 457
+                    }
+                  }
+                },
                 "string": "#[[\u5de7\u7528\u9996\u5b57\u6bcd]]\uff1aB\uff1abook A: article \u65b9\u4fbf\u533a\u5206\u548c\u68c0\u7d22![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F7yX-iruFNw.png?alt=media&token=cf356740-defd-4a4e-a6cd-6ef68c4e6c6c)",
                 "uid": "lA9Ui03Ca"
               },
@@ -13340,6 +13348,14 @@
                 "create-time": 1595349983535,
                 "edit-email": "jessie@fat-garage.com",
                 "edit-time": 1595351284066,
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FrrJHlPAk-b.png?alt=media&token=fce78225-3bbe-4f8c-9cb6-8f8f1ab25ade": {
+                      "height": null,
+                      "width": 457
+                    }
+                  }
+                },
                 "string": "#[[color coding]] \u505a\u4e8b\u8981\u56de\u6eaf\u5230\u5927\u7684\u76ee\u6807\uff08money,health,career,etc)\u4e0a![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FrrJHlPAk-b.png?alt=media&token=fce78225-3bbe-4f8c-9cb6-8f8f1ab25ade)",
                 "uid": "faVfwNbY1"
               },
