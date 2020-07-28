@@ -30,6 +30,12 @@
                 - Q：3*12 [[July 31st, 2020]]
                     - 36 #16d #1m
             - 建议：尽量多写你的内容。一开始别想乱七八糟的架构，没有内容何来架构？
+        - 单页面节点的展示（页面右上角，可以更好的把握整个页面的的框架结构）
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F23M4blGdfD.png?alt=media&token=67215af0-717e-4b2b-bea8-8fbddeda2351)
+        - 关于模糊查找和精确查找的区分
+            - 如果在写笔记的时候，只希望泛泛的去模糊匹配一个关键词语 可以直接用[[]]或者 (())来进行页面的查找，或者块儿内容的查找。
+            - 如果需要精确的定位到某个页面中的某个具体的块级内容 ，目前解决的最好的办法是control + shirft+ (  【这是MAC 的键位】
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FOsD6xql00_.png?alt=media&token=d08c9e8f-2c7a-48e8-a096-7dea129f50e3)
 - # 剪辑与后期
     - 负责成员：#[[多酱]]
 - # 宣传(hover me){{comment-button}}
