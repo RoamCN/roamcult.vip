@@ -4,6 +4,10 @@
 - **[Author](Author.md):** Meaningness
     - **[Source](Source.md):**
 
+## [Roam的全球线上office hour长啥样？](Roam的全球线上office hour长啥样？.md)
+- **[Author](Author.md):** [王树义](王树义.md)老师 [roam](roam.md)/cn
+    - **[Source](Source.md):**
+
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 12]([Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
 - **[Tags](Tags.md):** #[翻译](翻译.md)
     - **[Source](Source.md):**
