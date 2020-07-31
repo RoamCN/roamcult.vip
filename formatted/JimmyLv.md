@@ -24,6 +24,9 @@
 
 7. 每日看板：[JimmyLv](JimmyLv.md)'
 
+## [周报Newsletter 2020-07-25 003期](周报Newsletter 2020-07-25 003期.md)
+- Cr.[JimmyLv](JimmyLv.md)不
+
 ## [定位](定位.md)
 - [JimmyLv](JimmyLv.md):
 

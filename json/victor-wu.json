@@ -14679,6 +14679,14 @@
                         "edit-time": 1596160947689,
                         "string": "Stress free productivity!",
                         "uid": "FTr3NJ0mW"
+                      },
+                      {
+                        "create-email": "jessie@fat-garage.com",
+                        "create-time": 1596161745394,
+                        "edit-email": "jessie@fat-garage.com",
+                        "edit-time": 1596161781196,
+                        "string": "make your notes as Research partner",
+                        "uid": "Fqyf_dtHW"
                       }
                     ],
                     "create-email": "jessie@fat-garage.com",
@@ -14790,9 +14798,45 @@
             "create-email": "jessie@fat-garage.com",
             "create-time": 1595564900884,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1595564907062,
+            "edit-time": 1596162229979,
             "string": "#JimmyLv",
             "uid": "6Oh9C81jl"
+          },
+          {
+            "children": [
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1596162244560,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1596162382150,
+                "string": "\u5de5\u5177\u4e00\uff1ahttps://infranodus.com/![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FoKPVeBfwo5.png?alt=media&token=e580bfed-40cf-4d3d-9c45-8fa848047b91)",
+                "uid": "_FEyCPMT5"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1596162488345,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1596162505238,
+                    "string": "Cr.[[JimmyLv]]\u4e0d\u5f97\u4e0d\u8bf4 Roam \u771f\u7684\u592a\u9002\u5408\u8fed\u4ee3\uff08Iteration\uff09\u4e86\uff0cRoam \u4e0d\u6127\u662f\u4e00\u6b3e\u601d\u8003\u7684\u5de5\u5177\uff0c[[A note-taking tool for networked thought]]\uff0c\u800c\u4e0d\u662f\u7b80\u5355\u7684\u7b14\u8bb0\u5de5\u5177\u3002\u5c31\u50cf\u8fd9\u5f20\u56fe\uff0c\u6700\u5f00\u59cb\u53ea\u662f\u6211\u81ea\u5df1\u6574\u7406\u5de5\u5177\u96c6\u65f6\u7684\u4e00\u70b9\u513f\u601d\u8003\uff0c\u7136\u540e\u5728 Roam \u4e2d\u901a\u8fc7diagram \u753b\u56fe\u6216\u5176\u4ed6\u53ef\u89c6\u5316\u7684\u65b9\u5f0f\u8fdb\u884c\u68b3\u7406\u548c\u5c55\u5f00\u3002",
+                    "uid": "B3uNEMGC3"
+                  }
+                ],
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1596162247368,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1596162416090,
+                "string": "\u5de5\u5177\u4e8c\uff1aobsidian![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FN-8aVM14H2.png?alt=media&token=0d5036f8-a221-46f5-b58e-58c8371b108d)",
+                "uid": "FtJ5nH0Se"
+              }
+            ],
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1596162230810,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1596162244564,
+            "string": "graph\u53ef\u89c6\u5316",
+            "uid": "sjK8daKl1"
           }
         ],
         "edit-email": "jessie@fat-garage.com",
@@ -14899,6 +14943,24 @@
                 "edit-time": 1596118834835,
                 "string": "https://www.roamtips.com/home/roam-research-css-styles",
                 "uid": "a9TucEsfG"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1596161861441,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1596161863267,
+                    "string": "https://twitter.com/Conaw/status/1129810329527918592",
+                    "uid": "H708R-dFD"
+                  }
+                ],
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1596161878366,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1596162697895,
+                "string": "[[Conor]] \u4e00\u4e2a\u91cd\u91cf\u7ea7\u7684\u63a8\u7279thread",
+                "uid": "AwJ6G57HX"
               }
             ],
             "create-email": "jings9506@gmail.com",
@@ -16387,5 +16449,12 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1596126184034,
     "title": "RoamFM"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1596162505239,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1596162505243,
+    "title": "A note-taking tool for networked thought"
   }
 ]
