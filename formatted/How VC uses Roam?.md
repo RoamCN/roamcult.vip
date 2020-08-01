@@ -1,10 +1,8 @@
-- @Jeff Morris![](../images/AeyHRCowhb.png?)
-- @Zack![](../images/8nKgzfpFPD.png?)
+- @Jeff Morris-Roam早期投资人
+![](../images/AeyHRCowhb.png?)
+- @Zack描述Roam在VC workflow中的作用![](../images/8nKgzfpFPD.png?)
 
 # Backlinks
 ## [July 24th, 2020](July 24th, 2020.md)
-- [How VC uses Roam?](How VC uses Roam?.md)
-
-## [周报Newsletter 2020-07-25 003期](周报Newsletter 2020-07-25 003期.md)
 - [How VC uses Roam?](How VC uses Roam?.md)
 

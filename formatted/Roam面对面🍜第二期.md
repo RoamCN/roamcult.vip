@@ -1,7 +1,7 @@
 
 # 准备工作
     - 策划：Victor Wu,Jessie Li
-    - 嘉宾：Zack Fan（➕ 个头像）
+    - 嘉宾：Zack Fan（➕ 个头像👦 ）
     - 时间：2020-07-21 22:00
     - 邀请：一名社区成员(谁想来，抢一个名额)
         - 准备事项：
@@ -23,7 +23,7 @@
             - Roam自问自答复习机制
 
 # 演示&笔记
-    - 负责成员：[Jessie](Jessie.md) [Zack](Zack.md)
+    - 负责成员：[Jessie](Jessie.md) 
     - 视频笔记：
         
 #[巧用icon](巧用icon.md)：加在highlight内容的后面，提示自己不仅是重点而且有想法💡 
@@ -51,7 +51,7 @@
     - 负责成员：#[多酱](多酱.md)
 
 # 宣传(hover me){{comment-button}}
-    - 负责成员：
+    - 负责成员：[Jessie](Jessie.md)
 
 # 总结与Next Step
     - [Jessie](Jessie.md) [Victor](Victor.md) #[兴龙](兴龙.md)

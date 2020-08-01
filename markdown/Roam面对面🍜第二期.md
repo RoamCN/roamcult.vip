@@ -1,6 +1,6 @@
 - # 准备工作
     - 策划：Victor Wu,Jessie Li
-    - 嘉宾：Zack Fan（➕ 个头像）
+    - 嘉宾：Zack Fan（➕ 个头像👦 ）
     - 时间：2020-07-21 22:00
     - 邀请：一名社区成员(谁想来，抢一个名额)
         - 准备事项：
@@ -17,7 +17,7 @@
             - 如何textblaze 实现自动化
             - Roam自问自答复习机制
 - # 演示&笔记
-    - 负责成员：#Jessie #Zack
+    - 负责成员：#Jessie 
     - 视频笔记：
         - #[[巧用icon]]：加在highlight内容的后面，提示自己不仅是重点而且有想法💡 
         - #[[巧用首字母]]：B：book A: article 方便区分和检索![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F7yX-iruFNw.png?alt=media&token=cf356740-defd-4a4e-a6cd-6ef68c4e6c6c)
@@ -39,7 +39,7 @@
 - # 剪辑与后期
     - 负责成员：#[[多酱]]
 - # 宣传(hover me){{comment-button}}
-    - 负责成员：
+    - 负责成员：#Jessie
 - # 总结与Next Step
     - #Jessie #Victor #[[兴龙]]
     - Jessie：总体录制过程很棒，4个人交互效果不错。

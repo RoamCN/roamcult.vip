@@ -14,6 +14,9 @@
 ## [July 12th, 2020](July 12th, 2020.md)
 - [Jessie](Jessie.md)
 
+## [周报Newsletter 2020-07-25 003期](周报Newsletter 2020-07-25 003期.md)
+- 编辑：#[Jessie](Jessie.md)
+
 ## [定位](定位.md)
 - [Jessie](Jessie.md):
 
