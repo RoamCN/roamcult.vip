@@ -14737,70 +14737,6 @@
               {
                 "children": [
                   {
-                    "children": [
-                      {
-                        "children": [
-                          {
-                            "children": [
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596242180037,
-                                "string": "- BetterTouchTool",
-                                "uid": "j_aplKJQF"
-                              },
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596242180037,
-                                "string": "- Keyboard Maestro",
-                                "uid": "onuQ4T7SK"
-                              },
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596242180037,
-                                "string": "- FastClip",
-                                "uid": "ggc3QqRzI"
-                              }
-                            ],
-                            "create-email": "jings9506@gmail.com",
-                            "create-time": 1596242150079,
-                            "edit-email": "jings9506@gmail.com",
-                            "edit-time": 1596242231706,
-                            "string": "Mac \u73af\u5883",
-                            "uid": "rf-VqYVRp"
-                          },
-                          {
-                            "children": [
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596242212709,
-                                "string": "aText",
-                                "uid": "xGTFgc5v_"
-                              },
-                              {
-                                "create-email": "jings9506@gmail.com",
-                                "create-time": 1596242208448,
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596242225225,
-                                "string": "ahk",
-                                "uid": "YVhQ0vhYu"
-                              }
-                            ],
-                            "create-email": "jings9506@gmail.com",
-                            "create-time": 1596242196407,
-                            "edit-email": "jings9506@gmail.com",
-                            "edit-time": 1596242234384,
-                            "string": "Win \u73af\u5883",
-                            "uid": "v3Ye7GW1E"
-                          }
-                        ],
-                        "create-email": "jings9506@gmail.com",
-                        "create-time": 1596242139217,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596242150082,
-                        "string": "\u6458\u8981\uff1a",
-                        "uid": "1v9XMJPzQ"
-                      }
-                    ],
                     "create-email": "jings9506@gmail.com",
                     "create-time": 1596241980488,
                     "edit-email": "jings9506@gmail.com",
@@ -14859,76 +14795,12 @@
                     "uid": "EBSE1ssdi"
                   },
                   {
-                    "children": [
-                      {
-                        "create-email": "jings9506@gmail.com",
-                        "create-time": 1596241890254,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241901221,
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FFPb0kPQ9Dk.png?alt=media&token=a52c4eea-4b91-492a-9f23-9f0e39e64d10)",
-                        "uid": "a_hADwAbc"
-                      }
-                    ],
                     "create-email": "jings9506@gmail.com",
-                    "create-time": 1596241737672,
+                    "create-time": 1596276646868,
                     "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596244297120,
-                    "string": "\u300aOKR + RoamR \u7684\u5b9e\u8df5\u5e94\u7528\u300b ~ **@\u5415\u7acb\u9752**",
-                    "uid": "o3OiRvwHI"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "jings9506@gmail.com",
-                        "create-time": 1596242482385,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596242485379,
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fvqgnaq1-by.png?alt=media&token=67f0b047-30e3-4c2f-bbfc-e808c02cf64c)",
-                        "uid": "6yidn6YwU"
-                      }
-                    ],
-                    "create-email": "jings9506@gmail.com",
-                    "create-time": 1596242252768,
-                    "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596244298922,
-                    "string": "\u300a\u4f7f\u7528 Roam Toolkit \u63d2\u4ef6\u7684 Fuzz Date \u529f\u80fd\u5feb\u901f\u8f93\u5165\u65e5\u671f\u300b ~ **@\u5415\u7acb\u9752**",
-                    "uid": "fLLqlAHcz"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "jings9506@gmail.com",
-                        "create-time": 1596242534552,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596242546469,
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FGsg4en6zGT.png?alt=media&token=a32df6ae-e116-4ea9-b0a8-3af3b5b7e76e)",
-                        "uid": "_mDrLjvui"
-                      }
-                    ],
-                    "create-email": "jings9506@gmail.com",
-                    "create-time": 1596242507209,
-                    "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596244301312,
-                    "string": "\u300aRoam Research \u4e0e\u4fe1\u606f\u7ba1\u7406: \u884c\u52a8\u8005\u300b ~ **@\u5f20\u7389\u65b0 ( \u5584\u7528\u4f73\u8f6f )**",
-                    "uid": "h50x3P8SX"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "jings9506@gmail.com",
-                        "create-time": 1596242590416,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596242600302,
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FlX0X7M_hDE.png?alt=media&token=e74cefa3-d1a1-4b46-a8e3-e056549b7578)",
-                        "uid": "MO3e1X_jo"
-                      }
-                    ],
-                    "create-email": "jings9506@gmail.com",
-                    "create-time": 1596242553170,
-                    "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596244304038,
-                    "string": "\u300aRoam / \u7b14\u8bb0 / \u5b66\u4e60 \u7684\u601d\u8003\u300b ~ **@\u5f20\u7389\u65b0 ( \u5584\u7528\u4f73\u8f6f )**",
-                    "uid": "7AWDdx9tY"
+                    "edit-time": 1596276677034,
+                    "string": "[RoamResearch\u5b9e\u73b0\u8bb0\u5fc6\u7ba1\u7406 || \u66ff\u4ee3Anki](https://www.bilibili.com/video/BV1LC4y1b78h) ~ @lucius_lz",
+                    "uid": "itSp1BgVH"
                   },
                   {
                     "children": [
@@ -15026,6 +14898,78 @@
                     "children": [
                       {
                         "create-email": "jings9506@gmail.com",
+                        "create-time": 1596241890254,
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596241901221,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FFPb0kPQ9Dk.png?alt=media&token=a52c4eea-4b91-492a-9f23-9f0e39e64d10)",
+                        "uid": "a_hADwAbc"
+                      }
+                    ],
+                    "create-email": "jings9506@gmail.com",
+                    "create-time": 1596241737672,
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596244297120,
+                    "string": "\u300aOKR + RoamR \u7684\u5b9e\u8df5\u5e94\u7528\u300b ~ **@\u5415\u7acb\u9752**",
+                    "uid": "o3OiRvwHI"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "jings9506@gmail.com",
+                        "create-time": 1596242482385,
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596242485379,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2Fvqgnaq1-by.png?alt=media&token=67f0b047-30e3-4c2f-bbfc-e808c02cf64c)",
+                        "uid": "6yidn6YwU"
+                      }
+                    ],
+                    "create-email": "jings9506@gmail.com",
+                    "create-time": 1596242252768,
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596244298922,
+                    "string": "\u300a\u4f7f\u7528 Roam Toolkit \u63d2\u4ef6\u7684 Fuzz Date \u529f\u80fd\u5feb\u901f\u8f93\u5165\u65e5\u671f\u300b ~ **@\u5415\u7acb\u9752**",
+                    "uid": "fLLqlAHcz"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "jings9506@gmail.com",
+                        "create-time": 1596242534552,
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596242546469,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FGsg4en6zGT.png?alt=media&token=a32df6ae-e116-4ea9-b0a8-3af3b5b7e76e)",
+                        "uid": "_mDrLjvui"
+                      }
+                    ],
+                    "create-email": "jings9506@gmail.com",
+                    "create-time": 1596242507209,
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596244301312,
+                    "string": "\u300aRoam Research \u4e0e\u4fe1\u606f\u7ba1\u7406: \u884c\u52a8\u8005\u300b ~ **@\u5f20\u7389\u65b0 ( \u5584\u7528\u4f73\u8f6f )**",
+                    "uid": "h50x3P8SX"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "jings9506@gmail.com",
+                        "create-time": 1596242590416,
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596242600302,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FlX0X7M_hDE.png?alt=media&token=e74cefa3-d1a1-4b46-a8e3-e056549b7578)",
+                        "uid": "MO3e1X_jo"
+                      }
+                    ],
+                    "create-email": "jings9506@gmail.com",
+                    "create-time": 1596242553170,
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596244304038,
+                    "string": "\u300aRoam / \u7b14\u8bb0 / \u5b66\u4e60 \u7684\u601d\u8003\u300b ~ **@\u5f20\u7389\u65b0 ( \u5584\u7528\u4f73\u8f6f )**",
+                    "uid": "7AWDdx9tY"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "jings9506@gmail.com",
                         "create-time": 1596242932272,
                         "edit-email": "jings9506@gmail.com",
                         "edit-time": 1596242960518,
@@ -15052,9 +14996,17 @@
                     "create-email": "jings9506@gmail.com",
                     "create-time": 1596242920098,
                     "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596244308958,
+                    "edit-time": 1596276932329,
                     "string": "\u300aRoam \u7684\u4f7f\u7528\u4f53\u9a8c\u9690\u55bb DIKIWI \u6a21\u578b\u300b~ **@\u5415\u7acb\u9752**",
                     "uid": "CFtPRcXkv"
+                  },
+                  {
+                    "create-email": "jings9506@gmail.com",
+                    "create-time": 1596276935052,
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596276935052,
+                    "string": "",
+                    "uid": "BEjSKcQSz"
                   }
                 ],
                 "create-email": "jessie@fat-garage.com",
@@ -15075,6 +15027,70 @@
                     "uid": "Xi8NPkjtF"
                   },
                   {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "edit-email": "jings9506@gmail.com",
+                                "edit-time": 1596277846000,
+                                "string": "BetterTouchTool",
+                                "uid": "j_aplKJQF"
+                              },
+                              {
+                                "edit-email": "jings9506@gmail.com",
+                                "edit-time": 1596277855802,
+                                "string": "Keyboard Maestro",
+                                "uid": "onuQ4T7SK"
+                              },
+                              {
+                                "edit-email": "jings9506@gmail.com",
+                                "edit-time": 1596277857569,
+                                "string": "FastClip",
+                                "uid": "ggc3QqRzI"
+                              }
+                            ],
+                            "create-email": "jings9506@gmail.com",
+                            "create-time": 1596242150079,
+                            "edit-email": "jings9506@gmail.com",
+                            "edit-time": 1596242231706,
+                            "string": "Mac \u73af\u5883",
+                            "uid": "rf-VqYVRp"
+                          },
+                          {
+                            "children": [
+                              {
+                                "edit-email": "jings9506@gmail.com",
+                                "edit-time": 1596242212709,
+                                "string": "aText",
+                                "uid": "xGTFgc5v_"
+                              },
+                              {
+                                "create-email": "jings9506@gmail.com",
+                                "create-time": 1596242208448,
+                                "edit-email": "jings9506@gmail.com",
+                                "edit-time": 1596242225225,
+                                "string": "ahk",
+                                "uid": "YVhQ0vhYu"
+                              }
+                            ],
+                            "create-email": "jings9506@gmail.com",
+                            "create-time": 1596242196407,
+                            "edit-email": "jings9506@gmail.com",
+                            "edit-time": 1596242234384,
+                            "string": "Win \u73af\u5883",
+                            "uid": "v3Ye7GW1E"
+                          }
+                        ],
+                        "create-email": "jings9506@gmail.com",
+                        "create-time": 1596242139217,
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596242150082,
+                        "string": "\u6458\u8981\uff1a",
+                        "uid": "1v9XMJPzQ"
+                      }
+                    ],
                     "create-email": "jessie@fat-garage.com",
                     "create-time": 1595912309321,
                     "edit-email": "jessie@fat-garage.com",
@@ -15085,9 +15101,9 @@
                 ],
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1596257267441,
-                "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1596257386110,
-                "string": "\u65b0\u589e\u680f\u76ee\uff1aRoam\u9762\u5bf9\u9762~\u7279\u522b\u611f\u8c22@Zack @Victor @Jessie @\u5f6d\u540c\u5b66",
+                "edit-email": "jings9506@gmail.com",
+                "edit-time": 1596276842064,
+                "string": "\u65b0\u589e\u680f\u76ee\uff1aRoam\u9762\u5bf9\u9762 ~ \u7279\u522b\u611f\u8c22 @Zack @Victor @Jessie @\u5f6d\u540c\u5b66",
                 "uid": "ZxWm3vWnu"
               }
             ],
