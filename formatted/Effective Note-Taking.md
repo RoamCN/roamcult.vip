@@ -1,6 +1,9 @@
 - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 1 关键概念 ]]
 
 # Backlinks
+## [Team Kanban](Team Kanban.md)
+- 翻译：[Effective Note-Taking](Effective Note-Taking.md)
+
 ## [[Effective Note-Taking]([Effective Note-Taking.md) Lesson 12]([Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
 - **[Source](Source.md):** #[Effective Note-Taking](Effective Note-Taking.md)
 

@@ -14,7 +14,8 @@
         - [1.8: The Sidebar](https://www.notion.so/1-8-The-Sidebar-95a50097bffc4629af02efd322e826ea)  #Alex #[[Frank Wu]]
         - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   #Alex #[[Frank Wu]]
         - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[[Newsletter]]
-        - [[翻译：[[Effective Note-Taking]] Lesson 5]] #wangxh1000
+        - 翻译：Effective Note-Taking Lesson 6 #wangxh1000
     - [[DONE]]
         - [[[[Effective Note-Taking]] Lesson 4]] #[[白瑞 Barry]]
         - [[翻译：[[Effective Note-Taking]] Lesson 12]] #wangxh1000
+        - 翻译：[[Effective Note-Taking]] Lesson 5 #wangxh1000

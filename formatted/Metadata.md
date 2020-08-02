@@ -30,6 +30,9 @@
 ## [翻译: What is Roam?](翻译: What is Roam?.md)
 - **[Metadata](Metadata.md):**
 
+## [翻译：Effective Note-Taking Lesson 5](翻译：Effective Note-Taking Lesson 5.md)
+- **[Metadata](Metadata.md):**
+
 ## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 12.md)
 - **[Metadata](Metadata.md):**
 

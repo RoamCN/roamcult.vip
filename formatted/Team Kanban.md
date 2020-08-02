@@ -14,10 +14,11 @@
         - [1.8: The Sidebar](https://www.notion.so/1-8-The-Sidebar-95a50097bffc4629af02efd322e826ea)  [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
         - [7.4: Introduction to Zettelkasten](https://www.notion.so/7-4-Introduction-to-Zettelkasten-9f530ce53b1d45eb9755f2033b7514bc)   [Alex](Alex.md) #[Frank Wu](Frank Wu.md)
         - 给 Roam 中周报信息收集的 block 打一个固定的标签 #[Newsletter](Newsletter.md)
-        - [翻译：[[Effective Note-Taking](翻译：[[Effective Note-Taking.md) Lesson 5]] [wangxh1000](wangxh1000.md)
+        - 翻译：Effective Note-Taking Lesson 6 [wangxh1000](wangxh1000.md)
     - [DONE](DONE.md)
         - [[[Effective Note-Taking]([[Effective Note-Taking.md) Lesson 4]] #[白瑞 Barry](白瑞 Barry.md)
         - [翻译：[[Effective Note-Taking](翻译：[[Effective Note-Taking.md) Lesson 12]] [wangxh1000](wangxh1000.md)
+        - 翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 5 [wangxh1000](wangxh1000.md)
 
 # Backlinks
 ## [July 11th, 2020](July 11th, 2020.md)
