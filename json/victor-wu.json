@@ -3913,18 +3913,10 @@
               {
                 "create-email": "wangxh1000@gmail.com",
                 "create-time": 1594780681555,
-                "edit-email": "ununoctiumuuo1@gmail.com",
-                "edit-time": 1595413120754,
+                "edit-email": "wangxh1000@gmail.com",
+                "edit-time": 1596360801408,
                 "string": "\u7ed9 Roam \u4e2d\u5468\u62a5\u4fe1\u606f\u6536\u96c6\u7684 block \u6253\u4e00\u4e2a\u56fa\u5b9a\u7684\u6807\u7b7e #[[Newsletter]]",
                 "uid": "Ztj1ot2N1"
-              },
-              {
-                "create-email": "wuxuebin1993@gmail.com",
-                "create-time": 1594480828249,
-                "edit-email": "wuxuebin1993@gmail.com",
-                "edit-time": 1594481077195,
-                "string": "[[roam\u4e92\u52a8\u6559\u5b66\u7b2c\u4e00\u671f]]#[[\u665a\u7518\u4faf]]#Jessie",
-                "uid": "Z9wEyMKPx"
               },
               {
                 "create-email": "wangxh1000@gmail.com",
@@ -3948,79 +3940,6 @@
           {
             "children": [
               {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594443115544,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594443115555,
-                "emojis": [
-                  {
-                    "emoji": {
-                      "native": "\ud83d\udc4d"
-                    },
-                    "users": [
-                      {
-                        "email": "wuxuebin1993@gmail.com",
-                        "time": 1594626119209
-                      },
-                      {
-                        "email": "329986828@qq.com",
-                        "time": 1596037431642
-                      }
-                    ]
-                  }
-                ],
-                "string": "\"[[\u7ffb\u8bd1: What is Roam?]]\" #wangxh1000",
-                "uid": "Cqt0mUlws"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594443115544,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594443115555,
-                "string": "\"{{[[DONE]]}}  \u6d4b\u8bd5\uff1a\u7d27\u6025\u4e8b\u60c5\u6765\u5566 [[July 12th, 2020]] \u5fc5\u987b\u5b8c\u6210\"",
-                "uid": "ol3EcFus8"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594443115544,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594443115555,
-                "string": "[[[[Effective Note-Taking]] Lesson 1 \u5173\u952e\u6982\u5ff5 ]] #wangxh1000",
-                "uid": "2ZbqDuJnc"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594443115544,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594641370817,
-                "string": "[[[[Effective Note-Taking]] Lesson 2]] #wangxh1000",
-                "uid": "ews7g9UJ4"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594443115544,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1594443115554,
-                "string": "\u6574\u7406\u7b2c\u4e8c\u671f\u5468\u62a5 [[\u5468\u62a5Newsletter 2020-07-12 002\u671f]] #JimmyLv #Jessie [[July 12th, 2020]]",
-                "uid": "drRTammVu"
-              },
-              {
-                "create-email": "hq@roamcn.club",
-                "create-time": 1595176939237,
-                "edit-email": "hq@roamcn.club",
-                "edit-time": 1595176968832,
-                "string": "RoamCN \u7684 roam\u4f18\u60e0\u8d44\u683c\u7533\u8bf7 #[[\u665a\u7518\u4faf]]",
-                "uid": "3UrWBDkm5"
-              },
-              {
-                "create-email": "wangxh1000@gmail.com",
-                "create-time": 1594780693993,
-                "edit-email": "wangxh1000@gmail.com",
-                "edit-time": 1595252651637,
-                "string": "[[\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 3]] #wangxh1000",
-                "uid": "k20RTGhkM"
-              },
-              {
                 "create-email": "ununoctiumuuo1@gmail.com",
                 "create-time": 1595413123132,
                 "edit-email": "ununoctiumuuo1@gmail.com",
@@ -4040,7 +3959,7 @@
             "create-email": "wangxh1000@gmail.com",
             "create-time": 1594443115544,
             "edit-email": "wangxh1000@gmail.com",
-            "edit-time": 1594443231355,
+            "edit-time": 1596360789674,
             "string": "[[DONE]]",
             "uid": "kqMvNbJx7"
           }
@@ -17284,6 +17203,16 @@
     "title": "\u7ffb\u8bd1\uff1a[[Effective Note-Taking]] Lesson 5"
   },
   {
+    "children": [
+      {
+        "create-email": "jyciloveyoumost@gmail.com",
+        "create-time": 1596360150333,
+        "edit-email": "jyciloveyoumost@gmail.com",
+        "edit-time": 1596360150333,
+        "string": "",
+        "uid": "nKFx4MNn-"
+      }
+    ],
     "create-email": "hq@roamcn.club",
     "create-time": 1595770844729,
     "edit-email": "hq@roamcn.club",

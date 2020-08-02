@@ -34,6 +34,3 @@
 ## [July 9th, 2020](July 9th, 2020.md)
 - [翻译: What is Roam?](翻译: What is Roam?.md)
 
-## [Team Kanban](Team Kanban.md)
-- "[翻译: What is Roam?](翻译: What is Roam?.md)"
-

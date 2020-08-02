@@ -25,8 +25,3 @@
                 - 日常收集
                 - 研究感想
         - OVER
-
-# Backlinks
-## [Team Kanban](Team Kanban.md)
-- [roam互动教学第一期](roam互动教学第一期.md)#
-

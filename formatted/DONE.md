@@ -5,8 +5,6 @@
 
 - [DONE](DONE.md)
 
-- "{{[DONE](DONE.md)}
-
 ## [翻译](翻译.md)
 - {{[DONE](DONE.md)}
 
