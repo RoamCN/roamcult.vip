@@ -15,9 +15,10 @@ Roam is_______
 - A **self-coaching** tool
 - A growing **autobiography**
 - A **legacy** in timeline form
-    - **学习经典(比如圣经Bible)**-Roam has so much potential for study, contextualization, preaching, etc. Being able to link Scripture books/chapters/verses to news articles/reflections/books/commentaries is amazing. Reminds me of what Logos does, but with more various sources!it's great for comparative studies of mythology as well
-        - 漫游在研究，情境化，讲道等方面具有巨大的潜力。能够将圣经的书/章/经节与新闻文章/反思/书籍/评论联系起来的能力令人惊讶。对神话的研究也比较重要。
-    - **找你堆砌的笔记之间的联系**-If you take lots of notes and struggle to make sense of them, organize them, and find/use connections between them, I'd highly recommend giving Roam a try.
+    - **学习经典(比如圣经Bible)**-Roam has so much potential for study, contextualization, preaching, etc. Being able to link Scripture books/chapters/verses to news articles/reflections/books/commentaries is amazing. Reminds me of what [@Logos](https://twitter.com/Logos) does, but with more various sources!it's great for comparative studies of mythology as well #[AlixLahuec](https://twitter.com/AlixLahuec)
+        - https://twitter.com/AlixLahuec/status/1288882218610425857
+    - If you take lots of notes and struggle to make sense of them, organize them, and find/use connections between them, I'd highly recommend giving Roam a try.[Jackson](Jackson.md)
+        - https://twitter.com/jacksondahl/status/1288207969759268864
     - **Stress free productivity!** [Conor](Conor.md)
         - https://twitter.com/Conaw/status/1129788856851619840
     - **Make your notes as Research partner** [NotesWithRen](NotesWithRen.md)
@@ -28,7 +29,7 @@ Roam is_______
 - 中文赛区🦄️ -Chinese competition zone
     - Roam是容纳了社区中所有的人与思想，并把之与外界相连的网络#[王树义老师](王树义老师.md)
     - 许多人的命运，都已经、正在或将要被[Roam Research](Roam Research.md)改变。例如 Shu Omi。所谓 cult 只是调侃。我们今天所经历的喜悦和热情，在前人发明轮子、弓箭和马镫的时候，可能也出现过。#[王树义老师](王树义老师.md)
-    - Roam让我们更加关注柴！(什么？！柴是什么) 
+    - Roam让我们更加关注柴！(什么？！柴是什么) [KK](KK.md)
     - Roam Research 其实是一款「知行合一」的工具，如果你从事创意工作，Roam 能将行动成本降到最低 [jimmyLv](jimmyLv.md)
     - 不得不说 Roam 真的太适合迭代（Iteration）了，Roam 不愧是一款思考的工具，[A note-taking tool for networked thought](A note-taking tool for networked thought.md)，而不是简单的笔记工具。就像这张图，最开始只是我自己整理工具集时的一点儿思考，然后在 Roam 中通过diagram 画图或其他可视化的方式进行梳理和展开。[jimmyLv](jimmyLv.md)
     - Roam是一个做梦在用的工具，梦里有个很好的用法，虽然现在想不起来了唔…#[小白](小白.md)

@@ -17780,22 +17780,32 @@
             "children": [
               {
                 "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1596296750251,
-                "string": "\u6f2b\u6e38\u5728\u7814\u7a76\uff0c\u60c5\u5883\u5316\uff0c\u8bb2\u9053\u7b49\u65b9\u9762\u5177\u6709\u5de8\u5927\u7684\u6f5c\u529b\u3002\u80fd\u591f\u5c06\u5723\u7ecf\u7684\u4e66/\u7ae0/\u7ecf\u8282\u4e0e\u65b0\u95fb\u6587\u7ae0/\u53cd\u601d/\u4e66\u7c4d/\u8bc4\u8bba\u8054\u7cfb\u8d77\u6765\u7684\u80fd\u529b\u4ee4\u4eba\u60ca\u8bb6\u3002\u5bf9\u795e\u8bdd\u7684\u7814\u7a76\u4e5f\u6bd4\u8f83\u91cd\u8981\u3002",
+                "edit-time": 1596373254752,
+                "string": "https://twitter.com/AlixLahuec/status/1288882218610425857",
                 "uid": "5gABRKFxr"
               }
             ],
             "create-email": "jessie@fat-garage.com",
             "create-time": 1596296477006,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296750251,
-            "string": "**\u5b66\u4e60\u7ecf\u5178(\u6bd4\u5982\u5723\u7ecfBible)**-Roam has so much potential for study, contextualization, preaching, etc. Being able to link Scripture books/chapters/verses to news articles/reflections/books/commentaries is amazing. Reminds me of what Logos does, but with more various sources!it's great for comparative studies of mythology as well",
+            "edit-time": 1596373382000,
+            "string": "**\u5b66\u4e60\u7ecf\u5178(\u6bd4\u5982\u5723\u7ecfBible)**-Roam has so much potential for study, contextualization, preaching, etc. Being able to link Scripture books/chapters/verses to news articles/reflections/books/commentaries is amazing. Reminds me of what [@Logos](https://twitter.com/Logos) does, but with more various sources!it's great for comparative studies of mythology as well #[AlixLahuec](https://twitter.com/AlixLahuec)",
             "uid": "hHe-jK16S"
           },
           {
+            "children": [
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1596373317369,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1596373320480,
+                "string": "https://twitter.com/jacksondahl/status/1288207969759268864",
+                "uid": "xoo8pkufc"
+              }
+            ],
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296750251,
-            "string": "**\u627e\u4f60\u5806\u780c\u7684\u7b14\u8bb0\u4e4b\u95f4\u7684\u8054\u7cfb**-If you take lots of notes and struggle to make sense of them, organize them, and find/use connections between them, I'd highly recommend giving Roam a try.",
+            "edit-time": 1596373313417,
+            "string": "If you take lots of notes and struggle to make sense of them, organize them, and find/use connections between them, I'd highly recommend giving Roam a try.#Jackson",
             "uid": "z6M2V6u6o"
           },
           {
@@ -17882,8 +17892,8 @@
             "create-email": "jessie@fat-garage.com",
             "create-time": 1596295240235,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296766759,
-            "string": "Roam\u8ba9\u6211\u4eec\u66f4\u52a0\u5173\u6ce8\u67f4\uff01(\u4ec0\u4e48\uff1f\uff01\u67f4\u662f\u4ec0\u4e48) ",
+            "edit-time": 1596372802809,
+            "string": "Roam\u8ba9\u6211\u4eec\u66f4\u52a0\u5173\u6ce8\u67f4\uff01(\u4ec0\u4e48\uff1f\uff01\u67f4\u662f\u4ec0\u4e48) #KK",
             "uid": "J_ID4sqFv"
           },
           {
@@ -18530,5 +18540,19 @@
     "edit-email": "wangxh1000@gmail.com",
     "edit-time": 1596364235831,
     "title": "Effective Note-Taking Lesson 5"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1596372802812,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1596372802837,
+    "title": "KK"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1596373313419,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1596373313421,
+    "title": "Jackson"
   }
 ]
