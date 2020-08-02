@@ -17792,8 +17792,8 @@
         "children": [
           {
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296750251,
-            "string": "The ultimate goal of a Roam graph is to become the following #RoamFM\n- Our own pocket **Google**\n- Bi-directional **connection seeker**\n- A **clone** of our written thoughts\n- **CRM**\n- A **self-coaching** tool\n- A growing **autobiography**\n- A **legacy** in timeline form",
+            "edit-time": 1596338114283,
+            "string": "The ultimate goal of a Roam graph is to become the following #RoamFM\n- Our own pocket **Google**\n- Bi-directional **connection seeker**\n- A **clone** of our written thoughts\n- **CRM**https://twitter.com/kwharrison13/status/1275117874911211523\n- A **self-coaching** tool\n- A growing **autobiography**\n- A **legacy** in timeline form",
             "uid": "xIgQdW_YW"
           },
           {
@@ -17833,9 +17833,19 @@
             "uid": "n6YDfTumA"
           },
           {
+            "children": [
+              {
+                "create-email": "jessie@fat-garage.com",
+                "create-time": 1596338211963,
+                "edit-email": "jessie@fat-garage.com",
+                "edit-time": 1596338214664,
+                "string": "https://twitter.com/NotesWithRen/status/1289756747284877312",
+                "uid": "xDSEJUqGZ"
+              }
+            ],
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296750251,
-            "string": "**Make your notes as Research partner**",
+            "edit-time": 1596338239880,
+            "string": "**Make your notes as Research partner** #NotesWithRen",
             "uid": "gUVgfCx_b"
           },
           {
@@ -17983,5 +17993,12 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1596297515418,
     "title": "Brian Toh"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1596338239882,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1596338239884,
+    "title": "NotesWithRen"
   }
 ]

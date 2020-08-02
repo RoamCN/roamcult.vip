@@ -9,7 +9,7 @@ Roam is_______
 - Our own pocket **Google**
 - Bi-directional **connection seeker**
 - A **clone** of our written thoughts
-- **CRM**
+- **CRM**https://twitter.com/kwharrison13/status/1275117874911211523
 - A **self-coaching** tool
 - A growing **autobiography**
 - A **legacy** in timeline form
@@ -18,7 +18,8 @@ Roam is_______
     - **找你堆砌的笔记之间的联系**-If you take lots of notes and struggle to make sense of them, organize them, and find/use connections between them, I'd highly recommend giving Roam a try.
     - **Stress free productivity!** #Conor
         - https://twitter.com/Conaw/status/1129788856851619840
-    - **Make your notes as Research partner**
+    - **Make your notes as Research partner** #NotesWithRen
+        - https://twitter.com/NotesWithRen/status/1289756747284877312
     - Roam was the gateway drug to making these connections happen and developing pathways towards that dream #[[Brian Toh]]
     - Roam is the place that can make chaotic collaboration working #Alex
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FgI3MbRMLzs.png?alt=media&token=891ab066-0d97-41bf-9396-31d8597dd756)
