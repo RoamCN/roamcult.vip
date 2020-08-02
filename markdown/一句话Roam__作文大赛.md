@@ -24,6 +24,7 @@ Roam is_______
     - Roam was the gateway drug to making these connections happen and developing pathways towards that dream #[[Brian Toh]]
     - Roam is the place that can make chaotic collaboration working #Alex
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FgI3MbRMLzs.png?alt=media&token=891ab066-0d97-41bf-9396-31d8597dd756)
+    - Roam is your knowledge map that you can zoom in and zoom out. #Jessie
 - 中文赛区🦄️ -Chinese competition zone
     - Roam是容纳了社区中所有的人与思想，并把之与外界相连的网络#[[王树义老师]]
     - 许多人的命运，都已经、正在或将要被[[Roam Research]]改变。例如 Shu Omi。所谓 cult 只是调侃。我们今天所经历的喜悦和热情，在前人发明轮子、弓箭和马镫的时候，可能也出现过。#[[王树义老师]]

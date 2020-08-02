@@ -14930,18 +14930,10 @@
                     ],
                     "create-email": "jings9506@gmail.com",
                     "create-time": 1596242920098,
-                    "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596276932329,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1596374289708,
                     "string": "\u300aRoam \u7684\u4f7f\u7528\u4f53\u9a8c\u9690\u55bb DIKIWI \u6a21\u578b\u300b~ **@\u5415\u7acb\u9752**",
                     "uid": "CFtPRcXkv"
-                  },
-                  {
-                    "create-email": "jings9506@gmail.com",
-                    "create-time": 1596276935052,
-                    "edit-email": "jings9506@gmail.com",
-                    "edit-time": 1596276935052,
-                    "string": "",
-                    "uid": "BEjSKcQSz"
                   }
                 ],
                 "create-email": "jessie@fat-garage.com",
@@ -15069,12 +15061,22 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "jessie@fat-garage.com",
+                    "create-time": 1596162244560,
+                    "edit-email": "jessie@fat-garage.com",
+                    "edit-time": 1596374339272,
+                    "string": "https://twitter.com/noduslabs/status/1288808466576965633",
+                    "uid": "_FEyCPMT5"
+                  }
+                ],
                 "create-email": "jessie@fat-garage.com",
-                "create-time": 1596162244560,
+                "create-time": 1596374337407,
                 "edit-email": "jessie@fat-garage.com",
-                "edit-time": 1596162382150,
-                "string": "\u5de5\u5177\u4e00\uff1ahttps://infranodus.com/![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FoKPVeBfwo5.png?alt=media&token=e580bfed-40cf-4d3d-9c45-8fa848047b91)",
-                "uid": "_FEyCPMT5"
+                "edit-time": 1596374380734,
+                "string": "\u5de5\u5177\u4e00\uff1a[infranodus](https://infranodus.com/)",
+                "uid": "5GNCtB_lY"
               },
               {
                 "children": [
@@ -17863,6 +17865,14 @@
             "edit-time": 1596297818681,
             "string": "Roam is the place that can make chaotic collaboration working #Alex",
             "uid": "u6ZHmrOSF"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1596374113392,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1596374439323,
+            "string": "Roam is your knowledge map that you can zoom in and zoom out. #Jessie",
+            "uid": "xEr0v7VEn"
           }
         ],
         "create-email": "jessie@fat-garage.com",
