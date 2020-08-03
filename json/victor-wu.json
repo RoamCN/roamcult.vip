@@ -15249,8 +15249,8 @@
                       {
                         "create-email": "jessie@fat-garage.com",
                         "create-time": 1595338470763,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241416476,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596428640354,
                         "string": "```html\n@import url('https://jimmylv.github.io/styled-roam/index.css');\n\n:root {\n  --article-width: 670px;\n}\n\n.rm-block-text {\n    max-width: 700px!important;\n}\n\n.roam-kanban tr {\n  font-size: 12px;\n  min-width: 120px;\n  max-height: 20px;\n  padding: 8px 16px;\n  margin: 0p;\n  border: 1px solid grey;\n}\n\n/* Custom data tags */\nspan.rm-page-ref[data-tag=\"Startup\"] {\n    background: #81D5ED !important;\n    color: white !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Money\"] {\n    background: #F9C866;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Storytelling\"] {\n    background: #FC766F !important;\n    color: #fff !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Seedling\"] {\n    color: #0dbac6 !important;\n    padding: 3px 3px;\n    font-weight: 600;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Idea Bank\"] {\n    color: #FCB815 !important;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}```",
                         "uid": "iwrJQKcLq"
                       }
@@ -15265,8 +15265,8 @@
                   {
                     "children": [
                       {
-                        "edit-email": "mailwmj@gmail.com",
-                        "edit-time": 1596255483418,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596428736609,
                         "string": "```css\n@import url('https://jimmylv.github.io/styled-roam/index.css');```",
                         "uid": "wMHwKPKoD"
                       }
