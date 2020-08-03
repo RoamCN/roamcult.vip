@@ -15375,8 +15375,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360529,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430307147,
                         "string": "```css\n@import url('https://liaozhe1228.github.io/kaoyan.css');\n/* \u9ad8\u4eae\u3001\u52a0\u7c97\u3001\u659c\u4f53\u3001\u5220\u9664\u7ebf\u6837\u5f0f*/\n.roam-highlight{\n    background-color:rgba(228,226,226,0.97) !important;\n    color: #0F4AF9 !important;\n    font-weight:normal!important;\n  \tbackground-color:rgba(173,40,40,0) !important;\n    font-size: 15px !important;\n}\n\nb, strong {\n    color: #1E15F1;\n    font-weight:bold!important;\n    font-size: 15px;\n    font-family:\"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n    background-color:rgba(187,245,229,0) !important;\n    border-radius:4px;\n    padding:2px 0px 2px 0px !important;\n    margin:0px 2px 0px 2px !important;\n\n}\nem {\n\tcolor: #95A196;\n      font-style:normal;\n    font-size: 15px !important;\n\tfont-weight:100 !important;\n\tbackground-color:rgba(228,154,154,0.03);\n}\nem:hover {\n\tcolor: #2A3CF9;\n      font-style:normal;\n    font-size: 15px !important;\n\tfont-weight:normal !important;\n}\ndel {\n  text-decoration: none!important;\n  color:#CFCFC2 !important;\n  background-color: #CFCFC2 !important;\n}\ndel:hover{\n  color:blue !important;\n    text-decoration: none !important;\n    background-color: #DFF4C63b !important;\n}\ntextarea{border-left: 0px solid\u00a0blue\u00a0!important;}```",
                         "uid": "Q8ghwprcc"
                       }
@@ -15393,8 +15393,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360529,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430356002,
                         "string": "```css\n:root {\t\n    --page-width:800px !important;\n    --page-order: row-reverse; /* new pages show up to the right */\n    /*--page-order: row; /* new pages show up to the left */\n    \n    --header-font: \"Source Sans Pro\", \"Inter\", sans-serif;\t\n    --body-font: \"\u5fae\u8f6f\u96c5\u9ed1\", \"Inter\", sans-serif !important;\t\n    --bg-color: #EEEEEE;\t\n    --page-color: #FFFFFFA5;\t\n    --text-color: #000000;\t\n    --icon-color: #5c7080;\n    --bullet-color: rgba(0, 0, 0, 0.2);\t\n\n    \t\n    --page-shadow: 0px 8px 14px rgba(0, 0, 0, 0.05);\t\n    \t\n    --color-primary: 73, 197, 91;\t\n    --color-primary-contrast: #FFFFFF;\t\n    --color-secondary: 147, 100, 235;\n    --color-secondary-contrast: #FFFFFF;\n     --font-size:15px !important;\n}\n\n.roam-block-container>div>div>span.bp3-popover-wrapper{ position:absolute; right:5px; } ```",
                         "uid": "Uu9Jq97bi"
                       }
@@ -15411,8 +15411,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360530,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430479550,
                         "string": "```css\n/* \u5de6\u4fa7\u7ad6\u7ebf*/\n.rm-level3 div, .rm-level3 textarea {\n    color: #0441A3 !important;\n    font-size: 16px !important;\n    font-weight:600 !important;\n}\nh3 {\n    font-family:\"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n    border-left: 4px solid #0549BA !important;\n    padding-left:7px !important;\n    padding-right:7px !important;\n    font-style:normal;\n    border-top-left-radius:4px;\n    border-bottom-left-radius:4px;\n}\n.rm-level2 div, .rm-level2 textarea {\n    color: #0F0F10 !important;\n    font-size: 16px !important;\n    font-weight:600 !important;\n}\nh2 {\n    font-family:\"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n\n    font-style:normal;\n\n}\n.rm-level1 div, .rm-level1 textarea {\n    font-family: \"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n      border-left: 0px solid #0549BA !important;\n    font-weight: normal !important;\n    color: #101010!important;\n    line-height: 1.5 !important;\n    text-shadow: 0px 0px 0px #c6c0c0;\n}\nh1 {\n    font-family:\"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n    border-left: 0px solid #080908 !important;\n    font-style:normal;\n\n      font-size: 25px !important;\n}```",
                         "uid": "YbxZY9KNx"
                       }
@@ -15429,8 +15429,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360530,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430572981,
                         "string": "```css\n.zoom-mentions-view {\n    display: flex;\n    flex-wrap: wrap;\n    font-size: 12px;\n    margin-left: 8px;\n\n}\n.zoom-mentions-view:hover {\n    display: flex;\n    flex-wrap: wrap;\n    font-size: 12px;\n    margin-left: 8px;\n     background-color:transparent;\n}```",
                         "uid": "3IsysmMxl"
                       }
@@ -15447,8 +15447,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360530,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430603235,
                         "string": "```css\n.rm-find-or-create-wrapper .bp3-overlay {\n    top: 142px;\n    width: 600px;\n    left: calc(50% - 300px);\n    z-index: 999999;\n}\n```",
                         "uid": "x63Aywsux"
                       }
@@ -15483,8 +15483,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360530,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430662398,
                         "string": "```css\n.rm-block-text {\n    max-width: 760px!important;\n         font-size: 15px !important;\n}\n\n```",
                         "uid": "4De0LXWI_"
                       }
@@ -15501,8 +15501,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360531,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430688955,
                         "string": "```css\n/* \u5757\u5f15\u7528 */\n.rm-block-ref::before {\n  content: '\u2196';\n  display: inline-block;\n  color: #6D6E6F !important;\n  margin-right: 5px;\n  top: -2px;\n  position: relative;\n}\n.rm-block-ref {\n  display: inline-flex;\n  border-bottom: none;\n  font-size: 1em;\n   background-color: #EAEAEA7A;\n  color: #424444 !important;\n  background-color:;\n}\n.rm-block-ref:hover {\n  cursor: pointer;\n}```",
                         "uid": "YaD0DFLUe"
                       }
@@ -15519,8 +15519,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360531,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430717926,
                         "string": "```css\n/* Page link */\n.rm-page-ref-link-color {\n    color: #4D564D !important;\n    font-weight: 600;\n    border-radius: 5px;\n    padding: 1px 2px 1px 2px;\n}```",
                         "uid": "uBLYDtC7N"
                       }
@@ -15537,8 +15537,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360531,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430743232,
                         "string": "```css\nspan.rm-page-ref[data-tag=\"ct\"] {\n    color: #121313 !important;\n   background-color:#CDDC39AF !important;\n}\nspan.rm-page-ref[data-tag=\"ct\"]:before {\n    content: \" \ud83d\udccc\"\n}\n\nspan.rm-page-ref[data-tag=\"c\"] {\n    color: #F3F7F7 !important;\n   background-color:#0B0B0BAF !important;\n  margin:0px 4px 0px 0px !important;\n}\nspan.rm-page-ref[data-tag=\"u\"] {\n    color: #F3F7F7 !important;\n   background-color:#0B0B0BAF !important;\n  margin:0px 4px 0px 0px !important;\n}\nspan.rm-page-ref[data-tag=\"adj\"] {\n    color: #F3F7F7 !important;\n   background-color:#062D99AF !important;\n  margin:0px 4px 0px 0px !important;\n}\nspan.rm-page-ref[data-tag=\"vt\"] {\n    color: #F3F7F7 !important;\n   background-color:#05820AAF !important;\n  margin:0px 4px 0px 0px !important;\n}\nspan.rm-page-ref[data-tag=\"vi\"] {\n    color: #F3F7F7 !important;\n   background-color:#05820AAF !important;\n  margin:0px 4px 0px 0px !important;\n}\nspan.rm-page-ref[data-tag=\"adv\"] {\n    color: #F3F7F7 !important;\n   background-color:#7E2FE5AF !important;\n  margin:0px 4px 0px 0px !important;\n}```",
                         "uid": "tcdpu2JLv"
                       }
@@ -15555,8 +15555,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360531,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430766720,
                         "string": "```css\n/* KANBAN */\n.kanban-board {\n    background-color: transparent;\n    padding: 0px;\n    max-width: 750px;\n}\n.kanban-title {\n    background: #C5BFBF77;\n    color: #310202!important;\n    font-weight: bold;\n    padding: 0px !important;\n    max-height: 30px;\n    border: none;\n    display: flex;\n    align-items: center;\n}```",
                         "uid": "eJqxLPssz"
                       }
@@ -15573,8 +15573,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360531,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430798689,
                         "string": "```css\n#roam-right-sidebar-content > * {\n    margin: 0px 0px 0 10px !important;\n    overflow-x: hidden;\n    /* overflow-y: auto !important; */\n    max-height: 100vh;\n    padding: 50px 0px 170px 0px;\n    border: none !important;\n    outline: none !important;\n}\n\n/* \u4e3b\u9875\u9762padding */\n.roam-article > div {\n    padding: 20px 10px 30px 30px;\n}\n\n.rm-block-text {\n    max-width: 720px!important;\n}\n\n/* \u4fa7\u8fb9\u680fpadding */\n#roam-right-sidebar-content > div > div:not(.flex-h-box) {\n    padding: 0px 10px 0px 20px !important;\n}\n#roam-right-sidebar-content > * > div:last-child:not(:first-child) {\n    border-radius: 0px 0px 10px 10px;\n    padding-bottom: 30px !important;\n    width: var(--page-width);\n}\n.roam-sidebar-container > .roam-sidebar-content::before {\n    content: \"\";\n    position: absolute;\n    top: -70px; right: -68px;\n    width: 650px;\n    height: 95.5vh;\n    background: var(--bg-color) ;\n    opacity: 0.1;\n    z-index: -1;\n    margin-top:20px;\n    margin-bottom:100px;\n      border-radius: 50px;\n   background-image:url(https://lucius-images.oss-cn-hangzhou.aliyuncs.com/%E5%BC%A0%E5%AD%90%E6%9E%AB001?OSSAccessKeyId=LTAI4Ff9fbqXxbXtD8zmgWaN&Expires=1954197114&Signature=CkmlE3L89v4lBVNge%2FX85EVB9go%3D)!important;\n}\n\n\n.controls .simple-bullet-outer {\n    display: flex;\n    height: 13px;\n    width: 13px;\n    margin-top: 3px;\n\n    border-top-left-radius: 50%;\n    border-top-right-radius: 50%;\n    border-bottom-right-radius: 50%;\n    border-bottom-left-radius: 50%;\n    justify-content: center;\n    align-items: center;\n}\n\n.roam-block {\n    text-align: justify;\n    padding-right:20px;\n}\n.rm-block-input {\n    text-align: justify;\n    padding-right: 20px;\n}\n.rm-block-text {\n    max-width: 760px!important;\n}\n/* \u4fa7\u8fb9\u680f\u4e00\u4e9b\u6742\u4e03\u6742\u516b\u7684 */\n.starred-pages-wrapper > div:first-child {\n    margin-top: 9px !important;\n    background-color: rgba(0,0,0,0) !important;\n}\n\n.rm-level1 div, .rm-level1 textarea {\n    font-family: \"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n    font-size: 16px !important;\n    font-weight: normal !important;\n    color: #101010!important;\n    line-height: 1.5 !important;\n   text-shadow: 0px 0px 0px #c6c0c0;\n}\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .top-row:hover {\n  background-color: #CFD0D2;\n        border-radius: 10px;\n}\n\n\n.rm-alias-block, .rm-alias-block:hover {\n    color: #464748!important;\n    font-weight:normal;\n\tborder-bottom:1.3px dashed;\n}\n.rm-alias-external, .rm-alias-external:hover {\n    color: #141515!important;\n    font-weight:normal;\n\tborder-bottom:1.3px solid;\n}\n```",
                         "uid": "cE1QXW8tj"
                       }
@@ -15591,8 +15591,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596241360531,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596430840713,
                         "string": "```css\n/* Page link */\n.rm-page-ref-link-color {\n    color: #014C45 !important;\n    font-weight: 600;\n    border-radius: 5px;\n    padding: 1px 5px 1px 5px;\n}\n\n/* Hashtags */\n.rm-page-ref-tag {\n    color: #989494 !important;\n    font-weight: 500;\n    border-radius: 5px#E3E3E6\n    padding: 1px 5px 2px;\n}```",
                         "uid": "yl_fOaafB"
                       }
@@ -15619,8 +15619,8 @@
                       {
                         "create-email": "jings9506@gmail.com",
                         "create-time": 1596245073714,
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596245098133,
+                        "edit-email": "jake.liubh@gmail.com",
+                        "edit-time": 1596431151887,
                         "string": "```css\n/*  Make sure you have the fonts Lato and Dank Mono installed locally on your machine.\nLato is free to download from Google:\nhttps://fonts.google.com/specimen/Lato\n\nDank Mono is available for purchase:\nhttps://dank.sh/  \n\nI reccomend Open Sans if you dont want to purchase Dank Mono:\nhttps://fonts.google.com/specimen/Open+Sans\n*/\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: 'Lato';\n}\ndiv,\ntextarea {\n  font-family: 'Dank Mono';\n}\n\n.roam-block-container {\n  max-width: 1000px;\n}\n.roam-block, .rm-block-text {\n  max-width: 850px;\n}\n\n.bp3-button.bp3-minimal {\n  color: #ffa7c4;\n}\n\n.bp3-button.bp3-minimal:hover {\n  color: #ffa7c4;\n}\n\n.bp3-elevation-3 {\n  background-color: #697098 !important;\n}\n\n.bp3-elevation-3 > div:hover {\n  background-color: #011627;\n}\n\n.kanban-board {\n  background-color: #fff;\n}\n\n.kanban-card {\n  background-color: white;\n  margin: 8px;\n  box-shadow: 0px 1px 2px #9eb3c0;\n  padding: 10px;\n  border-radius: 2px;\n  line-height: 1.3em;\n}\n\n.kanban-title {\n  text-align: center;\n  font-weight: bold;\n  padding-top: 6px;\n}\n\n.kanban-column {\n  background-color: #e4edf2;\n  margin: 0px 4px 0px 4px;\n  padding: 4px;\n  min-width: 200px;\n  border-radius: 3px;\n}\n\n\n.rm-block-ref {\n  border-bottom: none;\n  font-size: 1em;\n  padding: 4px;\n  color: #697098;\n}\n\n.rm-block-ref:hover {\n  background-color: #697098;\n  color: #011627;\n}\n\n.checkmark {\n  background: #fff;\n}\n.check-container input:checked ~ .checkmark {\n  background: #2db4eb;\n}\n.check-container input:checked ~ .checkmark:after {\n  border-color: #fff;\n}\n\n.rm-level3 {\n  color: #8390b2;\n}\n\n.rm-page-ref {\n  color: #7e57c2cc;\n}\n\n.rm-page-ref-link-color {\n  color: #ffa7c4;\n}\n\na {\n  color: #64b5f6 !important;\n}\n\n.intercom-app,\n.intercom-launcher-frame,\n#intercom-container {\n  display: none !important;\n}\n\n.rm-reference-item div {\n      background-color: #2e3250;\n\n}\n\n#right-sidebar div .rm-reference-item div,\n.roam-topbar,\n.roam-body {\n  background-color: #011627;\n}\n\n.roam-body-main {\n  background-color: #011627;\n  color: #fff;\n}\n\n.roam-body .roam-app h1 {\n  color: #fff;\n}\n\n/* #right-sidebar div {\n  background-color: #2e3250;\n} */\n\n#right-sidebar > div {\n    background-color: #2e3250;\n    /*border-left: 1px solid #e9ebef;*/\n}\n\n.roam-body .roam-app .roam-sidebar-container {\n  background-color: #2e3250;\n  border-right: 1px #051e33 solid;\n}\n\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button,\n.roam-body\n  .roam-app\n  .roam-sidebar-container\n  .roam-sidebar-content\n  .starred-pages-wrapper,\n.roam-body\n  .roam-app\n  .roam-sidebar-container\n  .roam-sidebar-content\n  .starred-pages-wrapper\n  .starred-pages\n  .page,\n.roam-body .roam-app .roam-sidebar-container > * {\n  opacity: 0.9;\n  color: #fff;\n}\n.roam-body\n  .roam-app\n  .roam-sidebar-container\n  .roam-sidebar-content\n  .starred-pages-wrapper\n  .starred-pages\n  .page:hover,\n.roam-body\n  .roam-app\n  .roam-sidebar-container\n  .roam-sidebar-content\n  .log-button:hover {\n  background: #011627;\n  color: white;\n  opacity: 0.9;\n}\n#buffer.tall {\n  height: calc(100vh - 50px) !important;\n}\n.check-container {\n  padding-right: 4px;\n}\n\n.rm-reference-item {\n  background-color: #011627;\n}\n\n.block-highlight-blue,\n#roam-right-sidebar-content div .block-highlight-blue div {\n  background-color: #a599e9;\n}\n\n.kanban-board {\n    background: #011627;\n    color: white;\n}\n\n.kanban-column {\n    background-color: #2e3250;\n\n}\n.kanban-card{\n    color: #011627;\n}\n\n/* highlights */\n\n.roam-highlight {\n    background-color: #a599e9;\n}\n\n/* reactions */\n\n.rm-emoji-button {\n    background-color: #697098 !important;\n}\n\n/* rows */\n.rm-pages-row:first-of-type,\n.rm-pages-row-highlight {\n    background-color: #2e3250 !important;\n}\n\n\n\n.CodeMirror{\n    font-family: 'Dank Mono' !important;\n    height:300px;\n    color:white;\n    direction:ltr;\n    background: #182026 !important;\n    border-radius: 5px;\n}\n.CodeMirror-lines{\n    padding:4px 0\n}\n.CodeMirror pre{\n    padding:0 4px;\n    margin-left: 5px;\n}\n.CodeMirror-scrollbar-filler,.CodeMirror-gutter-filler{\n    background-color:white\n}\n.CodeMirror-gutters{\n    border-right:0px solid #ddd;\n    background-color:#242F38;\n    white-space:nowrap;\n    width: 30px;\n}\n.CodeMirror-linenumber{\n    padding:0 3px 0 5px;\n    min-width:20px;\n    text-align:right;\n    color:#999;\n    white-space:nowrap;\n    font-family:'Dank Mono';\n}\n.CodeMirror-guttermarker{\n    color:black\n}\n.CodeMirror-guttermarker-subtle{\n    color:#999\n}\n.CodeMirror-cursor{\n    border-left:2px solid #394D6C;\n    border-right:0;\n    margin-left: 0px;\n    width:0\n}\n.CodeMirror div.CodeMirror-secondarycursor{\n    border-left:1px solid silver\n}\n.cm-fat-cursor .CodeMirror-cursor{\n    width:auto;\n    border:0 !important;\n    background:#7e7\n}\n.cm-fat-cursor div.CodeMirror-cursors{\n    z-index:1\n}\n.cm-fat-cursor-mark{\n    background-color:rgba(20,255,20,0.5);\n    -webkit-animation:blink 1.06s steps(1) infinite;\n    -moz-animation:blink 1.06s steps(1) infinite;\n    animation:blink 1.06s steps(1) infinite\n}\n.cm-animate-fat-cursor{\n    width:auto;\n    border:0;\n    -webkit-animation:blink 1.06s steps(1) infinite;\n    -moz-animation:blink 1.06s steps(1) infinite;\n    animation:blink 1.06s steps(1) infinite;\n    background-color:#7e7\n}\n@-moz-keyframes blink{\n    50%{\n        background-color:transparent\n    }\n}\n@-webkit-keyframes blink{\n    50%{\n        background-color:transparent\n    }\n}\n@keyframes blink{\n    50%{\n        background-color:transparent\n    }\n}\n.cm-tab{\n    display:inline-block;\n    text-decoration:inherit\n}\n.CodeMirror-rulers{\n    position:absolute;\n    left:0;\n    right:0;\n    top:-50px;\n    bottom:-20px;\n    overflow:hidden\n}\n.CodeMirror-ruler{\n    border-left:1px solid #ccc;\n    top:0;\n    bottom:0;\n    position:absolute\n}\n.cm-s-default .cm-header{\n    color:blue\n}\n.cm-s-default .cm-quote{\n    color:#090\n}\n.cm-negative{\n    color:#d44\n}\n.cm-positive{\n    color:#292\n}\n.cm-header,.cm-strong{\n    font-weight:bold\n}\n.cm-em{\n    font-style:italic\n}\n.cm-link{\n    text-decoration:underline\n}\n.cm-strikethrough{\n    text-decoration:line-through\n}\n.cm-s-default .cm-keyword{\n    color:#f19dfd\n}\n.cm-s-default .cm-atom{\n    color:#219\n}\n.cm-s-default .cm-number{\n    color:#164\n}\n.cm-s-default .cm-def{\n    color:#00f\n}\n\n.cm-variable {\n    color: rgb(214, 222, 235);\n}\n\n.cm-s-default .cm-variable-2{\n    color: rgb(214, 222, 235);\n}\n.cm-s-default .cm-variable-3,.cm-s-default .cm-type{\n    color: rgb(214, 222, 235);\n}\n.cm-s-default .cm-comment{\n    color:#a50\n}\n.cm-s-default .cm-string{\n    color:#fff\n}\n.cm-s-default .cm-string-2{\n    color:#f50\n}\n.cm-s-default .cm-meta{\n    color:#ffbaba\n}\n.cm-s-default .cm-qualifier{\n    color:#555\n}\n.cm-s-default .cm-builtin{\n    color:#3dc0ff\n}\n.cm-s-default .cm-bracket{\n    color:#997\n}\n.cm-s-default .cm-tag{\n    color:#170\n}\n.cm-s-default .cm-attribute{\n    color:#00c\n}\n.cm-s-default .cm-hr{\n    color:#999\n}\n.cm-s-default .cm-link{\n    color:#00c\n}\n.cm-s-default .cm-error{\n    color:red\n}\n.cm-invalidchar{\n    color:red\n}\n.CodeMirror-composing{\n    border-bottom:2px solid\n}\ndiv.CodeMirror span.CodeMirror-matchingbracket{\n    color:#0b0\n}\ndiv.CodeMirror span.CodeMirror-nonmatchingbracket{\n    color:#a22\n}\n.CodeMirror-matchingtag{\n    background:rgba(255,150,0,.3)\n}\n.CodeMirror-activeline-background{\n    background:#242F38;\n}\n.CodeMirror{\n    position:relative;\n    overflow:hidden;\n    background:white\n}\n.CodeMirror-scroll{\n    overflow:scroll !important;\n    margin-bottom:-30px;\n    margin-right:-30px;\n    padding-bottom:30px;\n    height:100%;\n    outline:0;\n    position:relative\n}\n.CodeMirror-sizer{\n    position:relative;\n    border-right:30px solid transparent\n}\n.CodeMirror-vscrollbar,.CodeMirror-hscrollbar,.CodeMirror-scrollbar-filler,.CodeMirror-gutter-filler{\n    position:absolute;\n    z-index:6;\n    display:none\n}\n.CodeMirror-vscrollbar{\n    right:0;\n    top:0;\n    overflow-x:hidden;\n    overflow-y:scroll\n}\n.CodeMirror-hscrollbar{\n    bottom:0;\n    left:0;\n    overflow-y:hidden;\n    overflow-x:scroll\n}\n.CodeMirror-scrollbar-filler{\n    right:0;\n    bottom:0\n}\n.CodeMirror-gutter-filler{\n    left:0;\n    bottom:0\n}\n.CodeMirror-gutters{\n    position:absolute;\n    left:0;\n    top:0;\n    min-height:100%;\n    z-index:3\n}\n.CodeMirror-gutter{\n    white-space:normal;\n    height:100%;\n    display:inline-block;\n    vertical-align:top;\n    margin-bottom:-30px\n}\n.CodeMirror-gutter-wrapper{\n    position:absolute;\n    z-index:4;\n    background:none !important;\n    border:none !important\n}\n.CodeMirror-gutter-background{\n    position:absolute;\n    top:0;\n    bottom:0;\n    z-index:4\n}\n.CodeMirror-gutter-elt{\n    position:absolute;\n    cursor:default;\n    z-index:4\n}\n.CodeMirror-gutter-wrapper ::selection{\n    background-color:transparent\n}\n.CodeMirror-gutter-wrapper ::-moz-selection{\n    background-color:transparent\n}\n.CodeMirror-lines{\n    cursor:text;\n    min-height:1px\n}\n.CodeMirror pre{\n    -moz-border-radius:0;\n    -webkit-border-radius:0;\n    border-radius:0;\n    border-width:0;\n    background:transparent;\n    font-family:'Dank Mono' !important;\n    font-size:inherit;\n    margin:0;\n    white-space:pre;\n    word-wrap:normal;\n    line-height:inherit;\n    color:inherit;\n    z-index:2;\n    position:relative;\n    overflow:visible;\n    -webkit-tap-highlight-color:transparent;\n    -webkit-font-variant-ligatures:contextual;\n    font-variant-ligatures:contextual\n}\n.CodeMirror-wrap pre{\n    word-wrap:break-word;\n    white-space:pre-wrap;\n    word-break:normal\n}\n.CodeMirror-linebackground{\n    position:absolute;\n    left:0;\n    right:0;\n    top:0;\n    bottom:0;\n    z-index:0\n}\n.CodeMirror-linewidget{\n    position:relative;\n    z-index:2;\n    padding:.1px\n}\n.CodeMirror-rtl pre{\n    direction:rtl\n}\n.CodeMirror-code{\n    outline:0\n}\n.CodeMirror-scroll,.CodeMirror-sizer,.CodeMirror-gutter,.CodeMirror-gutters,.CodeMirror-linenumber{\n    -moz-box-sizing:content-box;\n    box-sizing:content-box\n}\n.CodeMirror-measure{\n    position:absolute;\n    width:100%;\n    height:0;\n    overflow:hidden;\n    visibility:hidden\n}\n.CodeMirror-cursor{\n    position:absolute;\n    pointer-events:none\n}\n.CodeMirror-measure pre{\n    position:static\n}\ndiv.CodeMirror-cursors{\n    visibility:hidden;\n    position:relative;\n    z-index:3\n}\ndiv.CodeMirror-dragcursors{\n    visibility:visible\n}\n.CodeMirror-focused div.CodeMirror-cursors{\n    visibility:visible\n}\n.CodeMirror-selected{\n    background:#d9d9d9\n}\n.CodeMirror-focused .CodeMirror-selected{\n    background:#d7d4f0\n}\n.CodeMirror-crosshair{\n    cursor:crosshair\n}\n.CodeMirror-line::selection,.CodeMirror-line>span::selection,.CodeMirror-line>span>span::selection{\n    background:#d7d4f0\n}\n.CodeMirror-line::-moz-selection,.CodeMirror-line>span::-moz-selection,.CodeMirror-line>span>span::-moz-selection{\n    background:#d7d4f0\n}\n.cm-searching{\n    background-color:#ffa;\n    background-color:rgba(255,255,0,.4)\n}\n.cm-force-border{\n    padding-right:.1px\n}\n@media print{\n    .CodeMirror div.CodeMirror-cursors{\n        visibility:hidden\n    }\n}\n.cm-tab-wrap-hack:after{\n    content:''\n}\nspan.CodeMirror-selectedtext{\n    background:0\n}\n```",
                         "uid": "BkQZuMciu"
                       }
@@ -17904,9 +17904,17 @@
             "create-email": "jessie@fat-garage.com",
             "create-time": 1596424771394,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596424773901,
-            "string": "In more ways than one, Roam is like programming. One of those ways is that just like you need intuition for a programming language before becoming excited about it (or not), you need intuition for Roam before knowing whether or not it\u2019s for you.",
+            "edit-time": 1596430637860,
+            "string": "In more ways than one, Roam is like programming. One of those ways is that just like you need intuition for a programming language before becoming excited about it (or not), you need intuition for Roam before knowing whether or not it\u2019s for you. #[[Avery Bedows]]",
             "uid": "RP4gT_A_v"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1596430533352,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1596430602519,
+            "string": "Roam is \n**A note-taking tool for networked thought** \u2705  \n**A thought visualization tool for note-taking** \u274c  #JimmyLv",
+            "uid": "2TZCj54V-"
           }
         ],
         "create-email": "jessie@fat-garage.com",
@@ -17936,24 +17944,24 @@
             "create-email": "jessie@fat-garage.com",
             "create-time": 1596295240235,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596372802809,
-            "string": "Roam\u8ba9\u6211\u4eec\u66f4\u52a0\u5173\u6ce8\u67f4\uff01(\u4ec0\u4e48\uff1f\uff01\u67f4\u662f\u4ec0\u4e48) #KK",
+            "edit-time": 1596430746280,
+            "string": "Roam\u8ba9\u6211\u4eec\u66f4\u52a0\u5173\u6ce8\u67f4\uff01(\u4ec0\u4e48\uff1f\uff01\u67f4\u662f\u4ec0\u4e48\ud83d\udc36 ) #KK",
             "uid": "J_ID4sqFv"
           },
           {
             "create-email": "jessie@fat-garage.com",
             "create-time": 1596296139855,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296766759,
-            "string": "Roam Research \u5176\u5b9e\u662f\u4e00\u6b3e\u300c\u77e5\u884c\u5408\u4e00\u300d\u7684\u5de5\u5177\uff0c\u5982\u679c\u4f60\u4ece\u4e8b\u521b\u610f\u5de5\u4f5c\uff0cRoam \u80fd\u5c06\u884c\u52a8\u6210\u672c\u964d\u5230\u6700\u4f4e #jimmyLv",
+            "edit-time": 1596430722567,
+            "string": "Roam Research \u5176\u5b9e\u662f\u4e00\u6b3e\u300c\u77e5\u884c\u5408\u4e00\u300d\u7684\u5de5\u5177\uff0c\u5982\u679c\u4f60\u4ece\u4e8b\u521b\u610f\u5de5\u4f5c\uff0cRoam \u80fd\u5c06\u884c\u52a8\u6210\u672c\u964d\u5230\u6700\u4f4e #JimmyLv",
             "uid": "h-mw6u1di"
           },
           {
             "create-email": "jessie@fat-garage.com",
             "create-time": 1596295867202,
             "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1596296766759,
-            "string": "\u4e0d\u5f97\u4e0d\u8bf4 Roam \u771f\u7684\u592a\u9002\u5408\u8fed\u4ee3\uff08Iteration\uff09\u4e86\uff0cRoam \u4e0d\u6127\u662f\u4e00\u6b3e\u601d\u8003\u7684\u5de5\u5177\uff0c[[A note-taking tool for networked thought]]\uff0c\u800c\u4e0d\u662f\u7b80\u5355\u7684\u7b14\u8bb0\u5de5\u5177\u3002\u5c31\u50cf\u8fd9\u5f20\u56fe\uff0c\u6700\u5f00\u59cb\u53ea\u662f\u6211\u81ea\u5df1\u6574\u7406\u5de5\u5177\u96c6\u65f6\u7684\u4e00\u70b9\u513f\u601d\u8003\uff0c\u7136\u540e\u5728 Roam \u4e2d\u901a\u8fc7diagram \u753b\u56fe\u6216\u5176\u4ed6\u53ef\u89c6\u5316\u7684\u65b9\u5f0f\u8fdb\u884c\u68b3\u7406\u548c\u5c55\u5f00\u3002#jimmyLv",
+            "edit-time": 1596430718319,
+            "string": "\u4e0d\u5f97\u4e0d\u8bf4 Roam \u771f\u7684\u592a\u9002\u5408\u8fed\u4ee3\uff08Iteration\uff09\u4e86\uff0cRoam \u4e0d\u6127\u662f\u4e00\u6b3e\u601d\u8003\u7684\u5de5\u5177\uff0c[[A note-taking tool for networked thought]]\uff0c\u800c\u4e0d\u662f\u7b80\u5355\u7684\u7b14\u8bb0\u5de5\u5177\u3002\u5c31\u50cf\u8fd9\u5f20\u56fe\uff0c\u6700\u5f00\u59cb\u53ea\u662f\u6211\u81ea\u5df1\u6574\u7406\u5de5\u5177\u96c6\u65f6\u7684\u4e00\u70b9\u513f\u601d\u8003\uff0c\u7136\u540e\u5728 Roam \u4e2d\u901a\u8fc7diagram \u753b\u56fe\u6216\u5176\u4ed6\u53ef\u89c6\u5316\u7684\u65b9\u5f0f\u8fdb\u884c\u68b3\u7406\u548c\u5c55\u5f00\u3002#JimmyLv",
             "uid": "QUmrs_cyz"
           },
           {
@@ -17979,13 +17987,21 @@
             "edit-time": 1596297280395,
             "string": "Roam\u8ba9\u4f60\u611f\u89c9\u5230\u4f60\u7684**\u5173\u6ce8\u70b9**\u5f88\u91cd\u8981\uff0c\u771f\u7684\u5f88\u6709\u610f\u4e49\uff0c\u4e0d\u662f\u778e\u5fd9\u778e\u641e\u3002\u4e5f\u8bb8\u73b0\u5728\u5b83\u4eec\u4e4b\u95f4\u7684\u8054\u7cfb\u8fd8\u4e0d\u662f\u5f88\u660e\u663e\uff0c\u4f46\u5c06\u6765\u4f1a\u6709\u8ff9\u53ef\u5faa\u7684\u3002#Jessie",
             "uid": "R2DBssksJ"
+          },
+          {
+            "create-email": "jessie@fat-garage.com",
+            "create-time": 1596430655358,
+            "edit-email": "jessie@fat-garage.com",
+            "edit-time": 1596430701508,
+            "string": "Roam \u4e0d\u53ef\u80fd\u5e2e\u4f60\u81ea\u52a8\u6d6e\u73b0\u51fa\u73b0\u5408\u7406\u4e14\u6ee1\u610f\u7684 Diagram \u4f53\u7cfb\u7ed3\u6784\uff0c\u5c31\u50cf\u673a\u5668\u4e0d\u80fd\u4ee3\u66ff\u4f60\u601d\u8003\u4e00\u6837\u3002#JimmyLv",
+            "uid": "q0NSbGF4O"
           }
         ],
         "create-email": "jessie@fat-garage.com",
         "create-time": 1596296755208,
         "edit-email": "jessie@fat-garage.com",
-        "edit-time": 1596297085911,
-        "string": "\u4e2d\u6587\u8d5b\u533a\ud83e\udd84\ufe0f -Chinese competition zone",
+        "edit-time": 1596430764285,
+        "string": "\u4e2d\u6587\u8d5b\u533a\ud83e\udd84\ufe0f -Chinese competition zone #roam/cn",
         "uid": "3zL5fhPtD"
       }
     ],
@@ -17999,13 +18015,6 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1596296374463,
     "title": "\u4e00\u53e5\u8bddRoam\u4f5c\u6587\u6bd4\u8d5b"
-  },
-  {
-    "create-email": "jessie@fat-garage.com",
-    "create-time": 1596296766769,
-    "edit-email": "jessie@fat-garage.com",
-    "edit-time": 1596296766769,
-    "title": "jimmyLv"
   },
   {
     "create-email": "jessie@fat-garage.com",
@@ -19127,5 +19136,12 @@
     "edit-email": "jessie@fat-garage.com",
     "edit-time": 1596420308707,
     "title": "Roam\u9762\u5bf9\u9762\ud83c\udf5c\u7b2c\u4e09\u671f"
+  },
+  {
+    "create-email": "jessie@fat-garage.com",
+    "create-time": 1596430637864,
+    "edit-email": "jessie@fat-garage.com",
+    "edit-time": 1596430637865,
+    "title": "Avery Bedows"
   }
 ]

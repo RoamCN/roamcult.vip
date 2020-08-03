@@ -25,14 +25,18 @@ Roam is_______
     - Roam is the place that can make chaotic collaboration working #Alex
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FgI3MbRMLzs.png?alt=media&token=891ab066-0d97-41bf-9396-31d8597dd756)
     - Roam is your knowledge map that you can zoom in and zoom out. #Jessie
-    - In more ways than one, Roam is like programming. One of those ways is that just like you need intuition for a programming language before becoming excited about it (or not), you need intuition for Roam before knowing whether or not it’s for you.
+    - In more ways than one, Roam is like programming. One of those ways is that just like you need intuition for a programming language before becoming excited about it (or not), you need intuition for Roam before knowing whether or not it’s for you. #[[Avery Bedows]]
         - https://twitter.com/averybedows/status/1290041680389984261
-- 中文赛区🦄️ -Chinese competition zone
+    - Roam is 
+**A note-taking tool for networked thought** ✅  
+**A thought visualization tool for note-taking** ❌  #JimmyLv
+- 中文赛区🦄️ -Chinese competition zone #roam/cn
     - Roam是容纳了社区中所有的人与思想，并把之与外界相连的网络#[[王树义老师]]
     - 许多人的命运，都已经、正在或将要被[[Roam Research]]改变。例如 Shu Omi。所谓 cult 只是调侃。我们今天所经历的喜悦和热情，在前人发明轮子、弓箭和马镫的时候，可能也出现过。#[[王树义老师]]
-    - Roam让我们更加关注柴！(什么？！柴是什么) #KK
-    - Roam Research 其实是一款「知行合一」的工具，如果你从事创意工作，Roam 能将行动成本降到最低 #jimmyLv
-    - 不得不说 Roam 真的太适合迭代（Iteration）了，Roam 不愧是一款思考的工具，[[A note-taking tool for networked thought]]，而不是简单的笔记工具。就像这张图，最开始只是我自己整理工具集时的一点儿思考，然后在 Roam 中通过diagram 画图或其他可视化的方式进行梳理和展开。#jimmyLv
+    - Roam让我们更加关注柴！(什么？！柴是什么🐶 ) #KK
+    - Roam Research 其实是一款「知行合一」的工具，如果你从事创意工作，Roam 能将行动成本降到最低 #JimmyLv
+    - 不得不说 Roam 真的太适合迭代（Iteration）了，Roam 不愧是一款思考的工具，[[A note-taking tool for networked thought]]，而不是简单的笔记工具。就像这张图，最开始只是我自己整理工具集时的一点儿思考，然后在 Roam 中通过diagram 画图或其他可视化的方式进行梳理和展开。#JimmyLv
     - Roam是一个做梦在用的工具，梦里有个很好的用法，虽然现在想不起来了唔…#[[小白]]
     - Roam给了我自由思考的空间，就像一个没有边界的游乐场，你不用担心什么，去玩去输入去探索就好了 #Jessie
     - Roam让你感觉到你的**关注点**很重要，真的很有意义，不是瞎忙瞎搞。也许现在它们之间的联系还不是很明显，但将来会有迹可循的。#Jessie
+    - Roam 不可能帮你自动浮现出现合理且满意的 Diagram 体系结构，就像机器不能代替你思考一样。#JimmyLv
