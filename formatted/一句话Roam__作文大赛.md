@@ -27,6 +27,8 @@ Roam is_______
     - Roam is the place that can make chaotic collaboration working [Alex](Alex.md)
         - ![](../images/gI3MbRMLzs.png?)
     - Roam is your knowledge map that you can zoom in and zoom out. [Jessie](Jessie.md)
+    - In more ways than one, Roam is like programming. One of those ways is that just like you need intuition for a programming language before becoming excited about it (or not), you need intuition for Roam before knowing whether or not it’s for you.
+        - https://twitter.com/averybedows/status/1290041680389984261
 - 中文赛区🦄️ -Chinese competition zone
     - Roam是容纳了社区中所有的人与思想，并把之与外界相连的网络#[王树义老师](王树义老师.md)
     - 许多人的命运，都已经、正在或将要被[Roam Research](Roam Research.md)改变。例如 Shu Omi。所谓 cult 只是调侃。我们今天所经历的喜悦和热情，在前人发明轮子、弓箭和马镫的时候，可能也出现过。#[王树义老师](王树义老师.md)
