@@ -12669,8 +12669,8 @@
             "uid": "9bO8k2dKx"
           },
           {
-            "edit-email": "jessie@fat-garage.com",
-            "edit-time": 1595127232014,
+            "edit-email": "alex.hanyang@gmail.com",
+            "edit-time": 1596438139480,
             "string": "```clojure\n#include <math.h>double AttackerSuccessProbability(double q, int z)\n{\n double p = 1.0 - q;\n double lambda = z * (q / p);\n double sum = 1.0;\n int i, k;\n for (k = 0; k <= z; k++)\n {\n double poisson = exp(-lambda);\n for (i = 1; i <= k; i++)\n poisson *= lambda / i;\n sum -= poisson * (1 - pow(q / p, z - k));\n }\n return sum;\n}```",
             "uid": "bTEwXgaml"
           },
