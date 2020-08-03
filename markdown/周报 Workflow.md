@@ -1,0 +1,8 @@
+- {{[[kanban]]}}
+    - stage1： 周报 Markdown  文件生成
+        - HTML文件 用来发 mailchimp
+        - 图片 用来 Twitter、微信圈子
+        - PDF 用来发微信群
+    - stage2：定期发送到指定渠道
+        - 发送前检查 [[周报 Checklist]]
+    - stage3：激发社区讨论
