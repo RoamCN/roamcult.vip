@@ -15,16 +15,9 @@
 4. 带上你的疑问和好奇
     
 ### 大纲
-        - Zack用RR写note都干点啥？
-            - 第一部分
-            - 第二部分：evergreen notes 我想看介个🤩
-        - Zack的tips时间
-            - 如何加emoji 🦆
-            - 如何textblaze 实现自动化
-            - Roam自问自答复习机制
         - 1）日常用Roam的Roamlog（像Vlog) 
         - 3）王树义老师教学视频制作workflow，看起来非常高效 
         - 2）隐藏技能-就一般人不知道但他觉得很有用的招/用例 
-            - 老师展示一下交互可视化（obsidian) ，分享下**「中观」**的思想-amazing✨
+            - 老师展示一下交互可视化（obsidian，InfraNodus) ，特别分享下**「中观」**的思想✨
         - 4）Roam对您来说意味着什么？带来最大的变化是什么？
         - 5）希望王老师分享一个自己的page[[]]供roam/cn收录
