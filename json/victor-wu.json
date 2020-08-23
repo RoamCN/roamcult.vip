@@ -15395,8 +15395,8 @@
                       {
                         "create-email": "weichuanwen@126.com",
                         "create-time": 1596204453592,
-                        "edit-email": "jake.liubh@gmail.com",
-                        "edit-time": 1596430307147,
+                        "edit-email": "gtdmao@gmail.com",
+                        "edit-time": 1598194340730,
                         "string": "```css\n@import url('https://liaozhe1228.github.io/kaoyan.css');\n/* \u9ad8\u4eae\u3001\u52a0\u7c97\u3001\u659c\u4f53\u3001\u5220\u9664\u7ebf\u6837\u5f0f*/\n.roam-highlight{\n    background-color:rgba(228,226,226,0.97) !important;\n    color: #0F4AF9 !important;\n    font-weight:normal!important;\n  \tbackground-color:rgba(173,40,40,0) !important;\n    font-size: 15px !important;\n}\n\nb, strong {\n    color: #1E15F1;\n    font-weight:bold!important;\n    font-size: 15px;\n    font-family:\"\u5fae\u8f6f\u96c5\u9ed1\", Times, serif !important;\n    background-color:rgba(187,245,229,0) !important;\n    border-radius:4px;\n    padding:2px 0px 2px 0px !important;\n    margin:0px 2px 0px 2px !important;\n\n}\nem {\n\tcolor: #95A196;\n      font-style:normal;\n    font-size: 15px !important;\n\tfont-weight:100 !important;\n\tbackground-color:rgba(228,154,154,0.03);\n}\nem:hover {\n\tcolor: #2A3CF9;\n      font-style:normal;\n    font-size: 15px !important;\n\tfont-weight:normal !important;\n}\ndel {\n  text-decoration: none!important;\n  color:#CFCFC2 !important;\n  background-color: #CFCFC2 !important;\n}\ndel:hover{\n  color:blue !important;\n    text-decoration: none !important;\n    background-color: #DFF4C63b !important;\n}\ntextarea{border-left: 0px solid\u00a0blue\u00a0!important;}```",
                         "uid": "Q8ghwprcc"
                       }
