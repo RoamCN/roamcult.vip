@@ -1,0 +1,9 @@
+- {{[[DONE]]}} #[[␃插件]]整理 
+    - 查找可视化
+    - 直接图片转文字🤯 
+        - https://twitter.com/dvargas92495/status/1312730933708165123
+    - 一次性替换同义词Aliasing Page Synonyms
+        - https://twitter.com/dvargas92495/status/1311436670265425921
+    - 查找相应的attr-table Sorting attr-table
+        - 
+    - 从roam里面直接关键词查找某人(handle)的Twitter

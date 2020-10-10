@@ -1,0 +1,2 @@
+- it's saying any web services u r using shouldn't be allowed to own ur data, melicous or not. u should host ur own data. web services should really just build serverless frontend and do their job
+- behind [solid](https://learnsolid.cn) 这个project的是Tim，就是万维网的发明者，他认为这是互联网的mid course correction

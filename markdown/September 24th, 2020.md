@@ -1,0 +1,18 @@
+- {{[[TODO]]}}  数据收集  模块  ~ 解决不同场景下, 各种数据汇总的问题
+    - 问题&需求
+        - 问题：原始文章被删问题/数据安全问题
+        - ---
+        - 汇总数据  --> 多场景下的数据收集 --> 效率/多场景
+        - 检索数据  --> 数据调用/全文检索
+        - ...
+    - 问题上下文
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOsJYZOyTcC.png?alt=media&token=9f39ea24-e8b4-473c-8d76-ba48793fbfbf)
+    - ------
+    - kindle --> RoamR 解决方案
+    - Rss
+    - 数据质量
+    - 简悦 + 坚果云
+    - 印象笔记
+    - Instapaper
+    - trilium
+    - devonthink

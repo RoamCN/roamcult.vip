@@ -1,0 +1,20 @@
+- [Jessie](Jessie.md) [TIL](TIL.md) talk with [JimmyLv](JimmyLv.md)
+    - 打造[roamcn 42](roamcn 42.md) 
+        - 模块
+            - 1)graph course(like 42)
+                - https://roamresearch.com/#/app/roamhacker/page/-1s5kPhyX
+            - 2)youtube/bilibili course(explanation)
+            - 3)interactive video (面对面栏目)--english subtitle
+        - 内容
+            - [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md) js,Flow 是横向的
+                - 善用 Tab 和 Shift + Tab
+                - 改变层级 Tab 和 Shift + Tab
+                - 增加新卡片 Enter 回车
+                - 删除卡片 Esc + Delete
+    - 用 [E](E.md)/ 的方式作为笔记标题前缀，即可在reference里面发现是否linked，如果没有link就要主动去建立link
+        - RoamFM提到的数据分析，完全可以用来发现还未link的notes数量，占比 etc
+        - ![](../images/v9u-oyUJ1S.png?)
+        - ![](../images/rhlmwX9jC5.png?)
+- [JimmyLv](JimmyLv.md) [TIL](TIL.md)
+    - https://twitter.com/Jimmy_JingLv/status/1306266287849398274?s=20
+- **[feat](feat.md):** 将[Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)文档放到了 RoamCN 公共 Graph

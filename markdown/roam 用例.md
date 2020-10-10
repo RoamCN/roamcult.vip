@@ -1,0 +1,61 @@
+- 建立个人网站 #Andy
+    - [[digital garden]][[roam/css]]
+    - https://twitter.com/azlenelza/status/1256696567379062784
+    - https://twitter.com/Mappletons/status/1279798483218767877
+- 商业用例#roam_fu
+    - **Business model productive tool**
+        - 商业画布（Business model canvas)
+            - Author：Alex Osterwalder
+            - 制作实操
+                - metadata
+                    - Cost
+                        - developers
+                        - servers
+                    - Revenue
+                        - monthly sub (B2B, B2C)
+                        - B2C2C: substack for digital gardens
+                    - Value Proposition
+                        - second brain
+                        - digital garden
+                        - digital coach
+                    - Relationships
+                    - Channels
+                        - website
+                        - desktop apps
+                        - mobile apps
+                    - Constomer segments
+                        - Users
+                        - Employees
+                        - Developers
+                    - Key Activites
+                        - development
+                        - education
+                    - Key Resources
+                        - #Roamcult
+                    - Key partners
+                        - thought leaders
+                    - {{table}}
+                        - {{[[embed]]: ((((jDnWtTodE))))}}
+                        - {{[[embed]]: ((((HOUidsjUF))))}}
+                    - {{table}}
+                        - {{[[embed]]: ((((6atcqU5HT))))}}
+                        - {{[[embed]]: ((((fo5HWCZET))))}}
+                    - {{table}}
+                        - {{[[embed]]: (((SJKpa8mHx))}}
+                            - {{[[embed]]: ((((pLCzm1yQ2))))}}
+                                - {{[[embed]]: ((((Xgm-2bQuF))))}}
+                                    - "{{table}}"
+                                        - {{[[embed]]: ((((4_P2i94NM))))}}
+                    - {{table}}
+                        - {{[[embed]]: ((((7Sn-hFDI-))))}}
+                            - {{[[embed]]: ((((msGv0MHdc))))}}
+                - 产出：Roam Research BMC
+                    - {{[[table]]}}
+                        - "{{table}}"
+                        - "{{table}}"
+- 医学用例#[[roam_md]]
+    - https://twitter.com/roam_md/status/1292137456947605506
+    - 数学[[粗糙集]]
+        - 看到roam_md发的roam和疾病数据库（roam+disease database）结合的用例，然后#RE 群中联想到了粗糙集，进一步由#dsy 联想到贝叶斯估计+拓扑学+微分同胚
+- 读书会
+    - [Roam book club](https://roamresearch.com/#/app/roam-book-club/page/D-igrPZnN)

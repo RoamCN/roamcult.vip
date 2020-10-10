@@ -1,21 +1,14 @@
 
 # Backlinks
-## [Team Kanban](Team Kanban.md)
-[Backlog](Backlog.md) -> [TODO](TODO.md) -> [IN PROGRESS](IN PROGRESS.md) -> [DONE](DONE.md)
-
-- [DONE](DONE.md)
-
-## [翻译](翻译.md)
+## [October 10th, 2020](October 10th, 2020.md)
 - {{[DONE](DONE.md)}
 
-## [翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2](翻译：[Effective Note-Taking](Effective Note-Taking.md) Lesson 2.md)
-{{[DONE](DONE.md)}
+## [September 17th, 2020](September 17th, 2020.md)
+- {{[DONE](DONE.md)}
 
-{{[DONE](DONE.md)}
+## [September 18th, 2020](September 18th, 2020.md)
+- {{[DONE](DONE.md)}
 
-{{[DONE](DONE.md)}
-
-{{[DONE](DONE.md)}
-
-{{[DONE](DONE.md)}
+## [September 19th, 2020](September 19th, 2020.md)
+- {{[DONE](DONE.md)}
 

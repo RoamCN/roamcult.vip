@@ -1,2 +1,0 @@
-- [[翻译: What is Roam?]]
-- [[[[Effective Note-Taking]] Lesson 1 关键概念 ]]

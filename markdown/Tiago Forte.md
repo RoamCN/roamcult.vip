@@ -1,0 +1,2 @@
+- http://fortelabs.co/
+- the second brain

@@ -1,2 +1,0 @@
-- [Bitcoin Whitepaper](Bitcoin Whitepaper.md)
-- [Ethereum Whitepaper](Ethereum Whitepaper.md)

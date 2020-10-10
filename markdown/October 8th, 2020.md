@@ -1,0 +1,23 @@
+- #proposal for roam/cn weekly meetup
+    - 名称：roam/cn中文站周聚🍷 
+    - 主要内容
+        - P1分享:: 拟定**若干主题**进行分享讨论
+            - 主题：{{query 的用法；Anki到底是怎样work的
+            - 邀请嘉宾
+        - P2讨论:: 围绕这期的主题进行讨论延伸
+        - P3 collective intelligence的pitching:: 有一些需要大家参与的项目（比如#[[ℹ︎DeFi 词典]] 出来pitching一下，engage一下感兴趣的人
+    - 物料准备
+        - 根据主题拟一张海报
+            - "主题：{{query 的用法；Anki到底是怎样work的"
+                - 就可以设计成 ^^卡片盒子^^
+        - kt 板来一个吧（roam/cn)
+        - 活动行发布活动
+        - 场地：中关村创业大街一层inno pub
+        - 准备一个相/手机recording
+        - 设计一个问卷
+            - 最喜欢的roam的feature
+            - 最常用的roam的feature
+            - 抽签交换你的一个page
+            - 为roam/cn贡献一个public page
+        - 合影
+    - 可以联合RE,hulu一起搞

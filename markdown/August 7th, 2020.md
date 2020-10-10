@@ -1,0 +1,39 @@
+- 图床解决方案
+    - 图床服务
+        - 阿里云 OSS ~ 40G/年/9 元
+            - [阿里云OSS PicGo 配置图床教程 超详细 - 知乎](https://zhuanlan.zhihu.com/p/104152479)
+        - 腾讯云 COS ~ 50G/年/47 元
+        - 七牛云 ~ 免费/需要有备案的域名
+        - 又拍云 ~ 收费
+            - https://www.upyun.com/products/file-storage#tableType
+        - 1024 ~ 免费
+            - 1024 ~ 免费
+                - http://www.s7tu.com/
+        - postimages ~ 免费
+            - https://postimages.org/
+        - 路过 ~ 免费
+            - https://imgchr.com/
+        - 即刻 ~ 免费
+            - https://jiketuchuang.com/
+        - GitHub ~ 免费
+            - [使用GitHub+PicGo自建免费图床 - 掘金](https://juejin.im/post/6844904078468710413)
+        - SM.MS ~ 免费
+            - https://sm.ms/
+        - imgur ~ 免费
+            - https://imgur.com/
+    - 图床工具
+        - [PicGo](https://github.com/Molunerfinn/PicGo) ~ Win 推荐
+        - [iPic](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12) ~ Mac 环境
+- Roam/cn FM 的想法💡
+    - 借鉴[[RoamFM]]
+        - "从[[Norman Chella]]做[[RoamFM]]学到什么？#[[lessons learnt]]"
+        - RoamFM Graph 
+            - https://roamresearch.com/#/app/RoamFM/page/B2T6zN-6h
+    - 多多
+        - 昨天看了你给我的链接，roam面对面第二期的笔记好棒。我还不知道怎么做笔记，看见你的笔记学习很多。面对面的播客有点想做诶，虽然没做过，看见少数派有指导。有没有加个栏目的想法[Smirk]
+        - 如果做播客的话把重点部分剪出来嘛
+        - 听过第二期，感觉到中间的中断还蛮适合播客的
+    - JC
+        - 就是做笔记其实既简单又难，首先【框架】随着聊天要搭出来，然后你还要注意哪里是【重点】，要延伸的部分。然后聊完之后，在roam里面咱们还可以通过[[]]进一步延伸，这期间其实学到很多。
+        - 比如他提到一个interface 我就会去找相应的Twitter，然后建一个[[]]。同理，我们做面对面，王老师提到NLP和roam结合的内容，我们就可以进行[[]]更多的延伸
+        - 看看RoamFM的roam graph，Norman做的非常好，我们可以仿照的
