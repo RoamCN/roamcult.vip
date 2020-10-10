@@ -47,9 +47,8 @@ var s = document.createElement('script')
 	s.type = "text/javascript"
     s.src =  window.URLScriptServer + "js/index.js"
 	s.async = true
-document.getElementsByTagName('head')[0].appendChild(s)
-
-<script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>```
+document.getElementsByTagName('head')[0].appendChild(s)```
+- <script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>
 
 # Backlinks
 ## [Roam Research 卡片式写作主题](<Roam Research 卡片式写作主题.md>)

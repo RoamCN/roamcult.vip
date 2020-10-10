@@ -13645,9 +13645,9 @@
           {
             "create-email": "lv460051518@gmail.com",
             "create-time": 1600251847801,
-            "edit-email": "info@fat-garage.com",
-            "edit-time": 1601713614616,
-            "string": "```javascript\n// DISABLE FEATURES\n// Remove two forward slashes from in front of name \n// of feature to DISABLE it\n// Everything is enabled by default\nwindow.disabledFeatures = [\n  // 'quickReference',\n  // 'turnDown',\n  // 'dateProcessing',\n  // 'lookupUI',\n  // 'livePreview',\n  // 'dailyNote',\n  // 'jumpToDate',\n  // 'jumpNav',\n];\n\n// Live Preview - to change the defaults \n// 1) remove // in front of parameter to ACTIVATE the change\n// 2) modify the value to change it's behavior\n// width  = width of preview window\n// height = height of preview window\n// delay  = milliseconds of delay for preview to \n// \t\t\tfire (defaults to 200) can be set to 0\nwindow.roam42LivePreview = {\n  //width:\t'400px',\n  //height: '600px',\n  //delay: 500,\n}\n\n// Change the Deep navigation options\n// activate-on-no-focus - activate navigation mode when body is focused (default: false)\n// REMOVE // in front of setting to change it from default setting\nwindow.roamNavigatorSettings = {\n //  'activate-on-no-focus': true, \n}\n\nvar s = document.createElement('script')\n\ts.type = \"text/javascript\"\n    s.src =  \"https://roam42.glitch.me/main.js\"\n  \ts.async = true\ndocument.getElementsByTagName('head')[0].appendChild(s)\n\nconst CARD_MODE_VERSION = 'master'\nwindow.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`\nvar s = document.createElement('script')\n\ts.type = \"text/javascript\"\n    s.src =  window.URLScriptServer + \"js/index.js\"\n\ts.async = true\ndocument.getElementsByTagName('head')[0].appendChild(s)\n\n<script src=\"https://kit.fontawesome.com/8c717ed232.js\" crossorigin=\"anonymous\"></script>```",
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1602355281420,
+            "string": "```javascript\n// DISABLE FEATURES\n// Remove two forward slashes from in front of name \n// of feature to DISABLE it\n// Everything is enabled by default\nwindow.disabledFeatures = [\n  // 'quickReference',\n  // 'turnDown',\n  // 'dateProcessing',\n  // 'lookupUI',\n  // 'livePreview',\n  // 'dailyNote',\n  // 'jumpToDate',\n  // 'jumpNav',\n];\n\n// Live Preview - to change the defaults \n// 1) remove // in front of parameter to ACTIVATE the change\n// 2) modify the value to change it's behavior\n// width  = width of preview window\n// height = height of preview window\n// delay  = milliseconds of delay for preview to \n// \t\t\tfire (defaults to 200) can be set to 0\nwindow.roam42LivePreview = {\n  //width:\t'400px',\n  //height: '600px',\n  //delay: 500,\n}\n\n// Change the Deep navigation options\n// activate-on-no-focus - activate navigation mode when body is focused (default: false)\n// REMOVE // in front of setting to change it from default setting\nwindow.roamNavigatorSettings = {\n //  'activate-on-no-focus': true, \n}\n\nvar s = document.createElement('script')\n\ts.type = \"text/javascript\"\n    s.src =  \"https://roam42.glitch.me/main.js\"\n  \ts.async = true\ndocument.getElementsByTagName('head')[0].appendChild(s)\n\nconst CARD_MODE_VERSION = 'master'\nwindow.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`\nvar s = document.createElement('script')\n\ts.type = \"text/javascript\"\n    s.src =  window.URLScriptServer + \"js/index.js\"\n\ts.async = true\ndocument.getElementsByTagName('head')[0].appendChild(s)```",
             "uid": "IzF9gMZve"
           }
         ],
@@ -13657,6 +13657,14 @@
         "edit-time": 1600251847735,
         "string": "{{[[roam/js]]}}",
         "uid": "CA6w3mbOl"
+      },
+      {
+        "create-email": "lv460051518@gmail.com",
+        "create-time": 1602355286786,
+        "edit-email": "lv460051518@gmail.com",
+        "edit-time": 1602355291331,
+        "string": "<script src=\"https://kit.fontawesome.com/8c717ed232.js\" crossorigin=\"anonymous\"></script>",
+        "uid": "dn5fLvKYW"
       }
     ],
     "create-email": "lv460051518@gmail.com",
