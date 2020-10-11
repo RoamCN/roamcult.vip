@@ -41,7 +41,7 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
                     - what can do better
     - ![](../images/tpKE7KfyJd.png?)
     - Brandon Tor
-        - cultivate awareness via [atomic journaling](atomic journaling.md)
+        - cultivate awareness via [Atomic Journaling](Atomic Journaling.md)
             - 让我想到了**atomic habits** by 秃
 两个关键点：1.从简单到无法不可能不完成的目标开始，2.观察自己的抗拒感，一旦抗拒感很强烈，fallback难度，回到简单到不可能完成的情况
         - roam is the best tool for integration

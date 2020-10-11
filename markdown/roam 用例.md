@@ -1,5 +1,5 @@
 - 建立个人网站 #Andy
-    - [[digital garden]][[roam/css]]
+    - [[Digital Garden]][[roam/css]]
     - https://twitter.com/azlenelza/status/1256696567379062784
     - https://twitter.com/Mappletons/status/1279798483218767877
 - 商业用例#roam_fu

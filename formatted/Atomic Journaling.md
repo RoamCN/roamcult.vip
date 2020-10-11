@@ -1,6 +1,8 @@
 
 # Backlinks
 ## [Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ ](Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ .md)
+- cultivate awareness via [Atomic Journaling](Atomic Journaling.md)
+
 - [Atomic Journaling](Atomic Journaling.md)
 
 - [Atomic Journaling](Atomic Journaling.md)

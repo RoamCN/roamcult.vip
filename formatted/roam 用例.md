@@ -1,5 +1,5 @@
 - 建立个人网站 [Andy](Andy.md)
-    - [digital garden](digital garden.md)[roam/css](roam/css.md)
+    - [Digital Garden](Digital Garden.md)[roam/css](roam/css.md)
     - https://twitter.com/azlenelza/status/1256696567379062784
     - https://twitter.com/Mappletons/status/1279798483218767877
 - 商业用例[roam_fu](roam_fu.md)

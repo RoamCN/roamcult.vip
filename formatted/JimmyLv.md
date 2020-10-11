@@ -1,5 +1,5 @@
 
-#[ roam/cn crew ]( roam/cn crew .md)
+#[roam/cn crew](roam/cn crew.md)
 - https://blog.jimmylv.info/
 
 # Backlinks
