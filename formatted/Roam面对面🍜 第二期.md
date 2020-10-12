@@ -52,6 +52,7 @@
 
 # 宣传(hover me){{comment-button}}
     - 负责成员：[Jessie](Jessie.md)
+    - 视频成果："[第2期：用Evergreen Notes实现思维聚合](https://www.bilibili.com/video/BV13A411e7m5/?spm_id_from=333.788.videocard.1)"
 
 # 总结与Next Step
     - [Jessie](Jessie.md) [Victor](Victor.md) #[兴龙](兴龙.md)
