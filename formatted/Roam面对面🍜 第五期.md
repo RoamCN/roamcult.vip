@@ -1,7 +1,7 @@
 
 # 准备工作
     - 策划：Victor Wu,Jessie Li,多多
-    - 嘉宾：我们 [JimmyLv](JimmyLv.md)（➕ 个头像👦 ）
+    - 嘉宾：我们 [JimmyLv](JimmyLv.md)（➕ 个头像🤓  ）
     - 时间：TBC
     - 准备事项：
         
@@ -13,13 +13,20 @@
         
 4. 带上你的疑问和好奇
     - 大纲
-        - roam/cn的成长
-        - jimmy的daily routine
-        - Roam Hacking 👾
-            - e.g.关于卡片themes
-            - 关于最新的community idea
-        - Jessie想讨论的话题：programming languages
-            - https://twitter.com/Conaw/status/1206036267185500161
+        - Jimmy的分享 🤓 
+            - roam/cn的成长
+            - jimmy的daily routine
+            - Roam Hacking 👾
+                - e.g.关于卡片themes
+                - 关于最新的community idea
+        - 讨论时间🤩 
+            - general topic
+                - roam对你来说影响的最大的一点是啥？
+                - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
+                - 对roam的期待，最希望未来有哪方面的改进/创新？
+                - 对roam/cn的期待，希望我们（一起）玩出什么花样？
+            - Jessie想讨论的话题：programming languages
+                - https://twitter.com/Conaw/status/1206036267185500161
 
 # 演示&笔记
     - 负责：#[多多](多多.md) [Jessie](Jessie.md)
