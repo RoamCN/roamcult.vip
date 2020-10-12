@@ -1,0 +1,6 @@
+- - Categories:: #[[▸roamcults CRM]]
+- - Website::
+- - Twitter:: [RobertHaisfield](https://twitter.com/RobertHaisfield)
+- - Location:: Denver
+- - How You Know Him/Her:: via twitter
+- - Related to:: #Query #Journaling

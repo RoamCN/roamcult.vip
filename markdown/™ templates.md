@@ -1,0 +1,75 @@
+- ##  ✞ Note taking macro
+    - ## 📜 Articles
+        - Categories:: #Articles
+        - Author:: 
+        - Source:: 
+        - Related to::
+        - Why read this::
+            - what is this paper about?
+            - why it is important to know this?
+        - Notes::
+            - write questions and find the answers
+            - copy important sections and tag #
+            - [[inter-mind API]]
+                - Search discussions on twitter
+                - create a thread if some active users on the topic and if it has high readscore.
+        - Metadata ::
+    - ## 📙 Books
+        - Categories:: #Books
+        - Author::
+        - Related to::#Investment
+        - Why read this::
+        - ## Evergreens & Key Concepts
+        - ## Notes
+    - ## 📺 Youtube
+        - Categories:: #youtube
+        - Author:: 
+        - Source::
+        - Related to::
+        - Why watch this:: 
+        - Notes:: 
+        - Metadata ::
+    - ## 🎙 Podcast
+        - Categories:: #Podcasts
+        - Author:: 
+        - Source:: 
+        - Related to::
+        - Why listen this::
+        - Metadata ::
+        - Notes::
+    - ## 🦄️ Startup
+        - 分类::
+        - 领域::
+        - 阶段::
+        - 创始人::
+        - 融资历史::
+        - summary::
+        - {{kanban}}
+            - Capital ✩
+                - least important
+            - Access to deals ✩✩
+                - keep track related to founders
+            - Judgement ✩✩✩
+                - analyze company&tech trend
+        - 产品分析::
+        - 4ltLm_-Gg
+        - 商业画布::
+        - {{[[embed]]: ((((AatnAPKlu))))}}
+        - 投资分析::（e.g. [[Investment Thesis for $FVAC ]])
+            - Qualitative
+            - Quantatitive
+            - Risks
+        - CXLJfY2ox
+        - 投资分析（e.g. RoamResearch DD by [[Jeff Morris]])
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffatgarage%2FBXrfE-Fj8E.png?alt=media&token=0da22d4a-0816-4397-944c-c7cd85982095)
+    - ## 💲 Investment
+        - {{[[embed]]: ((((qNNCvg7ew))))}}
+    - ## 👯‍♀️ CRM
+        - - Categories:: #[[▸roamcults CRM]]
+        - - Website::
+        - - Twitter::
+        - - Location::
+        - - Company::
+        - - How You Know Him/Her::
+        - - Role::
+        - - Related to::

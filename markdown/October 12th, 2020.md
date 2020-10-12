@@ -5,3 +5,4 @@
     - {{[[DONE]]}} 和#Batapha 建立 RoamCN discord 社区
         - 学习一下roamslack的运作和频道分布
         - discord channel可以和roamcn graph同步
+    - {{[[DONE]]}} 整理了一下#[[ℹ︎内容导航页]]，并建立#[[▸roamcults CRM]]
