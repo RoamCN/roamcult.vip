@@ -17,4 +17,5 @@
                     - 静态
 非线性
         - 总结：都适合^^沉淀^^
+        - ![](../images/dJRDoiGs2K.png?)
     - [x] 整理了一下#[ℹ︎内容导航页](ℹ︎内容导航页.md)，并建立#[▸roamcults CRM](▸roamcults CRM.md)

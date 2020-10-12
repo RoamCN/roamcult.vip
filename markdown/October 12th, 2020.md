@@ -17,4 +17,5 @@
                     - 静态
 非线性
         - 总结：都适合^^沉淀^^
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FdJRDoiGs2K.png?alt=media&token=bd9039ed-66f0-4632-9855-d1b4874e2a4f)
     - {{[[DONE]]}} 整理了一下#[[ℹ︎内容导航页]]，并建立#[[▸roamcults CRM]]
