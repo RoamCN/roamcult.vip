@@ -5,6 +5,6 @@
 - **[- How You Know Him/Her](<../- How You Know Him/Her.md>):**
 
 ## [™ templates](<™ templates.md>)
-- **[- Company](<../- Company.md>):**
+- **[- Location](<../- Location.md>):**
         - **[- How You Know Him/Her](<../- How You Know Him/Her.md>):**
 
