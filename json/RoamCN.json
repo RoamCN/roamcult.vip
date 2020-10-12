@@ -1892,6 +1892,14 @@
           {
             "children": [
               {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1602490402771,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602490449374,
+                "string": "\u51fa\u54c1\uff1a#Victor #Jessie #[[\u591a\u591a]]",
+                "uid": "2Gb6mglFg"
+              },
+              {
                 "create-email": "jessie@fat-garage.com",
                 "create-time": 1597240866404,
                 "edit-email": "jessie@fat-garage.com",
@@ -1936,9 +1944,9 @@
             ],
             "create-email": "jessie@fat-garage.com",
             "create-time": 1597723181082,
-            "edit-email": "896569405@qq.com",
-            "edit-time": 1597758950823,
-            "string": "[Roam cn FM](http://xima.tv/B1gEE6?_sonic=0)",
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602490397017,
+            "string": "[RoamCN FM](http://xima.tv/B1gEE6?_sonic=0)",
             "uid": "c3oKCX4ym"
           }
         ],
@@ -2168,9 +2176,9 @@
                 "uid": "OsQbpJAED"
               }
             ],
-            "edit-email": "jings9506@gmail.com",
-            "edit-time": 1598780050511,
-            "string": "Public Graph --> \u53ef\u5206\u4eab\u516c\u5f00 Graph/Page | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602488723564,
+            "string": "**Public Graph** --> \u53ef\u5206\u4eab\u516c\u5f00 Graph/Page | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
             "uid": "XXZAxNGjb"
           },
           {
@@ -2194,25 +2202,17 @@
               {
                 "create-email": "jings9506@gmail.com",
                 "create-time": 1598779307995,
-                "edit-email": "jings9506@gmail.com",
-                "edit-time": 1598779391054,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602489044969,
                 "string": "200830 - hello RoamR",
                 "uid": "Nr25dyYiX"
-              },
-              {
-                "create-email": "896569405@qq.com",
-                "create-time": 1600690484924,
-                "edit-email": "896569405@qq.com",
-                "edit-time": 1600690498518,
-                "string": "",
-                "uid": "BxEb61ch4"
               }
             ],
             "create-email": "jings9506@gmail.com",
             "create-time": 1598778991336,
-            "edit-email": "jings9506@gmail.com",
-            "edit-time": 1598780035293,
-            "string": "\u5e16\u5b50 --> \u53ef\u81ea\u7531\u53d1\u8d77 | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602488717982,
+            "string": "**\u5e16\u5b50** --> \u53ef\u81ea\u7531\u53d1\u8d77 | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
             "uid": "xMdPdIFwi"
           },
           {
@@ -2252,9 +2252,9 @@
             ],
             "create-email": "jings9506@gmail.com",
             "create-time": 1598778654456,
-            "edit-email": "jings9506@gmail.com",
-            "edit-time": 1598780040093,
-            "string": "\u6d3b\u52a8 --> \u53ef\u81ea\u7531\u53d1\u8d77\u591a\u4eba**\u534f\u4f5c\u9879\u76ee** | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602489205381,
+            "string": "[[\u2362\u6d3b\u52a8]]--> \u53ef\u81ea\u7531\u53d1\u8d77\u591a\u4eba**\u534f\u4f5c\u9879\u76ee** | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
             "uid": "4dGFtZm8X"
           },
           {
@@ -2262,161 +2262,159 @@
               {
                 "children": [
                   {
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596950401032,
+                    "string": "[roam-to-git](https://github.com/MatthieuBizien/roam-to-git)",
+                    "uid": "1O5UhEgdI"
+                  },
+                  {
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596950401032,
+                    "string": "[roam-to-git-demo](https://github.com/MatthieuBizien/roam-to-git-demo)",
+                    "uid": "b_l-6vEpn"
+                  },
+                  {
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596950401032,
+                    "string": "[\u5982\u4f55\u7528 Python \u589e\u91cf\u5907\u4efd Roam Research \u7b14\u8bb0\u56fe\u7247\uff1f - \u4e91+\u793e\u533a - \u817e\u8baf\u4e91](https://cloud.tencent.com/developer/article/1634646)",
+                    "uid": "8g0OCBPhG"
+                  },
+                  {
                     "children": [
-                      {
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596950401032,
-                        "string": "[roam-to-git](https://github.com/MatthieuBizien/roam-to-git)",
-                        "uid": "1O5UhEgdI"
-                      },
-                      {
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596950401032,
-                        "string": "[roam-to-git-demo](https://github.com/MatthieuBizien/roam-to-git-demo)",
-                        "uid": "b_l-6vEpn"
-                      },
-                      {
-                        "edit-email": "jings9506@gmail.com",
-                        "edit-time": 1596950401032,
-                        "string": "[\u5982\u4f55\u7528 Python \u589e\u91cf\u5907\u4efd Roam Research \u7b14\u8bb0\u56fe\u7247\uff1f - \u4e91+\u793e\u533a - \u817e\u8baf\u4e91](https://cloud.tencent.com/developer/article/1634646)",
-                        "uid": "8g0OCBPhG"
-                      },
                       {
                         "children": [
                           {
-                            "children": [
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596950401033,
-                                "string": "https://github.com/MatthieuBizien/roam-to-git",
-                                "uid": "Mbp1s7Ufa"
-                              }
-                            ],
-                            "edit-email": "jings9506@gmail.com",
-                            "edit-time": 1596950401036,
-                            "string": "0. \u9884\u5907\u6761\u4ef6\uff1a\u5148\u6839\u636e roam-to-git \u8bbe\u7f6e\u597d GitHub Action",
-                            "uid": "V1HJ2cZT1"
-                          },
-                          {
-                            "children": [
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596950401033,
-                                "string": "https://github.com/JimmyLv/roam-cn.github.io/blob/master/scripts/roam_image_backup.py",
-                                "uid": "PhoYSMqlX"
-                              }
-                            ],
                             "edit-email": "jings9506@gmail.com",
                             "edit-time": 1596950401033,
-                            "string": "1. \u5728 scripts/ \u6587\u4ef6\u5939\u4e0b\uff0c\u589e\u52a0 roam_image_backup.py \u56fe\u7247\u5907\u4efd\u811a\u672c",
-                            "uid": "vI4a-NGA7"
-                          },
-                          {
-                            "children": [
-                              {
-                                "edit-email": "jings9506@gmail.com",
-                                "edit-time": 1596950401033,
-                                "string": "https://github.com/JimmyLv/roam-cn.github.io/blob/master/.github/workflows/main.yml",
-                                "uid": "evO0FnRQ_"
-                              }
-                            ],
-                            "edit-email": "jings9506@gmail.com",
-                            "edit-time": 1596950401033,
-                            "string": "2. \u4fee\u6539 Git \u4ed3\u5e93\u4e0b .github/workflows/main.yml \u6587\u4ef6\uff0c\u66ff\u6362\u4e3a\u4ee5\u4e0b\u5185\u5bb9",
-                            "uid": "usu0saiau"
+                            "string": "https://github.com/MatthieuBizien/roam-to-git",
+                            "uid": "Mbp1s7Ufa"
                           }
                         ],
                         "edit-email": "jings9506@gmail.com",
                         "edit-time": 1596950401036,
-                        "string": "\u300aRoam\u81ea\u52a8\u5316\u5907\u4efd\u56fe\u7247\u5230GitHub \u4ed3\u5e93\uff0c\u4e14\u4fdd\u6301 Markdown \u56fe\u7247\u94fe\u63a5\u5f15\u7528 ![]()\u300b ~ **@\u5415\u7acb\u9752**",
-                        "uid": "zYpP9Va4k"
+                        "string": "0. \u9884\u5907\u6761\u4ef6\uff1a\u5148\u6839\u636e roam-to-git \u8bbe\u7f6e\u597d GitHub Action",
+                        "uid": "V1HJ2cZT1"
+                      },
+                      {
+                        "children": [
+                          {
+                            "edit-email": "jings9506@gmail.com",
+                            "edit-time": 1596950401033,
+                            "string": "https://github.com/JimmyLv/roam-cn.github.io/blob/master/scripts/roam_image_backup.py",
+                            "uid": "PhoYSMqlX"
+                          }
+                        ],
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596950401033,
+                        "string": "1. \u5728 scripts/ \u6587\u4ef6\u5939\u4e0b\uff0c\u589e\u52a0 roam_image_backup.py \u56fe\u7247\u5907\u4efd\u811a\u672c",
+                        "uid": "vI4a-NGA7"
+                      },
+                      {
+                        "children": [
+                          {
+                            "edit-email": "jings9506@gmail.com",
+                            "edit-time": 1596950401033,
+                            "string": "https://github.com/JimmyLv/roam-cn.github.io/blob/master/.github/workflows/main.yml",
+                            "uid": "evO0FnRQ_"
+                          }
+                        ],
+                        "edit-email": "jings9506@gmail.com",
+                        "edit-time": 1596950401033,
+                        "string": "2. \u4fee\u6539 Git \u4ed3\u5e93\u4e0b .github/workflows/main.yml \u6587\u4ef6\uff0c\u66ff\u6362\u4e3a\u4ee5\u4e0b\u5185\u5bb9",
+                        "uid": "usu0saiau"
                       }
                     ],
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600229424572,
-                    "string": "Roam + Github \u81ea\u52a8\u5907\u4efd #[[\u738b\u6811\u4e49\u8001\u5e08]]",
-                    "uid": "Ccf_J-Rwa"
-                  },
-                  {
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600229593631,
-                    "string": "[Roam \u952e\u76d8\u5feb\u6377\u952e\u603b\u7ed3 \u2013 \u601d\u5706\u7b14\u8bb0](https://hintsnet.com/pimgeek/2020/05/23/roam-research-keyboard-shortcuts-summary/) #[[\u601d\u5706\u7b14\u8bb0]]",
-                    "uid": "1XhchyMne"
-                  },
-                  {
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600229412361,
-                    "string": "[Roam \u767d\u76ae\u4e66](https://mp.weixin.qq.com/s/fgapELVH0eqVU6BndPBFJQ) #[[Zack Fan]]",
-                    "uid": "G_b0TlA9h"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1600224409770,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600245681395,
-                    "string": "[[\u6548\u7387\u795e\u5947\u7ec4\u5408: Roam+readwise]] #[[Natalia Mok]]",
-                    "uid": "SK0NWXxHR"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1600403454232,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600403487492,
-                    "string": "[[Roam Research \u5361\u7247\u5f0f\u5199\u4f5c\u4e3b\u9898]] #JimmyLv",
-                    "uid": "ljHJxh2YA"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1600403502045,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600923690130,
-                    "string": "[[Roam\u79fb\u52a8\u7aef\u6559\u7a0b\ud83c\udfc3]] #[[\u4e2d\u4e0d\u6e9c]]",
-                    "uid": "RhTspZ_30"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1600923649312,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1600923693959,
-                    "string": "[[flow charts\u5236\u4f5c(\u6301\u66f4ing)]] #Jessie",
-                    "uid": "Gx-FtfvMN"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1601433015532,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1601448495659,
-                    "string": "[[Youtube timestamp]] #Jessie #Ryan",
-                    "uid": "Ruqg0a-zM"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1601714533167,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1601714643271,
-                    "string": "[[template button\u4e5f\u80fd\u63d0\u5347\u8f93\u5165\u6548\u7387\uff01\ud83e\udd2f ]] #Jessie",
-                    "uid": "tcUI1e9lg"
-                  },
-                  {
-                    "create-email": "info@fat-garage.com",
-                    "create-time": 1601712520599,
-                    "edit-email": "info@fat-garage.com",
-                    "edit-time": 1601714531761,
-                    "string": "[[Twitter-->Roam\u7684\u6700\u5feb\u65b9\u5f0f\u2708\ufe0f ]] #Jessie",
-                    "uid": "H-mCfZNS-"
+                    "edit-email": "jings9506@gmail.com",
+                    "edit-time": 1596950401036,
+                    "string": "\u300aRoam\u81ea\u52a8\u5316\u5907\u4efd\u56fe\u7247\u5230GitHub \u4ed3\u5e93\uff0c\u4e14\u4fdd\u6301 Markdown \u56fe\u7247\u94fe\u63a5\u5f15\u7528 ![]()\u300b ~ **@\u5415\u7acb\u9752**",
+                    "uid": "zYpP9Va4k"
                   }
                 ],
-                "create-email": "jings9506@gmail.com",
-                "create-time": 1598779704146,
-                "edit-email": "jings9506@gmail.com",
-                "edit-time": 1598779710761,
-                "string": "[[roam \u7528\u4f8b]]",
-                "uid": "PtUnAhhZr"
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1600229424572,
+                "string": "Roam + Github \u81ea\u52a8\u5907\u4efd #[[\u738b\u6811\u4e49\u8001\u5e08]]",
+                "uid": "Ccf_J-Rwa"
+              },
+              {
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1600229593631,
+                "string": "[Roam \u952e\u76d8\u5feb\u6377\u952e\u603b\u7ed3 \u2013 \u601d\u5706\u7b14\u8bb0](https://hintsnet.com/pimgeek/2020/05/23/roam-research-keyboard-shortcuts-summary/) #[[\u601d\u5706\u7b14\u8bb0]]",
+                "uid": "1XhchyMne"
+              },
+              {
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1600229412361,
+                "string": "[Roam \u767d\u76ae\u4e66](https://mp.weixin.qq.com/s/fgapELVH0eqVU6BndPBFJQ) #[[Zack Fan]]",
+                "uid": "G_b0TlA9h"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1600224409770,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1600245681395,
+                "string": "[[\u6548\u7387\u795e\u5947\u7ec4\u5408: Roam+readwise]] #[[Natalia Mok]]",
+                "uid": "SK0NWXxHR"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1600403454232,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1600403487492,
+                "string": "[[Roam Research \u5361\u7247\u5f0f\u5199\u4f5c\u4e3b\u9898]] #JimmyLv",
+                "uid": "ljHJxh2YA"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1600403502045,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1600923690130,
+                "string": "[[Roam\u79fb\u52a8\u7aef\u6559\u7a0b\ud83c\udfc3]] #[[\u4e2d\u4e0d\u6e9c]]",
+                "uid": "RhTspZ_30"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1600923649312,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602488953549,
+                "string": "[[\u5982\u4f55\u7528mermaid\u5236\u4f5cflow charts(\u6301\u66f4ing)]] #Jessie",
+                "uid": "Gx-FtfvMN"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1601433015532,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1601448495659,
+                "string": "[[Youtube timestamp]] #Jessie #Ryan",
+                "uid": "Ruqg0a-zM"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1601714533167,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1601714643271,
+                "string": "[[template button\u4e5f\u80fd\u63d0\u5347\u8f93\u5165\u6548\u7387\uff01\ud83e\udd2f ]] #Jessie",
+                "uid": "tcUI1e9lg"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1601712520599,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1601714531761,
+                "string": "[[Twitter-->Roam\u7684\u6700\u5feb\u65b9\u5f0f\u2708\ufe0f ]] #Jessie",
+                "uid": "H-mCfZNS-"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1602488962290,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602489340590,
+                "string": "[[{{query\u7684\u6301\u7eed\u6559\u7a0b\u96c6\u5408\ud83c\udf31 ]] #Jessie",
+                "uid": "kQg8jwlqY"
               }
             ],
-            "edit-email": "jings9506@gmail.com",
-            "edit-time": 1598780045840,
-            "string": "\u6559\u7a0b --> \u4ee5**Roam**\u4e3a\u6838\u5fc3\u7684**\u77e5\u8bc6\u7ba1\u7406**\u7ecf\u9a8c\u5206\u4eab | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602489214255,
+            "string": "[[\u2361\u6559\u7a0b]] --> \u4ee5**Roam**\u4e3a\u6838\u5fc3\u7684**\u77e5\u8bc6\u7ba1\u7406**\u7ecf\u9a8c\u5206\u4eab | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
             "uid": "YNaWzDhb1"
           },
           {
@@ -2468,9 +2466,9 @@
                 "uid": "d-7UHTORx"
               }
             ],
-            "edit-email": "jings9506@gmail.com",
-            "edit-time": 1598780052632,
-            "string": "\u56fd\u5916\u793e\u533a --> \u56fd\u5916 Roam \u5206\u4eab\u793e\u533a | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602488788860,
+            "string": "**\u56fd\u5916\u793e\u533a\u5b9e\u8df5** --> \u56fd\u5916 Roam \u5206\u4eab\u793e\u533a | __(\u793e\u533a\u6210\u5458\u81ea\u7531\u7f16\u8f91)__",
             "uid": "cxCYBPSQD"
           }
         ],
@@ -2520,9 +2518,9 @@
         "uid": "bpOGGLv9v"
       }
     ],
-    "edit-email": "bingxin_lin@foxmail.com",
-    "edit-time": 1602308155937,
-    "title": "\u5185\u5bb9\u5bfc\u822a\u9875"
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602488626591,
+    "title": "\u2139\ufe0e\u5185\u5bb9\u5bfc\u822a\u9875"
   },
   {
     "children": [
@@ -14162,8 +14160,8 @@
           {
             "children": [
               {
-                "edit-email": "zhongbuliu@qq.com",
-                "edit-time": 1600405968601,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602488445485,
                 "props": {
                   "image-size": {
                     "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOV5oT-ZioA.gif?alt=media&token=f8b09199-2fad-4dbc-bf87-66391c2563d0": {
@@ -17492,13 +17490,21 @@
                 "edit-time": 1602487081006,
                 "string": "\u5b66\u4e60\u4e00\u4e0broamslack\u7684\u8fd0\u4f5c\u548c\u9891\u9053\u5206\u5e03",
                 "uid": "H_omgKXM8"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1602488468487,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602488564169,
+                "string": "discord channel\u53ef\u4ee5\u548croamcn graph\u540c\u6b65",
+                "uid": "79ZgfE3NA"
               }
             ],
             "create-email": "info@fat-garage.com",
             "create-time": 1602487000294,
             "edit-email": "info@fat-garage.com",
-            "edit-time": 1602487054162,
-            "string": "{{[[TODO]]}} \u548c#Batapha \u5efa\u7acb RoamCN discord \u793e\u533a",
+            "edit-time": 1602488400457,
+            "string": "{{[[DONE]]}} \u548c#Batapha \u5efa\u7acb RoamCN discord \u793e\u533a",
             "uid": "bJ4DcOI4Y"
           }
         ],
@@ -17520,5 +17526,33 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1602487028529,
     "title": "Batapha"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602488953553,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602488953555,
+    "title": "\u5982\u4f55\u7528mermaid\u5236\u4f5cflow charts(\u6301\u66f4ing)"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602489205385,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602489205387,
+    "title": "\u2362\u6d3b\u52a8"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602489214261,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602489214266,
+    "title": "\u2361\u6559\u7a0b"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602489340592,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602489340592,
+    "title": "{{query\u7684\u6301\u7eed\u6559\u7a0b\u96c6\u5408\ud83c\udf31 "
   }
 ]

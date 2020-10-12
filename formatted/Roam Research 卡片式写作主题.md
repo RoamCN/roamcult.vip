@@ -50,6 +50,6 @@ document.getElementsByTagName('head')[0].appendChild(s)```
 ## [September 21st, 2020](September 21st, 2020.md)
 - **[fix](fix.md):** 修复了[Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)对
 
-## [内容导航页](内容导航页.md)
+## [ℹ︎内容导航页](ℹ︎内容导航页.md)
 [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
 

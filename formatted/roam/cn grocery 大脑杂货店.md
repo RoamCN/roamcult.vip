@@ -65,6 +65,6 @@ Here are two ways for you to participate:
 ## [September 20th, 2020](<September 20th, 2020.md>)
 - #[roam/cn grocery 大脑杂货店](<../roam/cn grocery 大脑杂货店.md>)
 
-## [内容导航页](<内容导航页.md>)
+## [ℹ︎内容导航页](<ℹ︎内容导航页.md>)
 [roam/cn grocery 大脑杂货店](<../roam/cn grocery 大脑杂货店.md>)
 

@@ -6,7 +6,7 @@
 ## [roam/cn grocery 大脑杂货店](roam/cn grocery 大脑杂货店.md)
 [Jessie](Jessie.md)
 
-## [内容导航页](内容导航页.md)
+## [ℹ︎内容导航页](ℹ︎内容导航页.md)
 - 作者：[多酱](多酱.md)[Jessie](Jessie.md)
 
 ## [周报Newsletter 2020-07-25 003期](周报Newsletter 2020-07-25 003期.md)
