@@ -1,4 +1,6 @@
 - [Jessie](Jessie.md) [TIL](TIL.md)
-    - [ ] #[␃插件](␃插件.md) 整理
-        - [roam空间图-Chrome插件](https://github.com/roam-unofficial/roam-toolkit/pull/165)
+    - [x] #[␃插件](␃插件.md) 整理
+        - [roam空间图-css插件~树状形式展开不同pages](https://github.com/roam-unofficial/roam-toolkit/pull/165)
             - https://twitter.com/daveludavelu/status/1315214048691064832
+    - [ ] 和[Batapha](Batapha.md) 建立 RoamCN discord 社区
+        - 学习一下roamslack的运作和频道分布

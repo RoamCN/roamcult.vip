@@ -17471,17 +17471,35 @@
                 "create-email": "info@fat-garage.com",
                 "create-time": 1602486269291,
                 "edit-email": "info@fat-garage.com",
-                "edit-time": 1602486403614,
-                "string": "[roam\u7a7a\u95f4\u56fe-Chrome\u63d2\u4ef6](https://github.com/roam-unofficial/roam-toolkit/pull/165)",
+                "edit-time": 1602486989453,
+                "string": "[roam\u7a7a\u95f4\u56fe-css\u63d2\u4ef6~\u6811\u72b6\u5f62\u5f0f\u5c55\u5f00\u4e0d\u540cpages](https://github.com/roam-unofficial/roam-toolkit/pull/165)",
                 "uid": "oxTAJ1lW2"
               }
             ],
             "create-email": "info@fat-garage.com",
             "create-time": 1602486216820,
             "edit-email": "info@fat-garage.com",
-            "edit-time": 1602486240251,
-            "string": "{{[[TODO]]}} #[[\u2403\u63d2\u4ef6]] \u6574\u7406",
+            "edit-time": 1602487001496,
+            "string": "{{[[DONE]]}} #[[\u2403\u63d2\u4ef6]] \u6574\u7406",
             "uid": "lioiYrpZJ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1602487054155,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602487081006,
+                "string": "\u5b66\u4e60\u4e00\u4e0broamslack\u7684\u8fd0\u4f5c\u548c\u9891\u9053\u5206\u5e03",
+                "uid": "H_omgKXM8"
+              }
+            ],
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602487000294,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602487054162,
+            "string": "{{[[TODO]]}} \u548c#Batapha \u5efa\u7acb RoamCN discord \u793e\u533a",
+            "uid": "bJ4DcOI4Y"
           }
         ],
         "create-email": "info@fat-garage.com",
@@ -17495,5 +17513,12 @@
     "edit-email": "enjoy@minisix.cn",
     "edit-time": 1602434722127,
     "title": "October 12th, 2020"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602487028522,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602487028529,
+    "title": "Batapha"
   }
 ]
