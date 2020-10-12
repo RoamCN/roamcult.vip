@@ -1,4 +1,4 @@
-- #Jessie #TIL
-    - {{[[TODO]]}} #[[␃插件]] 整理
+- [Jessie](Jessie.md) [TIL](TIL.md)
+    - [ ] #[␃插件](␃插件.md) 整理
         - [roam空间图-Chrome插件](https://github.com/roam-unofficial/roam-toolkit/pull/165)
             - https://twitter.com/daveludavelu/status/1315214048691064832
