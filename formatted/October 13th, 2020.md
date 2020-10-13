@@ -10,3 +10,5 @@
 - [x] 面对面第五期的录制⏺️  @8pm [Roam面对面🍜 第五期](Roam面对面🍜 第五期.md)
     - 大家都要露脸啊🤩 
     - 看一下改版之后的效果，讨论和沉淀都重要
+- [Batapha](Batapha.md) 在roam的官方页面找到的关于query的视频：https://www.youtube.com/watch?v=LJZBGJOzhUY&feature=emb_logo&ab_channel=RobertHaisfield
+    - 
