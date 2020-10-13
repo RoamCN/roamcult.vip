@@ -23,6 +23,7 @@
             - general topic
                 - roam对你来说影响的最大的一点是啥？
                 - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
+                    - 结合GTD的使用
                 - 对roam的期待，最希望未来有哪方面的改进/创新？
                 - 对RoamCN的期待，希望我们（一起）玩出什么花样？
                     - [Jessie](Jessie.md) 多做一些collective intelligence的尝试
