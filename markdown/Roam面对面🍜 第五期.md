@@ -8,13 +8,13 @@
         - 3. 安静的环境
         - 4. 带上你的疑问和好奇
     - 大纲
-        - Jimmy的分享 🤓 
+        - Jimmy的分享 🤓  (以下待更新)
             - roam/cn的成长
             - jimmy的daily routine
             - Roam Hacking 👾
                 - e.g.关于卡片themes
                 - 关于最新的community idea
-        - 讨论时间🤩  #Jessie MC
+        - 讨论时间🤩  
             - general topic
                 - roam对你来说影响的最大的一点是啥？
                 - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
