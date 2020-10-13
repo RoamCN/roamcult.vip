@@ -3,9 +3,4 @@
 ## [October 13th, 2020](October 13th, 2020.md)
 
 ### #[RoamCN meetup](RoamCN meetup.md) Round 1 [October 18th, 2020](October 18th, 2020.md)
-    - **[P1分享](P1分享.md):**
-
-## [October 8th, 2020](October 8th, 2020.md)
-- 主要内容
-        - **[P1分享](P1分享.md):**
 

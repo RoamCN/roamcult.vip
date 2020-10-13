@@ -19959,8 +19959,8 @@
             "create-email": "info@fat-garage.com",
             "create-time": 1602087126378,
             "edit-email": "info@fat-garage.com",
-            "edit-time": 1602088389102,
-            "string": "\u540d\u79f0\uff1aroam/cn\u4e2d\u6587\u7ad9\u5468\u805a\ud83c\udf77 ",
+            "edit-time": 1602582119859,
+            "string": "\u540d\u79f0\uff1aRoam\u4e2d\u6587\u7ad9\u5468\u805a\ud83c\udf77 ",
             "uid": "mbvKmaviW"
           },
           {
@@ -20147,8 +20147,8 @@
         "create-email": "info@fat-garage.com",
         "create-time": 1602087093985,
         "edit-email": "info@fat-garage.com",
-        "edit-time": 1602301582551,
-        "string": "#proposal for roam/cn weekly meetup",
+        "edit-time": 1602582109931,
+        "string": "#proposal for [[RoamCN meetup]]",
         "uid": "RjtyUQf4A"
       }
     ],
@@ -20674,18 +20674,18 @@
             "edit-time": 1597199155152,
             "string": "[\u7b80\u5355\u4f46\u8d85\u5b9e\u7528\u7684Roam CSS \u5c0f\u6280\u5de7](https://www.notion.so/Roam-CSS-d8d781a01a3b4fd9a46d5fb2dd10e7c6)",
             "uid": "XwvkO9CqL"
+          },
+          {
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1596950401032,
+            "string": "[RoamThemes-\u4e3b\u9898](https://roamthemes.io/themes.html) ~ \u4e00\u952e\u6362\u88c5",
+            "uid": "Hjb3m8KnG"
           }
         ],
         "edit-email": "lv460051518@gmail.com",
         "edit-time": 1600252359086,
         "string": "[[roam/css]] \u6837\u5f0f",
         "uid": "8o0dmkvUV"
-      },
-      {
-        "edit-email": "jings9506@gmail.com",
-        "edit-time": 1596950401032,
-        "string": "[RoamThemes-\u4e3b\u9898](https://roamthemes.io/themes.html) ~ \u4e00\u952e\u6362\u88c5",
-        "uid": "Hjb3m8KnG"
       },
       {
         "edit-email": "jings9506@gmail.com",
@@ -21769,8 +21769,109 @@
     "title": "david vargas"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602582241726,
+                "string": "\u4e3b\u9898\uff1a{{query \u7684\u7528\u6cd5",
+                "uid": "bCVF-jRf6"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "info@fat-garage.com",
+                    "create-time": 1602582198462,
+                    "edit-email": "info@fat-garage.com",
+                    "edit-time": 1602582203793,
+                    "string": "#Jessie",
+                    "uid": "Foc-BLwaA"
+                  }
+                ],
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602582259386,
+                "string": "\u53d1\u8d77\u8005",
+                "uid": "p9TFopxWw"
+              }
+            ],
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602582250117,
+            "string": "P1\u5206\u4eab:: \u62df\u5b9a**\u4e3b\u9898**\u8fdb\u884c\u5206\u4eab\u8ba8\u8bba",
+            "uid": "rJg_5V0ub"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602582235477,
+            "string": "P2\u8ba8\u8bba:: \u56f4\u7ed5{{query \u4e3b\u9898\u8fdb\u884c\u7528\u4f8b\u7684\u5ef6\u4f38",
+            "uid": "UFkyWbBOe"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602583416604,
+            "string": "P3 collective intelligence\u7684pitching:: \u6709\u4e00\u4e9b\u9700\u8981\u5927\u5bb6\u53c2\u4e0e\u7684\u516c\u5171graph\u9879\u76ee\uff08\u6bd4\u5982#[[\u2139\ufe0eDeFi \u8bcd\u5178]] \u53ef\u4ee5\u6765\u4ea4\u6d41\u60f3\u6cd5",
+            "uid": "c9ryQ-akQ"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602583420467,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602583427824,
+            "string": "\u6d3b\u52a8\u884c\u94fe\u63a5\uff1ahttp://hdxu.cn/DqdJy",
+            "uid": "uus17vw3F"
+          }
+        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1602582126665,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1602582314157,
+        "heading": 3,
+        "string": "#[[RoamCN meetup]] Round 1 [[October 18th, 2020]]",
+        "uid": "INjFqB1nB"
+      },
+      {
+        "children": [
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602583480989,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602583497679,
+            "string": "\u5927\u5bb6\u90fd\u8981\u9732\u8138\u554a\ud83e\udd29 ",
+            "uid": "OdtaKPHuU"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602583497674,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602583516741,
+            "string": "\u770b\u4e00\u4e0b\u6539\u7248\u4e4b\u540e\u7684\u6548\u679c\uff0c\u8ba8\u8bba\u548c\u6c89\u6dc0\u90fd\u91cd\u8981",
+            "uid": "S0n0tnpXG"
+          }
+        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1602583469103,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1602583520596,
+        "string": "{{[[TODO]]}} \u9762\u5bf9\u9762\u7b2c\u4e94\u671f\u7684\u5f55\u5236\u23fa\ufe0f  ",
+        "uid": "xLTd4j7ij"
+      }
+    ],
     "edit-email": "896569405@qq.com",
     "edit-time": 1602565431698,
     "title": "October 13th, 2020"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602582109934,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602582109938,
+    "title": "RoamCN meetup"
+  },
+  {
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602582172759,
+    "title": "October 18th, 2020"
   }
 ]

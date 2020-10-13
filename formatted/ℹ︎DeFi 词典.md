@@ -1,6 +1,9 @@
 - 
 
 # Backlinks
+## [October 13th, 2020](October 13th, 2020.md)
+- **[P3 collective intelligence的pitching](P3 collective intelligence的pitching.md):** 有一些需要大家参与的公共graph项目（比如#[ℹ︎DeFi 词典](ℹ︎DeFi 词典.md)
+
 ## [October 8th, 2020](October 8th, 2020.md)
 - **[P3 collective intelligence的pitching](P3 collective intelligence的pitching.md):** 有一些需要大家参与的项目（比如#[ℹ︎DeFi 词典](ℹ︎DeFi 词典.md)
 
