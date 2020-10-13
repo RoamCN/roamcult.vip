@@ -30,13 +30,23 @@
                     - [Jessie](Jessie.md) 多做一些collective intelligence的尝试
             - Jessie想讨论的话题：programming languages；pub graph for collective intelligence
                 - https://twitter.com/Conaw/status/1206036267185500161
+                - ![](../images/azyMb-fD6y.png?)
+                - https://twitter.com/Conaw/status/1315814836396191744
                 - https://twitter.com/JESSCATE93/status/1314936931793412096
                     - "[⍢活动](⍢活动.md)--> 可自由发起多人**协作项目** | __(社区成员自由编辑)__"
 
 # 演示&笔记
     - 负责：#[多多](多多.md) [Jessie](Jessie.md)
+    - 卡片盒模版的最佳使用场景
+    - 在roam里面怎样做任务管理
+    - 单核工作法
+        - 快捷清单
+        - 每一个整点
 
 # Backlinks
+## [October 13th, 2020](October 13th, 2020.md)
+- [ ] 面对面第五期的录制⏺️  @8pm [Roam面对面🍜 第五期](Roam面对面🍜 第五期.md)
+
 ## [ℹ︎内容导航页](ℹ︎内容导航页.md)
 - [Roam面对面🍜 第五期](Roam面对面🍜 第五期.md)
 

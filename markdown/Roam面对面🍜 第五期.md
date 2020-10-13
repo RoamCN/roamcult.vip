@@ -25,7 +25,14 @@
                     - #Jessie 多做一些collective intelligence的尝试
             - Jessie想讨论的话题：programming languages；pub graph for collective intelligence
                 - https://twitter.com/Conaw/status/1206036267185500161
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FazyMb-fD6y.png?alt=media&token=a4f2007e-d2f9-444c-8c05-0cd4425fffb8)
+                - https://twitter.com/Conaw/status/1315814836396191744
                 - https://twitter.com/JESSCATE93/status/1314936931793412096
                     - "[[⍢活动]]--> 可自由发起多人**协作项目** | __(社区成员自由编辑)__"
 - # 演示&笔记
     - 负责：#[[多多]] #Jessie
+    - 卡片盒模版的最佳使用场景
+    - 在roam里面怎样做任务管理
+    - 单核工作法
+        - 快捷清单
+        - 每一个整点
