@@ -14,13 +14,16 @@
             - Roam Hacking 👾
                 - e.g.关于卡片themes
                 - 关于最新的community idea
-        - 讨论时间🤩 
+        - 讨论时间🤩  #Jessie MC
             - general topic
                 - roam对你来说影响的最大的一点是啥？
                 - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
                 - 对roam的期待，最希望未来有哪方面的改进/创新？
-                - 对roam/cn的期待，希望我们（一起）玩出什么花样？
-            - Jessie想讨论的话题：programming languages
+                - 对RoamCN的期待，希望我们（一起）玩出什么花样？
+                    - #Jessie 多做一些collective intelligence的尝试
+            - Jessie想讨论的话题：programming languages；pub graph for collective intelligence
                 - https://twitter.com/Conaw/status/1206036267185500161
+                - https://twitter.com/JESSCATE93/status/1314936931793412096
+                    - "[[⍢活动]]--> 可自由发起多人**协作项目** | __(社区成员自由编辑)__"
 - # 演示&笔记
     - 负责：#[[多多]] #Jessie
