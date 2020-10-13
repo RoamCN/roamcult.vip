@@ -55,6 +55,9 @@
             - **变量**：所有引用过的地方都会变化
                 - 每天DN 模版，相同的变化可以抽象，抽象出来是一个
             - **计算器**：可以抽象成函数方法，进行block的组合操作。文本也可以进行组合操作
+    - attributes 的使用潜力
+        - b
+        - page是有属性的 [tag](tag.md) [attr-](attr-.md)
 
 # Backlinks
 ## [October 13th, 2020](October 13th, 2020.md)
