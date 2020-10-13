@@ -50,14 +50,20 @@
         - 写zettle文章没看过how to take smart notes，是三四手传播者；看过之后
     - 写代码的时候尽量不用鼠标操作（像素点），用键盘的操作
         - 代码是一种精确的思维（crystalized thoughts）--Conor
-    - 用roam/js进行编程的教学（
+    - 用roam/js进行编程的教学
         - 文本编程的概念
             - **变量**：所有引用过的地方都会变化
                 - 每天DN 模版，相同的变化可以抽象，抽象出来是一个
             - **计算器**：可以抽象成函数方法，进行block的组合操作。文本也可以进行组合操作
     - attributes 的使用潜力
         - b
-        - page是有属性的 [tag](tag.md) [attr-](attr-.md)
+        - page是有属性的 [tag](tag.md) [attr-](attr-.md) block有个性，
+    - 整个页面都是一个个的对象，都可以互相引用、互相联系
+    - 搜索引擎是一种新型的拍卖形式
+    - 每学一项东西，都是要推进一个项目。
+    - 新的观点要补充的时候
+- 问题：
+    - 你觉得在搜索上，就是workflow上面形成了一套系统
 
 # Backlinks
 ## [October 13th, 2020](October 13th, 2020.md)
