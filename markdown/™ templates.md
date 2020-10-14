@@ -64,7 +64,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffatgarage%2FBXrfE-Fj8E.png?alt=media&token=0da22d4a-0816-4397-944c-c7cd85982095)
     - ## 💲 Investment
         - {{[[embed]]: ((((qNNCvg7ew))))}}
-    - ## 👯‍♀️ CRM
+    - ## {{👯‍♀️ CRM}}
         - - Categories:: #[[▸roamcults CRM]]
         - - Website::
         - - Twitter::

@@ -1,0 +1,7 @@
+- "{{👯‍♀️ CRM}}"
+    - - Categories:: #[[▸roamcults CRM]] [*](((iSkpYft_4)))
+    - - Website:: [*](((wc3Lpb-j-)))
+    - - Twitter:: [*](((_Wq_oeemn)))
+    - - Location:: [*](((4q4LsdKRx)))
+    - - How You Know Him/Her:: [*](((4F_aRrtVr)))
+    - - Related to:: [*](((ghyzm0VGE)))

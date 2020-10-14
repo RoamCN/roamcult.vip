@@ -4,6 +4,7 @@ Hello 新朋友，这里会收集一些钻研某一(一些)领域非常深入的
 [Robert Haisfield](Robert Haisfield.md) ~ query、journaling
 [roam_fu](roam_fu.md) ~ project management
 [david vargas](david vargas.md) ~ roam/js extentions
+[visakanv](visakanv.md) ~ Bricks(to-do app)
 ### List of CN cults
 [王树义](王树义.md)老师 ~ roam科普
 [JimmyLv](JimmyLv.md) ~ 卡片式js主题
@@ -14,6 +15,9 @@ Hello 新朋友，这里会收集一些钻研某一(一些)领域非常深入的
 - [x] 整理了一下#[ℹ︎内容导航页](ℹ︎内容导航页.md)，并建立#[▸roamcults CRM](▸roamcults CRM.md)
 
 ## [Robert Haisfield](Robert Haisfield.md)
+- **[- Categories](- Categories.md):** #[▸roamcults CRM](▸roamcults CRM.md)
+
+## [visakanv](visakanv.md)
 - **[- Categories](- Categories.md):** #[▸roamcults CRM](▸roamcults CRM.md)
 
 ## [™ templates](™ templates.md)

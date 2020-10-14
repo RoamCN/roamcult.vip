@@ -74,7 +74,7 @@
 ## 💲 Investment
         - {{[embed](embed.md): ((((qNNCvg7ew))))}}
     
-## 👯‍♀️ CRM
+## {{👯‍♀️ CRM}}
         - **[- Categories](- Categories.md):** #[▸roamcults CRM](▸roamcults CRM.md)
         - **[- Website](- Website.md):**
         - **[- Twitter](- Twitter.md):**

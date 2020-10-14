@@ -18140,6 +18140,14 @@
       },
       {
         "create-email": "info@fat-garage.com",
+        "create-time": 1602642312280,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1602642370525,
+        "string": "[[visakanv]] ~ Bricks(to-do app)",
+        "uid": "Q1otKJXU6"
+      },
+      {
+        "create-email": "info@fat-garage.com",
         "create-time": 1602493054651,
         "edit-email": "info@fat-garage.com",
         "edit-time": 1602493063189,
@@ -18717,9 +18725,9 @@
               }
             ],
             "edit-email": "info@fat-garage.com",
-            "edit-time": 1602492337261,
+            "edit-time": 1602642465339,
             "heading": 2,
-            "string": "\ud83d\udc6f\u200d\u2640\ufe0f CRM",
+            "string": "{{\ud83d\udc6f\u200d\u2640\ufe0f CRM}}",
             "uid": "FiKKgbcyW"
           }
         ],
@@ -19027,5 +19035,72 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1602608035927,
     "title": "October 14th, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602642551500,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602642560478,
+            "string": "-\u00a0Categories:: #[[\u25b8roamcults CRM]] [*](((iSkpYft_4)))",
+            "uid": "NKqrqTgzE"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602642551501,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602642560441,
+            "string": "-\u00a0Website:: [*](((wc3Lpb-j-)))",
+            "uid": "qie6eZBfi"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602642551501,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602642560459,
+            "string": "-\u00a0Twitter:: [*](((_Wq_oeemn)))",
+            "uid": "cigiYcUDf"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602642551501,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602642560421,
+            "string": "-\u00a0Location:: [*](((4q4LsdKRx)))",
+            "uid": "huv7BM6TI"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602642551501,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602642560407,
+            "string": "-\u00a0How You Know Him/Her:: [*](((4F_aRrtVr)))",
+            "uid": "CAzTOUQ7T"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1602642551501,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1602642560387,
+            "string": "-\u00a0Related to:: [*](((ghyzm0VGE)))",
+            "uid": "2jviTrhm8"
+          }
+        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1602642472717,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1602642545276,
+        "string": "((FiKKgbcyW))",
+        "uid": "KLOqYKYQO"
+      }
+    ],
+    "create-email": "info@fat-garage.com",
+    "create-time": 1602642348229,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1602642348245,
+    "title": "visakanv"
   }
 ]
