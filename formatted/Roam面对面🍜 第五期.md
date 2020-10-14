@@ -13,7 +13,7 @@
         
 4. 带上你的疑问和好奇
     - 大纲
-        - Jimmy的分享 🤓  (以下待更新)
+        - Jimmy的分享 🤓  
             - roam/cn的成长
             - jimmy的daily routine
             - Roam Hacking 👾
@@ -41,29 +41,34 @@
     - 在roam里面怎样做任务管理
     - 单核工作法
         - 快捷清单
-            - 一次只做一件事情，每次做一个事情的时候，都把它放大。全局的全貌
+            - 一次只做一件事情，每次做一个事情的时候，都把它放大。全局的全貌。
+            - 每学一项东西，都是要推进一个项目。
         - 每一个整点
-    - 大脑为信息来源？？？不要面对一张白纸去开始一件事。
+    - How to take smart notes里说不要以大脑为信息来源--不要面对一张白纸去开始一件事🤔 （challenge）
     - 用打勾的方式：有完成的快感（我觉得是一个阶段性的结束，是真的结束，不然没有产出---因为任务没有真正的完成） -->阶段式的（所以看板会是工作流的好方式）
         - 不是要做更多的事情，而是减少资源的浪费
     - 问题：什么样的东西是zettle？？
-        - 写zettle文章没看过how to take smart notes，是三四手传播者；看过之后
+        - 写zettle文章没看过how to take smart notes，是三四手传播者；看过之后发现很多东西没提到
     - 写代码的时候尽量不用鼠标操作（像素点），用键盘的操作
-        - 代码是一种精确的思维（crystalized thoughts）--Conor
+        - 联系：代码是一种精确的思维（crystalized thoughts）-- Conor
     - 用roam/js进行编程的教学
         - 文本编程的概念
             - **变量**：所有引用过的地方都会变化
-                - 每天DN 模版，相同的变化可以抽象，抽象出来是一个
+                - 每天DN 模版，相同的变化可以抽象，抽象出来是一个模版
             - **计算器**：可以抽象成函数方法，进行block的组合操作。文本也可以进行组合操作
     - attributes 的使用潜力
         - b
-        - page是有属性的 [tag](tag.md) [attr-](attr-.md) block有个性，
-    - 整个页面都是一个个的对象，都可以互相引用、互相联系
+        - page是有属性的via [attr-](attr-.md) block有个性 via [tag](tag.md)
+    - 整个[pages](pages.md)都是一个个的对象，都可以互相引用、互相联系
     - 搜索引擎是一种新型的拍卖形式
-    - 每学一项东西，都是要推进一个项目。
-    - 新的观点要补充的时候
-- 问题：
-    - 你觉得在搜索上，就是workflow上面形成了一套系统
+    - 新的观点要补充的时候，所有地方同时变化
+- 其他：
+    - zettel和Twitter的类比
+        - Twitter的repost和reply分别代表兄弟节点和子节点
+            - repost 即 邻近(parallel)概念--同一层级
+            - reply 即 子(indent block)概念--子集
+        - hashtag就是挖洞🕳️ 、挂钩子
+        - 每次发tweet都必须引用一条历史tweet，你就用上了zettelkasten
 
 # Backlinks
 ## [October 13th, 2020](October 13th, 2020.md)

@@ -1,6 +1,6 @@
 - #Jessie #TIL
     - [twitter graph](https://obrowne.eu/tweetGraphAbout.html)
-    - make a twitter-roam workflow
+    - make a twitter-roam workflow 
         - what's like and difference?
             - tweet--block--id
             - thread--page--attr
@@ -15,3 +15,5 @@
                     - https://twitter.com/visakanv/status/1316007507416948737
                 - digest it on discord channel(do the 1st interpretation)
                 - write down your own thinking in roam blocks #[[How to write a thread]] by dates
+        - other thoughts
+            - roam can be more diverse when it comes to collective efforts
