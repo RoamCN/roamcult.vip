@@ -19,6 +19,3 @@
             - roam can be more diverse when it comes to collective efforts
     - in roam ,can we do twitter?
         - [x] 发起一个活动，大家在RoamCN Daily notes里面随意记录，鼓励大家去引用他人的block和page，就像在Twitter里面引用、转发别人的tweets/thread一样
-
-#[多多](多多.md)
-    - 期待[JimmyLv](JimmyLv.md)的[Roam Research 极简教程](Roam Research 极简教程.md),roam用于匿名登陆分析中"原来 Roam 是支持匿名玩耍的，也就是所有人都能够来玩儿 [Roam Research 极简教程](Roam Research 极简教程.md)"黑色代码图是在哪里可以看到？直觉是roam可以是学编程的利器。

@@ -3,9 +3,6 @@
 - https://blog.jimmylv.info/
 
 # Backlinks
-## [October 14th, 2020](October 14th, 2020.md)
-- 期待[JimmyLv](JimmyLv.md)的
-
 ## [Roam Research 极简教程](Roam Research 极简教程.md)
 - 片头：音效、介绍（[JimmyLv](JimmyLv.md)）
 

@@ -11,11 +11,6 @@
 - 片尾：
 
 # Backlinks
-## [October 14th, 2020](October 14th, 2020.md)
-- 期待[JimmyLv](JimmyLv.md)的[Roam Research 极简教程](Roam Research 极简教程.md),
-
-- 期待[JimmyLv](JimmyLv.md)的[Roam Research 极简教程](Roam Research 极简教程.md),roam用于匿名登陆分析中"原来 Roam 是支持匿名玩耍的，也就是所有人都能够来玩儿 [Roam Research 极简教程](Roam Research 极简教程.md)"
-
 ## [September 17th, 2020](September 17th, 2020.md)
 - 原来 Roam 是支持匿名玩耍的，也就是所有人都能够来玩儿 [Roam Research 极简教程](Roam Research 极简教程.md)
 
