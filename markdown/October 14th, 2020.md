@@ -9,10 +9,9 @@
             - make a thread to gather others idea
             - make a zettle to create your own/or in your word
             - {{drawing}}
-            - Q:: parallel or not
         - what's the attention transaction like?
             - for example,[[How to write a thread]]
-                - collect others good threads on twitter
+                - collect good threads on twitter
                     - https://twitter.com/visakanv/status/1316007507416948737
-                - ask for other vioces on discord channel(optional)
-                - write down your own thinking in roam blocks continually #[[How to write a thread]]
+                - digest it on discord channel(do the 1st interpretation)
+                - write down your own thinking in roam blocks #[[How to write a thread]] by dates

@@ -5,7 +5,7 @@
 - **[- How You Know Him/Her](<../- How You Know Him/Her.md>):**
 
 ## [visakanv](<visakanv.md>)
-- **[- Location](<../- Location.md>):** [*](((4q4LsdKRx)))
+- Singapore
     - **[- How You Know Him/Her](<../- How You Know Him/Her.md>):**
 
 ## [™ templates](<™ templates.md>)

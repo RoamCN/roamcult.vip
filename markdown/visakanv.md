@@ -1,7 +1,10 @@
 - "{{👯‍♀️ CRM}}"
     - - Categories:: #[[▸roamcults CRM]] [*](((iSkpYft_4)))
     - - Website:: [*](((wc3Lpb-j-)))
+        - https://www.youtube.com/visakanv
     - - Twitter:: [*](((_Wq_oeemn)))
+        - https://twitter.com/visakanv
     - - Location:: [*](((4q4LsdKRx)))
+        - Singapore
     - - How You Know Him/Her:: [*](((4F_aRrtVr)))
-    - - Related to:: [*](((ghyzm0VGE)))
+    - - Related to:: [*](((ghyzm0VGE))) #[[- Twitter]]

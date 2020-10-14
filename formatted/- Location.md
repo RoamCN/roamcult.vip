@@ -5,7 +5,7 @@
 - **[- Location](- Location.md):**
 
 ## [visakanv](visakanv.md)
-- **[- Twitter](- Twitter.md):** [*](((_Wq_oeemn)))
+- https://twitter.com/visakanv
     - **[- Location](- Location.md):**
 
 ## [™ templates](™ templates.md)
