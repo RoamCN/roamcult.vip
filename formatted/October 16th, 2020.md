@@ -7,3 +7,7 @@
         
 #[多多](多多.md)改变星盘颜色，加上圆圈背景颜色，类似这张金属logo![07WHHJ.jpg](https://s1.ax1x.com/2020/10/16/07WHHJ.jpg)
     - 
+- [Jessie](Jessie.md) [TIL](TIL.md)
+    - [log](log.md)
+        - [Jessie's log](https://roamresearch.com/#/app/fat-garage/page/sJpNUrRLV)
+        - [Conor's log](https://roamresearch.com/#/app/help/page/VQwVYFxei)
