@@ -16,6 +16,11 @@
 ## [October 14th, 2020](October 14th, 2020.md)
 - {{[DONE](DONE.md)}
 
+## [October 15th, 2020](October 15th, 2020.md)
+- {{[DONE](DONE.md)}
+
+- {{[DONE](DONE.md)}
+
 ## [September 17th, 2020](September 17th, 2020.md)
 - {{[DONE](DONE.md)}
 
