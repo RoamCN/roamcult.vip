@@ -17,7 +17,7 @@
 - {{[DONE](DONE.md)}
 
 ## [October 15th, 2020](October 15th, 2020.md)
-- {{[DONE](DONE.md)}
+2. {{[DONE](DONE.md)}
 
 - {{[DONE](DONE.md)}
 

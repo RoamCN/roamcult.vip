@@ -28921,25 +28921,30 @@
             "create-email": "info@fat-garage.com",
             "create-time": 1602749566917,
             "edit-email": "info@fat-garage.com",
-            "edit-time": 1602781785311,
-            "string": "{{[[DONE]]}} #\u548c[[Almen\u9633\u7693]]\u8ba8\u8bbalogo\uff0c\u51b3\u5b9a\u52a0\u5165\u4e2d\u56fd\u5143\u7d20\u7684\u661f\u76d8\u628a\u624b![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIPv3ud68K8.png?alt=media&token=1c6f86aa-6036-4d50-9b5f-47afc216cfdd)",
+            "edit-time": 1602782813059,
+            "string": "{{[[DONE]]}} #[[Almen\u9633\u7693]]\u8ba8\u8bbalogo\uff0c\u51b3\u5b9a\u52a0\u5165\u4e2d\u56fd\u5143\u7d20\u7684\u661f\u76d8\u628a\u624b![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIPv3ud68K8.png?alt=media&token=1c6f86aa-6036-4d50-9b5f-47afc216cfdd)",
             "uid": "WGUzzKRBd"
           }
         ],
         "create-email": "info@fat-garage.com",
         "create-time": 1602729767251,
         "edit-email": "info@fat-garage.com",
-        "edit-time": 1602748450277,
+        "edit-time": 1602782978049,
+        "emojis": [
+          {
+            "emoji": {
+              "native": "\ud83c\udf0d"
+            },
+            "users": [
+              {
+                "email": "896569405@qq.com",
+                "time": 1602782696645
+              }
+            ]
+          }
+        ],
         "string": "#Jessie #TIL",
         "uid": "oDIuWCC0y"
-      },
-      {
-        "create-email": "jings9506@gmail.com",
-        "create-time": 1602755677287,
-        "edit-email": "jings9506@gmail.com",
-        "edit-time": 1602755677287,
-        "string": "",
-        "uid": "i4v6ZNMXV"
       },
       {
         "create-email": "info@fat-garage.com",
@@ -28999,6 +29004,10 @@
               {
                 "email": "info@fat-garage.com",
                 "time": 1602781697371
+              },
+              {
+                "email": "896569405@qq.com",
+                "time": 1602782051309
               }
             ]
           }
