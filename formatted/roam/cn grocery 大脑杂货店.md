@@ -34,7 +34,7 @@ Here are two ways for you to participate:
     [JimmyLv](<../JimmyLv.md>)
         [👾](https://roamresearch.com/#/app/Note-Tasking/page/I_Mcf1bwn)
         [✍️](https://roamresearch.com/#/app/Note-Tasking/page/vf_GUlwVk)
-    [小树](<../小树.md>)[苏维](<../苏维.md>)
+    [小树](<../小树.md>)[@苏维](<../@苏维.md>)
         [🐶  知识管理](https://roamresearch.com/#/app/wisedom/page/g0i58SPz-)
     笔记工具爱好者
         [🧠 🕸️ ](https://roamresearch.com/#/app/betatest/page/swYRI_E8Q)
