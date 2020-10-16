@@ -2197,8 +2197,8 @@
                 "create-email": "info@fat-garage.com",
                 "create-time": 1602082457708,
                 "edit-email": "info@fat-garage.com",
-                "edit-time": 1602492041110,
-                "string": "[The Almanack of Naval Ravikant \u5e74\u9274~\u4e66\u7c4d](https://roamresearch.com/#/app/Navalmanack/page/_H6kKQQPV)",
+                "edit-time": 1602835908546,
+                "string": "[The Almanack of Naval Ravikant \u5e74\u9274](https://roamresearch.com/#/app/Navalmanack/page/_H6kKQQPV)~\u4e66\u7c4d",
                 "uid": "lrMGerw4c"
               },
               {
@@ -2215,9 +2215,17 @@
                 "create-email": "info@fat-garage.com",
                 "create-time": 1602083467010,
                 "edit-email": "info@fat-garage.com",
-                "edit-time": 1602492052264,
-                "string": "[Anthem\u4e00\u4e2a\u4eba\u7684\u9882\u6b4c~\u4e66\u7c4d](https://roamresearch.com/#/app/PublicGraph/page/wM-faroLp)",
+                "edit-time": 1602835901170,
+                "string": "[Anthem\u4e00\u4e2a\u4eba\u7684\u9882\u6b4c](https://roamresearch.com/#/app/PublicGraph/page/wM-faroLp)~\u4e66\u7c4d",
                 "uid": "OsQbpJAED"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1602835847221,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1602835887003,
+                "string": "[It's time to build](https://roamresearch.com/#/app/help/page/_p243d3-T)~\u4e66\u7c4d",
+                "uid": "Gt09JketU"
               }
             ],
             "edit-email": "info@fat-garage.com",
@@ -29131,22 +29139,7 @@
     "title": "October 15th, 2020"
   },
   {
-    "create-email": "896569405@qq.com",
-    "create-time": 1602674062406,
-    "edit-email": "896569405@qq.com",
-    "edit-time": 1602674062407,
-    "title": "\u2206"
-  },
-  {
     "children": [
-      {
-        "create-email": "info@fat-garage.com",
-        "create-time": 1602781674240,
-        "edit-email": "info@fat-garage.com",
-        "edit-time": 1602781674240,
-        "string": " {{[[r/moved]]}}[*](((0R-WBWzvq)))",
-        "uid": "HuQd82Xg3"
-      },
       {
         "children": [
           {
@@ -29205,25 +29198,12 @@
             "uid": "FUpqKkGYC"
           }
         ],
-        "create-email": "896569405@qq.com",
-        "create-time": 1602783436433,
-        "edit-email": "896569405@qq.com",
-        "edit-time": 1602783451081,
-        "emojis": [
-          {
-            "emoji": {
-              "native": "\ud83d\udc4d"
-            },
-            "users": [
-              {
-                "email": "info@fat-garage.com",
-                "time": 1602785817133
-              }
-            ]
-          }
-        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1602781674240,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1602835773132,
         "string": "#[[\u591a\u591a]]",
-        "uid": "tgisAVBjN"
+        "uid": "HuQd82Xg3"
       },
       {
         "children": [
@@ -29351,21 +29331,14 @@
         "create-email": "896569405@qq.com",
         "create-time": 1602674047699,
         "edit-email": "info@fat-garage.com",
-        "edit-time": 1602781674266,
-        "string": " {{[[\u2206]]:5+2}}",
+        "edit-time": 1602835763657,
+        "string": "",
         "uid": "0R-WBWzvq"
       }
     ],
     "edit-email": "info@fat-garage.com",
     "edit-time": 1602781674230,
     "title": "October 19th, 2020"
-  },
-  {
-    "create-email": "info@fat-garage.com",
-    "create-time": 1602781674253,
-    "edit-email": "info@fat-garage.com",
-    "edit-time": 1602781674257,
-    "title": "r/moved"
   },
   {
     "create-email": "info@fat-garage.com",

@@ -22,9 +22,9 @@
 - {{[DONE](DONE.md)}
 
 ## [October 16th, 2020](October 16th, 2020.md)
-- "{{[DONE](DONE.md)}
+"{{[DONE](DONE.md)}
 
-- {{[DONE](DONE.md)}
+{{[DONE](DONE.md)}
 
 ## [September 17th, 2020](September 17th, 2020.md)
 - {{[DONE](DONE.md)}
