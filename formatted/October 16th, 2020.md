@@ -11,6 +11,8 @@
     - [log](log.md)
         - [Jessie's log](https://roamresearch.com/#/app/fat-garage/page/sJpNUrRLV)
         - [Conor's log](https://roamresearch.com/#/app/help/page/VQwVYFxei)
+    - [x] 注册[RoamCN官方Twitter](https://twitter.com/cn_roam)
+        - ![](../images/RTqJrH56RO.png?)
 - 
 - [@苏维](@苏维.md)
     - 苹果美区账号 ~ 用来下载中国区无法下载的软件/小火箭
