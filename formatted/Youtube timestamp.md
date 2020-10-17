@@ -2,6 +2,6 @@
 - 2:10 
 
 # Backlinks
-## [ℹ︎内容导航页](ℹ︎内容导航页.md)
-[Youtube timestamp](Youtube timestamp.md)
+## [⍡教程](⍡教程.md)
+- [Youtube timestamp](Youtube timestamp.md)
 

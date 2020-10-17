@@ -133,6 +133,6 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
             - [Resource](Resource.md):  [Tiago Forte](Tiago Forte.md) wrote an amazing [Article](Article.md) about masculine vs feminine energies  [Feminine Energy: What Productivity is Missing - Forte Labs](https://fortelabs.co/blog/feminine-energy-what-productivity-is-missing/)
 
 # Backlinks
-## [ℹ︎内容导航页](ℹ︎内容导航页.md)
-[Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ ](Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ .md)
+## [⍢活动](⍢活动.md)
+- [Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ ](Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ .md)
 
