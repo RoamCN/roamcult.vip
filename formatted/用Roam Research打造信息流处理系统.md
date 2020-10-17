@@ -47,6 +47,9 @@ r42KHA9ty
 - 最后，建议你根据以上的可以联动的软件，自主地规划信息流向，用Roam Research打造属于你自己的信息流处理系统。
 
 # Backlinks
+## [Roam面对面🍜 第六期](Roam面对面🍜 第六期.md)
+- "[用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)"
+
 ## [⍡教程](⍡教程.md)
 - [用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)
 
