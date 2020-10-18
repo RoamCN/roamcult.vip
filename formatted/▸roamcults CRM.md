@@ -9,6 +9,7 @@ Hello 新朋友，这里会收集一些钻研某一(一些)领域非常深入的
 [王树义](王树义.md)老师 ~ roam科普
 [JimmyLv](JimmyLv.md) ~ 卡片式js主题
 [Zack Fan](Zack Fan.md) ~ roam白皮书译者
+[Leo]([leodknuth](leodknuth.md)) ~ 印象笔记咨询师
 
 # Backlinks
 ## [October 12th, 2020](October 12th, 2020.md)
@@ -16,6 +17,10 @@ Hello 新朋友，这里会收集一些钻研某一(一些)领域非常深入的
 
 ## [Robert Haisfield](Robert Haisfield.md)
 - **[- Categories](- Categories.md):** #[▸roamcults CRM](▸roamcults CRM.md)
+
+## [leodknuth](leodknuth.md)
+
+#[▸roamcults CRM](▸roamcults CRM.md)
 
 ## [visakanv](visakanv.md)
 - **[- Categories](- Categories.md):** #[▸roamcults CRM](▸roamcults CRM.md)
