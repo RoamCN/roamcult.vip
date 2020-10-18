@@ -18345,6 +18345,22 @@
         "edit-time": 1602978618367,
         "string": "[[\u7528Roam Research\u6253\u9020\u4fe1\u606f\u6d41\u5904\u7406\u7cfb\u7edf]]#leodknuth",
         "uid": "jD2CK8nne"
+      },
+      {
+        "create-email": "leefuxiang@gmail.com",
+        "create-time": 1603034025342,
+        "edit-email": "896569405@qq.com",
+        "edit-time": 1603034887419,
+        "string": "[[Roam\u4e0eGoogle\u7684\u6574\u5408]]#leodknuth",
+        "uid": "arFf6erMp"
+      },
+      {
+        "create-email": "leefuxiang@gmail.com",
+        "create-time": 1603034058483,
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603034058483,
+        "string": "",
+        "uid": "wshP3HSlk"
       }
     ],
     "create-email": "info@fat-garage.com",
@@ -30165,5 +30181,97 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1602958842922,
     "title": "collective intelligence"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603034285779,
+            "string": "{{iframe:https://docs.google.com/presentation/d/1Puv-N4LD98Lv1zC_5YXV2gHlYe2JtbfD1Kv808rIJO0/preview}}",
+            "uid": "1MNDyt5W9"
+          },
+          {
+            "create-email": "leefuxiang@gmail.com",
+            "create-time": 1603034135842,
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603034135842,
+            "string": "\u8fd9\u662fExcel\u6d4b\u8bd5\u6587\u6863 {{iframe:https://docs.google.com/spreadsheets/d/1Pv_P1y5ChTJ7Ya1IB0LZp4ob1kgU-nYzIxxW2gOzG60/edit?usp=sharing}}",
+            "uid": "SNVch69qx"
+          },
+          {
+            "children": [
+              {
+                "create-email": "leefuxiang@gmail.com",
+                "create-time": 1603034145942,
+                "edit-email": "leefuxiang@gmail.com",
+                "edit-time": 1603034145942,
+                "string": "{{iframe:https://docs.google.com/document/d/1ddssjBtAPp_s3Xu8B0yVBhdJ2Dh07ntuek9Vr-PUi3A/edit?usp=sharing}}",
+                "uid": "D6IdkDcxe"
+              }
+            ],
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603034135872,
+            "string": "\u8fd9\u662fword\u6d4b\u8bd5\u6587\u6863",
+            "uid": "mi_vS1Gkm"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "leefuxiang@gmail.com",
+                "edit-time": 1603034150759,
+                "string": " {{iframe:https://drive.google.com/file/d/1k6-DXTon9wKula0oa5-8_bhGViAS2P_g/preview}}",
+                "uid": "9uLgsK011"
+              }
+            ],
+            "create-email": "leefuxiang@gmail.com",
+            "create-time": 1603034150737,
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603034150737,
+            "string": "\u8fd9\u662fPDF\u6d4b\u8bd5\u6587\u6863",
+            "uid": "6YaJ9IxM4"
+          }
+        ],
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603034100861,
+        "string": "\u8fd9\u662fSlide\u6d4b\u8bd5\u6587\u6863",
+        "uid": "rmq2r52Z3"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603034177482,
+        "string": "\u7279\u522b\u6ce8\u610f: Drive\u91cc\u7684PDF\u751f\u6210\u7684\u8fde\u63a5,\u9700\u8981\u628a\u94fe\u63a5\u6700\u540e\u7684 \"/view?usp=sharing\" \u6539\u6210 \"/preview\". \u5426\u5219\u4f1a\u51fa\u73b0\u8fde\u63a5\u9519\u8bef",
+        "uid": "zlwlYQ0j9"
+      },
+      {
+        "create-email": "896569405@qq.com",
+        "create-time": 1603034943979,
+        "edit-email": "896569405@qq.com",
+        "edit-time": 1603034982502,
+        "string": "#HowardLi\u5173\u4e8eiframe\uff0c\u6709\u4e00\u4e2a\u5751\u662f\u4e0d\u8981\u76f4\u63a5\u5728Daily Notes \u9996\u9875\u628a\u672a\u7ecf\u6d4b\u8bd5\u7684\u67d0\u7f51\u7ad9\u6216\u8d44\u6e90\u4f7f\u7528iframe\u3002\u56e0\u4e3a\u8981\u9047\u4e0a\u90a3\u4e9b\u4f1a\u81ea\u52a8\u8df3\u8f6c\u56de\u8d44\u6e90\u7f51\u7ad9\u7684\u94fe\u63a5\u5c31\u4f1a\u5f88\u70e6\u4eba\u3002\u8fd9\u4e2a\u5751\u6211\u521a\u8e29\u5b8c\u3002\u5efa\u8bae\u5148[[]]page\u540e\u5728page\u91cc\u6d4b\u8bd5\u4e00\u4e0biframe\u4f1a\u4e0d\u4f1a\u81ea\u52a8\u8df3\u8f6c\u3002\u5982\u94fe\u63a5\u8d44\u6e90\u81ea\u52a8\u8df3\u8f6c\u5c31\u628a\u76f8\u5173page\u5220\u4e86\u5c31\u597d\u3002",
+        "uid": "EQvBwRTZk"
+      },
+      {
+        "create-email": "896569405@qq.com",
+        "create-time": 1603035018168,
+        "edit-email": "896569405@qq.com",
+        "edit-time": 1603035018168,
+        "string": "",
+        "uid": "RRE-7ePgK"
+      }
+    ],
+    "create-email": "leefuxiang@gmail.com",
+    "create-time": 1603034058528,
+    "edit-email": "leefuxiang@gmail.com",
+    "edit-time": 1603034058540,
+    "title": "Roam\u4e0eGoogle\u7684\u6574\u5408"
+  },
+  {
+    "create-email": "896569405@qq.com",
+    "create-time": 1603034982505,
+    "edit-email": "896569405@qq.com",
+    "edit-time": 1603034982507,
+    "title": "HowardLi"
   }
 ]
