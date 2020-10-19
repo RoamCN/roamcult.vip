@@ -1,2 +1,2 @@
-- 
-- 
+- #Jessie #TIL
+- 读者让我解读书：[[Usefulness of the useless knowledge]] 可不可以形成一个collective intelligence 系列。大家都在Roam上解读自己解读的书、播客，然后输出到公众号。
