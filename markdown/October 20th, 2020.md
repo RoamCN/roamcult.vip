@@ -2,6 +2,7 @@
     - #attr-table #[[attr-table做词典]] 突然发现attr-table可以这样用，在阅读时制作自己的词典。把卡壳的生词标记成 words:: 生词: 解释（例如，words:: mechanics:技工），然后用`{{attr-table:[[words]]}} `就可以检索出对应情境下，你曾经不懂的生词了
     - #[[team collaboration]] 团队协作时，可以通过[[!多多]]艾特成员，然后成员看到之后，可以用[[~~!多多~~]]来证明自己已读 [[~~!多多~~]]🐒
     - [[!JimmyLv]]注册了视频号，更新链接吧bro!
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FPE7vcUhtWV.png?alt=media&token=625aa9f9-761d-4d0b-a755-73f469eb1afb)
     - #telegram 有订阅频道，看之后newsletter是否要在里面分发 [[!Batapha]]
     - {{[[TODO]]}} 每天发一条CN tweet [[October 21st, 2020]] start
         - https://twitter.com/JESSCATE93/status/1302485105940684800
