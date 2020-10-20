@@ -9,4 +9,4 @@
         - https://twitter.com/Jimmy_JingLv/status/1318373784173174785
 - #Alan [[roam剧本杀]]的idea #[[⍢活动]]
     - 联想:是否可以通过“片段输入”来窥见一本书?关键点输入(真的要打字啊，加上读出声应该更好);理解(把陌生的东西查出来，对应语境下理解);联想(试着窥见整本书，以及它和你读的上本书之间的联系
-    - 如果换个思路想 可以做成线索游戏 每一本书的一个片段作为拼图的一块 但他们都在书架上
+    - 如果换个思路想 可以做成线索游戏 每一本书的一个片段作为拼图的一块 但他们都在书架上![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F8edptq0dF7.png?alt=media&token=b9229679-ea60-431b-b0ec-9aea72554114)
