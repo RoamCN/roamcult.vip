@@ -16,5 +16,5 @@
 - 3 rules::
     1. Be f*cking nice
     2. Do not write in any page other than your own
-        1. All your notes will come up in the appropriate chapter's linked references if you follow the instructions above
+        - All your notes will come up in the appropriate chapter's linked references if you follow the instructions above
     3. Do not edit any other person's block other than your own

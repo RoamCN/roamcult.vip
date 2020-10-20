@@ -7,7 +7,7 @@
 ## Quick Start
     1. Add a [roam/js](roam/js.md) tag
     2. Add a child JavaScript code block to it with this code...
-        1. ```javascript
+        - ```javascript
 
 const CARD_MODE_VERSION = 'master'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
@@ -17,8 +17,9 @@ var s = document.createElement('script')
 	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)```
     3. Press the BIG RED button (also works with [roam42](https://github.com/roamhacker/roam42), so you can just put them together)
-    4. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
-        1. ![](https://raw.staticdn.net/JimmyLv/styled-roam/master/preview/git%20hash.png)
+    4. Select
+    5. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
+        - ![](https://raw.staticdn.net/JimmyLv/styled-roam/master/preview/git%20hash.png)
 
 ## Quick Review
     - Gingko 卡片式写作完整视频 Demo

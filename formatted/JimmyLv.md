@@ -16,7 +16,7 @@
 - [JimmyLv](JimmyLv.md)
 
 ## [roam/cn grocery 大脑杂货店](roam/cn grocery 大脑杂货店.md)
-[JimmyLv](JimmyLv.md)
+- [JimmyLv](JimmyLv.md)
 
 ## [▸roamcults CRM](▸roamcults CRM.md)
 [JimmyLv](JimmyLv.md)

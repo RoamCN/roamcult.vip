@@ -19,35 +19,35 @@ Here are two ways for you to participate:
 ^^*Please notice that once you unlock any of the page, it will be readable to the public as well. ^^Meaning you are unlocking for the public ;) Good job !  
 ## 在售中|On sale
 **已知口味 (pages with known taste😋 ) **
-    Zack
-        [👀 ](https://roamresearch.com/#/app/trade/page/oUCDWaP07)
-        [💰](https://roamresearch.com/#/app/trade/page/X427Qe7CR)
-    [Jessie](<../Jessie.md>)
-        [💰](https://roamresearch.com/#/app/fatgarage/page/nRX38BAna)
-        [👀](https://roamresearch.com/#/app/fatgarage/page/p0Xi2voI6)
-    H 
-        https://roamresearch.com/#/app/H_Public
-        https://roamresearch.com/#/app/H_Public/page/DQ4447F2d
-    王树义老师 {{🥢 天津相声}}
-        https://roamresearch.com/#/app/wsyroam/page/KXGuTiuqQ
-        https://roamresearch.com/#/app/wsyroam/page/-JHjpNCvs
-    [JimmyLv](<../JimmyLv.md>)
-        [👾](https://roamresearch.com/#/app/Note-Tasking/page/I_Mcf1bwn)
-        [✍️](https://roamresearch.com/#/app/Note-Tasking/page/vf_GUlwVk)
-    [小树](<../小树.md>)[@苏维](<../@苏维.md>)
-        [🐶  知识管理](https://roamresearch.com/#/app/wisedom/page/g0i58SPz-)
-    笔记工具爱好者
-        [🧠 🕸️ ](https://roamresearch.com/#/app/betatest/page/swYRI_E8Q)
+    - Zack
+        - [👀 ](https://roamresearch.com/#/app/trade/page/oUCDWaP07)
+        - [💰](https://roamresearch.com/#/app/trade/page/X427Qe7CR)
+    - [Jessie](<../Jessie.md>)
+        - [💰](https://roamresearch.com/#/app/fatgarage/page/nRX38BAna)
+        - [👀](https://roamresearch.com/#/app/fatgarage/page/p0Xi2voI6)
+    - H 
+        - https://roamresearch.com/#/app/H_Public
+        - https://roamresearch.com/#/app/H_Public/page/DQ4447F2d
+    - 王树义老师 {{🥢 天津相声}}
+        - https://roamresearch.com/#/app/wsyroam/page/KXGuTiuqQ
+        - https://roamresearch.com/#/app/wsyroam/page/-JHjpNCvs
+    - [JimmyLv](<../JimmyLv.md>)
+        - [👾](https://roamresearch.com/#/app/Note-Tasking/page/I_Mcf1bwn)
+        - [✍️](https://roamresearch.com/#/app/Note-Tasking/page/vf_GUlwVk)
+    - [小树](<../小树.md>)[@苏维](<../@苏维.md>)
+        - [🐶  知识管理](https://roamresearch.com/#/app/wisedom/page/g0i58SPz-)
+    - 笔记工具爱好者
+        - [🧠 🕸️ ](https://roamresearch.com/#/app/betatest/page/swYRI_E8Q)
 **盲盒口味 (blind box🤐 ) **
-    https://roamresearch.com/#/app/fatgarage/page/WAdwOLw9W
-    ^^公共编辑项目之「DeFi词典」^^：https://roamresearch.com/#/app/fat-garage/page/WNW64sXzM
+    - https://roamresearch.com/#/app/fatgarage/page/WAdwOLw9W
+    - ^^公共编辑项目之「DeFi词典」^^：https://roamresearch.com/#/app/fat-garage/page/WNW64sXzM
 
 ## 问题 [brainstorming](<../brainstorming.md>)
-    怎么让流程变得{{自动化}}，尽量减少人工干预
-    更不能把打赏的钱转化成{{credits}},对贡献者(graph contributor)的credits和打赏者的credits
-        e.g.无论Jessie贡献了2个pages还是打赏了30块,都可以获得30 points
-    打赏的钱放到一个{{pool}}里面,作为铸币(token)池子
-        我们铸roam/cn的NFT token. 
+    - 怎么让流程变得{{自动化}}，尽量减少人工干预
+    - 更不能把打赏的钱转化成{{credits}},对贡献者(graph contributor)的credits和打赏者的credits
+        - e.g.无论Jessie贡献了2个pages还是打赏了30块,都可以获得30 points
+    - 打赏的钱放到一个{{pool}}里面,作为铸币(token)池子
+        - 我们铸roam/cn的NFT token. 
 
 # Backlinks
 ## [September 15th, 2020](<September 15th, 2020.md>)
