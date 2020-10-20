@@ -1,4 +1,11 @@
 - #Jessie #TIL
     - #attr-table #[[attr-table做词典]] 突然发现attr-table可以这样用，在阅读时制作自己的词典。把卡壳的生词标记成 words:: 生词: 解释（例如，words:: mechanics:技工），然后用`{{attr-table:[[words]]}} `就可以检索出对应情境下，你曾经不懂的生词了
     - #[[team collaboration]] 团队协作时，可以通过[[!多多]]艾特成员，然后成员看到之后，可以用[[~~!多多~~]]来证明自己已读 [[~~!多多~~]]🐒
-    - 
+    - [[!JimmyLv]]注册了视频号，更新链接吧bro!
+    - #telegram 有订阅频道，看之后newsletter是否要在里面分发 [[!Batapha]]
+    - {{[[TODO]]}} 每天发一条CN tweet [[October 21st, 2020]] start
+        - https://twitter.com/JESSCATE93/status/1302485105940684800
+        - https://twitter.com/Jimmy_JingLv/status/1318373784173174785
+- #Alan [[roam剧本杀]]的idea #[[⍢活动]]
+    - 联想:是否可以通过“片段输入”来窥见一本书?关键点输入(真的要打字啊，加上读出声应该更好);理解(把陌生的东西查出来，对应语境下理解);联想(试着窥见整本书，以及它和你读的上本书之间的联系
+    - 如果换个思路想 可以做成线索游戏 每一本书的一个片段作为拼图的一块 但他们都在书架上
