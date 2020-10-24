@@ -35,7 +35,7 @@ Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、�
 
 - 🐦 Twitter 地址：https://twitter.com/cn_roam
 - 🎬 B 站地址：https://space.bilibili.com/599106362
-- 🕸Roam 中文站公共图谱（Public Graph)：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
+- 🕸 Roam 中文站公共图谱（Public Graph)：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
 - 🤗 Discord 永久地址：[https://discord.gg/stMehBs](https://t.co/Pes3bGfqEi?amp=1 "https://discord.gg/stMehBs")
 - ⭕️ 微信圈子：直接微信「搜一搜」里面搜「Roam中文社区」
 - 🎧 喜马拉雅：[http://xima.tv/7hMJvm?_sonic=0](https://t.co/RnJVvHHV2C?amp=1 "http://xima.tv/7hMJvm?_sonic=0")
