@@ -1,4 +1,4 @@
-- #Jessie #TIL 
+- #@Jessie #TIL 
     - #[[roam/cn grocery 大脑杂货店]] 交易环节可用「打赏+悄悄话」直接代替
     - 受到defi试卷的idea的启发，联想是可以结合#[[∆ Delta]]（anki）的思想，用roam进行重复的复习&记忆，那不就可以结合#[[ℹ︎DeFi 词典]]，给每个词条一个reception rate，每天都在daily note里面出现一个提醒你复习
         - Inspired by the IDEA of the defi paper, the association is that you can combine the idea of ∆ Delta (anki) with roam for repetition & memory.

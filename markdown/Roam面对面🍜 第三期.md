@@ -15,7 +15,7 @@
         - 4.Roam对您来说意味着什么？带来最大的变化是什么？
         - 5.希望王老师分享一个自己的page[[]]供roam/cn收录🤩
 - # 演示&笔记: 
-    - 负责：#Jessie
+    - 负责：#@Jessie
     - 提升学术论文写作的效率
         - 存储文献➡️ 检索➡️ 做笔记➡️  放到第二大脑(RR)
         - 使用方法
@@ -136,9 +136,9 @@
         - [如何交互可视化 Roam Research 局部笔记网络？](https://mp.weixin.qq.com/s/nxJmVcZcm6iptfdhuUUprg)
         - [Conor的访谈](https://www.youtube.com/watch?v=Hw2kJF_kxjE&feature=emb_logo)
 - # 宣传(hover me){{comment-button}}
-    - 负责成员：#Jessie
+    - 负责成员：#@Jessie
 - # 总结与Next Step
-    - #Jessie #Victor
+    - #@Jessie #Victor
     - Jessie：总体录制过程很棒，中间杰西出现麦的杂音。
 
 可以考虑将内容延伸成播客，参考一下RoamFM

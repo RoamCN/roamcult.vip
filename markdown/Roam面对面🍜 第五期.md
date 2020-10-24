@@ -22,7 +22,7 @@
                     - roam文本编程
                 - 对roam的期待，最希望未来有哪方面的改进/创新？
                 - 对RoamCN的期待，希望我们（一起）玩出什么花样？
-                    - #Jessie 多做一些collective intelligence的尝试
+                    - #@Jessie 多做一些collective intelligence的尝试
             - Jessie想讨论的话题：programming languages；pub graph for collective intelligence
                 - https://twitter.com/Conaw/status/1206036267185500161
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FazyMb-fD6y.png?alt=media&token=a4f2007e-d2f9-444c-8c05-0cd4425fffb8)
@@ -30,7 +30,7 @@
                 - https://twitter.com/JESSCATE93/status/1314936931793412096
                     - "[[⍢活动]]--> 可自由发起多人**协作项目** | __(社区成员自由编辑)__"
 - # 演示&笔记
-    - 负责：#[[多多]] #Jessie
+    - 负责：#[[多多]] #@Jessie
     - 卡片盒模版的最佳使用场景
     - 在roam里面怎样做任务管理
     - 单核工作法
@@ -51,9 +51,8 @@
                 - 每天DN 模版，相同的变化可以抽象，抽象出来是一个模版
             - **计算器**：可以抽象成函数方法，进行block的组合操作。文本也可以进行组合操作
     - attributes 的使用潜力
-        - b
         - page是有属性的via #attr- block有个性 via #tag
-    - 整个[[pages]]都是一个个的对象，都可以互相引用、互相联系
+    - 每个[[pages]]都是一个个的对象，都可以互相引用、互相联系
     - 搜索引擎是一种新型的拍卖形式
     - 新的观点要补充的时候，所有地方同时变化
 - 其他：

@@ -36,26 +36,8 @@
         - 你最想用RR来做什么？
 
 # 演示&笔记: 
-    - 负责：#[多多](多多.md) [Jessie](Jessie.md)
-    - 提升学术论文写作的效率
-        - 存储文献➡️ 检索➡️ 做笔记➡️  放到第二大脑(RR)
-        - 使用方法
-            - 借助文献管理工具[zotero](zotero.md)，打开一片或多篇文献
-            - 右键export to Roam，导成机器友好型语言JSON
-            - 打开Roam选择导入(import)
-                - ![](../images/ICJeQ2tnjf.png?)
-            - Preview功能
-                - ![](../images/-Mtc4QL3fW.png?)
-        - 导出
-            - Roam中常用的markdown格式导出成学术论文格式(e.g.word格式)
-            - reference：王老师提到的文章详细介绍[如何高效做文献回顾？（工具篇）](https://mp.weixin.qq.com/s/k-G0TzfnYbLA0dYXfDpMdg)
+    - 负责：#[多多](多多.md) #@Jessie
     - 结合卡片盒
-    - Daily notes的使用
-        - 私人信息非常多，一个block只谈一件事。但是一个daily note里面什么都有，包括查电表hhh😂  
-        - 喜欢Roam的一点是：不要结构化的写东西，拒绝每日填空哈哈！
-        - 猴哥：会用标签归类吗？
-        - 王老师：也是roaming的方式，一些和daily note不是一个维度的话题，比如[脚本优化](脚本优化.md)方面，我就通过开[[]]来记录它，需要补充内容的话我就点进去。
-        - ![](../images/jEwc22m0mL.png?)
     - page作为基本单位；block为基本单位
         - 搜索的目的强化
             - 内容本身
@@ -65,11 +47,6 @@
             - 特别喜欢写微博，Twitter 互通
                 - [the rip](https://the.rip/)
     - 卡片盒方法最早是用在图书管理上的
-    - 幻灯式视频的制作
-        - 在Roam里直接写（大纲结构，分级标题）
-        - 导出markdown，[pandoc](pandoc.md)格式转换工具生成[review js](review js.md)
-        - ![](../images/YmbFrJCMhK.png?)
-        - ![](../images/SgBTnD7Ll-.png?)
     - 优秀的写作工具的特点-roam的优势
         - 帮助思考的
         - 工具本身隐含了使用范式
@@ -77,18 +54,6 @@
         - 用双向链接比较克制
             - 一般人：看到术语就[[]]
             - H：有太多空的页面会有压力（强迫症）
-    - 隐藏技巧
-        - 没有，有就通过视频分享了🍺
-    - 交互可视化
-        - graph不是线性的东西，是一张网。没有所谓的开头结尾。但是你要找一个切入点（你的目标），然后看与它紧密相连的内容，这就是我讲的“中观”。把它们摘出来在进行检索、可视化。
-        - 猴哥：拉出来一条线？
-        - 王老师：不是线，是一个子网。
-        - ![](../images/DeuzUsgNK3.png?)
-        - [obsidian](obsidian.md)的可视化
-        - python里面进行网络分析的包--[networkX](networkX.md)
-            - [社区发现(community detection)](社区发现(community detection).md)：这个算法是把联系更紧密的人分堆儿
-            - 之前想把印象笔记生成可视化的图，然后我有读者来告诉我：有个工具已经可以做到了，就是RR。所以，分享可以给你带来意想不到的链接。
-                - 看到网络布局的关系，利用[Evernote](Evernote.md)便于采集，产生联系的特点
     
 ## 工作流（^^白板重点^^）
     - 尽量降低维护的成本
@@ -236,10 +201,11 @@
     - 负责成员：#[小树](小树.md) 
 
 # 宣传(hover me){{comment-button}}
-    - 负责成员：[Jessie](Jessie.md)
+    - 负责成员：#@Jessie
 
 # 总结与Next Step
-    - [Jessie](Jessie.md) [Victor](Victor.md)
+    
+#@Jessie [Victor](Victor.md)
 
 
 # Backlinks

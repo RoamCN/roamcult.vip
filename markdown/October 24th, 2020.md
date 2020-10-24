@@ -1,0 +1,6 @@
+- [[kunpeng9.serious]] =到底哪个是[[公共]]的graph？我是不是发错了地方？
+    - https://web.uvw.org.cn/circle/s51A4n5/post/BAoXOW
+    - [[微信]]群、微信圈子，记录的是下面这个网址；https://roamresearch.com/#/app/RoamCN
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FGYX7KCpKJT.png?alt=media&token=0754d455-268e-4e09-8d57-0af9b1b8fe82)
+    - 粉丝网站上记录的是下面这个 https://roamresearchfan.com/
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIIRHgUY0Fd.png?alt=media&token=3192d97c-0d25-4b83-a6a0-c005757dd902)

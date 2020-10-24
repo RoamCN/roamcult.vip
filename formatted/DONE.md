@@ -26,6 +26,9 @@
 
 - {{[DONE](DONE.md)}
 
+## [October 20th, 2020](October 20th, 2020.md)
+- {{[DONE](DONE.md)}
+
 ## [September 17th, 2020](September 17th, 2020.md)
 - {{[DONE](DONE.md)}
 

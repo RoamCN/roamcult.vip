@@ -22,7 +22,7 @@ Here are two ways for you to participate:
     - Zack
         - [👀 ](https://roamresearch.com/#/app/trade/page/oUCDWaP07)
         - [💰](https://roamresearch.com/#/app/trade/page/X427Qe7CR)
-    - [[Jessie]]
+    - [[@Jessie]]
         - [💰](https://roamresearch.com/#/app/fatgarage/page/nRX38BAna)
         - [👀](https://roamresearch.com/#/app/fatgarage/page/p0Xi2voI6)
     - H 

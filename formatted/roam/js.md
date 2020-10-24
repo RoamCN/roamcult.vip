@@ -65,3 +65,8 @@ document.getElementsByTagName('head')[0].appendChild(s)```
 ## [roam/js/image-tagging](<roam/js/image-tagging.md>)
 - {{[roam/js](<../roam/js.md>)}
 
+## [用roam/js创建和使用模版](<用roam/js创建和使用模版.md>)
+- From any page in Roam, create a page titled roam/js by typing [roam/js](<../roam/js.md>).
+
+- Click the link so you’re on the roam/js page. There, enable JavaScript by typing {{[roam/js](<../roam/js.md>)}
+

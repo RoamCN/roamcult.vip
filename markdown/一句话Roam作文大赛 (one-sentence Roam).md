@@ -30,7 +30,7 @@ Please don't edit other person's block other than your own.
     - Roam was the gateway drug to making these connections happen and developing pathways towards that dream #[[Brian Toh]]
     - Roam is the place that can make **chaotic collaboration** working #Alex
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FgI3MbRMLzs.png?alt=media&token=891ab066-0d97-41bf-9396-31d8597dd756)
-    - Roam is your **knowledge map** that you can zoom in and zoom out. #Jessie
+    - Roam is your **knowledge map** that you can zoom in and zoom out. #@Jessie
     - In more ways than one, Roam is like programming. One of those ways is that just like you need intuition for a programming language before becoming excited about it (or not), you need intuition for Roam before knowing whether or not it’s for you.#[[Avery Bedows]]
         - https://twitter.com/averybedows/status/1290041680389984261
     - What[@RoamResearch](https://twitter.com/RoamResearch) is aiming to be: **The House of Wisdom.**
@@ -58,7 +58,7 @@ Its overriding function, however was the safeguarding of invaluable knowledge." 
     - Roam elevates my knowledge to chess level #[[Andre Martins]]
         - https://twitter.com/fio_condutor/status/1291678008303116288
     - Roam has no cognition friction. #[[adam keesling]]
-    - Roam follows the chaotic of the brain, it doesn't set any rules ahead or intend to. Roam is built for how you think, not how you work. The most Creative comes from cognitive thinking, in other words, roam thinking.#Jessie
+    - Roam follows the chaotic of the brain, it doesn't set any rules ahead or intend to. Roam is built for how you think, not how you work. The most Creative comes from cognitive thinking, in other words, roam thinking.#@Jessie
     - Ideas are like lego blocks.
 
 Consuming information is like collecting lego blocks and when you create, you put those lego blocks together. 
@@ -114,13 +114,13 @@ So feature planning is actually primitive design & would require technical train
     - 如果你想把脑袋里涓涓细流的信息穿成线,结成网,Roam Research可能是你能找到的最合适的工具. #leodknuth
     - Roam应该是一个让知识发生化学反应的地方，是一个十字路口 #jocelyn
     - 我很难想像Roam在未来的一段时间会给我带来什么，因为它现在已经对我的人生起到了重要的转折作用。#Max
-    - Roam让你感觉到你的**关注点**很重要，真的很有意义，不是瞎忙瞎搞。也许现在它们之间的联系还不是很明显，但将来会有迹可循的。#Jessie
+    - Roam让你感觉到你的**关注点**很重要，真的很有意义，不是瞎忙瞎搞。也许现在它们之间的联系还不是很明显，但将来会有迹可循的。#@Jessie
     - 使用双向链接最好的时机是上都计划（Project Xanadu），其次是 Roam Research。#JimmyLv
     - Roam 一定程度上让 Writing 变成了 Coding，让每个人都可以尽情享受创作的乐趣。 #JimmyLv
     - 在文本写作时 Roam 还支持双向链接和引用（Reference），从而实现一处修改，处处更新。其实用程序员所熟悉的编程术语来说的话，这就是重构（Refactoring）。 #JimmyLv
     - 我每天都在河边 [[Daily Note]] 玩耍，看着河里的水 [[Information]] 哗啦啦的流。很开心每天都会有新发现 [[📝 Zettel]]，然后带回自己的花园 [[Digital Garden]]。#JimmyLv
     - Roam 其实是伪装成生产力工具的正念系统 #JimmyLv
     - Roam适合反向gtd #idelem
-    - Roam给了我自由思考的空间，就像一个没有边界的游乐场，你不用担心什么，去玩去输入去探索就好了 #Jessie
+    - Roam给了我自由思考的空间，就像一个没有边界的游乐场，你不用担心什么，去玩去输入去探索就好了 #@Jessie
     - Roam是Minecraft，我可以用block构建起我想象中的世界，无论是一篇论文，一本小说还是一套GTD系统，Roam给了我无限自由。#Innis
     - 

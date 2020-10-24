@@ -1,4 +1,4 @@
-- #Jessie #TIL talk with [[JimmyLv]]
+- #@Jessie #TIL talk with [[JimmyLv]]
     - 打造[[roamcn 42]] 
         - 模块
             - 1)graph course(like 42)

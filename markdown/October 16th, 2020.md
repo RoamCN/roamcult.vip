@@ -7,7 +7,7 @@
                 - 
             - 星盘标志缩小，突出文字RoamCN
     - 
-#Jessie #TIL
+#@Jessie #TIL
     - [[log]]
         - [Jessie's log](https://roamresearch.com/#/app/fat-garage/page/sJpNUrRLV)
         - [Conor's log](https://roamresearch.com/#/app/help/page/VQwVYFxei)
@@ -17,10 +17,4 @@
 [[@苏维]]
     - 苹果美区账号 ~ 用来下载中国区无法下载的软件/小火箭
         - [苹果帝 - Appledi.com | 苹果美区账号 APPLE ID 免费账号共享](https://appledi.com/)
-        - 官网
-            - https://appleid.apple.com/account/manage
         - [购买商品 - APP兑换码 专卖店](https://appdhm.com/)
-        - 
-            - l132u184@icloud.com
-            - Qingpu5458
-                - ![](https://i.loli.net/2020/10/16/f6qcgRsAhCm8QKV.png)

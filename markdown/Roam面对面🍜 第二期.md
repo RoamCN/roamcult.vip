@@ -17,7 +17,7 @@
             - 如何textblaze 实现自动化
             - Roam自问自答复习机制
 - # 演示&笔记
-    - 负责成员：#Jessie 
+    - 负责成员：#@Jessie 
     - 视频笔记：
         - #[[巧用icon]]：加在highlight内容的后面，提示自己不仅是重点而且有想法💡 
         - #[[巧用首字母]]：B：book A: article 方便区分和检索![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F7yX-iruFNw.png?alt=media&token=cf356740-defd-4a4e-a6cd-6ef68c4e6c6c)
@@ -39,10 +39,10 @@
 - # 剪辑与后期
     - 负责成员：#[[多酱]]
 - # 宣传(hover me){{comment-button}}
-    - 负责成员：#Jessie
+    - 负责成员：#@Jessie
     - 视频成果："[第2期：用Evergreen Notes实现思维聚合](https://www.bilibili.com/video/BV13A411e7m5/?spm_id_from=333.788.videocard.1)"
 - # 总结与Next Step
-    - #Jessie #Victor #[[兴龙]]
+    - #@Jessie #Victor #[[兴龙]]
     - Jessie：总体录制过程很棒，4个人交互效果不错。
 
 时间::控制在45分钟-1小时是不是好一些，前面30min讲，后面15min答疑

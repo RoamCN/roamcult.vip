@@ -18,5 +18,5 @@
         - 4.把对应原文复制粘贴在下方。
         - 5. 整本梳理完后，上多抓鱼把书卖了 （此处应有广告费）。
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FgH4ATI_erv.png?alt=media&token=e4ae18a7-421d-4b9e-a9fd-913505f7a545)
-    - 今天Conor发了一条推特 模糊对应了第二条#Jessie
+    - 今天Conor发了一条推特 模糊对应了第二条#@Jessie
     - regurgutate → mutate → evolve #H

@@ -1,0 +1,3 @@
+- #[[B-Net and the Butterfly]] 协作须知：
+    - 评论的小伙伴请以：#@Jessie 为开头，例如：
+- #Batapha 更新[[B-Net and the Butterfly]]到中文版前言

@@ -22,7 +22,7 @@ Here are two ways for you to participate:
     - Zack
         - [👀 ](https://roamresearch.com/#/app/trade/page/oUCDWaP07)
         - [💰](https://roamresearch.com/#/app/trade/page/X427Qe7CR)
-    - [Jessie](<../Jessie.md>)
+    - [@Jessie](<../@Jessie.md>)
         - [💰](https://roamresearch.com/#/app/fatgarage/page/nRX38BAna)
         - [👀](https://roamresearch.com/#/app/fatgarage/page/p0Xi2voI6)
     - H 
@@ -51,7 +51,7 @@ Here are two ways for you to participate:
 
 # Backlinks
 ## [September 15th, 2020](<September 15th, 2020.md>)
-- [Jessie](<../Jessie.md>) [TIL](<../TIL.md>) [roam/cn grocery 大脑杂货店](<../roam/cn grocery 大脑杂货店.md>)
+- #@Jessie [TIL](<../TIL.md>) [roam/cn grocery 大脑杂货店](<../roam/cn grocery 大脑杂货店.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - #[roam/cn grocery 大脑杂货店](<../roam/cn grocery 大脑杂货店.md>)

@@ -23,5 +23,5 @@
         
 5. 整本梳理完后，上多抓鱼把书卖了 （此处应有广告费）。
     - ![](../images/gH4ATI_erv.png?)
-    - 今天Conor发了一条推特 模糊对应了第二条[Jessie](Jessie.md)
+    - 今天Conor发了一条推特 模糊对应了第二条#@Jessie
     - regurgutate → mutate → evolve [H](H.md)

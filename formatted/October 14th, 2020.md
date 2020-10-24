@@ -1,4 +1,5 @@
-- [Jessie](Jessie.md) [TIL](TIL.md)
+
+#@Jessie [TIL](TIL.md)
     - [twitter graph](https://obrowne.eu/tweetGraphAbout.html)
     - make a twitter-roam workflow 
         - what's like and difference?

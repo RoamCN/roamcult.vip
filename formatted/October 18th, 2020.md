@@ -1,4 +1,5 @@
-- [Jessie](Jessie.md) [TIL](TIL.md)
+
+#@Jessie [TIL](TIL.md)
     - 读者让我解读书：[Usefulness of the useless knowledge](Usefulness of the useless knowledge.md) 可不可以形成一个collective intelligence 系列。大家都在Roam上解读自己解读的书、播客，然后输出到公众号。
 
 # Backlinks

@@ -1,5 +1,5 @@
 
-# [roam/cn](roam/cn.md) 中文社区 ⛏🚀
+# [RoamCN](RoamCN.md) 中文社区 ⛏🚀
 - Roam Research 中文社区： https://roamresearchfan.com
 - 备用地址：https://jinglv.gitbook.io/roam-cn/
 - ![roam cn newsletter](https://jimmylv.github.io/images/2020/roam%20cn%20newsletter.jpg)
