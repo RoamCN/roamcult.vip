@@ -3,7 +3,7 @@
 - **[- Twitter](- Twitter.md):** [RobertHaisfield](https://twitter.com/RobertHaisfield)
 - **[- Location](- Location.md):** Denver
 - **[- How You Know Him/Her](- How You Know Him/Her.md):** via twitter
-- **[- Related to](- Related to.md):** [Query](Query.md) [Journaling](Journaling.md)
+- **[- Related to](- Related to.md):** [query](query.md) [Journaling](Journaling.md)
 
 # Backlinks
 ## [▸roamcults CRM](▸roamcults CRM.md)

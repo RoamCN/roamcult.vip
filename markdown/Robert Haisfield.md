@@ -3,4 +3,4 @@
 - - Twitter:: [RobertHaisfield](https://twitter.com/RobertHaisfield)
 - - Location:: Denver
 - - How You Know Him/Her:: via twitter
-- - Related to:: #Query #Journaling
+- - Related to:: #query #Journaling

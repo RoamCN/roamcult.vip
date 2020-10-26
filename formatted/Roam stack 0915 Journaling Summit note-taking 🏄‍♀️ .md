@@ -70,11 +70,11 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
         - Journaling 要发挥作用，一定需要有一个 Review 的系统或 Routine；好像[Tim Ferriss](Tim Ferriss.md) 所做的
         - [Atomic Journaling](Atomic Journaling.md) 对我而言，适用的部分是轻量和灵活，至少在当下，我还是更倾向于像[Ramses Oudt](Ramses Oudt.md) 那样用固定的问题，而不是像[Brandon Toner](Brandon Toner.md) 那样需要经常更换问题。 
     - 嘉宾分享
-        - Tracy Winchell
+        - [Tracy Winchell](Tracy Winchell.md)
             - [Why Journaling](Why Journaling.md) 帮助戒除物质滥用
                 - 7 年日记经历；从感恩日记开始；30 天还没有结束，同事已经发现了她的变化，因为她不再以抱怨开始一天。后来，她开始辅导别人用日记的方式来戒除物质滥用(recovery)；
             - [Best Practice](Best Practice.md): 她在 2020 年 1 月开始接触 Roam；在[Using Roam to Crush Self-Doubt](https://rebootspodcast.podia.com/members/posts/32616-using-roam-to-crush-self-doubt) 一文中，她介绍了一个日记方法：给明天的自己写便条。[Exercise 练习](Exercise 练习.md)
-        - Matt Brockwell
+        - [Matt Brockwell](Matt Brockwell.md)
             - 来自湾区的心理咨询师和治疗师。2020 年 1 月开始使用 Roam。
             - [Why Journaling](Why Journaling.md)：帮助自己发现和讲述个人故事
             - [Best Practice](Best Practice.md): 关注日常的细微，而不是大事，从中获得洞察  #[Good Questions](Good Questions.md)
