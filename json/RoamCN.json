@@ -45520,6 +45520,74 @@
       {
         "children": [
           {
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702172325,
+            "string": "/* chrome\u6d4f\u89c8\u5668 4240.111 \u7248\u672c\u4e0a \u51fa\u73b0\u4e86 auto\u7684\u517c\u5bb9\u6027\u95ee\u9898 \u5bfc\u81f4allpage\u957f\u5ea6\u663e\u793a\u4e0d\u5168 */",
+            "uid": "-M8SOlbPY"
+          },
+          {
+            "children": [
+              {
+                "create-email": "89780998@qq.com",
+                "create-time": 1603702146601,
+                "edit-email": "89780998@qq.com",
+                "edit-time": 1603702146609,
+                "string": "max-height: calc(100%);",
+                "uid": "ZgKB3Ltgx"
+              },
+              {
+                "create-email": "89780998@qq.com",
+                "create-time": 1603702146601,
+                "edit-email": "89780998@qq.com",
+                "edit-time": 1603702146609,
+                "string": "overflow-y: auto;",
+                "uid": "6l5Ous_xp"
+              }
+            ],
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": "#all-pages-search {",
+            "uid": "5xL7Xuvj5"
+          },
+          {
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": "}",
+            "uid": "fK1XzLGLI"
+          },
+          {
+            "children": [
+              {
+                "create-email": "89780998@qq.com",
+                "create-time": 1603702146601,
+                "edit-email": "89780998@qq.com",
+                "edit-time": 1603702146609,
+                "string": "height:inherit !important;",
+                "uid": "Si3DC3yeD"
+              }
+            ],
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": ".roam-article, #all-pages-search, .sidebar-content > *{",
+            "uid": "PtcOGAcwy"
+          },
+          {
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": "}",
+            "uid": "PD6S8XGGt"
+          },
+          {
             "children": [
               {
                 "create-email": "jings9506@gmail.com",
@@ -45600,8 +45668,8 @@
         ],
         "create-email": "jings9506@gmail.com",
         "create-time": 1603688596756,
-        "edit-email": "jings9506@gmail.com",
-        "edit-time": 1603697882638,
+        "edit-email": "89780998@qq.com",
+        "edit-time": 1603702106768,
         "string": "[[\u5e16\u5b50]] ~ @\u7801\u5ba2: allPage\u663e\u793a\u4e0d\u5168\u7684\u89e3\u51b3\u65b9\u6848",
         "uid": "NwuQOziu0"
       }

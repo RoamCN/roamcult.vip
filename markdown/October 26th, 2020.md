@@ -1,5 +1,13 @@
 - 
 - [[帖子]] ~ @码客: allPage显示不全的解决方案
+    /* chrome浏览器 4240.111 版本上 出现了 auto的兼容性问题 导致allpage长度显示不全 */
+    #all-pages-search {
+        - max-height: calc(100%);
+        - overflow-y: auto;
+    }
+    .roam-article, #all-pages-search, .sidebar-content > *{
+        - height:inherit !important;
+    }
     ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FEx4TjokPlp.png?alt=media&token=018bcd20-ce30-455f-8200-0c94bc0d3abb)
         - /* chrome浏览器 4240.111 版本上 出现了 auto的兼容性问题 */
         - #all-pages-search {
