@@ -1,1 +1,10 @@
-- 
+
+#@Jessie 
+    - 回复[Martin](Martin.md)的邮件
+    - Yes i guess it is still necessary to rework of western content to fit the Chinese market. Due to the language barrier and maybe cultural difference stuff, not many people can really access to the high-quality tutorials from creators like Nat Eliason,Andy Henson,etc (e.g.those who can access to Nat eliason's courses said it's super helpful) ,but they actually desire to.
+    - And the diversity of content and different way of thinking is also an value-add ,so the knowledge in the package is never enough i guess;)
+    - Besides,i think Roam needs a serial of progressive courses(i thought about this for a while),like people in their beginning just treat it as a very simple"notebook" with indenting structure,they dump some ideas/notes/daily stuff in the daily note and just do very simple journaling with no need of other features. So YEAH onboarding 1st.
+    - After they do the writing for some time,they start to have the 'DEMAND' to be educated. They want to know 'how i can set daily routine' 'how can i quote blocks' 'maybe i can use it for project management,for CRM building,for research etc'.
+    - In the collaboration scenario is also interesting,people see what others doing and want to keep up with the cult/geeky stuff. They asked 'how can i add css/js''wow we can find the thoughts in common (by using attr-table or query) ' etc. And surprisingly,some then develop more geeky stuff based on the collective intelligence and shared with the community. The process begins to repete itself.
+    - So what m trying to say is that there are certain demands once users are onboarded,i m also trying to stand in people's shoes to know different demands. i quite like the way that @RobertHaisfield and @roamFM have done,they invite power users to share use cases while people are learning along the way.
+    - Sorry to say so much🤣 , that's what i observed so far. Hope it helps in some way ;)

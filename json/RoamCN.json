@@ -30269,6 +30269,32 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "jings9506@gmail.com",
+            "create-time": 1603697920503,
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1603697920503,
+            "string": "",
+            "uid": "AJflkIZiw"
+          }
+        ],
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1603697890457,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1603697951567,
+        "string": "\u7f6e\u9876: \u79d1\u5b66\u4e0a\u7f51",
+        "uid": "eZ9_L2GSm"
+      },
+      {
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1603697891500,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1603697891500,
+        "string": "",
+        "uid": "GPKx3o19r"
+      },
+      {
         "create-email": "jings9506@gmail.com",
         "create-time": 1602929332842,
         "edit-email": "jings9506@gmail.com",
@@ -45417,12 +45443,64 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1603688006065,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688197593,
+            "string": "\u56de\u590d[[Martin]]\u7684\u90ae\u4ef6",
+            "uid": "B3r-7Kieh"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032731,
+            "string": "Yes i guess it is still\u00a0necessary to\u00a0rework of western content to fit the Chinese market. Due to the language barrier and maybe cultural difference stuff, not many people can really access to the high-quality tutorials from creators like\u00a0Nat Eliason,Andy Henson,etc (e.g.those who can access to Nat eliason's courses said it's super helpful) ,but they actually desire to.",
+            "uid": "mUar2MXm1"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032730,
+            "string": "And the diversity of content and different way of thinking is also an value-add ,so the knowledge in the package is never enough i guess;)",
+            "uid": "tWpaZmCXY"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032730,
+            "string": "Besides,i think Roam needs a serial of progressive courses(i thought about this for a while),like people in their beginning just treat it as a very simple\"notebook\" with indenting structure,they dump some ideas/notes/daily stuff in the daily note and just do very simple journaling with no need of other features. So YEAH onboarding 1st.",
+            "uid": "fqAVfTiG5"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032730,
+            "string": "After they do the writing for some time,they start to have the 'DEMAND' to be educated. They want to know 'how i can set daily routine' 'how can i quote blocks' 'maybe i can use it for project management,for CRM building,for research etc'.",
+            "uid": "HzCuSCvAw"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032730,
+            "string": "In the collaboration\u00a0scenario\u00a0is also interesting,people see what others doing and want to keep up with the cult/geeky stuff. They asked 'how can i add css/js''wow we can find the thoughts in common (by using attr-table or query) ' etc. And surprisingly,some then develop more geeky stuff based on the collective intelligence and shared with the community. The process begins to repete itself.",
+            "uid": "zDwSGsutC"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032730,
+            "string": "So what m trying to say is that there are certain demands once users are onboarded,i m also trying to stand in people's shoes to know different demands. i quite like the way that @RobertHaisfield\u00a0and @roamFM\u00a0have done,they invite power users to share use cases while people are learning along the way.",
+            "uid": "0bWt3Yeps"
+          },
+          {
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603688032730,
+            "string": "Sorry to say so much\ud83e\udd23 , that's what i observed so far. Hope it helps in some way ;)",
+            "uid": "xHV22AEXx"
+          }
+        ],
         "create-email": "info@fat-garage.com",
-        "create-time": 1603688006065,
+        "create-time": 1603688014003,
         "edit-email": "info@fat-garage.com",
-        "edit-time": 1603688006065,
-        "string": "",
-        "uid": "B3r-7Kieh"
+        "edit-time": 1603688022799,
+        "string": "#@Jessie ",
+        "uid": "8J3g_hvdv"
       }
     ],
     "edit-email": "gtdmao@gmail.com",
@@ -45431,6 +45509,14 @@
   },
   {
     "children": [
+      {
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1603697876880,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1603697876880,
+        "string": "",
+        "uid": "oTAYYI9VV"
+      },
       {
         "children": [
           {
@@ -45515,7 +45601,7 @@
         "create-email": "jings9506@gmail.com",
         "create-time": 1603688596756,
         "edit-email": "jings9506@gmail.com",
-        "edit-time": 1603688737447,
+        "edit-time": 1603697882638,
         "string": "[[\u5e16\u5b50]] ~ @\u7801\u5ba2: allPage\u663e\u793a\u4e0d\u5168\u7684\u89e3\u51b3\u65b9\u6848",
         "uid": "NwuQOziu0"
       }
@@ -45530,5 +45616,30 @@
     "edit-email": "jings9506@gmail.com",
     "edit-time": 1603688637898,
     "title": "all-pages-search"
+  },
+  {
+    "children": [
+      {
+        "create-email": "info@fat-garage.com",
+        "create-time": 1603688150169,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603688164633,
+        "string": "\u8bfe\u7a0b\u5236\u4f5c",
+        "uid": "Pk8A87ayO"
+      },
+      {
+        "create-email": "info@fat-garage.com",
+        "create-time": 1603688062005,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603688145807,
+        "string": "http://uptickedu.com/",
+        "uid": "wFRSFu1v2"
+      }
+    ],
+    "create-email": "info@fat-garage.com",
+    "create-time": 1603688045910,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1603688045913,
+    "title": "Martin"
   }
 ]
