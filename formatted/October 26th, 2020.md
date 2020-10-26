@@ -39,3 +39,4 @@
     .rm-pages-col-word-count > span:first-child, .rm-pages-col-word-count + div > span:first-child {
     display: none;
     }
+    [Batapha](Batapha.md) 增加[B-Net and the Butterfly](B-Net and the Butterfly.md)的中文版
