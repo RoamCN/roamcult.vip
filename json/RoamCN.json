@@ -18840,6 +18840,14 @@
         "edit-time": 1603013800327,
         "string": "[Leo]([[leodknuth]]) ~ \u4e2a\u4eba\u77e5\u8bc6\u7ba1\u7406\u8005\u3001Evernote\u5341\u5e74\u7528\u6237",
         "uid": "JywN42uzp"
+      },
+      {
+        "create-email": "info@fat-garage.com",
+        "create-time": 1603715450721,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603715502503,
+        "string": "[[Kyle Harrison]] ~ someone who really get collective intelligence",
+        "uid": "h-2jMaiOt"
       }
     ],
     "edit-email": "info@fat-garage.com",
@@ -45908,5 +45916,22 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1603709085789,
     "title": "\u533b\u7597"
+  },
+  {
+    "children": [
+      {
+        "create-email": "info@fat-garage.com",
+        "create-time": 1603715464175,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603715465554,
+        "string": "[Kyle Harrison](https://www.roambrain.com/author/kyleharrison/)",
+        "uid": "f2L9JqDhi"
+      }
+    ],
+    "create-email": "info@fat-garage.com",
+    "create-time": 1603715462110,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1603715472687,
+    "title": "Kyle Harrison"
   }
 ]

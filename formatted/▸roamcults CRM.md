@@ -10,6 +10,7 @@ Hello 新朋友，这里会收集一些钻研某一(一些)领域非常深入的
 [JimmyLv](JimmyLv.md) ~ 卡片式js主题
 [Zack Fan](Zack Fan.md) ~ roam白皮书译者
 [Leo]([leodknuth](leodknuth.md)) ~ 个人知识管理者、Evernote十年用户
+[Kyle Harrison](Kyle Harrison.md) ~ someone who really get collective intelligence
 
 # Backlinks
 ## [October 12th, 2020](October 12th, 2020.md)
