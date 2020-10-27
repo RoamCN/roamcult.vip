@@ -9,6 +9,9 @@
 ## [Roam Research 极简教程](Roam Research 极简教程.md)
 - 片头：音效、介绍（[JimmyLv](JimmyLv.md)）
 
+## [RoamCN grocery 大脑杂货店](RoamCN grocery 大脑杂货店.md)
+- [JimmyLv](JimmyLv.md)
+
 ## [Roam面对面🍜 第五期](Roam面对面🍜 第五期.md)
 - 嘉宾：我们 [JimmyLv](JimmyLv.md)（
 
@@ -17,9 +20,6 @@
 #@Jessie [TIL](TIL.md) talk with [JimmyLv](JimmyLv.md)
 
 ## [September 21st, 2020](September 21st, 2020.md)
-- [JimmyLv](JimmyLv.md)
-
-## [roam/cn grocery 大脑杂货店](roam/cn grocery 大脑杂货店.md)
 - [JimmyLv](JimmyLv.md)
 
 ## [▸roamcults CRM](▸roamcults CRM.md)

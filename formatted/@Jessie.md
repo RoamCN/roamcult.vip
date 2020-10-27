@@ -21,7 +21,7 @@
 ## [October 22nd, 2020](October 22nd, 2020.md)
 [@Jessie](@Jessie.md)
 
-## [roam/cn grocery 大脑杂货店](roam/cn grocery 大脑杂货店.md)
+## [RoamCN grocery 大脑杂货店](RoamCN grocery 大脑杂货店.md)
 - [@Jessie](@Jessie.md)
 
 ## [ℹ︎内容导航页](ℹ︎内容导航页.md)
