@@ -1,1 +1,5 @@
-- 
+- #@Jessie
+    - twitter生成周报`#RoamCN2020W44`带一句话总结
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FBKpJxQigDi.png?alt=media&token=1a8e02de-d2c6-465e-8016-dba981fcd149)
+    - discord消化，分发到各个主题`#channel`
+    - 精华内容可以沉淀到`graph`
