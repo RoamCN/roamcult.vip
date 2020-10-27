@@ -1,6 +1,34 @@
+- 
+- [[@苏维]]
+    - [[帖子]] ~ 图床解决方案
+        - 图床服务
+            - **阿里云 OSS ~ 40G/年/9 元 ~ 推荐**
+                - [阿里云OSS PicGo 配置图床教程 超详细 - 知乎](https://zhuanlan.zhihu.com/p/104152479)
+            - 腾讯云 COS ~ 50G/年/47 元
+            - postimages ~ 免费
+                - https://postimages.org/
+            - 七牛云 ~ 免费/需要有备案的域名
+            - 又拍云 ~ 收费
+                - https://www.upyun.com/products/file-storage#tableType
+            - 路过 ~ 免费
+                - https://imgchr.com/
+            - 即刻 ~ 免费
+                - https://jiketuchuang.com/
+            - GitHub ~ 免费
+                - [使用GitHub+PicGo自建免费图床 - 掘金](https://juejin.im/post/6844904078468710413)
+            - SM.MS ~ 免费
+                - https://sm.ms/
+            - imgur ~ 免费
+                - https://imgur.com/
+            - 1024 ~ 免费
+                - http://www.s7tu.com/
+            - [Git-backed | Forestry.io](https://forestry.io/)
+        - 图床工具
+            - [PicGo](https://github.com/Molunerfinn/PicGo) ~ Win 推荐
+            - [iPic](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12) ~ Mac 环境
+- 
 - #@Jessie
     - twitter生成周报`#RoamCN2020W44`带一句话总结
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FBKpJxQigDi.png?alt=media&token=1a8e02de-d2c6-465e-8016-dba981fcd149)
     - discord消化，分发到各个主题`#channel`
     - 精华内容可以沉淀到`graph`
-- 
