@@ -35,3 +35,6 @@
 - #@Jerry
     - #[[inline block reference]]团队协作举例
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FptX4vgftlT.png?alt=media&token=b1864891-a527-4d72-b629-6e803d0f27fd)
+- #[[@苏维]]
+    - [[帖子]] ~ RoamR 图片放大/旋转
+        - 油猴脚本 --> [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
