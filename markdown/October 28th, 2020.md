@@ -31,7 +31,12 @@
             - 苏格拉底：我知道自己的无知
             - > I know that I know nothing ——Socrates
             - 从这个岑面上来说，[[]]指引着人们不断完善自己的系统，I can not say the less[[]]the better in that sense.
-    - Q::时间因素Date在#[[{{attr-table]]里面没有体现出来。比如，没办法总结一周（或特定时长）的东西，一attr就是所有的内容，怎么破？
+    - Q::时间因素Date在#[[{{attr-table]]里面没有体现出来。比如，没办法总结一周（或特定时长）的东西，一attr就是所有的内容，怎么破？[[!JimmyLv]]给david发个issue?
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FzxdUMU7VpY.png?alt=media&token=5d6b08eb-6870-4bd6-b8b5-6ee71551ce03)
+        - 16:38 两个解决方案
+            - From Neil: use query https://twitter.com/neilkakkar/status/1321362880692953088
+            - From [[Norman Chella]] 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi6pQtmW8WG.png?alt=media&token=97c03ddf-7b3b-4fa6-8896-171d4ab84b85)
 - #@Jerry
     - #[[inline block reference]]
     - #[[inline block reference]]团队协作举例
