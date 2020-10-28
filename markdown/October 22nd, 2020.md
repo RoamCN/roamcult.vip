@@ -5,7 +5,7 @@
         - [松鼠文库](http://wk.superlgr.com/)
         - [全网各大文库逐一击破，免费下载不是梦！ - 知乎](https://zhuanlan.zhihu.com/p/44833964)
 - #@Jessie #TIL
-    - #[[attr-table用法持更⎌]]
+    - #[[attr-table用法持更⎌]] 联系人信息自动整理
         [[@Jessie]]
             - 发起项目:: [[RoamCN]] 
 [胖车库](fat-garage.com)

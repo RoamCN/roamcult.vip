@@ -7,7 +7,7 @@
 
 #@Jessie [TIL](TIL.md)
     
-#[attr-table用法持更⎌](attr-table用法持更⎌.md)
+#[attr-table用法持更⎌](attr-table用法持更⎌.md) 联系人信息自动整理
         [@Jessie](@Jessie.md)
             - **[发起项目](发起项目.md):** [RoamCN](RoamCN.md) 
 [胖车库](fat-garage.com)
