@@ -106,4 +106,8 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIQkR2kUljT.png?alt=media&token=f495a9ff-1a52-414b-8e65-6296265461c9)
         - #[[06=归档资料]]从漫游者复制粘贴然后识别的体验还可以；
             - 事、要学、不知道为啥被识别为名词，过阵子再比较一下各双链直接复制之后的[[识别]]效果；#[[05=将来可能]]
-    - 
+    - #[[02=下一步行动]]发现自己使用折叠之后就喜欢叠罗汉一样，不停叠，层级有点多，有时候；不过在漫游者里面或许没关系；在我来里面就需要注意一些；概念也是；
+    - [feat: add Kindle Unlimited会员限时免费读书单 by nczitzk · Pull Request #6031 · DIYgod/RSSHub](https://github.com/DIYgod/RSSHub/pull/6031) [[大佬]]终于回应和处理我提的问题了；欣喜的一天；
+        - 还是熟悉的人by: @nczitzk (https://github.com/nczitzk) 想过[[捐款]]给他，还加了任务，最近一两年经济都非常紧张，可能三五年不止？捐款应该定在什么比例好？依然拿不定主意【[[nczitzk]]】
+        - 漫游者+[[标签]]做书架？还是依然使用滴答清单？葫芦展开和收缩那个不太好；看板，[[雪小豹]]的那个文也看了，没然后了；
+    - 多发展了一阵，漫游者的编辑体验确实比葫芦要好些啊；不得不承认的；
