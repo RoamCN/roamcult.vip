@@ -3,6 +3,7 @@
         - 图床服务
             - **阿里云 OSS ~ 40G/年/9 元 ~ 推荐**
                 - [阿里云OSS PicGo 配置图床教程 超详细 - 知乎](https://zhuanlan.zhihu.com/p/104152479)
+                - [kunpeng9.serious](kunpeng9.serious.md) =我用就一直有莫名奇妙的问题，电脑蓝屏导致的？目前一直没确定，非常影响使用，我已联系[作者](作者.md)，但是他非常佛系；别人用者都好好都，就我老有问题；大家一定记得备份[配置](配置.md)文件啊；累死；使用[html](html.md)复制然后粘贴到anki就好了；
             - 腾讯云 COS ~ 50G/年/47 元
             - postimages ~ 免费
                 - https://postimages.org/

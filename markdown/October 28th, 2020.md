@@ -38,7 +38,6 @@
             - From [[Norman Chella]] 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi6pQtmW8WG.png?alt=media&token=97c03ddf-7b3b-4fa6-8896-171d4ab84b85)
 - #@Jerry
-    - #[[inline block reference]]
     - #[[inline block reference]]团队协作举例
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FptX4vgftlT.png?alt=media&token=b1864891-a527-4d72-b629-6e803d0f27fd)
 - #[[@苏维]]
@@ -72,9 +71,22 @@
             - related to "#[[inline block reference]]团队协作举例"
 - [[kunpeng9.serious]] =真不想[[学习]]，要学的东西已经排了长长长长的队列了，为了[[调用]]阿里云的[[自然语言处理]]【自然语言处理】[[api]]不得不学习[[json]]；[[难受]]；
     - 今天稀里糊涂又下载了一大堆的动作，json的，[[quicker]]还不定名字，敲的有点累，每次没有中文名的，都要让我多敲几下[[键盘]]；
-    - [quicker的中文名？ · Issue #1281 · cuiliang/Quicker](https://github.com/cuiliang/Quicker/issues/1281)
+    - [quicker的中文名？ · Issue #1281 · cuiliang/Quicker](https://github.com/cuiliang/Quicker/issues/1281) 【群里有大佬的话，帮群主一下，我记得以前在群里好像和他说过这个，到现在了还没确定中文名，之前在[[rsshub]]各种推，搞的我差点被退群；好像在电报还被[[禁言]]了2次】
     - 真是没办法，本来想尽量不用roam公共[[社区]]，不参加建设的【尽量少，或者加个[[滴答清单]]任务，一个星期一次？】，非常害怕[[精力]]分散了，又和以往一样
-    - 摊大饼，浮皮潦草，学这学那最后一个都没学好，没学会，不管怎么强调，重视这个经验教训都不为过；
-    - 和葫芦笔记pimgeek谈过[[组织]]问题，目前看来是没办法了，社区搞不起来，乌托邦没啥人用，阅读人数几次而已，虽然加入了有五六十人；
+    - 摊大饼，浮皮潦草，学这学那最后一个都没学好，没学会，不管怎么强调，重视这个[[经验]][[教训]]都不为过；
+    - 和葫芦笔记pimgeek谈过[[组织]]问题，目前看来是没办法了，[[社区]]搞不起来，乌托邦没啥人用，阅读人数几次而已，虽然加入了有五六十人；
     - [什么是 Json - Json.cn](https://www.json.cn/wiki.html) 不得不学，并把json内容加入[[anki]][[暗记]]
-    - 
+    - 包买了几天，统计里还是啥都没有，调用不成功；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOfPRTOqCzW.png?alt=media&token=da6f9a60-a16d-4568-83a7-c445bae2b8d8)
+        - 用[[双链]]也不知道是对还是错，是不是早了？等都[[成熟]]，葫芦笔记成熟了再说，我好躺？开辟都阵地太多了；滴答清单催促了几次了，视图还是没改进，也不和我说大致方向【社区里有用户的话，】
+        - 关于我来【目前进度还是**】
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F1emBPD3n_Z.png?alt=media&token=b4fc97a8-f60e-48a2-9df2-b6498f8f6b87)
+            - 作为一个社区来说，[[善用佳软]]老师的微信群已经是半死不活了；可能是因为里面[[职场]]人为主；
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FVbq81grLLe.png?alt=media&token=132522a6-f378-4e41-859d-bf90d6ef3b37)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FF_79Rx0AX_.png?alt=media&token=e9e02978-c3e9-4b06-bacd-d45eb20f5bdc)
+                - 转发自[[wolai]]的[[马锐拉]]马总；
+                - 社区里有[[大佬]]的话可以投个[[简历]]看看；我这个[[家里蹲]]是去不了了；
+                - 如果融入自然语言处理取得先发优势，[[我来]]未必逊色于其他同类产品；
+                - [[美帝]]的实力真是没的说【让人没脾气】；[[脚本]]之类的，各种，一看都已经这么多了；
+    - 是否可以用原子[[编辑器]]直接从ob、roam类工具的导出json文件当中剪切出双链【atom的不知道为啥是一行的，xy里面确是非常有条理的】，这样应用[[水思维]]呢？不拘泥于某一个双链的工具，随意流动，体验不同，把握工具的精髓；[2020/10/10|02-下一步|水思维 - 知乎](https://zhuanlan.zhihu.com/p/264424074) 
+    - 这个原子编辑的任务加到滴答里面好像也不行，不太好完成；
