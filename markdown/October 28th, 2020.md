@@ -44,3 +44,26 @@
 - #[[@苏维]]
     - [[帖子]] ~ RoamR 图片放大/旋转
         - 油猴脚本 --> [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
+- #@leekeifon
+    - Q:: 有什么更好的 communication pattern?
+        - Thoughts from [[@leekeifon]]
+            - 大致而言，现在有 2 类 communications pattern. 
+                - communication based on topics/questions 
+                    - Example: github issue
+                    - advantage
+                        - can achieve deeper understanding on the topic.
+                        - can be easily queried/retrieved, contexts are almost within that page. so that,
+                            - information last longer and more valuable, because information is not hided by other non-related information?
+                            - to be discussed, 
+                - communication based on time linear structure
+                    Example: whatsapp/wechat/qq/twiiter/weibo/
+                        - Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions "
+                    advantage
+                        - Timeliness and the feeling of communication freedom.
+                    disadvantage
+                        - topic will change quickly in time.
+            - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。
+                - spaced repetition will bring information in a regular time period. It's 
+                - 
+                - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
+        - related to "#[[inline block reference]]团队协作举例"
