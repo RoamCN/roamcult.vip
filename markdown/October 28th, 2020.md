@@ -45,25 +45,28 @@
     - [[帖子]] ~ RoamR 图片放大/旋转
         - 油猴脚本 --> [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
 - #@leekeifon
-    - Q:: 有什么更好的 communication pattern?
-        - Thoughts from [[@leekeifon]]
-            - 大致而言，现在有 2 类 communications pattern. 
-                - communication based on topics/questions 
+    - Q:: 有什么更好的 communication pattern? 或者说现有的communication pattern 已经足够了?
+        - [[thoughts [[@leekeifon]]]]
+            - Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. 
+                - communication based on topics/questions(mindset of problem solving)
                     - Example: github issue
                     - advantage
                         - can achieve deeper understanding on the topic.
                         - can be easily queried/retrieved, contexts are almost within that page. so that,
                             - information last longer and more valuable, because information is not hided by other non-related information?
                             - to be discussed, 
+                    - disadvantage
+                        - lacks cross topics inspirations?
+                        - it needs to split the gem of thoughts into different topics, I need to find a place to store, which needs a nice pre-design of granularity. 
+                            - example: discord of [[RoamCN]]
                 - communication based on time linear structure
-                    Example: whatsapp/wechat/qq/twiiter/weibo/
-                        - Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions "
-                    advantage
+                - communication based on time linear structure
+                    - Example: whatsapp/wechat/qq/twiiter/weibo/
+                        Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions(mindset of problem solving)"
+                    - advantage
                         - Timeliness and the feeling of communication freedom.
-                    disadvantage
+                    - disadvantage
                         - topic will change quickly in time.
-            - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。
-                - spaced repetition will bring information in a regular time period. It's 
-                - 
+            - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。(to be formalized)
                 - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
-        - related to "#[[inline block reference]]团队协作举例"
+            - related to "#[[inline block reference]]团队协作举例"

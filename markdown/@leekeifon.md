@@ -1,1 +1,2 @@
-- 
+- {{[[query]]: {and: [[Q]] [[thoughts [[@leekeifon]]]]}}}
+- {{[[query]]: {and: [[@leekeifon]] [[Q]] {not: [[query]] }}}}}

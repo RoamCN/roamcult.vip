@@ -1,6 +1,7 @@
-- 
+- {{[query](query.md): {and: [Q](Q.md) [thoughts [[@leekeifon](thoughts [[@leekeifon.md)]]}}}
+- {{[query](query.md): {and: [@leekeifon](@leekeifon.md) [Q](Q.md) {not: [query](query.md) }}}}}
 
 # Backlinks
-## [October 28th, 2020](October 28th, 2020.md)
-- Thoughts from [@leekeifon](@leekeifon.md)
+## [@leekeifon](@leekeifon.md)
+- {{[query](query.md): {and: [@leekeifon](@leekeifon.md)
 

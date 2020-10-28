@@ -49698,14 +49698,58 @@
                             "edit-time": 1603878939377,
                             "string": "advantage",
                             "uid": "RdgikVQ9u"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "leekeifon@gmail.com",
+                                "create-time": 1603880370908,
+                                "edit-email": "leekeifon@gmail.com",
+                                "edit-time": 1603880397693,
+                                "string": "lacks cross topics inspirations?",
+                                "uid": "LxZlLuWtE"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "create-email": "leekeifon@gmail.com",
+                                    "create-time": 1603880537008,
+                                    "edit-email": "leekeifon@gmail.com",
+                                    "edit-time": 1603880727542,
+                                    "string": "example: discord of [[RoamCN]]",
+                                    "uid": "Z1WQD5L3x"
+                                  }
+                                ],
+                                "create-email": "leekeifon@gmail.com",
+                                "create-time": 1603880711527,
+                                "edit-email": "leekeifon@gmail.com",
+                                "edit-time": 1603880768839,
+                                "string": "it needs to split the gem of thoughts into different topics, I need to find a place to store, which needs a nice pre-design of granularity. ",
+                                "uid": "nRYmbnhbl"
+                              }
+                            ],
+                            "create-email": "leekeifon@gmail.com",
+                            "create-time": 1603880366816,
+                            "edit-email": "leekeifon@gmail.com",
+                            "edit-time": 1603880370579,
+                            "string": "disadvantage",
+                            "uid": "BJJVct3dw"
                           }
                         ],
                         "create-email": "leekeifon@gmail.com",
                         "create-time": 1603877763743,
                         "edit-email": "leekeifon@gmail.com",
-                        "edit-time": 1603878852084,
-                        "string": "communication based on topics/questions ",
+                        "edit-time": 1603880658307,
+                        "string": "communication based on topics/questions(mindset of problem solving)",
                         "uid": "NYYotgDi8"
+                      },
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1603877801934,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1603880258344,
+                        "string": "communication based on time linear structure",
+                        "uid": "JSr-12R9H"
                       },
                       {
                         "children": [
@@ -49715,88 +49759,64 @@
                                 "create-email": "leekeifon@gmail.com",
                                 "create-time": 1603877810906,
                                 "edit-email": "leekeifon@gmail.com",
-                                "edit-time": 1603879973780,
+                                "edit-time": 1603880194372,
                                 "string": "Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of ((NYYotgDi8))",
                                 "uid": "IKLOKq591"
                               }
                             ],
                             "create-email": "leekeifon@gmail.com",
-                            "create-time": 1603879118602,
+                            "create-time": 1603880266589,
                             "edit-email": "leekeifon@gmail.com",
-                            "edit-time": 1603879124707,
+                            "edit-time": 1603880289290,
                             "string": "Example: whatsapp/wechat/qq/twiiter/weibo/",
-                            "uid": "VvWiwNZgn"
+                            "uid": "EeNCw3VVx"
                           },
                           {
                             "children": [
                               {
-                                "create-email": "leekeifon@gmail.com",
-                                "create-time": 1603877878995,
                                 "edit-email": "leekeifon@gmail.com",
-                                "edit-time": 1603880137710,
+                                "edit-time": 1603880252658,
                                 "string": "Timeliness and the feeling of communication freedom.",
-                                "uid": "8_peI0Z8W"
+                                "uid": "p6zY2keRZ"
                               }
                             ],
-                            "create-email": "leekeifon@gmail.com",
-                            "create-time": 1603879643149,
                             "edit-email": "leekeifon@gmail.com",
-                            "edit-time": 1603879643149,
+                            "edit-time": 1603880252658,
                             "string": "advantage",
-                            "uid": "TnKWEXO0a"
+                            "uid": "3EM8G6MhL"
                           },
                           {
                             "children": [
                               {
-                                "create-email": "leekeifon@gmail.com",
-                                "create-time": 1603879688187,
                                 "edit-email": "leekeifon@gmail.com",
-                                "edit-time": 1603879705589,
+                                "edit-time": 1603880252658,
                                 "string": "topic will change quickly in time.",
-                                "uid": "_s9lx2V7d"
+                                "uid": "fcLshHFc7"
                               }
                             ],
-                            "create-email": "leekeifon@gmail.com",
-                            "create-time": 1603879681932,
                             "edit-email": "leekeifon@gmail.com",
-                            "edit-time": 1603879688203,
+                            "edit-time": 1603880252658,
                             "string": "disadvantage",
-                            "uid": "uaMk4fl1C"
+                            "uid": "AgY5PvBSI"
                           }
                         ],
                         "create-email": "leekeifon@gmail.com",
-                        "create-time": 1603877801934,
+                        "create-time": 1603880264777,
                         "edit-email": "leekeifon@gmail.com",
-                        "edit-time": 1603879615735,
+                        "edit-time": 1603880266232,
                         "string": "communication based on time linear structure",
-                        "uid": "JSr-12R9H"
+                        "uid": "33BDsQdwp"
                       }
                     ],
                     "create-email": "leekeifon@gmail.com",
                     "create-time": 1603877757193,
                     "edit-email": "leekeifon@gmail.com",
-                    "edit-time": 1603879227066,
-                    "string": "\u5927\u81f4\u800c\u8a00\uff0c\u73b0\u5728\u6709 2 \u7c7b communications pattern. ",
+                    "edit-time": 1603880523133,
+                    "string": "Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. ",
                     "uid": "colPWyUxu"
                   },
                   {
                     "children": [
-                      {
-                        "create-email": "leekeifon@gmail.com",
-                        "create-time": 1603879465964,
-                        "edit-email": "leekeifon@gmail.com",
-                        "edit-time": 1603879791868,
-                        "string": "spaced repetition will bring information in a regular time period. It's ",
-                        "uid": "U_m-J4Wky"
-                      },
-                      {
-                        "create-email": "leekeifon@gmail.com",
-                        "create-time": 1603880035155,
-                        "edit-email": "leekeifon@gmail.com",
-                        "edit-time": 1603880035145,
-                        "string": "",
-                        "uid": "iH3905vHo"
-                      },
                       {
                         "create-email": "leekeifon@gmail.com",
                         "create-time": 1603878499216,
@@ -49809,32 +49829,32 @@
                     "create-email": "leekeifon@gmail.com",
                     "create-time": 1603879397658,
                     "edit-email": "leekeifon@gmail.com",
-                    "edit-time": 1603880020951,
-                    "string": "\u6211\u8ba4\u4e3a spaced repetition system(DELTA feature in Roam) \u662f\u4e00\u79cd\u7cc5\u5408\u4e86\u4e0a\u8ff0\u4e24\u79cd communication pattern \u7279\u70b9\u7684\u4e00\u4e2a\u5b9e\u73b0\u65b9\u5f0f\u3002",
+                    "edit-time": 1603880846351,
+                    "string": "\u6211\u8ba4\u4e3a spaced repetition system(DELTA feature in Roam) \u662f\u4e00\u79cd\u7cc5\u5408\u4e86\u4e0a\u8ff0\u4e24\u79cd communication pattern \u7279\u70b9\u7684\u4e00\u4e2a\u5b9e\u73b0\u65b9\u5f0f\u3002(to be formalized)",
                     "uid": "iZfkB8ql2"
+                  },
+                  {
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1603879572830,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1603879583891,
+                    "string": "related to ((c9qK-wg3L))",
+                    "uid": "eJ0v_oWzQ"
                   }
                 ],
                 "create-email": "leekeifon@gmail.com",
                 "create-time": 1603879227055,
                 "edit-email": "leekeifon@gmail.com",
-                "edit-time": 1603879227055,
-                "string": "Thoughts from [[@leekeifon]]",
+                "edit-time": 1603881324616,
+                "string": "[[thoughts [[@leekeifon]]]]",
                 "uid": "Y-N6mqLwR"
-              },
-              {
-                "create-email": "leekeifon@gmail.com",
-                "create-time": 1603879572830,
-                "edit-email": "leekeifon@gmail.com",
-                "edit-time": 1603879583891,
-                "string": "related to ((c9qK-wg3L))",
-                "uid": "eJ0v_oWzQ"
               }
             ],
             "create-email": "leekeifon@gmail.com",
             "create-time": 1603878403286,
             "edit-email": "leekeifon@gmail.com",
-            "edit-time": 1603878430995,
-            "string": "Q:: \u6709\u4ec0\u4e48\u66f4\u597d\u7684 communication pattern?",
+            "edit-time": 1603880634534,
+            "string": "Q:: \u6709\u4ec0\u4e48\u66f4\u597d\u7684 communication pattern? \u6216\u8005\u8bf4\u73b0\u6709\u7684communication pattern \u5df2\u7ecf\u8db3\u591f\u4e86?",
             "uid": "3tcGf7jrI"
           }
         ],
@@ -49942,13 +49962,21 @@
         "create-email": "leekeifon@gmail.com",
         "create-time": 1603874599612,
         "edit-email": "leekeifon@gmail.com",
-        "edit-time": 1603874599612,
-        "string": "",
+        "edit-time": 1603881721241,
+        "string": "Answers from leekeifon{{[[query]]: {and: [[Q]] [[thoughts [[@leekeifon]]]]}}}",
         "uid": "uoj5Rm1Kl"
+      },
+      {
+        "create-email": "leekeifon@gmail.com",
+        "create-time": 1603881450869,
+        "edit-email": "leekeifon@gmail.com",
+        "edit-time": 1603881556398,
+        "string": "{{[[query]]: {and: [[@leekeifon]] [[Q]] {not: [[query]] }}}}}",
+        "uid": "vlXA_W0yb"
       }
     ],
     "edit-email": "leekeifon@gmail.com",
-    "edit-time": 1603874604644,
+    "edit-time": 1603881324622,
     "title": "@leekeifon"
   },
   {
@@ -49957,5 +49985,22 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1603860113809,
     "title": "\u534f\u4f5cchannel"
+  },
+  {
+    "children": [
+      {
+        "create-email": "leekeifon@gmail.com",
+        "create-time": 1603881327628,
+        "edit-email": "leekeifon@gmail.com",
+        "edit-time": 1603881327628,
+        "string": "",
+        "uid": "N1KgkLwrc"
+      }
+    ],
+    "create-email": "leekeifon@gmail.com",
+    "create-time": 1603881324619,
+    "edit-email": "leekeifon@gmail.com",
+    "edit-time": 1603881324622,
+    "title": "thoughts [[@leekeifon]]"
   }
 ]
