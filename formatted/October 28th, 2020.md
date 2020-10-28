@@ -16,7 +16,7 @@
             - 两个都不能点击放大，这个图小了一点，粘贴之后不好看词语了；
             - 葫芦笔记没有这个编辑图标少了麻烦，多了另外一个麻烦，以前和他们说过，如今还未解决；
                 - ![](../images/ro-tieVLRg.png?)
-                - 
+    - 
 
 #@Jessie
     
@@ -77,3 +77,11 @@
             - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。(to be formalized)
                 - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
             - related to "#[inline block reference](inline block reference.md)团队协作举例"
+- [kunpeng9.serious](kunpeng9.serious.md) =真不想[学习](学习.md)，要学的东西已经排了长长长长的队列了，为了[调用](调用.md)阿里云的[自然语言处理](自然语言处理.md)【自然语言处理】[api](api.md)不得不学习[json](json.md)；[难受](难受.md)；
+    - 今天稀里糊涂又下载了一大堆的动作，json的，[quicker](quicker.md)还不定名字，敲的有点累，每次没有中文名的，都要让我多敲几下[键盘](键盘.md)；
+    - [quicker的中文名？ · Issue [1281](1281.md) · cuiliang/Quicker](https://github.com/cuiliang/Quicker/issues/1281)
+    - 真是没办法，本来想尽量不用roam公共[社区](社区.md)，不参加建设的【尽量少，或者加个[滴答清单](滴答清单.md)任务，一个星期一次？】，非常害怕[精力](精力.md)分散了，又和以往一样
+    - 摊大饼，浮皮潦草，学这学那最后一个都没学好，没学会，不管怎么强调，重视这个经验教训都不为过；
+    - 和葫芦笔记pimgeek谈过[组织](组织.md)问题，目前看来是没办法了，社区搞不起来，乌托邦没啥人用，阅读人数几次而已，虽然加入了有五六十人；
+    - [什么是 Json - Json.cn](https://www.json.cn/wiki.html) 不得不学，并把json内容加入[anki](anki.md)[暗记](暗记.md)
+    - 
