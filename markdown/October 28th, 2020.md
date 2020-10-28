@@ -1,0 +1,19 @@
+- [[kunpeng9.serious]] =
+    - 有点难受，是不是应该用roam，[[葫芦笔记]]的问题有点多，目前；显示老是出问题，数据库也有问题；不是很习惯roam的视图；先养成的葫芦的使用[[习惯]]；
+    - 不知道为啥有时候彩云[[翻译]][[插件]]莫名其妙打开【我是关闭了的啊】，并且把[[中文]]翻译成[[英文]]；多此一举，以前好像[[反馈]]过，至今没有改进；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FUGOzexK7aV.png?alt=media&token=ac7ffa2c-76a5-47c3-a7ed-162e6e011085)
+    - 视图真的不习惯；不知道为啥那个文章里面的那个视图显示的是那样的，就是误导人；那个[[视图]]非常平面，这个就是快是一条线了；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FNzg8NpkYSt.png?alt=media&token=c3774aaa-f785-41a4-81f1-2bc6d8945ef7)
+    - 往图的下面加内容稍微有点麻烦；非得要另外的操作；不知道啥时候roam修复了符号显示的问题，以前【】都是显示为[]的，葫芦笔记也是，都修复了这个问题了；别忘记把roam称为漫游者，[[漫游者]]，myz，搜狗输入法已经会联想了，只用打3个字符就行了；roam增加理解、[[认知]]成本；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FPYYw_uKVR0.png?alt=media&token=f29a4b47-e93b-4f9c-909e-0687d492bb2c)
+        - 别忘记粘贴图片的时候[[习惯]]性enter一下，增加一个新页面；
+        - 英文真多；老是做增加成本的事情；虽然不是看不懂；以前和[[pimgeek]]说过这个事情；不少次；
+            - 老是要enter一下到下一个点，然后上一个点才能渲染，才能点击，都是这样，有点麻烦；
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FVyYd6NWrBj.png?alt=media&token=9eb8c082-a87d-4a36-b33e-0f74849fe00f)
+        - [[粘贴]]之后是这样的
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FTs0i_7-I5W.png?alt=media&token=17d101a9-ddc1-4caf-bddb-f82207d04211)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvzRQIHkDeF.png?alt=media&token=ea316b78-4230-4014-b9a6-a5b766380189)
+            - 葫芦笔记[[复制]]稍微麻烦，添加倒是方便，从葫芦笔记里面复制内容有时候有点麻烦；到那个nlp就不是很方便了；
+            - 两个都不能点击放大，这个图小了一点，粘贴之后不好看词语了；
+            - 葫芦笔记没有这个编辑图标少了麻烦，多了另外一个麻烦，以前和他们说过，如今还未解决；
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fro-tieVLRg.png?alt=media&token=bf4e311f-e370-4feb-b1ec-114ecd6889d1)
+                - 
