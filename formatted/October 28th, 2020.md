@@ -53,7 +53,7 @@
 
 #@leekeifon
     - **[Q](Q.md):** 有什么更好的 communication pattern? 或者说现有的communication pattern 已经足够了?
-        - [thoughts [[@leekeifon](thoughts [[@leekeifon.md)]]
+        - thoughts [@leekeifon](@leekeifon.md)
             - Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. 
                 - communication based on topics/questions(mindset of problem solving)
                     - Example: github issue

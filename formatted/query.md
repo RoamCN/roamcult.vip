@@ -1,11 +1,9 @@
 
 # Backlinks
 ## [@leekeifon](@leekeifon.md)
-- {{[query](query.md):
+- Questions and Answers from leekeifon {{[query](query.md):
 
-- {{[query](query.md):
-
-- {{[query](query.md): {and: [@leekeifon](@leekeifon.md) [Q](Q.md) {not: [query](query.md)
+- Questions and Answers from leekeifon {{[query](query.md): {and: [Q](Q.md) [@leekeifon](@leekeifon.md) {not: [query](query.md)}
 
 ## [October 13th, 2020](October 13th, 2020.md)
 - {{[query](query.md):

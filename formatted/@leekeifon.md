@@ -1,7 +1,9 @@
-- {{[query](query.md): {and: [Q](Q.md) [thoughts [[@leekeifon](thoughts [[@leekeifon.md)]]}}}
-- {{[query](query.md): {and: [@leekeifon](@leekeifon.md) [Q](Q.md) {not: [query](query.md) }}}}}
+- Questions and Answers from leekeifon {{[query](query.md): {and: [Q](Q.md) [@leekeifon](@leekeifon.md) {not: [query](query.md)}}}}
 
 # Backlinks
 ## [@leekeifon](@leekeifon.md)
-- {{[query](query.md): {and: [@leekeifon](@leekeifon.md)
+- Questions and Answers from leekeifon {{[query](query.md): {and: [Q](Q.md) [@leekeifon](@leekeifon.md)
+
+## [October 28th, 2020](October 28th, 2020.md)
+- thoughts [@leekeifon](@leekeifon.md)
 

@@ -1,2 +1,1 @@
-- {{[[query]]: {and: [[Q]] [[thoughts [[@leekeifon]]]]}}}
-- {{[[query]]: {and: [[@leekeifon]] [[Q]] {not: [[query]] }}}}}
+- Questions and Answers from leekeifon {{[[query]]: {and: [[Q]] [[@leekeifon]] {not: [[query]]}}}}

@@ -49845,8 +49845,8 @@
                 "create-email": "leekeifon@gmail.com",
                 "create-time": 1603879227055,
                 "edit-email": "leekeifon@gmail.com",
-                "edit-time": 1603881324616,
-                "string": "[[thoughts [[@leekeifon]]]]",
+                "edit-time": 1603882166823,
+                "string": "thoughts [[@leekeifon]]",
                 "uid": "Y-N6mqLwR"
               }
             ],
@@ -49962,17 +49962,9 @@
         "create-email": "leekeifon@gmail.com",
         "create-time": 1603874599612,
         "edit-email": "leekeifon@gmail.com",
-        "edit-time": 1603881721241,
-        "string": "Answers from leekeifon{{[[query]]: {and: [[Q]] [[thoughts [[@leekeifon]]]]}}}",
+        "edit-time": 1603882271236,
+        "string": "Questions and Answers from leekeifon {{[[query]]: {and: [[Q]] [[@leekeifon]] {not: [[query]]}}}}",
         "uid": "uoj5Rm1Kl"
-      },
-      {
-        "create-email": "leekeifon@gmail.com",
-        "create-time": 1603881450869,
-        "edit-email": "leekeifon@gmail.com",
-        "edit-time": 1603881556398,
-        "string": "{{[[query]]: {and: [[@leekeifon]] [[Q]] {not: [[query]] }}}}}",
-        "uid": "vlXA_W0yb"
       }
     ],
     "edit-email": "leekeifon@gmail.com",
@@ -49985,22 +49977,5 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1603860113809,
     "title": "\u534f\u4f5cchannel"
-  },
-  {
-    "children": [
-      {
-        "create-email": "leekeifon@gmail.com",
-        "create-time": 1603881327628,
-        "edit-email": "leekeifon@gmail.com",
-        "edit-time": 1603881327628,
-        "string": "",
-        "uid": "N1KgkLwrc"
-      }
-    ],
-    "create-email": "leekeifon@gmail.com",
-    "create-time": 1603881324619,
-    "edit-email": "leekeifon@gmail.com",
-    "edit-time": 1603881324622,
-    "title": "thoughts [[@leekeifon]]"
   }
 ]
