@@ -78,8 +78,8 @@
     - [什么是 Json - Json.cn](https://www.json.cn/wiki.html) 不得不学，并把json内容加入[[anki]][[暗记]]
     - 包买了几天，统计里还是啥都没有，调用不成功；
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOfPRTOqCzW.png?alt=media&token=da6f9a60-a16d-4568-83a7-c445bae2b8d8)
-        - 用[[双链]]也不知道是对还是错，是不是早了？等都[[成熟]]，葫芦笔记成熟了再说，我好躺？开辟都阵地太多了；滴答清单催促了几次了，视图还是没改进，也不和我说大致方向【社区里有用户的话，】
-        - 关于我来【目前进度还是**】
+        - 用[[双链]]也不知道是对还是错，是不是早了？等都[[成熟]]，葫芦笔记成熟了再说，我好躺？开辟都阵地太多了；滴答清单催促了几次了，视图还是没改进，也不和我说大致方向【社区里有用户的话，或许大家可以一起催？】视图是真不够完善，以前吐槽过；
+        - #[[03=等待事项]]关于我来【目前进度还是**】
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F1emBPD3n_Z.png?alt=media&token=b4fc97a8-f60e-48a2-9df2-b6498f8f6b87)
             - 作为一个社区来说，[[善用佳软]]老师的微信群已经是半死不活了；可能是因为里面[[职场]]人为主；
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FVbq81grLLe.png?alt=media&token=132522a6-f378-4e41-859d-bf90d6ef3b37)
@@ -88,5 +88,22 @@
                 - 社区里有[[大佬]]的话可以投个[[简历]]看看；我这个[[家里蹲]]是去不了了；
                 - 如果融入自然语言处理取得先发优势，[[我来]]未必逊色于其他同类产品；
                 - [[美帝]]的实力真是没的说【让人没脾气】；[[脚本]]之类的，各种，一看都已经这么多了；
-    - 是否可以用原子[[编辑器]]直接从ob、roam类工具的导出json文件当中剪切出双链【atom的不知道为啥是一行的，xy里面确是非常有条理的】，这样应用[[水思维]]呢？不拘泥于某一个双链的工具，随意流动，体验不同，把握工具的精髓；[2020/10/10|02-下一步|水思维 - 知乎](https://zhuanlan.zhihu.com/p/264424074) 
+    - #[[03=等待事项]]是否可以用原子[[编辑器]]直接从ob、roam类工具的导出json文件当中剪切出双链【atom的不知道为啥是一行的，xy里面确是非常有条理的】，这样应用[[水思维]]呢？不拘泥于某一个双链的工具，随意[[流动]]，体验不同，把握工具的精髓；[2020/10/10|02-下一步|水思维 - 知乎](https://zhuanlan.zhihu.com/p/264424074) 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3_JZF9YosO.png?alt=media&token=244384d1-f0c5-4dc9-94cc-61fdf8dcdb03)
     - 这个原子编辑的任务加到滴答里面好像也不行，不太好完成；
+    - 和pimgeek[[皮姆极客]]沟通了此事【】，问了一下他的看法；他给我的分享，我分享给大家=【已#[[anki_done]]】
+        - [Warren Buffett Says This 1 Simple Habit Separates Successful People From Everyone Else | Inc.com](https://fanyi.caiyunapp.com/article1/?id=5f96b1f26f255b0ce4efd462)
+        - #[[04=执行项目]]“成功人士和真正[[成功]]人士的区别在于，真正成功的人几乎对所有事情都[[说不]]。”【目前做得实在是像坨[[屎]]一样】
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FgmO-k5uQa_.png?alt=media&token=86f8b300-37d9-439a-ad9f-7f95b1995961)
+                - 讨厌，老是弹出，搞的我习惯性使用的【】都受限了
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FpdmBXCAOes.png?alt=media&token=467ba707-a5c5-4b0b-b636-2f24c2abee9d)
+    - [[kunpeng9.serious]] =#[[03=等待事项]]我的提问=[[大家]]是[[如何]]说不的？
+        - #[[08=共享繁华]]【[[粘贴]]这个的时候发现[[漫游者]]也有这个粘贴[[问题]]，不同的是葫芦笔记可以粘贴，粘贴[[解体]][[文章]]，通过我的反馈似乎已经解决了这个[[问题]]；漫游就谨慎一些，直接不能粘贴了】我费了不少[[力气]]才找回了这篇文章：[[标题]]很没意思，但是内容对我有启发——[[乔布斯]]曾说：“人们认为[[专注]]意味着对你必须关注的[[事情]]说是。但事实并非如此。这意味着对其他上百个好点子说不。你必须小心挑选。事实上，我为我们没有做过的事情感到骄傲，就像我做过的事情一样。[[创新]]就是对1000件事说不。”
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3MMZSHFWqa.png?alt=media&token=e16f2da5-6dfa-438b-8b65-584a26e989bf)
+        - #[[03=等待事项]]【多个enter就没法儿粘贴，删掉就可以】![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F0taZu-oEds.png?alt=media&token=bde5ab08-5e6b-4368-aff3-6f040b3839c1)
+        - #[[02=下一步行动]]创新就是对1000件事说不，no！！！
+            - #[[05=将来可能]]之前的内容还有很多没看，只是随便略过一下，然后就是把文件导出，导入到各种双链工具，尝试功能等；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIQkR2kUljT.png?alt=media&token=f495a9ff-1a52-414b-8e65-6296265461c9)
+        - #[[06=归档资料]]从漫游者复制粘贴然后识别的体验还可以；
+            - 事、要学、不知道为啥被识别为名词，过阵子再比较一下各双链直接复制之后的[[识别]]效果；#[[05=将来可能]]
+    - 
