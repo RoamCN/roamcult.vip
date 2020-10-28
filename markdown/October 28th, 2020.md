@@ -37,6 +37,8 @@
             - From Neil: use query https://twitter.com/neilkakkar/status/1321362880692953088
             - From [[Norman Chella]] 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi6pQtmW8WG.png?alt=media&token=97c03ddf-7b3b-4fa6-8896-171d4ab84b85)
+            - From #@jimmy
+            - 用portal那个Chrome插件==，我没懂 [[!JimmyLv]]
 - #@Jerry
     - #[[inline block reference]]团队协作举例
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FptX4vgftlT.png?alt=media&token=b1864891-a527-4d72-b629-6e803d0f27fd)

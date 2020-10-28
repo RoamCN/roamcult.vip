@@ -39,6 +39,8 @@
             - From Neil: use query https://twitter.com/neilkakkar/status/1321362880692953088
             - From [Norman Chella](Norman Chella.md) 
             - ![](../images/i6pQtmW8WG.png?)
+            - From #@jimmy
+            - 用portal那个Chrome插件==，我没懂 [!JimmyLv](!JimmyLv.md)
 
 #@Jerry
     
