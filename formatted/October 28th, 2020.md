@@ -34,3 +34,10 @@
             - > I know that I know nothing ——Socrates
             - 从这个岑面上来说，[[]]指引着人们不断完善自己的系统，I can not say the less[[]]the better in that sense.
     - **[Q](Q.md):**时间因素Date在#[{{attr-table]({{attr-table.md)里面没有体现出来。比如，没办法总结一周（或特定时长）的东西，一attr就是所有的内容，怎么破？
+
+#@Jerry
+    
+#[inline block reference](inline block reference.md)
+        - inline block reference团队协作应用举例
+        - ![](../images/ptX4vgftlT.png?)
+- 

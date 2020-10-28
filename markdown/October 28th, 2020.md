@@ -32,3 +32,8 @@
             - > I know that I know nothing ——Socrates
             - 从这个岑面上来说，[[]]指引着人们不断完善自己的系统，I can not say the less[[]]the better in that sense.
     - Q::时间因素Date在#[[{{attr-table]]里面没有体现出来。比如，没办法总结一周（或特定时长）的东西，一attr就是所有的内容，怎么破？
+- #@Jerry
+    - #[[inline block reference]]
+        - inline block reference团队协作应用举例
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FptX4vgftlT.png?alt=media&token=b1864891-a527-4d72-b629-6e803d0f27fd)
+- 

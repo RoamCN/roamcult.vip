@@ -18,11 +18,13 @@
             - roam对你来说影响的最大的一点是啥？
                 - 作为believer的想法💡
             - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
-                - 晨间笔记
+                - 晨间笔记 logs
                 - 知识管理workflow
                     - ![0OdIC8.jpg](https://s1.ax1x.com/2020/10/17/0OdIC8.jpg)
                         - "[用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)[leodknuth](leodknuth.md)"
             - roam与其他笔记软件的对比
+            - 在roam上面协作
+                - 
             - 对roam的期待，最希望未来有哪方面的改进/创新？
             - 对RoamCN的期待，希望我们（一起）玩出什么花样
 
