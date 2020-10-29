@@ -8671,6 +8671,14 @@
             "uid": "sBhPwVQkA"
           },
           {
+            "create-email": "896569405@qq.com",
+            "create-time": 1603982814074,
+            "edit-email": "896569405@qq.com",
+            "edit-time": 1603982814074,
+            "string": "{{[[comment]]}}\n",
+            "uid": "d3bJ_0JNt"
+          },
+          {
             "create-email": "info@fat-garage.com",
             "create-time": 1603933438711,
             "edit-email": "info@fat-garage.com",
@@ -18738,9 +18746,9 @@
       {
         "create-email": "leefuxiang@gmail.com",
         "create-time": 1603350582595,
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350604813,
-        "string": "[[\u7528roam/js\u521b\u5efa\u548c\u4f7f\u7528\u6a21\u7248]] @leodknuth",
+        "edit-email": "896569405@qq.com",
+        "edit-time": 1603983278198,
+        "string": "[[\u7528roam/js\u521b\u5efa\u548c\u4f7f\u7528\u6a21\u7248]] #leodknuth",
         "uid": "IwisDDu9C"
       },
       {
@@ -31771,6 +31779,14 @@
             "edit-time": 1603350609826,
             "string": "Click the link so you\u2019re on the roam/js page. There, enable JavaScript by typing\u00a0{{[[roam/js]]}}",
             "uid": "x-pnla-CW"
+          },
+          {
+            "create-email": "896569405@qq.com",
+            "create-time": 1603984452380,
+            "edit-email": "896569405@qq.com",
+            "edit-time": 1603984452380,
+            "string": "",
+            "uid": "ZH15NvGKx"
           },
           {
             "edit-email": "leefuxiang@gmail.com",
@@ -51978,9 +51994,63 @@
           },
           {
             "create-time": 1603981557802,
-            "edit-time": 1603981557802,
-            "string": "",
+            "edit-time": 1603982642011,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOEyCRAmoqv.png?alt=media&token=acb0cd5e-a631-4269-8f77-8aac4f5f7c4e)",
             "uid": "Akoi5PiwD"
+          },
+          {
+            "create-time": 1603982643443,
+            "edit-time": 1603982663119,
+            "string": "pip install oss2 \u5230\u5e95\u5b89\u88c5\u5565\uff0c\u62a5\u9519\u4e86\uff1b",
+            "uid": "ADrCmQ77o"
+          },
+          {
+            "create-time": 1603982663116,
+            "edit-time": 1603983306070,
+            "string": "[\u5370\u8c61\u7b14\u8bb0 | \u5de5\u4f5c\u5fc5\u5907\u6548\u7387\u5e94\u7528](https://www.yinxiang.com/?referer=en)![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FnXhP6ueyCf.png?alt=media&token=6ee5bd12-7f5c-4d9f-b4e1-90d0eef4f2e5)\u641c\u7d22\u5370\u8c61\u7b14\u8bb0\u4e4b\u540e\uff0c\u5f3a\u5236\u6027\uff0c\u7f51\u9875\u5237\u65b0\u53d8\u6210\u56fd\u5185\u7248\uff0c\u4e4b\u524d\u4f53\u9a8c\u4e86\u597d\u4e9b\u6b21\uff0c\u5168\u5c40\u72b6\u6001\u597d\u4e9b\uff0c\u6709\u65f6\u5019\u4e5f\u4e0d\u884c\uff0c\u4e0d\u8fc7\u6b21\u6570\u5c11\u4e86\uff1b\u6211\u7684[[\u7f51\u9875]]\u8001\u662f\u88ab[[qj]][[\u5f3a\u5978]]\uff1b\u4e4b\u524d\u4e0b\u8f7d\u5ba2\u6237\u7aef\u5c31\u88ab\u5f3a\u5978\u597d\u4e9b\u6b21\u624d\u4e0b\u6210\u529f\uff1b",
+            "uid": "xL8OjHtek"
+          },
+          {
+            "create-time": 1603983239992,
+            "edit-time": 1603983257702,
+            "string": "\u4ee5\u524d\u597d\u50cf\u770b\u8fc7\u4e00\u4e2a\u8fd9\u4e2a\u76f8\u5173\u7684\u6280\u672f\u5e16\u5b50\uff0c\u60f3\u4e0d\u8d77\u6765\u5185\u5bb9\u662f\u5565\u4e86\uff0c\u4e5f\u6ca1\u6709\u4fdd\u5b58\uff1b",
+            "uid": "sdcGtqMdN"
+          },
+          {
+            "create-time": 1603982660563,
+            "edit-time": 1603983196026,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FNjGb1iF8iR.png?alt=media&token=308ad773-221f-4b2c-8ad4-bf3acb5d27bf)***\u4e86\uff0c\u4e0d\u77e5\u9053\u4e3a\u5565\u5bbd\u5e26\u5149\u7ea4\u635f\u574f\u4e86\u8fd8\u662f\u4ec0\u4e48\u539f\u56e0\uff0c\u53ea\u80fd\u8fdewifi\u4e86\uff0c\u6240\u5e78[[\u4ee3\u7406]]\u6ca1\u6709\u65ad\uff1b\u4ee5\u524d\u7528\u7684\uff0c\u6211\u5fd8\u8bb0\u662f\u5565\uff0c\u7528WiFi\u76f4\u63a5\u5c31\u65ad\u4e86\uff0c\u8981\u4e48\u5c31\u5173\u6389\u4ee3\u7406\uff1b\u7528\u5149\u7ea4\u624d\u884c\uff0c\u597d\u50cf\u548c[[\u8def\u7531\u5668]]\u6709\u5173\uff0c\u4e0d\u61c2\u8fd9\u4e2a\u6280\u672f\u95ee\u9898",
+            "uid": "X3tKwd8tU"
+          },
+          {
+            "create-time": 1603983201068,
+            "edit-time": 1603983568321,
+            "string": "\u5728[[\u5feb\u70b9]]\u65e5\u5e38[[\u901b\u8857]]\uff1b\u53d1\u73b0\uff1b\u8fd9\u4e2a\u4eba\u4e5f\u592a\u731b\u4e86\u5427\uff1b[\u7ec8\u6781\u805a\u5408 - \u5df2\u5206\u4eab\u7684\u52a8\u4f5c - Quicker](https://getquicker.net/Sharedaction?code=8db402ef-76ab-4eac-40c2-08d876f12032)",
+            "uid": "H2dBNttyF"
+          },
+          {
+            "create-time": 1603983570130,
+            "edit-time": 1603983660140,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FyLsH2poyWk.png?alt=media&token=0dd14c9d-6284-4fb7-9a78-4d5d11c1fd35)",
+            "uid": "hd2apoobd"
+          },
+          {
+            "create-time": 1603983660619,
+            "edit-time": 1603983681210,
+            "string": "\u60f3\u53bb\u4e16\u4e86\uff0c\u53c8\u662f\u8fd9\u79cd\u96be\u53d7\u7684\u5fae\u4fe1\u7fa4\u540d\u5b57\uff0c\u4e5f\u4e0d\u80fd\u8bf4\uff0c\u8bf4\u4e86\u4e5f\u6ca1\u7528\uff1b\u5929\u5929\u88ab\u5f3a\u5978\uff1b",
+            "uid": "66EyJNqVz"
+          },
+          {
+            "create-time": 1603983681514,
+            "edit-time": 1603983730735,
+            "string": "\u4ee5\u524d\u662f\u846b\u82a6\u7b14\u8bb0\u7684\u5fae\u4fe1\u7fa4\uff0c\u975e\u5f97\u7528\u90a3\u4e2a.    \u4e24\u4e2a\u5b57\u4ece\u4e0a\u5f80\u4e0b\u653e\u5728\u4e2d\u95f4\u7684\u90a3\u4e2a\u70b9\uff0c\u4e5f\u4e0d\u77e5\u9053\u4ed6\u4eec\u662f\u600e\u4e48\u6253\u51fa\u6765\u7684\uff1b\u540e\u6765\u9000\u7fa4\u4e86\uff0c\u53ea\u5728\u8bba\u575b\u53d1\u5e16\u5b50\uff0c\u8fd9\u4e2a\u65b9\u9762\u53cd\u9988\u4e86\u4e5f\u6ca1\u6709\u9e1f\u7528\uff1b",
+            "uid": "lvRjN9OVd"
+          },
+          {
+            "create-time": 1603983732211,
+            "edit-time": 1603983732211,
+            "string": "",
+            "uid": "xfgyhiFYb"
           }
         ],
         "create-time": 1603954179335,
@@ -52226,5 +52296,40 @@
     "create-time": 1603981545307,
     "edit-time": 1603981545309,
     "title": "\u53c8\u62cd\u4e91"
+  },
+  {
+    "create-time": 1603983192357,
+    "edit-time": 1603983192358,
+    "title": "\u8def\u7531\u5668"
+  },
+  {
+    "create-time": 1603983196032,
+    "edit-time": 1603983196046,
+    "title": "\u4ee3\u7406"
+  },
+  {
+    "create-time": 1603983232734,
+    "edit-time": 1603983232735,
+    "title": "\u7f51\u9875"
+  },
+  {
+    "create-time": 1603983235748,
+    "edit-time": 1603983235749,
+    "title": "qj"
+  },
+  {
+    "create-time": 1603983239382,
+    "edit-time": 1603983239383,
+    "title": "\u5f3a\u5978"
+  },
+  {
+    "create-time": 1603983549291,
+    "edit-time": 1603983549292,
+    "title": "\u901b\u8857"
+  },
+  {
+    "create-time": 1603983559637,
+    "edit-time": 1603983559638,
+    "title": "\u5feb\u70b9"
   }
 ]

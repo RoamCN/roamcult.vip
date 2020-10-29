@@ -18,6 +18,7 @@
 - ## []()An introduction to Roam-flavored Markdown
 - **Step 2: Enable JavaScript on roam/js page**
     - Click the link so you’re on the roam/js page. There, enable JavaScript by typing {{[[roam/js]]}}
+    - 
     - ![roam/js page](https://www.roamstack.com/wp-content/uploads/roamjs-page.png)
 - Markdown is a way to add formatting to plain text in a way that can be interpreted by text editors (like Roam). Mastering Markdown is easy and sets you on the path of becoming a keyboard-first user, which will speed up your workflow a lot.
 - **Step 3: Create a code block below the JavaScript block**

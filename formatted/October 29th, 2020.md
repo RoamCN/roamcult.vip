@@ -237,4 +237,13 @@
     - [SmoothNLP 语义解析平台](http://nlp.smoothnlp.com/#/main)
     - [阿里云 OSS (图床) - 已分享的动作 - Quicker](https://getquicker.net/Sharedaction?code=c4896807-9b84-46e9-7d97-08d808171f98) 这个动作安装了之后好久没用了；今天看更新了一下就配置好结果截图直接报错；靠！
     - 就只能搜到一页多一个的动作；![](../images/L2tRghAmXc.png?)，虽然各种云平台账号都注册了一个，但是还是阿里用的习惯一些；
+    - ![](../images/OEyCRAmoqv.png?)
+    - pip install oss2 到底安装啥，报错了；
+    - [印象笔记 | 工作必备效率应用](../images/nXhP6ueyCf.png?)；之前下载客户端就被强奸好些次才下成功；
+    - 以前好像看过一个这个相关的技术帖子，想不起来内容是啥了，也没有保存；
+    - ![](../images/NjGb1iF8iR.png?)有关，不懂这个技术问题
+    - 在[快点](快点.md)日常[逛街](逛街.md)；发现；这个人也太猛了吧；[终极聚合 - 已分享的动作 - Quicker](https://getquicker.net/Sharedaction?code=8db402ef-76ab-4eac-40c2-08d876f12032)
+    - ![](../images/yLsH2poyWk.png?)
+    - 想去世了，又是这种难受的微信群名字，也不能说，说了也没用；天天被强奸；
+    - 以前是葫芦笔记的微信群，非得用那个.    两个字从上往下放在中间的那个点，也不知道他们是怎么打出来的；后来退群了，只在论坛发帖子，这个方面反馈了也没有鸟用；
     - 

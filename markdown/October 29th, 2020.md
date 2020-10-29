@@ -230,4 +230,13 @@
     - [SmoothNLP 语义解析平台](http://nlp.smoothnlp.com/#/main)
     - [阿里云 OSS (图床) - 已分享的动作 - Quicker](https://getquicker.net/Sharedaction?code=c4896807-9b84-46e9-7d97-08d808171f98) 这个动作安装了之后好久没用了；今天看更新了一下就配置好结果截图直接报错；靠！
     - 就只能搜到一页多一个的动作；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FL2tRghAmXc.png?alt=media&token=2291f017-19e7-43f8-9aaa-91932995bf72)只想阿里云，真是不想用，七牛、[[又拍云]]，虽然各种云平台账号都注册了一个，但是还是阿里用的习惯一些；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOEyCRAmoqv.png?alt=media&token=acb0cd5e-a631-4269-8f77-8aac4f5f7c4e)
+    - pip install oss2 到底安装啥，报错了；
+    - [印象笔记 | 工作必备效率应用](https://www.yinxiang.com/?referer=en)![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FnXhP6ueyCf.png?alt=media&token=6ee5bd12-7f5c-4d9f-b4e1-90d0eef4f2e5)搜索印象笔记之后，强制性，网页刷新变成国内版，之前体验了好些次，全局状态好些，有时候也不行，不过次数少了；我的[[网页]]老是被[[qj]][[强奸]]；之前下载客户端就被强奸好些次才下成功；
+    - 以前好像看过一个这个相关的技术帖子，想不起来内容是啥了，也没有保存；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FNjGb1iF8iR.png?alt=media&token=308ad773-221f-4b2c-8ad4-bf3acb5d27bf)***了，不知道为啥宽带光纤损坏了还是什么原因，只能连wifi了，所幸[[代理]]没有断；以前用的，我忘记是啥，用WiFi直接就断了，要么就关掉代理；用光纤才行，好像和[[路由器]]有关，不懂这个技术问题
+    - 在[[快点]]日常[[逛街]]；发现；这个人也太猛了吧；[终极聚合 - 已分享的动作 - Quicker](https://getquicker.net/Sharedaction?code=8db402ef-76ab-4eac-40c2-08d876f12032)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FyLsH2poyWk.png?alt=media&token=0dd14c9d-6284-4fb7-9a78-4d5d11c1fd35)
+    - 想去世了，又是这种难受的微信群名字，也不能说，说了也没用；天天被强奸；
+    - 以前是葫芦笔记的微信群，非得用那个.    两个字从上往下放在中间的那个点，也不知道他们是怎么打出来的；后来退群了，只在论坛发帖子，这个方面反馈了也没有鸟用；
     - 
