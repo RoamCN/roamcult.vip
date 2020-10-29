@@ -157,4 +157,12 @@
         - 😂，我现在只能捣鼓Qx,loon之类的脚本【奇怪，这个，打算微信输入这个记到滴答清单的碎片的时候不知道为啥只显示一个表情，但是在漫游者里面却可以粘贴，显示】![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FhFFxr7iNCw.png?alt=media&token=3ed2cc17-8688-4073-9864-7ba9a5b4a6b8)
 - [[kunpeng9.serious]] =处理滴答清单积压任务中
     - 【之前在知乎看到这篇文章的，一度怀疑我是不是也有这个什么症，阿斯伯格综合症，社交很差】[Asperger’s Syndrome Test – i autistic](http://iautistic.com/treatment/aspergers-syndrome-test/)
-    - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FyVRmBLv070.png?alt=media&token=906ab02f-f782-415e-ba98-dd3c95901eb0)桌面有快捷方式，终于搞完了，picgo从choco安装到配置备份的全流程；之前好一阵折腾搞插件等，结果凉了，至今没有恢复到当初的状态，一堆插件白安装，后面软件卸载了；
+    - 所幸，由于足够重视anki较高频率备份，anki的插件、包等都安好；形成了积累；
+    - 原本写日记是在印象笔记里的，由于最近桌面完全打不开，一直在用网页，不是很习惯，一直都用的客户端；所以日记几乎没有了，最近开始写记录思维的知乎文章，开始用flomo和葫芦，但是也不是太好，或许漫游者是个可行方案
+    -  [[instapaper]]的保存效果细节；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FS3iigWzmRQ.png?alt=media&token=4cf01f10-739a-4441-b62f-8d7a7f87d9b2)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FEso2SecemN.png?alt=media&token=be8444be-36fe-4283-8158-277413260a09)
+    - [[表格]]没有了；我记得当初加过任务，就是大致搞清楚paper保存各种网页之后的效果，后面没怎么持续了，不了了之；
+    - [[instapaper]]豆瓣有小组，知乎也有话题或者问题，但是都不多，半死亡状态；
+    - 突然想起来这个![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOyjlwso4mM.png?alt=media&token=0eb1b725-c430-4063-bc3c-e8f55731030a)
