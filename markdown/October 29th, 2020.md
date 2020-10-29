@@ -129,3 +129,18 @@
         - [[kunpeng9.serious]] =就是记录一下操作
         - get~
         - [[kunpeng9.serious]] =我有点迷茫，是不是要去把那个[[官方]]课看完，那个内容有点多，二三十节，还有其他；
+- [[kunpeng9.serious]] =
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIUAd6x2nQN.png?alt=media&token=44c7237d-010b-4dec-b5a6-9234445fe5f9)
+    - 之前用choco安装过印象笔记，但是后来发现是老版本的，新版本没有更新到库里面就把它卸载了，不知道为啥这个显示还在；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FZcpA1MbxZP.png?alt=media&token=f13d759d-b1ff-4427-b1cb-6c2840979d8d)拒绝访问，忘记打开代理了；
+    - 打开安装文件夹![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FnvzUddEqVc.png?alt=media&token=8d9cb184-4b21-4a06-af61-85e192d22287)
+    - 显示是新安装的，之前好像卸载错了；C:\Users\YEDONG\AppData\Local\Programs\PicGo![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYrWSpHv0Pm.png?alt=media&token=05863f68-6000-410f-a2b5-1c8e3631fc4c)
+    - 将配置文件粘贴过来；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvNQYH2WjVx.png?alt=media&token=840fe8b1-2289-4180-b536-7af3b60505a4)
+    - 还是啥都没有，等等，之前是不是忘记重启了；重启应用；还是不行，软件不读取配置文件；设置里面打开配置文件，发现是基本没啥内容，也就是读的不是粘贴的那个；
+    - 无奈，╮(╯▽╰)╭，打开之前的备份文件复制，粘贴到此文件；保存，关闭，重启【话说软件的配置怎么不在这个地方，它放哪里去了？？？】![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYz4tW_tBa0.png?alt=media&token=d7d3dafd-ce6b-478d-ba6d-037a24141abc)
+    - 好没问题，成功了，我啥时候打开了微博图床？没有把，再设置一下，再备份一个，备份文件在哪里？只能再设置一下了，之前有几次折腾过插件来着，后来出了几次毛病再也没续上，卸载重装n回，插件也就没咋用了。
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FuONv574T1M.png?alt=media&token=0df06ef2-39f9-4133-a142-b8c85127ac2a)只有一个图片，也不知道这个读取是怎么回事，明明图床里有不少图的；
+    - 关闭微博的，只使用两个图床github和阿里云的，其他的虽然注册了账号，但是为防止精力分散，只用这两个了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXWD_p8Gpuz.png?alt=media&token=9c0f6ce4-4497-4471-882d-41260a5e3fd0)这个应该是图片地址把，但是只有这个一个的；之前通过这个上传的都没有，由于不断出现问题，配置文件根本就没有记录，也不能从云存储里面读取显示出来；另存为，存之前加上配置的记录时间，删掉之前的配置文件；
+    - 继续安装flash输入choco install flashplayerplugin [[Win]使用Chocolatey管理你的小软件们 - 知乎](https://zhuanlan.zhihu.com/p/42441423)
+    - 心累，昨天固定的标签页今天一看又是这样子，之前好像知道，但是忘记记录了![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fw2wGMrKMdC.png?alt=media&token=8d009b44-5ba7-4854-b4df-2f1f398fc2c9)nlp的网页为啥又没有了，莫名其妙；https://www.aliyun.com/notfound/ 别的忘记都没事的；
+    - 

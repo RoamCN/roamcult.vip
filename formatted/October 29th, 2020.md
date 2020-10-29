@@ -133,3 +133,18 @@
         - [kunpeng9.serious](kunpeng9.serious.md) =就是记录一下操作
         - get~
         - [kunpeng9.serious](kunpeng9.serious.md) =我有点迷茫，是不是要去把那个[官方](官方.md)课看完，那个内容有点多，二三十节，还有其他；
+- [kunpeng9.serious](kunpeng9.serious.md) =
+    - ![](../images/IUAd6x2nQN.png?)
+    - 之前用choco安装过印象笔记，但是后来发现是老版本的，新版本没有更新到库里面就把它卸载了，不知道为啥这个显示还在；
+    - ![](../images/ZcpA1MbxZP.png?)拒绝访问，忘记打开代理了；
+    - 打开安装文件夹![](../images/nvzUddEqVc.png?)
+    - 显示是新安装的，之前好像卸载错了；C:\Users\YEDONG\AppData\Local\Programs\PicGo![](../images/YrWSpHv0Pm.png?)
+    - 将配置文件粘贴过来；![](../images/vNQYH2WjVx.png?)
+    - 还是啥都没有，等等，之前是不是忘记重启了；重启应用；还是不行，软件不读取配置文件；设置里面打开配置文件，发现是基本没啥内容，也就是读的不是粘贴的那个；
+    - 无奈，╮(╯▽╰)╭，打开之前的备份文件复制，粘贴到此文件；保存，关闭，重启【话说软件的配置怎么不在这个地方，它放哪里去了？？？】![](../images/Yz4tW_tBa0.png?)
+    - 好没问题，成功了，我啥时候打开了微博图床？没有把，再设置一下，再备份一个，备份文件在哪里？只能再设置一下了，之前有几次折腾过插件来着，后来出了几次毛病再也没续上，卸载重装n回，插件也就没咋用了。
+    - ![](../images/uONv574T1M.png?)只有一个图片，也不知道这个读取是怎么回事，明明图床里有不少图的；
+    - 关闭微博的，只使用两个图床github和阿里云的，其他的虽然注册了账号，但是为防止精力分散，只用这两个了；![](../images/XWD_p8Gpuz.png?)这个应该是图片地址把，但是只有这个一个的；之前通过这个上传的都没有，由于不断出现问题，配置文件根本就没有记录，也不能从云存储里面读取显示出来；另存为，存之前加上配置的记录时间，删掉之前的配置文件；
+    - 继续安装flash输入choco install flashplayerplugin [[Win]使用Chocolatey管理你的小软件们 - 知乎](https://zhuanlan.zhihu.com/p/42441423)
+    - 心累，昨天固定的标签页今天一看又是这样子，之前好像知道，但是忘记记录了![](../images/w2wGMrKMdC.png?)nlp的网页为啥又没有了，莫名其妙；https://www.aliyun.com/notfound/ 别的忘记都没事的；
+    - 

@@ -5877,8 +5877,8 @@
                 "create-email": "jings9506@gmail.com",
                 "create-time": 1596760183409,
                 "edit-email": "kioneg.kl@gmail.com",
-                "edit-time": 1603949866774,
-                "string": "[iPic](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12) or [PicGo](https://github.com/Molunerfinn/PicGo) ~ Mac \u73af\u5883",
+                "edit-time": 1603951793676,
+                "string": "[iPic](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12) ~ Mac \u73af\u5883",
                 "uid": "M2oaArsLx"
               }
             ],
@@ -17343,7 +17343,7 @@
             "emojis": [
               {
                 "emoji": {
-                  "native": "\ud83d\ude18"
+                  "native": "\ufffd\ufffd"
                 },
                 "users": [
                   {
@@ -31450,6 +31450,50 @@
       {
         "children": [
           {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1603347732625,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603350883303,
+            "string": "\u6668\u95f4\u65e5\u8bb0::abc",
+            "uid": "QUzxGzTvt"
+          }
+        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1603350765068,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603350868080,
+        "string": "#[[\u4e2d\u4e0d\u6e9c]] ",
+        "uid": "Zw1kMqbgU"
+      },
+      {
+        "children": [
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1603350875608,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603350887934,
+            "string": "\u6668\u95f4\u65e5\u8bb0::cde",
+            "uid": "rl-7nwbR4"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1603350577674,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603350807455,
+            "string": "{{attr-table:[[\u6668\u95f4\u65e5\u8bb0]]}}",
+            "uid": "H3Noy0fb1"
+          }
+        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1603350860115,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603350870548,
+        "string": "#[[Allure]] #leodknuth ",
+        "uid": "l9xGnLd1X"
+      },
+      {
+        "children": [
+          {
             "create-email": "jyciloveyoumost@gmail.com",
             "create-time": 1603364071627,
             "edit-email": "jyciloveyoumost@gmail.com",
@@ -31652,21 +31696,9 @@
       },
       {
         "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350649483,
-        "string": "",
-        "uid": "k1h-8pDOI"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
         "edit-time": 1603351953174,
         "string": "\u5982\u679c\u4f60\u5df2\u7ecf\u4f7f\u7528\u4e86[Roam42](https://www.roamstack.com/roam42)\uff0c\u4f60\u53ef\u4ee5\u8df3\u8fc7\u524d5\u6b65\uff0c\u76f4\u63a5\u4ece\u7b2c\u516d\u6b65\u5f00\u59cb\u3002 ",
         "uid": "0c0rtkHHP"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350651552,
-        "string": "",
-        "uid": "ElpuQ0a-N"
       },
       {
         "edit-email": "leefuxiang@gmail.com",
@@ -31675,74 +31707,10 @@
         "uid": "vj0qdTfsF"
       },
       {
-        "children": [
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[An introduction to Roam-flavored Markdown](https://www.roamstack.com/templates/#intro-markdown)",
-            "uid": "pUKMBZIdN"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[Why use text templates?](https://www.roamstack.com/templates/#why-text-templates)",
-            "uid": "i9xv9UARm"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[Create your own Roam shortcodes that turn into templates](https://www.roamstack.com/templates/#text-expander-choices)",
-            "uid": "dlfN6vWF9"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[System-wide text expansion](https://www.roamstack.com/templates/#system-wide-text-expansion)",
-            "uid": "lDaycSNNq"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[Browser-wide text expansion](https://www.roamstack.com/templates/#browser-wide-text-expansion)",
-            "uid": "nemavlzQ9"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[Roam-wide text expansion](https://www.roamstack.com/templates/#roam-wide-text-expansion)",
-            "uid": "sSr5Uscbz"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[Low-tech: copy-paste](https://www.roamstack.com/templates/#low-tech-copy-paste)",
-            "uid": "7FOPIYTL9"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609823,
-            "string": "[Text template examples](https://www.roamstack.com/templates/#text-template-examples)",
-            "uid": "w2UzI32eM"
-          }
-        ],
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609823,
-        "heading": 2,
-        "string": "Table of Contents",
-        "uid": "FAu_LsKkk"
-      },
-      {
         "edit-email": "leefuxiang@gmail.com",
         "edit-time": 1603352098759,
         "string": "\u914d\u5957\u6559\u5b66\u89c6\u9891YouTube video by\u00a0Les Kristofs https://youtu.be/aJEqN98j2W4",
         "uid": "Hzny0lKS9"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609823,
-        "heading": 2,
-        "string": "[]()An introduction to Roam-flavored Markdown",
-        "uid": "V37V9puS9"
       },
       {
         "children": [
@@ -31757,12 +31725,6 @@
         "edit-time": 1603350609826,
         "string": "**Step 1: Create roam/js page**",
         "uid": "v_2u4zZJu"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Markdown is a way to add formatting to plain text in a way that can be interpreted by text editors (like Roam). Mastering Markdown is easy and sets you on the path of becoming a keyboard-first user, which will speed up your workflow a lot.",
-        "uid": "1JOLzM1WQ"
       },
       {
         "children": [
@@ -31783,12 +31745,6 @@
         "edit-time": 1603350609826,
         "string": "**Step 2: Enable JavaScript on roam/js page**",
         "uid": "cta52HryN"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "If you\u2019re going to use text templates that you create outside Roam (using an app or browser extension), you\u2019ll need Markdown. If you\u2019re going for the \u201cRoam-native\u201d expansion plugin we\u2019re teaching you later, you can directly style your templates in Roam.",
-        "uid": "M5ghJLwsP"
       },
       {
         "children": [
@@ -31841,12 +31797,6 @@
         "uid": "xYOXhwtTf"
       },
       {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "**Bold****",
-        "uid": "q3WzYXO4s"
-      },
-      {
         "children": [
           {
             "edit-email": "leefuxiang@gmail.com",
@@ -31893,12 +31843,6 @@
         "edit-time": 1603350609827,
         "string": "**Step 4: Add plugin to code block**",
         "uid": "Kmfq6fApf"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "__Italics____ (double underscore)",
-        "uid": "HYdjw80p-"
       },
       {
         "children": [
@@ -31961,182 +31905,6 @@
         "edit-time": 1603350609827,
         "string": "**Step 5: Enable JavaScript**",
         "uid": "BCdYxpFIK"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "~~Strikethrough~~~~",
-        "uid": "ts1FvRgEn"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Highlight^^",
-        "uid": "OLUlfK9hF"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Heading 1 *#",
-        "uid": "IRK-l-ESp"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Heading 2 *##",
-        "uid": "K5J6FKr3l"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Heading 3 *###",
-        "uid": "Yez2JFJQ0"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "__* These shortcodes only work in text templates, not when directly typed in Roam.__",
-        "uid": "UWIDbUNS6"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603351396577,
-        "heading": 2,
-        "string": "Why use text templates?",
-        "uid": "Zps0A_TYl"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Roam has no inherent structure as it\u2019s a tool for networked thinking; each block can connect to every block. But, there is some hierarchy on a page level; the way blocks are placed.",
-        "uid": "yA1J77y6u"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Many Roamans plan their pages with attributes and headings, to give their system some structure and make it easier to retrieve notes. But having to type the same thing again and again is wasteful. A programmer wouldn\u2019t do that, and we\u2019re here to become programmers of thoughts.",
-        "uid": "GZwRsz3sX"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Early on, Roamans started to keep pages of text snippets that they use often. As Roam\u2019s markup information is all in characters you can type, people could go completely wild.",
-        "uid": "2mnIWTed9"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "Before long, other people pointed to text expanders, and now thousands of Roamans are creating their own Roam shortcuts each day. Some have 1000-character templates that they trigger with three keystrokes; the possibilities are almost endless.",
-        "uid": "zy0VZsABe"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "string": "We will now cover a few ways to reduce typing in Roam. Then, we share snippets we use ourselves so you get an idea of what\u2019s possible.",
-        "uid": "xTOuHHTug"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609824,
-        "heading": 2,
-        "string": "[]()Create your own Roam shortcodes that turn into templates",
-        "uid": "Oa4vQR7Vy"
-      },
-      {
-        "children": [
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609826,
-            "string": "System-wide: apps",
-            "uid": "ARmbQcPAT"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609826,
-            "string": "Browser-wide: extensions",
-            "uid": "LULoBCEVs"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609826,
-            "string": "Roam-wide: JavaScript.",
-            "uid": "5BZKIE2s-"
-          }
-        ],
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "Now that you understand the power of text templates, let\u2019s dive into the different ways to set up some automation for them. There are three ways, each requiring different tools and knowledge:",
-        "uid": "nZw9aEJuP"
-      },
-      {
-        "children": [
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609826,
-            "string": "If you want to have access to templates on your whole system, go for a proper text expander app (requires a purchase).",
-            "uid": "jY3VeA1Vy"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609826,
-            "string": "If you\u2019re likely to use templates on other websites too, go for the browser extension.",
-            "uid": "SZQDZrtEu"
-          },
-          {
-            "edit-email": "leefuxiang@gmail.com",
-            "edit-time": 1603350609826,
-            "string": "If you\u2019re strapped for cash and are only likely to use shortcuts in Roam, go for the templates in Roam.",
-            "uid": "8LgoIFxbl"
-          }
-        ],
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "We\u2019ll discuss each option briefly, starting with system-wide apps. Then, we move to the browser, and finish by walking you through an implementation specifically for Roam. Each approach has its advantages and disadvantages. Pick one:",
-        "uid": "8zbJUoBTT"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "heading": 2,
-        "string": "[]()System-wide text expansion",
-        "uid": "isanfFKRE"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "In this category, we see famous apps like\u00a0[Alfred](https://www.alfredapp.com/)\u00a0(Mac) and\u00a0[TextExpander](https://textexpander.com/)\u00a0(Mac, Windows, and mobile). The advantage of using a text expansion\u00a0__app__\u00a0is that you can use it anywhere on your system.",
-        "uid": "zBP_aRQnq"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "Want to set up templates for Word? Or email templates for Outlook? Use an app. You\u2019ll be able to set up simple text templates, but they also have dynamic fields to insert other data\u2014think of the time, date, or manual inputs.",
-        "uid": "9U5VsB0eo"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "If you go with TextExpander, your snippets will sync across all your devices. However, this costs you a yearly fee of $40. If you\u2019re a Mac user and only need to have text templates on one device, Alfred is probably a better option with its one-time fee.",
-        "uid": "1cP5nongJ"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "heading": 2,
-        "string": "[]()Browser-wide text expansion",
-        "uid": "i5nUFWQjw"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "We don\u2019t have a lot of experience in the area of browser-based text expanders, but one tool that keeps popping up on our radar is\u00a0[Text Blaze](https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj). This is a free extension (while still in beta) that works in Chromium browsers (Chrome, Edge, Brave, Vivaldi).",
-        "uid": "ABtkuNguL"
-      },
-      {
-        "edit-email": "leefuxiang@gmail.com",
-        "edit-time": 1603350609826,
-        "string": "Text Blaze works the same as system-wide apps, but only in your browser. Given that Roam currently is a web app, Text Blaze will be enough for most users.",
-        "uid": "r8S5-8Rac"
       }
     ],
     "create-email": "leefuxiang@gmail.com",
@@ -32197,27 +31965,11 @@
             "children": [
               {
                 "create-email": "jyciloveyoumost@gmail.com",
-                "create-time": 1603451454191,
-                "edit-email": "jyciloveyoumost@gmail.com",
-                "edit-time": 1603451454191,
-                "string": "To Dr. Marcus Raichle, discoverer of the default",
-                "uid": "RPJxr7JyE"
-              },
-              {
-                "create-email": "jyciloveyoumost@gmail.com",
                 "create-time": 1603361762673,
                 "edit-email": "jyciloveyoumost@gmail.com",
                 "edit-time": 1603451454196,
                 "string": "mode network, whose breakthrough made our work possible, whose science\nunderlies this entire book, and for whose guidance we are profoundly grateful.",
                 "uid": "LkIEDpjWW"
-              },
-              {
-                "create-email": "jyciloveyoumost@gmail.com",
-                "create-time": 1603361735921,
-                "edit-email": "jyciloveyoumost@gmail.com",
-                "edit-time": 1603361735937,
-                "string": "Title Page",
-                "uid": "rGK4Yk3m2"
               },
               {
                 "children": [
@@ -38318,14 +38070,6 @@
                 "edit-time": 1603361735937,
                 "string": "Part One: The Butterflies",
                 "uid": "OE2UPRQ3c"
-              },
-              {
-                "create-email": "jyciloveyoumost@gmail.com",
-                "create-time": 1603361735921,
-                "edit-email": "jyciloveyoumost@gmail.com",
-                "edit-time": 1603361735937,
-                "string": "Copyright",
-                "uid": "GKPJ6Q-XH"
               },
               {
                 "children": [
@@ -45236,24 +44980,8 @@
                 "create-time": 1603361735921,
                 "edit-email": "jyciloveyoumost@gmail.com",
                 "edit-time": 1603361735937,
-                "string": "Dedication",
-                "uid": "qZSvQ35WY"
-              },
-              {
-                "create-email": "jyciloveyoumost@gmail.com",
-                "create-time": 1603361735921,
-                "edit-email": "jyciloveyoumost@gmail.com",
-                "edit-time": 1603361735937,
                 "string": "Chapter Summaries",
                 "uid": "l-PTTdRv1"
-              },
-              {
-                "create-email": "jyciloveyoumost@gmail.com",
-                "create-time": 1603361735921,
-                "edit-email": "jyciloveyoumost@gmail.com",
-                "edit-time": 1603361735937,
-                "string": "Contents",
-                "uid": "bTbk4-uhE"
               },
               {
                 "create-email": "jyciloveyoumost@gmail.com",
@@ -48863,12 +48591,46 @@
             "uid": "AxIAql8tl"
           },
           {
+            "children": [
+              {
+                "create-email": "89780998@qq.com",
+                "create-time": 1603702146601,
+                "edit-email": "89780998@qq.com",
+                "edit-time": 1603702146609,
+                "string": "max-height: calc(100%);",
+                "uid": "ZgKB3Ltgx"
+              },
+              {
+                "create-email": "89780998@qq.com",
+                "create-time": 1603702146601,
+                "edit-email": "89780998@qq.com",
+                "edit-time": 1603702146609,
+                "string": "overflow-y: auto;",
+                "uid": "6l5Ous_xp"
+              }
+            ],
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": "#all-pages-search {",
+            "uid": "5xL7Xuvj5"
+          },
+          {
             "create-email": "89780998@qq.com",
             "create-time": 1603709805753,
             "edit-email": "89780998@qq.com",
             "edit-time": 1603709998578,
             "string": "/* chrome\u6d4f\u89c8\u5668 4240.111 \u7248\u672c\u4e0a \u51fa\u73b0\u4e86 allPage\u663e\u793a\u4e0d\u5168\u7684\u517c\u5bb9\u6027\u95ee\u9898 */",
             "uid": "FcFf0GnG9"
+          },
+          {
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": "}",
+            "uid": "fK1XzLGLI"
           },
           {
             "children": [
@@ -48905,12 +48667,38 @@
             "uid": "dbq5hWyQC"
           },
           {
+            "children": [
+              {
+                "create-email": "89780998@qq.com",
+                "create-time": 1603702146601,
+                "edit-email": "89780998@qq.com",
+                "edit-time": 1603702146609,
+                "string": "height:inherit !important;",
+                "uid": "Si3DC3yeD"
+              }
+            ],
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": ".roam-article, #all-pages-search, .sidebar-content > *{",
+            "uid": "PtcOGAcwy"
+          },
+          {
             "create-email": "89780998@qq.com",
             "create-time": 1603709805753,
             "edit-email": "89780998@qq.com",
             "edit-time": 1603709805790,
             "string": "}",
             "uid": "g9lCSd0y3"
+          },
+          {
+            "create-email": "89780998@qq.com",
+            "create-time": 1603702146601,
+            "edit-email": "89780998@qq.com",
+            "edit-time": 1603702146609,
+            "string": "}",
+            "uid": "PD6S8XGGt"
           },
           {
             "create-email": "89780998@qq.com",
@@ -49677,7 +49465,7 @@
         "create-email": "jerryliang9609@gmail.com",
         "create-time": 1603860026302,
         "edit-email": "jerryliang9609@gmail.com",
-        "edit-time": 1603891028148,
+        "edit-time": 1603860127173,
         "string": "#@Jerry",
         "uid": "mBM4Kl94d"
       },
@@ -49846,6 +49634,12 @@
                     "edit-time": 1603880258344,
                     "string": "communication based on time linear structure",
                     "uid": "JSr-12R9H"
+                  },
+                  {
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1603880252658,
+                    "string": "Example: whatsapp/wechat/qq/twiiter/weibo/",
+                    "uid": "bjuQVuslQ"
                   },
                   {
                     "children": [
@@ -51364,6 +51158,98 @@
         "edit-time": 1603941729111,
         "string": "[[kunpeng9.serious]] =",
         "uid": "BzWDFNvV3"
+      },
+      {
+        "children": [
+          {
+            "create-time": 1603950349484,
+            "edit-time": 1603950351971,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIUAd6x2nQN.png?alt=media&token=44c7237d-010b-4dec-b5a6-9234445fe5f9)",
+            "uid": "qv3P9JgEL"
+          },
+          {
+            "create-time": 1603950359937,
+            "edit-time": 1603950392752,
+            "string": "\u4e4b\u524d\u7528choco\u5b89\u88c5\u8fc7\u5370\u8c61\u7b14\u8bb0\uff0c\u4f46\u662f\u540e\u6765\u53d1\u73b0\u662f\u8001\u7248\u672c\u7684\uff0c\u65b0\u7248\u672c\u6ca1\u6709\u66f4\u65b0\u5230\u5e93\u91cc\u9762\u5c31\u628a\u5b83\u5378\u8f7d\u4e86\uff0c\u4e0d\u77e5\u9053\u4e3a\u5565\u8fd9\u4e2a\u663e\u793a\u8fd8\u5728\uff1b",
+            "uid": "nyJELF8ob"
+          },
+          {
+            "create-time": 1603950483846,
+            "edit-time": 1603950500174,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FZcpA1MbxZP.png?alt=media&token=f13d759d-b1ff-4427-b1cb-6c2840979d8d)\u62d2\u7edd\u8bbf\u95ee\uff0c\u5fd8\u8bb0\u6253\u5f00\u4ee3\u7406\u4e86\uff1b",
+            "uid": "O8MlB3NeD"
+          },
+          {
+            "create-time": 1603950550927,
+            "edit-time": 1603950559050,
+            "string": "\u6253\u5f00\u5b89\u88c5\u6587\u4ef6\u5939![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FnvzUddEqVc.png?alt=media&token=8d9cb184-4b21-4a06-af61-85e192d22287)",
+            "uid": "Dou-woR26"
+          },
+          {
+            "create-time": 1603950584546,
+            "edit-time": 1603950620655,
+            "string": "\u663e\u793a\u662f\u65b0\u5b89\u88c5\u7684\uff0c\u4e4b\u524d\u597d\u50cf\u5378\u8f7d\u9519\u4e86\uff1bC:\\Users\\YEDONG\\AppData\\Local\\Programs\\PicGo![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYrWSpHv0Pm.png?alt=media&token=05863f68-6000-410f-a2b5-1c8e3631fc4c)",
+            "uid": "w2Fh7xTyP"
+          },
+          {
+            "create-time": 1603950619997,
+            "edit-time": 1603950700298,
+            "string": "\u5c06\u914d\u7f6e\u6587\u4ef6\u7c98\u8d34\u8fc7\u6765\uff1b![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvNQYH2WjVx.png?alt=media&token=840fe8b1-2289-4180-b536-7af3b60505a4)",
+            "uid": "-QfiMNpuK"
+          },
+          {
+            "create-time": 1603950700571,
+            "edit-time": 1603950844070,
+            "string": "\u8fd8\u662f\u5565\u90fd\u6ca1\u6709\uff0c\u7b49\u7b49\uff0c\u4e4b\u524d\u662f\u4e0d\u662f\u5fd8\u8bb0\u91cd\u542f\u4e86\uff1b\u91cd\u542f\u5e94\u7528\uff1b\u8fd8\u662f\u4e0d\u884c\uff0c\u8f6f\u4ef6\u4e0d\u8bfb\u53d6\u914d\u7f6e\u6587\u4ef6\uff1b\u8bbe\u7f6e\u91cc\u9762\u6253\u5f00\u914d\u7f6e\u6587\u4ef6\uff0c\u53d1\u73b0\u662f\u57fa\u672c\u6ca1\u5565\u5185\u5bb9\uff0c\u4e5f\u5c31\u662f\u8bfb\u7684\u4e0d\u662f\u7c98\u8d34\u7684\u90a3\u4e2a\uff1b",
+            "uid": "C2YoOYTIw"
+          },
+          {
+            "create-time": 1603950844065,
+            "edit-time": 1603950937402,
+            "string": "\u65e0\u5948\uff0c\u256e(\u256f\u25bd\u2570)\u256d\uff0c\u6253\u5f00\u4e4b\u524d\u7684\u5907\u4efd\u6587\u4ef6\u590d\u5236\uff0c\u7c98\u8d34\u5230\u6b64\u6587\u4ef6\uff1b\u4fdd\u5b58\uff0c\u5173\u95ed\uff0c\u91cd\u542f\u3010\u8bdd\u8bf4\u8f6f\u4ef6\u7684\u914d\u7f6e\u600e\u4e48\u4e0d\u5728\u8fd9\u4e2a\u5730\u65b9\uff0c\u5b83\u653e\u54ea\u91cc\u53bb\u4e86\uff1f\uff1f\uff1f\u3011![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYz4tW_tBa0.png?alt=media&token=d7d3dafd-ce6b-478d-ba6d-037a24141abc)",
+            "uid": "DTSaEsLQh"
+          },
+          {
+            "create-time": 1603950938811,
+            "edit-time": 1603951088345,
+            "string": "\u597d\u6ca1\u95ee\u9898\uff0c\u6210\u529f\u4e86\uff0c\u6211\u5565\u65f6\u5019\u6253\u5f00\u4e86\u5fae\u535a\u56fe\u5e8a\uff1f\u6ca1\u6709\u628a\uff0c\u518d\u8bbe\u7f6e\u4e00\u4e0b\uff0c\u518d\u5907\u4efd\u4e00\u4e2a\uff0c\u5907\u4efd\u6587\u4ef6\u5728\u54ea\u91cc\uff1f\u53ea\u80fd\u518d\u8bbe\u7f6e\u4e00\u4e0b\u4e86\uff0c\u4e4b\u524d\u6709\u51e0\u6b21\u6298\u817e\u8fc7\u63d2\u4ef6\u6765\u7740\uff0c\u540e\u6765\u51fa\u4e86\u51e0\u6b21\u6bdb\u75c5\u518d\u4e5f\u6ca1\u7eed\u4e0a\uff0c\u5378\u8f7d\u91cd\u88c5n\u56de\uff0c\u63d2\u4ef6\u4e5f\u5c31\u6ca1\u548b\u7528\u4e86\u3002",
+            "uid": "fRL82tKeV"
+          },
+          {
+            "create-time": 1603951088767,
+            "edit-time": 1603951150504,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FuONv574T1M.png?alt=media&token=0df06ef2-39f9-4133-a142-b8c85127ac2a)\u53ea\u6709\u4e00\u4e2a\u56fe\u7247\uff0c\u4e5f\u4e0d\u77e5\u9053\u8fd9\u4e2a\u8bfb\u53d6\u662f\u600e\u4e48\u56de\u4e8b\uff0c\u660e\u660e\u56fe\u5e8a\u91cc\u6709\u4e0d\u5c11\u56fe\u7684\uff1b",
+            "uid": "bEHKjMrVv"
+          },
+          {
+            "create-time": 1603951181645,
+            "edit-time": 1603951618587,
+            "string": "\u5173\u95ed\u5fae\u535a\u7684\uff0c\u53ea\u4f7f\u7528\u4e24\u4e2a\u56fe\u5e8agithub\u548c\u963f\u91cc\u4e91\u7684\uff0c\u5176\u4ed6\u7684\u867d\u7136\u6ce8\u518c\u4e86\u8d26\u53f7\uff0c\u4f46\u662f\u4e3a\u9632\u6b62\u7cbe\u529b\u5206\u6563\uff0c\u53ea\u7528\u8fd9\u4e24\u4e2a\u4e86\uff1b![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXWD_p8Gpuz.png?alt=media&token=9c0f6ce4-4497-4471-882d-41260a5e3fd0)\u8fd9\u4e2a\u5e94\u8be5\u662f\u56fe\u7247\u5730\u5740\u628a\uff0c\u4f46\u662f\u53ea\u6709\u8fd9\u4e2a\u4e00\u4e2a\u7684\uff1b\u4e4b\u524d\u901a\u8fc7\u8fd9\u4e2a\u4e0a\u4f20\u7684\u90fd\u6ca1\u6709\uff0c\u7531\u4e8e\u4e0d\u65ad\u51fa\u73b0\u95ee\u9898\uff0c\u914d\u7f6e\u6587\u4ef6\u6839\u672c\u5c31\u6ca1\u6709\u8bb0\u5f55\uff0c\u4e5f\u4e0d\u80fd\u4ece\u4e91\u5b58\u50a8\u91cc\u9762\u8bfb\u53d6\u663e\u793a\u51fa\u6765\uff1b\u53e6\u5b58\u4e3a\uff0c\u5b58\u4e4b\u524d\u52a0\u4e0a\u914d\u7f6e\u7684\u8bb0\u5f55\u65f6\u95f4\uff0c\u5220\u6389\u4e4b\u524d\u7684\u914d\u7f6e\u6587\u4ef6\uff1b",
+            "uid": "6bn1qGkzL"
+          },
+          {
+            "create-time": 1603951712568,
+            "edit-time": 1603951770768,
+            "string": "\u7ee7\u7eed\u5b89\u88c5flash\u8f93\u5165choco install flashplayerplugin [[Win]\u4f7f\u7528Chocolatey\u7ba1\u7406\u4f60\u7684\u5c0f\u8f6f\u4ef6\u4eec - \u77e5\u4e4e](https://zhuanlan.zhihu.com/p/42441423)",
+            "uid": "ztbk45TlT"
+          },
+          {
+            "create-time": 1603951885695,
+            "edit-time": 1603951950270,
+            "string": "\u5fc3\u7d2f\uff0c\u6628\u5929\u56fa\u5b9a\u7684\u6807\u7b7e\u9875\u4eca\u5929\u4e00\u770b\u53c8\u662f\u8fd9\u6837\u5b50\uff0c\u4e4b\u524d\u597d\u50cf\u77e5\u9053\uff0c\u4f46\u662f\u5fd8\u8bb0\u8bb0\u5f55\u4e86![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fw2wGMrKMdC.png?alt=media&token=8d009b44-5ba7-4854-b4df-2f1f398fc2c9)nlp\u7684\u7f51\u9875\u4e3a\u5565\u53c8\u6ca1\u6709\u4e86\uff0c\u83ab\u540d\u5176\u5999\uff1bhttps://www.aliyun.com/notfound/ \u522b\u7684\u5fd8\u8bb0\u90fd\u6ca1\u4e8b\u7684\uff1b",
+            "uid": "-eMXVRV2E"
+          },
+          {
+            "create-time": 1603952144127,
+            "edit-time": 1603952144127,
+            "string": "",
+            "uid": "5aUOygk7u"
+          }
+        ],
+        "create-time": 1603950346172,
+        "edit-time": 1603950356779,
+        "string": "[[kunpeng9.serious]] =",
+        "uid": "lpGGF4Uon"
       }
     ],
     "edit-email": "cjun72@gmail.com",
