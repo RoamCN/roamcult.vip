@@ -79,5 +79,48 @@
     - ![](../images/j7U5shpxc4.png?)
     - log文件哪里去了；
     - 啊啊啊ε＝ε＝ε＝(#>д<)ﾉ，好麻烦，干算，gui吧；![](../images/wu5OiEWSs-.png?)
+    - 发现点击还不行，操作逻辑有点陌生，由于不知道安装啥好，gui好久没用了；
+    - ![](../images/QOGtMzO21R.png?)
+    - 鼠标右键然后install
+    - [火绒](火绒.md)弹出阻止，点击全部允许
+    - ![](../images/jIkU817Zz4.png?)  这个分区没动作啊，点击动作打开文件夹
+    - ![](../images/NsZTFVvxRT.png?)
+    - 是不是还是原来安装的那个，开始 里面怎么没有多个1
+    - ![](../images/-hUeS_qBMD.png?)
+    - 点开文件夹
+    - 和之前安装包安装的不一样
+    - ![](../images/ZsS8NRAPQG.png?)
+    
+.nu的和ps1后缀的文件，只有几个；没有exe；
+    - 等等，难道我之前安装了3个？
+    - ![](../images/1xgtobkvLj.png?)
+    - 我删除了一个，但是这里还有一个？
+    - ![](../images/tQAs-zu5Xv.png?)
+    - C:\Users\YEDONG\AppData\Local\Programs\PicGo 这个位置的；没有配置文件，复制过来；
+    - ![](../images/M2LemATi21.png?)改回data
+    - 它不读取；![](../images/SIl063MYw0.png?)
+    - 算了，还是卸载；
+    - 关了2个的，怎么又有2个![](../images/2sQt109MHn.png?)
+    - 再删，文件删掉了；![](../images/XL5EUZd1uC.png?)
+    - 用微软的搜索
+    - ![](../images/KlsdIAWQwR.png?)
+    - 发现我之前scoop安装的安装包；没有操作；
+    - ![](../images/vuOQZNnTFo.png?)
+    - 因为决定把精力主要集中在巧克力上，所以[scoop](scoop.md)就不用了，把3个安装包剪切到h；
+    - 这个有图诶，比较稀奇，就是依然是[mac](mac.md)的窗口，一看就是![](../images/i-b8zXjdgt.png?)
+    - 有点懵了，全是.nu，不是以往我熟悉的exe【点击就完事了】，那这个怎么[运行](运行.md)？回看 复习一下文章；[picgo 的相关文章 - 少数派](https://sspai.com/search/post/picgo) [搜索文章 - 少数派](https://sspai.com/search/post/choco)
+    - [全平台的备份指南，让你从此重装不再难 - 少数派](../images/LGBNKV1gn8.png?)
+    - 之前看漏了；![](../images/2kv-OwucP_.png?)
+    - 把文件目录导出到哪里去了？这个也没有提示一下；导成啥文件了？choco list li
+    - [choco](choco.md) [list](list.md) li
+    - 看错了；
+        - 手动安装的软件列表可以借助 Chocolatey 来导出：
+        - choco list -li
+    - 打开当前目录，就可以看到 choco.[txt](txt.md) 已经生成。所在目录以[命令提示符](命令提示符.md)前缀为准，如下图中，choco.txt 会生成于 C:\workspace 中。这个wokspace是啥意思，没有找到；![](../images/b9oO0l7Yf3.png?)
     - 
-- 
+    - ********
+    - 我在看你操作 @苏维
+        - 没太看明白, 你在解决什么问题
+        - [kunpeng9.serious](kunpeng9.serious.md) =就是记录一下操作
+        - get~
+        - [kunpeng9.serious](kunpeng9.serious.md) =我有点迷茫是不是要去把那个[官方](官方.md)课看完，那个内容有点多，二三十节，还有其他；

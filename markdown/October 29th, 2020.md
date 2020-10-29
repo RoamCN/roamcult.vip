@@ -76,5 +76,47 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fj7U5shpxc4.png?alt=media&token=87096890-2bc3-4371-b54d-6ad012c0f609)
     - log文件哪里去了；
     - 啊啊啊ε＝ε＝ε＝(#>д<)ﾉ，好麻烦，干算，gui吧；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fwu5OiEWSs-.png?alt=media&token=40554ac9-3b9a-4537-9f9d-0d7ddff6002a)
+    - 发现点击还不行，操作逻辑有点陌生，由于不知道安装啥好，gui好久没用了；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FQOGtMzO21R.png?alt=media&token=660f2d27-f367-4e00-b4a8-37f429c242ac)
+    - 鼠标右键然后install
+    - [[火绒]]弹出阻止，点击全部允许
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FjIkU817Zz4.png?alt=media&token=d3b26b6b-9112-4084-9830-c09b81fc1d9a)  这个分区没动作啊，点击动作打开文件夹
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FNsZTFVvxRT.png?alt=media&token=4cd9190a-9367-4bec-b6d6-7f744eed7123)
+    - 是不是还是原来安装的那个，开始 里面怎么没有多个1
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F-hUeS_qBMD.png?alt=media&token=3c54ed6e-9879-4639-9483-1d88e92b9ef1)
+    - 点开文件夹
+    - 和之前安装包安装的不一样
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FZsS8NRAPQG.png?alt=media&token=621a52cc-3459-4f34-91ba-15686a4f49a4)
+    - .nu的和ps1后缀的文件，只有几个；没有exe；
+    - 等等，难道我之前安装了3个？
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F1xgtobkvLj.png?alt=media&token=4cccbcbb-b4af-41fc-b835-794c09df69fc)
+    - 我删除了一个，但是这里还有一个？
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FtQAs-zu5Xv.png?alt=media&token=5c4daf73-948d-4ec5-80eb-b62853cb11d6)
+    - C:\Users\YEDONG\AppData\Local\Programs\PicGo 这个位置的；没有配置文件，复制过来；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FM2LemATi21.png?alt=media&token=7bf68345-5d05-4a7c-ba0c-0898a3864980)改回data
+    - 它不读取；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FSIl063MYw0.png?alt=media&token=c51be657-ee87-4b21-a8f9-608cffcf3b7b)
+    - 算了，还是卸载；
+    - 关了2个的，怎么又有2个![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F2sQt109MHn.png?alt=media&token=5e62f165-834d-408f-a353-64ef131c5376)
+    - 再删，文件删掉了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FDu0yYX_JdM.png?alt=media&token=57abd11a-797a-4687-b9f9-0c65aba1e20a)我没操作啊，哪个操作的，为啥会多这么多*？是漫游者的bug吗？![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXL5EUZd1uC.png?alt=media&token=a367183c-c483-4493-8f46-5d36140bc1e7)
+    - 用微软的搜索
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FKlsdIAWQwR.png?alt=media&token=be1c797f-2c37-4500-9129-2bd8f6c63b7a)
+    - 发现我之前scoop安装的安装包；没有操作；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvuOQZNnTFo.png?alt=media&token=4b00ea26-2724-4398-9ef7-ff9ae34f0f7a)
+    - 因为决定把精力主要集中在巧克力上，所以[[scoop]]就不用了，把3个安装包剪切到h；
+    - 这个有图诶，比较稀奇，就是依然是[[mac]]的窗口，一看就是![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi-b8zXjdgt.png?alt=media&token=d50de516-06de-46bc-898c-b412323bca70)
+    - 有点懵了，全是.nu，不是以往我熟悉的exe【点击就完事了】，那这个怎么[[运行]]？回看 复习一下文章；[picgo 的相关文章 - 少数派](https://sspai.com/search/post/picgo) [搜索文章 - 少数派](https://sspai.com/search/post/choco)
+    - [全平台的备份指南，让你从此重装不再难 - 少数派](https://sspai.com/post/56272)这个文章之前好像没有看到啊，![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F4msgUoIdf6.png?alt=media&token=fe5e8c3a-a3d8-4791-8d9a-79d254ba8b28) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FLGBNKV1gn8.png?alt=media&token=e2c7a822-eb0a-4fcf-97de-ba9c840106c0)
+    - 之前看漏了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F2kv-OwucP_.png?alt=media&token=372f21ab-cac9-424c-a008-e10ab79eb3eb)
+    - 把文件目录导出到哪里去了？这个也没有提示一下；导成啥文件了？choco list li
+    - [[choco]] [[list]] li
+    - 看错了；
+        - 手动安装的软件列表可以借助 Chocolatey 来导出：
+        - choco list -li
+    - 打开当前目录，就可以看到 choco.[[txt]] 已经生成。所在目录以[[命令提示符]]前缀为准，如下图中，choco.txt 会生成于 C:\workspace 中。这个wokspace是啥意思，没有找到；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fb9oO0l7Yf3.png?alt=media&token=4ab848ec-2eff-4410-b4fe-39c5f9f8ab2f)
     - 
-- 
+    - ********
+    - 我在看你操作 @苏维
+        - 没太看明白, 你在解决什么问题
+        - [[kunpeng9.serious]] =就是记录一下操作
+        - get~
+        - [[kunpeng9.serious]] =我有点迷茫是不是要去把那个[[官方]]课看完，那个内容有点多，二三十节，还有其他；
