@@ -46,5 +46,38 @@
 2、修复了频繁读写[bug](bug.md)。
 3、修复了异常[断电](断电.md)导致配置损坏的bug【不知道picgo的是不是这个问题导致的，总之有时候电脑会蓝屏，之后那个就配置就没有了】
 4、其余功能请下载查看
-郁闷，吐血，为啥别人用的都好好的，我的picgo老是有问题，没有一个好用的图床软件；[打不开，老是显示这个错误。・Issue [501](501.md)・Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/501)
-        - 8个打开状态，数了一下2个是
+#[05=将来可能](05=将来可能.md) 郁闷，吐血，为啥别人用的都好好的，我的picgo老是有问题，没有一个好用的图床软件；[打不开，老是显示这个错误。・Issue [501](501.md)・Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/501)
+        - 8个打开状态，数了一下还有2个是他自己提的【一大堆的问题，估计，可能，基本上是都关闭了，无法确定问题，也没有解决】
+        - [windows7系统下PicGo启动出现错误，附上错误图片，希望大佬看到了解决一下 · Issue [547](547.md) · Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/547)一说某个问题，一大堆人跳出来，说***，
+        - 半[死亡](死亡.md)状态的一个[项目](项目.md)，作者没有多少精力维护了，真是**，麻烦；
+        - 到底用啥好，注册了一堆账号，还是犹豫不定；至今没用多少次，图床；付出和收获严重不成正比的一个；白给；真不想用七牛[云](云.md)，只想阿里云；
+        - 这样一对比起来，天若可以上传配置接口等，多么贴心呐；虽然网页还是很简陋，好歹能用；
+        - ![](../images/t2dAFsRCGx.png?)
+        - zhen真，wtf，跳出一次错误之后，打开文件夹发现data.json文件不知道啥时候消失了；备份配置找不到，搞忘记放哪里去了；
+- [kunpeng9.serious](kunpeng9.serious.md) =
+    - ![](../images/J4T9EWtUex.png?)
+    - [卸载](卸载.md)一下
+    - ![](../images/gMYll6vHE0.png?)
+    - 不知道为啥老是记得安装和更新用[巧克力](巧克力.md)，但是卸载就是忘记，想不起来；
+    - ![](../images/oaVhpTbvZZ.png?)
+    - 文件还在，当初好像安装多了，安重复了；choco和手动都安装了一份，可能是安装多了导致的干扰也说不定，卸载；
+    - ![](../images/smkFmIbtLG.png?)
+    - 发现还有一堆的问题，picgo exe还在，全部删掉；
+    - 等等！data.json没有了，一堆其他的却还在，不懂这个操作；
+    - ![](../images/Uqdwdv_KK2.png?)
+    - 任务栏里没有，但是进程还在
+    - ![](../images/U4chYo7BUK.png?)
+    - 结束任务之后就可以删除了；
+    - 再来
+    - ![](../images/N1aE6D99sq.png?)
+    - 为啥不是y n是 p和n；刚刚是不是输入错了，输入p?以前输入y好像安装成功了啊
+    - 再来
+    - 不行，还是那个错误
+    - 关闭power再来
+    - ![](../images/7svIN6y06T.png?)
+    - 算了，看下它提示的日志；
+    - ![](../images/j7U5shpxc4.png?)
+    - log文件哪里去了；
+    - 啊啊啊ε＝ε＝ε＝(#>д<)ﾉ，好麻烦，干算，gui吧；![](../images/wu5OiEWSs-.png?)
+    - 
+- 

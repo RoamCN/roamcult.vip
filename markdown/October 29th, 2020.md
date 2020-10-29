@@ -43,5 +43,38 @@
 2、修复了频繁读写[[bug]]。
 3、修复了异常[[断电]]导致配置损坏的bug【不知道picgo的是不是这个问题导致的，总之有时候电脑会蓝屏，之后那个就配置就没有了】
 4、其余功能请下载查看
-郁闷，吐血，为啥别人用的都好好的，我的picgo老是有问题，没有一个好用的图床软件；[打不开，老是显示这个错误。・Issue #501・Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/501)
-        - 8个打开状态，数了一下2个是
+#[[05=将来可能]] 郁闷，吐血，为啥别人用的都好好的，我的picgo老是有问题，没有一个好用的图床软件；[打不开，老是显示这个错误。・Issue #501・Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/501)
+        - 8个打开状态，数了一下还有2个是他自己提的【一大堆的问题，估计，可能，基本上是都关闭了，无法确定问题，也没有解决】
+        - [windows7系统下PicGo启动出现错误，附上错误图片，希望大佬看到了解决一下 · Issue #547 · Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/547)一说某个问题，一大堆人跳出来，说***，
+        - 半[[死亡]]状态的一个[[项目]]，作者没有多少精力维护了，真是**，麻烦；
+        - 到底用啥好，注册了一堆账号，还是犹豫不定；至今没用多少次，图床；付出和收获严重不成正比的一个；白给；真不想用七牛[[云]]，只想阿里云；
+        - 这样一对比起来，天若可以上传配置接口等，多么贴心呐；虽然网页还是很简陋，好歹能用；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Ft2dAFsRCGx.png?alt=media&token=d31adc4c-7858-46a6-8691-3806967963d4)
+        - zhen真，wtf，跳出一次错误之后，打开文件夹发现data.json文件不知道啥时候消失了；备份配置找不到，搞忘记放哪里去了；
+- [[kunpeng9.serious]] =
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FJ4T9EWtUex.png?alt=media&token=fb1f0b29-e4d5-4354-ab88-d57a0850b947)
+    - [[卸载]]一下
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FgMYll6vHE0.png?alt=media&token=0e4e0e39-6d93-45cc-9741-e8c07ab6b7c9)
+    - 不知道为啥老是记得安装和更新用[[巧克力]]，但是卸载就是忘记，想不起来；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FoaVhpTbvZZ.png?alt=media&token=38997c9c-baf3-4456-a1ab-6837cb63c66e)
+    - 文件还在，当初好像安装多了，安重复了；choco和手动都安装了一份，可能是安装多了导致的干扰也说不定，卸载；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FsmkFmIbtLG.png?alt=media&token=8b0f4e37-4427-4c2f-963b-a00344f5787d)
+    - 发现还有一堆的问题，picgo exe还在，全部删掉；
+    - 等等！data.json没有了，一堆其他的却还在，不懂这个操作；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FUqdwdv_KK2.png?alt=media&token=776fdedd-b1d4-4191-ae49-08a70786be46)
+    - 任务栏里没有，但是进程还在
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FU4chYo7BUK.png?alt=media&token=6461aa3e-aafc-4080-b2de-da3bfd0f54be)
+    - 结束任务之后就可以删除了；
+    - 再来
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FN1aE6D99sq.png?alt=media&token=a0dab594-09bd-403b-8cb1-a676ebdab59e)
+    - 为啥不是y n是 p和n；刚刚是不是输入错了，输入p?以前输入y好像安装成功了啊
+    - 再来
+    - 不行，还是那个错误
+    - 关闭power再来
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F7svIN6y06T.png?alt=media&token=671e379f-aac9-46af-aa1e-bbea466e490b)
+    - 算了，看下它提示的日志；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fj7U5shpxc4.png?alt=media&token=87096890-2bc3-4371-b54d-6ad012c0f609)
+    - log文件哪里去了；
+    - 啊啊啊ε＝ε＝ε＝(#>д<)ﾉ，好麻烦，干算，gui吧；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fwu5OiEWSs-.png?alt=media&token=40554ac9-3b9a-4537-9f9d-0d7ddff6002a)
+    - 
+- 
