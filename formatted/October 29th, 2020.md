@@ -192,4 +192,12 @@
     - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](../images/BKYmzwd4TT.png?)
     - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
     - ![](../images/O5Fmyh6DUR.png?) 什么时候有了文件了；
-    -  [列宁遗体现状：每年防腐就耗资上百万美元，但遗体仅剩下 10% - YouTube](https://www.youtube.com/watch?v=cGGTTQkGXVg)
+    - 吃饭顺便看了一下毛的视频；毛泽东遗体、去世之类的；
+        -  [列宁遗体现状：每年防腐就耗资上百万美元，但遗体仅剩下 10% - YouTube](https://www.youtube.com/watch?v=cGGTTQkGXVg)
+        - [毛泽东去世当晚到底经历了什么？主席身边的生活管理员说出了真相【记忆】 - YouTube](https://www.youtube.com/watch?v=lzLTll0xW9M)
+        - 坚持
+    - ![](../images/qeN7Gwckdr.png?)
+    - 打开python [console](console.md) 或者[notebook](notebook.md)
+    - Pycharm【没下这个软件，虽然很早之前听说了这个】的下方工具栏中有两个窗口：Python Console和 Terminal
+        - 其中， Python Console叫做 Python控制台，即 Python交互模式； Terminal叫做终端，即命令行模式。Python交互模式主要有两种：CPython用>作为提示符，而 IPython用In【序号】：作为提示符Python交互式模式可以直接输入代码，然后执行，并立刻得到结果，因此 PynPython交互模式主要是为了调试代码用的。命令行模式与系统的CMD（命令提示符）一样，可以运行各种系统命令。
+        - pycharm，头疼，又要安装新软件
