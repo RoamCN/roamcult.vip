@@ -47,30 +47,29 @@
         - 油猴脚本 --> [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
 - #@leekeifon
     - Q:: 有什么更好的 communication pattern? 或者说现有的communication pattern 已经足够了?
-        - thoughts [[@leekeifon]]
-            - Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. 
-                - communication based on topics/questions(mindset of problem solving)
-                    - Example: github issue
-                    - advantage
-                        - can achieve deeper understanding on the topic.
-                        - can be easily queried/retrieved, contexts are almost within that page. so that,
-                            - information last longer and more valuable, because information is not hided by other non-related information?
-                            - to be discussed, 
-                    - disadvantage
-                        - lacks cross topics inspirations?
-                        - it needs to split the gem of thoughts into different topics, I need to find a place to store, which needs a nice pre-design of granularity. 
-                            - example: discord of [[RoamCN]]
-                - communication based on time linear structure
-                - communication based on time linear structure
-                    - Example: whatsapp/wechat/qq/twiiter/weibo/
-                        Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions(mindset of problem solving)"
-                    - advantage
-                        - Timeliness and the feeling of communication freedom.
-                    - disadvantage
-                        - topic will change quickly in time.
+        - Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. from [[@leekeifon]] 
+            - related to "#[[inline block reference]]团队协作举例"
             - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。(to be formalized)
                 - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
-            - related to "#[[inline block reference]]团队协作举例"
+            - communication based on topics/questions(mindset of problem solving)
+                - Example: github issue
+                - advantage
+                    - can achieve deeper understanding on the topic.
+                    - can be easily queried/retrieved, contexts are almost within that page. so that,
+                        - information last longer and more valuable, because information is not hided by other non-related information?
+                        - to be discussed, 
+                - disadvantage
+                    - lacks cross topics inspirations?
+                    - it needs to split the gem of thoughts into different topics, I need to find a place to store, which needs a nice pre-design of granularity. 
+                        - example: discord of [[RoamCN]]
+            - communication based on time linear structure
+            - communication based on time linear structure
+                - Example: whatsapp/wechat/qq/twiiter/weibo/
+                    Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions(mindset of problem solving)"
+                - advantage
+                    - Timeliness and the feeling of communication freedom.
+                - disadvantage
+                    - topic will change quickly in time.
 - [[kunpeng9.serious]] =真不想[[学习]]，要学的东西已经排了长长长长的队列了，为了[[调用]]阿里云的[[自然语言处理]]【自然语言处理】[[api]]不得不学习[[json]]；[[难受]]；
     - 今天稀里糊涂又下载了一大堆的动作，json的，[[quicker]]还不定名字，敲的有点累，每次没有中文名的，都要让我多敲几下[[键盘]]；
     - [quicker的中文名？ · Issue #1281 · cuiliang/Quicker](https://github.com/cuiliang/Quicker/issues/1281) 【群里有大佬的话，帮群主一下，我记得以前在群里好像和他说过这个，到现在了还没确定中文名，之前在[[rsshub]]各种推，搞的我差点被退群；好像在电报还被[[禁言]]了2次】
