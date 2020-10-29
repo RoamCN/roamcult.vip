@@ -227,4 +227,5 @@
     - 之前文章里面记录的问题还是有![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCLTj-bg6Bm.png?alt=media&token=de67af3a-fca3-42a4-ac10-1801ff4d79e8)
     - 视图最爽！！！虽然已经比较落后[[潮流]]，但是我当初，一开始使用[[印象笔记]]时候慢慢浮现出来的一个[[设想]]已经差不多被完全[[实现]]了；但是漫游者已经是最前沿的，最潮的，分解到最基本大小【分解成词语，加双链，不停链接，笔记[[精加工]]】
     - 太可惜了，印象笔记动作有点慢；[[国内]]版的更加拉胯；
-- 
+    - [SmoothNLP 语义解析平台](http://nlp.smoothnlp.com/#/main)
+    - 
