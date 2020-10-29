@@ -212,3 +212,25 @@
     - ![](../images/T0tZ-UlGZX.png?)是xmind里面登录印象笔记用的吗？配置文件；账号密码；
     - 这么大的文件；![](../images/W6xf1xqdBV.png?)
     - 难怪之前un卸载，扫描的时候老半天都没反应；卡死了；![](../images/Rpq4LaFbni.png?) 大概15gb；
+    - 删了三四分钟才删完，一般删程序很快，卸载一般只卸程序；等下同步又要一阵子了；
+    - 哎，删了好几个exe了，有的我还没有记录，之前失误到底安装了几个？
+    - ![](../images/ySXBTsvM1f.png?)
+    - ![](../images/6ewpD0nms7.png?)管理员权限，然后删掉；
+    - ![](../images/7M3s2nDnYC.png?)
+    - 怎么回事有两个![](../images/07s-3aDjc7.png?)
+    - ![](../images/KWLxSY8BCB.png?)
+    - ![](../images/vIa92BJvGe.png?)文件日志发给官方；
+    - 总算删光了；![](../images/c95QG6L647.png?)只有intel的，bin是回收站里的文件；
+    - 一下子空间就充裕了；![](../images/A_Znnd3W80.png?)
+    - ![](../images/dbVTyZFXEN.png?)
+    - ![](../images/r2OV1ntke8.png?)
+    - 是不是有个[bug](bug.md)？发现上传图片未成功的时候我打字会出现拼音状态，我一直都是中文输入的；
+    - 这回安装比以往慢，之前打不开[重装](重装.md)的时候，印象笔记安装都有点过快了；![](../images/iobWtwCMHW.png?)
+    - 总算可以打开了，一番折腾总算没白费，快半个星期乃至一个月没有用印象笔记客户端了；
+    - 将此项目的链接发给印象笔记官方了；先检查本地笔记本，![](../images/XkxXDNXlee.png?)
+    - 从客户端到日志；C:\Users\YEDONG\AppData\Roaming\Evernote\logs 地址![](../images/C7EOdXnVUe.png?)
+    - 没有同步，直接安装之后就打开了，直接查看；![](../images/6C-ecFMwjQ.png?)笔记文件没有被删除；那之前删的是哪个？算了不管了；
+    - ![](../images/tJ0iBThxtX.png?)改进了视图，看来之前的多次反馈有效果；终于重视了一下视图功能；多了按组显示笔记；
+    - 之前文章里面记录的问题还是有![](../images/CLTj-bg6Bm.png?)
+    - 视图最爽！！！虽然已经比较落后[潮流](潮流.md)，但是我当初，一开始使用[印象笔记](印象笔记.md)时候慢慢浮现出来的一个[设想](设想.md)已经差不多被完全[实现](实现.md)了；但是最前沿的潮流已经，分解到最基本大小【加双链，不停链接，笔记精加工】的地步了；
+    - 

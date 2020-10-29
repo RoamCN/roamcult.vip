@@ -205,3 +205,25 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FT0tZ-UlGZX.png?alt=media&token=f96982bc-600d-4e27-a6c8-2718c29537aa)是xmind里面登录印象笔记用的吗？配置文件；账号密码；
     - 这么大的文件；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FUaLJVcMU6u.png?alt=media&token=4c4983ab-0719-4308-b1a1-1dea4e6dfbf4)我**我记得当初设置了存储位置的，不在c盘，但是更新10新版本之后之前的设置似乎是出了问题，不是数据文件应该不会有这么大的才对；难道解压缩之后有几gb；原来位置的那个文件之前看了，好像没有了？新版本可以自动扫描本地的印象笔记数据文件，自动转移位置了？![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FW6xf1xqdBV.png?alt=media&token=6febfe1f-103c-4f23-b334-274f4af95592)
     - 难怪之前un卸载，扫描的时候老半天都没反应；卡死了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FRpq4LaFbni.png?alt=media&token=6bd9ce4a-2b8c-482f-9d40-7d8a6c9d7bc9) 大概15gb；
+    - 删了三四分钟才删完，一般删程序很快，卸载一般只卸程序；等下同步又要一阵子了；
+    - 哎，删了好几个exe了，有的我还没有记录，之前失误到底安装了几个？
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FySXBTsvM1f.png?alt=media&token=1404fd90-9a6e-4bb7-89c9-70904ad572bb)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F6ewpD0nms7.png?alt=media&token=91bf26d3-c86c-46e2-85ad-cf581274d0cd)管理员权限，然后删掉；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F7M3s2nDnYC.png?alt=media&token=47dbad59-5cf0-4d23-a605-192209e83f83)
+    - 怎么回事有两个![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F07s-3aDjc7.png?alt=media&token=f86243ff-6ead-45f0-8364-6066e305cd60)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FKWLxSY8BCB.png?alt=media&token=ae5d3f8c-bbda-4d04-a31c-c4c124243552)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvIa92BJvGe.png?alt=media&token=c164a44c-0144-49c0-adb7-f91235b9a8a4)文件日志发给官方；
+    - 总算删光了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fc95QG6L647.png?alt=media&token=1bf6bfaa-1787-4881-889d-715b62cd083c)只有intel的，bin是回收站里的文件；
+    - 一下子空间就充裕了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FA_Znnd3W80.png?alt=media&token=ec2c3e4f-9a70-469c-a66c-cf296786b9f6)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FdbVTyZFXEN.png?alt=media&token=91d207ee-6561-4320-92f0-51b94570ac6e)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fr2OV1ntke8.png?alt=media&token=c181a0b5-bb5f-4ef7-832a-a29c89f84ba9)
+    - 是不是有个[[bug]]？发现上传图片未成功的时候我打字会出现拼音状态，我一直都是中文输入的；
+    - 这回安装比以往慢，之前打不开[[重装]]的时候，印象笔记安装都有点过快了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FiobWtwCMHW.png?alt=media&token=4bf4dc6c-b385-4397-a6f3-b4281ca18064)
+    - 总算可以打开了，一番折腾总算没白费，快半个星期乃至一个月没有用印象笔记客户端了；
+    - 将此项目的链接发给印象笔记官方了；先检查本地笔记本，![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXkxXDNXlee.png?alt=media&token=16322d4e-7683-4d42-b7d1-ea9580d1345b)
+    - 从客户端到日志；C:\Users\YEDONG\AppData\Roaming\Evernote\logs 地址![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FC7EOdXnVUe.png?alt=media&token=1b1960ba-284e-431f-9f59-84efd43e7c32)
+    - 没有同步，直接安装之后就打开了，直接查看；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F6C-ecFMwjQ.png?alt=media&token=397bf53e-f795-4283-81ec-9e81d45f503d)笔记文件没有被删除；那之前删的是哪个？算了不管了；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FtJ0iBThxtX.png?alt=media&token=be39bbd6-3ce7-483b-ac92-36a602eb4f8f)改进了视图，看来之前的多次反馈有效果；终于重视了一下视图功能；多了按组显示笔记；
+    - 之前文章里面记录的问题还是有![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCLTj-bg6Bm.png?alt=media&token=de67af3a-fca3-42a4-ac10-1801ff4d79e8)
+    - 视图最爽！！！虽然已经比较落后[[潮流]]，但是我当初，一开始使用[[印象笔记]]时候慢慢浮现出来的一个[[设想]]已经差不多被完全[[实现]]了；但是最前沿的潮流已经，分解到最基本大小【加双链，不停链接，笔记精加工】的地步了；
+    - 
