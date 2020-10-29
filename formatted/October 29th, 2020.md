@@ -162,7 +162,8 @@
         - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi4s-2uVjQo.log?alt=media&token=31bcee45-a010-4243-913d-2cf59f710b80
         - 😂，我现在只能捣鼓Qx,loon之类的脚本【奇怪，这个，打算微信输入这个记到滴答清单的碎片的时候不知道为啥只显示一个表情，但是在漫游者里面却可以粘贴，显示】![](../images/hFFxr7iNCw.png?)
 - [kunpeng9.serious](kunpeng9.serious.md) =处理滴答清单积压任务中
-    - 【之前在知乎看到这篇文章的，一度怀疑我是不是也有这个什么症，阿斯伯格综合症，社交很差】[Asperger’s Syndrome Test – i autistic](http://iautistic.com/treatment/aspergers-syndrome-test/)
+    - 【之前在知乎看到这篇文章的，一度怀疑我是不是也有这个什么症，阿斯伯格综合症，社交很差】测试 [Asperger’s Syndrome Test – i autistic](http://iautistic.com/treatment/aspergers-syndrome-test/)
+    - [Aspie Quiz](http://rdos.net/eng/Aspie-quiz.php)【其他语言: 过时的翻译(最终版本3) : 过时的翻译(最终版本2) : 过时的翻译(最终版本1) : 这个测试的目的是检查成年人的神经多样性/神经典型特征。[神经](神经.md)多样性分类可以在最终诊断之前给出孤独症谱系特征的可靠指标。您可以选择参与我们的长期评估分数随时间的变化，并帮助我们校准测试(您需要使用一个有效的用户标识登录或注册一个新的用户标识才能做到这一点)或直接进入简化测试。统计数据/结果保存在数据库中。原始数据和统计数据可以公布，作为研究数据使用，也可以进行校准检验。我们不保存 IP 地址或其他个人信息。删除特定数据条目的请求只能被接受，如果您以 userid 作为其他数据条目方法匿名存储数据登录。参与我们的长期评估并帮助我们改进测试(注意，家庭成员/不同的人不应重用相同的 userid) : 直接进入测试:】
     - ![](../images/yVRmBLv070.png?)桌面有快捷方式，终于搞完了，picgo从choco安装到配置备份的全流程；之前好一阵折腾搞插件等，结果凉了，至今没有恢复到当初的状态，一堆插件白安装，后面软件卸载了；
     - 所幸，由于足够重视anki较高频率备份，anki的插件、包等都安好；形成了积累；
     - 原本写日记是在印象笔记里的，由于最近桌面完全打不开，一直在用网页，不是很习惯，一直都用的客户端；所以日记几乎没有了，最近开始写记录思维的知乎文章，开始用flomo和葫芦，但是也不是太好，或许漫游者是个可行方案
@@ -171,4 +172,8 @@
     - ![](../images/Eso2SecemN.png?)
     - [表格](表格.md)没有了；我记得当初加过任务，就是大致搞清楚paper保存各种网页之后的效果，后面没怎么持续了，不了了之；
     - [instapaper](instapaper.md)豆瓣有小组，知乎也有话题或者问题，但是都不多，半死亡状态；
-    - 突然想起来这个![](../images/Oyjlwso4mM.png?)
+    - 突然想起来这个![](../images/Oyjlwso4mM.png?)instapaper保存连带翻译一起保存成功了；以前好像也试过，但是不成功；
+    
+#[05=将来可能](05=将来可能.md)[GeneratedFeeds - Tiny Tiny RSS](https://git.tt-rss.org/fox/tt-rss/wiki/GeneratedFeeds) 创建了任务10-02，没有实力参加，就放入社区了；
+    - 我【听说别人】34【服务器】一个月就放了 ttrss bitwarden[Bitwarden - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Bitwarden)
+    - 
