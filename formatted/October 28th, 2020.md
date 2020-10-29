@@ -74,6 +74,7 @@
                         - Timeliness and the feeling of communication freedom.
                     - disadvantage
                         - topic will change quickly in time.
+                - Example: whatsapp/wechat/qq/twiiter/weibo/
             - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。(to be formalized)
                 - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
             - related to "#[inline block reference](inline block reference.md)团队协作举例"
