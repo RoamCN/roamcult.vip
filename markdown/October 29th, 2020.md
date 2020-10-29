@@ -219,11 +219,12 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fr2OV1ntke8.png?alt=media&token=c181a0b5-bb5f-4ef7-832a-a29c89f84ba9)
     - 是不是有个[[bug]]？发现上传图片未成功的时候我打字会出现拼音状态，我一直都是中文输入的；
     - 这回安装比以往慢，之前打不开[[重装]]的时候，印象笔记安装都有点过快了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FiobWtwCMHW.png?alt=media&token=4bf4dc6c-b385-4397-a6f3-b4281ca18064)
-    - 总算可以打开了，一番折腾总算没白费，快半个星期乃至一个月没有用印象笔记客户端了；
+    - 总算可以打开了，一番[[折腾]]总算没白费，快半个星期乃至一个月没有用印象笔记客户端了；
     - 将此项目的链接发给印象笔记官方了；先检查本地笔记本，![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXkxXDNXlee.png?alt=media&token=16322d4e-7683-4d42-b7d1-ea9580d1345b)
     - 从客户端到日志；C:\Users\YEDONG\AppData\Roaming\Evernote\logs 地址![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FC7EOdXnVUe.png?alt=media&token=1b1960ba-284e-431f-9f59-84efd43e7c32)
     - 没有同步，直接安装之后就打开了，直接查看；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F6C-ecFMwjQ.png?alt=media&token=397bf53e-f795-4283-81ec-9e81d45f503d)笔记文件没有被删除；那之前删的是哪个？算了不管了；
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FtJ0iBThxtX.png?alt=media&token=be39bbd6-3ce7-483b-ac92-36a602eb4f8f)改进了视图，看来之前的多次反馈有效果；终于重视了一下视图功能；多了按组显示笔记；
     - 之前文章里面记录的问题还是有![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCLTj-bg6Bm.png?alt=media&token=de67af3a-fca3-42a4-ac10-1801ff4d79e8)
-    - 视图最爽！！！虽然已经比较落后[[潮流]]，但是我当初，一开始使用[[印象笔记]]时候慢慢浮现出来的一个[[设想]]已经差不多被完全[[实现]]了；但是最前沿的潮流已经，分解到最基本大小【加双链，不停链接，笔记精加工】的地步了；
-    - 
+    - 视图最爽！！！虽然已经比较落后[[潮流]]，但是我当初，一开始使用[[印象笔记]]时候慢慢浮现出来的一个[[设想]]已经差不多被完全[[实现]]了；但是漫游者已经是最前沿的，最潮的，分解到最基本大小【分解成词语，加双链，不停链接，笔记[[精加工]]】
+    - 太可惜了，印象笔记动作有点慢；[[国内]]版的更加拉胯；
+- 
