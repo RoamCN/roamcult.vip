@@ -152,5 +152,9 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FEinP3iDFcR.png?alt=media&token=e321bc5f-8c03-4aa6-8ed3-26eeb460fc33) 为啥非要这个[Flash 必要组件修复帮助 - Flash Player 帮助中心 - Flash 中国官网](https://www.flash.cn/help/service0.html) 算了放弃了不折腾了；
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FS4Ms5CkPc0.png?alt=media&token=b4502493-db7a-43aa-9b41-a03165ed40b9)xy里面不显示log，之前是把啥设置又弄错了；看日志，
     - 2019-06-27 17:03:04,895 18760 [DEBUG] - XmlConfiguration is now operational【最早记录2019年安装】【但是实际接触日期应该更早，但是学习进度≈0，迟迟没有进展，没有应用，安装之后】
-    - 日志记录【过阵子解读一下】
-        - 
+    - #[[03=等待事项]]日志记录【过阵子解读一下】【粘贴好麻烦，算了粘贴到葫芦吧】
+        - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi4s-2uVjQo.log?alt=media&token=31bcee45-a010-4243-913d-2cf59f710b80
+        - 😂，我现在只能捣鼓Qx,loon之类的脚本【奇怪，这个，打算微信输入这个记到滴答清单的碎片的时候不知道为啥只显示一个表情，但是在漫游者里面却可以粘贴，显示】![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FhFFxr7iNCw.png?alt=media&token=3ed2cc17-8688-4073-9864-7ba9a5b4a6b8)
+- [[kunpeng9.serious]] =处理滴答清单积压任务中
+    - 【之前在知乎看到这篇文章的，一度怀疑我是不是也有这个什么症，阿斯伯格综合症，社交很差】[Asperger’s Syndrome Test – i autistic](http://iautistic.com/treatment/aspergers-syndrome-test/)
+    - 

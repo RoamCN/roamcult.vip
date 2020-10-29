@@ -157,5 +157,10 @@
     - ![](../images/EinP3iDFcR.png?) 算了放弃了不折腾了；
     - ![](../images/S4Ms5CkPc0.png?)xy里面不显示log，之前是把啥设置又弄错了；看日志，
     - 2019-06-27 17:03:04,895 18760 [DEBUG] - XmlConfiguration is now operational【最早记录2019年安装】【但是实际接触日期应该更早，但是学习进度≈0，迟迟没有进展，没有应用，安装之后】
-    - 日志记录【过阵子解读一下】
-        - 
+    
+#[03=等待事项](03=等待事项.md)日志记录【过阵子解读一下】【粘贴好麻烦，算了粘贴到葫芦吧】
+        - https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi4s-2uVjQo.log?alt=media&token=31bcee45-a010-4243-913d-2cf59f710b80
+        - 😂，我现在只能捣鼓Qx,loon之类的脚本【奇怪，这个，打算微信输入这个记到滴答清单的碎片的时候不知道为啥只显示一个表情，但是在漫游者里面却可以粘贴，显示】![](../images/hFFxr7iNCw.png?)
+- [kunpeng9.serious](kunpeng9.serious.md) =处理滴答清单积压任务中
+    - 【之前在知乎看到这篇文章的，一度怀疑我是不是也有这个什么症，阿斯伯格综合症，社交很差】[Asperger’s Syndrome Test – i autistic](http://iautistic.com/treatment/aspergers-syndrome-test/)
+    - 
