@@ -8653,10 +8653,33 @@
         "edit-time": 1597241545290,
         "string": "{{comments: ((1543))",
         "uid": "JnpjUUpaS"
+      },
+      {
+        "children": [
+          {
+            "create-time": 1603934327871,
+            "edit-time": 1603934327871,
+            "string": "{{[[comment]]}}\n",
+            "uid": "wiWQ6U8Jg"
+          },
+          {
+            "create-email": "info@fat-garage.com",
+            "create-time": 1603933438711,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1603933463387,
+            "string": "{{[[comment]]}}\nhi this is @Jessie",
+            "uid": "CspBCqscG"
+          }
+        ],
+        "create-time": 1603933414673,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1603933469688,
+        "string": "{{comments: ((7414))",
+        "uid": "6E7VmKTvh"
       }
     ],
     "edit-email": "jessie@fat-garage.com",
-    "edit-time": 1597241373759,
+    "edit-time": 1603933414673,
     "title": "Roam/Comments"
   },
   {
@@ -13562,6 +13585,16 @@
     "title": "Notes"
   },
   {
+    "children": [
+      {
+        "create-email": "3001200121@cugb.edu.cn",
+        "create-time": 1603932812430,
+        "edit-email": "3001200121@cugb.edu.cn",
+        "edit-time": 1603932812430,
+        "string": "",
+        "uid": "r7YU1i3YH"
+      }
+    ],
     "create-email": "info@fat-garage.com",
     "create-time": 1600245823105,
     "edit-email": "info@fat-garage.com",
@@ -50608,15 +50641,135 @@
         "children": [
           {
             "create-time": 1603931885606,
-            "edit-time": 1603931886828,
-            "string": "[Roam Portal - Chrome \u7f51\u4e0a\u5e94\u7528\u5e97](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe/related)",
+            "edit-time": 1603931904213,
+            "string": "\u4eca\u5929\u5c1d\u8bd5\u4e86\u4e00\u4e0b\u5927\u5bb6\u8bb0\u5f55\u7684\u63d2\u4ef6[Roam Portal - Chrome \u7f51\u4e0a\u5e94\u7528\u5e97](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe/related)",
             "uid": "QjC29yz4S"
+          },
+          {
+            "create-time": 1603931906106,
+            "edit-time": 1603931936690,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fb2kvII9iOK.png?alt=media&token=7800533d-a0f7-4cc0-a8f6-47a2ac6e604d)",
+            "uid": "V9uaVoHgF"
+          },
+          {
+            "create-time": 1603931937930,
+            "edit-time": 1603931955853,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FS3n41b02kw.png?alt=media&token=656fc6d2-7869-4a50-b2c7-912cd67b949e)",
+            "uid": "sv2yMAA65"
+          },
+          {
+            "create-time": 1603931961103,
+            "edit-time": 1603932086817,
+            "string": "\u4e2a\u4eba\u4f53\u4f1a\uff0c\u540c\u7c7b\u578b\u77e5\u8bc6\u7ba1\u7406\u5de5\u5177\u91cc\u9762\uff0c\u53ef\u80fd\u53ea\u6709[[\u5370\u8c61\u7b14\u8bb0]]\u7684[[\u63d2\u4ef6]]\u6570\u91cf\u80fd\u7a33\u8d85\u6f2b\u6e38\u8005\uff1b\u5f53\u521d\u4e0b\u8f7d\u5b89\u88c5\u4e86\u4e00\u5806\u5370\u8c61\u7b14\u8bb0\u7684\u63d2\u4ef6\uff0c\u7ed3\u679c\u771f\u7684\u7528\u4e0a\u7684\u6ca1\u51e0\u4e2a\uff0c\u51e0\u4e4e\u5b8c\u5168\u62a5\u5e9f\uff0c\u767d\u7ed9\uff1b",
+            "uid": "2AvXu7Etj"
+          },
+          {
+            "create-time": 1603931982942,
+            "edit-time": 1603931994275,
+            "string": "notion\u90fd\u8981\u7a0d\u5fae\u5dee\u4e00\u4e9b\uff0c\u6bd4\u4ed6\u4eec\u4e24\u4e2a\uff1b",
+            "uid": "-HdAFJ7rb"
+          },
+          {
+            "create-time": 1603932111233,
+            "edit-time": 1603932132794,
+            "string": "\u846b\u82a6\u7b14\u8bb0\u91cc\u9762\u7c98\u8d34\u6ca1\u95ee\u9898\uff0c\u4e4b\u524d\u8001\u662f\u89e3\u4f53\uff1b![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FpGm04Xhync.png?alt=media&token=5d277790-46c8-4fad-9b68-a95bb8b04841)",
+            "uid": "-ujm1PR2Q"
+          },
+          {
+            "create-time": 1603932147364,
+            "edit-time": 1603932481657,
+            "string": "\u8001\u662f\u641e\u5fd8\u8bb0\uff0c\u5148\u5efa\u4e00\u4e2a\u5757\u7136\u540etab\uff0c\u5e94\u8be5\u8fd9\u6837\u624d\u5bf9\uff1b![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvafhBiQO90.png?alt=media&token=080e7332-f24f-4b2f-bdaf-a7b87dc57632)",
+            "uid": "bpyfPI0gD"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1603932686870,
+                "edit-time": 1603932690720,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fu8bRIIbTrw.png?alt=media&token=d3351729-7836-4c2b-b0a6-135d5d9b503e)",
+                "uid": "HDbBPZj5i"
+              },
+              {
+                "create-time": 1603932712197,
+                "edit-time": 1603933403227,
+                "string": "\u8fd9\u4e2a\u5730\u65b9\u597d\u50cf\u53c8\u80fd\u7c98\u8d34\u4e86\uff1b\u5c31\u662f\u4e0d\u80fd\u628a\u7ffb\u8bd1\u4e00\u8d77\u590d\u5236\u8fc7\u6765\uff1b\u8001\u662f\u8fd9\u6837\uff0c\u4e0d\u77e5\u9053\u4e3a\u5565\u6709\u7684\u7f51\u9875\u590d\u5236\u53ef\u4ee5\u8fde\u5e26\u590d\u5236\u4e2d\u6587\u7ffb\u8bd1\uff1b\u6709\u7684\u7f51\u9875\u5c31\u4e0d\u884c\uff1b\u6f2b\u6e38\u8005\u7f51\u9875\uff0c\u63d2\u4ef6\u7ffb\u8bd1\u8d28\u91cf\u4e0d\u7b97\u597d\uff1b",
+                "uid": "VooYTZZos"
+              },
+              {
+                "create-time": 1603932836978,
+                "edit-time": 1603933011326,
+                "string": "\u8bb0\u5f97\u4f7f\u7528\u63d2\u4ef6\u4e4b\u524d\u5237\u65b0\u4e00\u4e0b\uff0c\u4e4b\u524d\u641e\u5fd8\u8bb0\uff1b",
+                "uid": "4k8PRGRPP"
+              }
+            ],
+            "create-time": 1603932491811,
+            "edit-time": 1603932699724,
+            "string": "\u7528\u4e86\u4e00\u4e0b\uff0c\u8fd9\u4e2a\u63d2\u4ef6\u771f6",
+            "uid": "oQrQjuwbN"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1603933017268,
+                "edit-time": 1603933066293,
+                "string": "\u4e0d\u77e5\u9053\u4e3a\u5565\u5f69\u4e91\u63d2\u4ef6\u6709\u65f6\u5019\uff0c\u4e0d\uff0c\u662f\u5f88\u591a\u65f6\u5019\u4e0d\u80fd[[\u6536\u85cf]]\uff0c\u5f88\u591a\u7f51\u9875\u6ca1\u53cd\u5e94\uff1b\u3010\u5fc5\u987b\u5173\u95ed[[\u7ffb\u8bd1]]\u624d\u80fd\u6536\u85cf\uff0c\u4e0d\u7136\u5c31\u5931\u6548\u3011\u6f2b\u6e38\u8005\u7f51\u9875\u597d\u50cf\u90fd\u4e0d\u80fd\u6536\u85cf",
+                "uid": "k6MmQHxox"
+              },
+              {
+                "create-time": 1603933153718,
+                "edit-time": 1603933186492,
+                "string": "#[[02=\u4e0b\u4e00\u6b65\u884c\u52a8]]\u968f\u65f6\u95f4\u548c\u53c2\u8003\u4e24\u4e2a\u9875\u9762\u89c6\u56fe\u5e94\u8be5\u7528\u7684\u591a\uff0c\u5176\u4ed6\u7684\u51e0\u4e2a\u89c6\u56fe\uff0c\u82f1\u6587\u592a\u591a\u4e86\uff0c\u66f4\u591a\u7684\u662f\u56fd\u5916\u7684\u5185\u5bb9\uff0c[[\u6210\u672c]]\u9ad8\u4e86",
+                "uid": "kBCVeUOR-"
+              },
+              {
+                "create-time": 1603933078434,
+                "edit-time": 1603933147214,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FotCcfLIBGt.png?alt=media&token=b45c7683-afa5-46de-92e3-03dfba0d2068)",
+                "uid": "gTqeQ2fz_"
+              },
+              {
+                "create-time": 1603933275604,
+                "edit-time": 1603933342367,
+                "string": "\u975e\u5e38\u4e0d\u4e00\u6837\u7684\u611f\u89c9\uff1b\u56fd\u5916\u5f00\u53d1\u8005\uff0c\u548c\u56fd\u5185\u4e0d\u5339\u914d\uff0c\u82f1\u6587\u4e2d\u6587\u6df7\u6742\u5bb9\u6613\u5bfc\u81f4[[\u7edf\u8ba1]]\u5931\u771f\uff1b",
+                "uid": "M9gnavv0r"
+              },
+              {
+                "create-time": 1603933195721,
+                "edit-time": 1603933221658,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fn2ZbZOsTl5.png?alt=media&token=6135a348-79bf-4aa8-b54a-d6e7738293a0)",
+                "uid": "XWlNr-agO"
+              },
+              {
+                "create-time": 1603933223792,
+                "edit-time": 1603933242033,
+                "string": "\u8fd9\u4e2ajessie\u662f\u8c01\uff1f\u662f\u90a3\u4e2acn\u7684\u7fa4\u4e3b\u5417\uff1f\u597d\u50cf\u662f\u7684\uff0c\u771f\u731b\uff1b",
+                "uid": "I-A2HI_0q"
+              },
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1603933404169,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1603933434278,
+                "string": "\u662f(hover me){{comment-button}}",
+                "uid": "baYa_paf8"
+              }
+            ],
+            "create-time": 1603932994096,
+            "edit-time": 1603932994096,
+            "string": "[Roam Portal](https://roamresearch.com/#/app/roam-depot-developers/page/rD3rr620s)",
+            "uid": "Ta-9oc7wm"
           }
         ],
         "create-time": 1603931505960,
         "edit-time": 1603931892154,
         "string": "[[kunpeng9.serious]] =",
         "uid": "6iHWofslP"
+      },
+      {
+        "create-time": 1603934333756,
+        "edit-time": 1603934333756,
+        "string": "",
+        "uid": "qhcfspwfj"
       }
     ],
     "edit-email": "cjun72@gmail.com",
@@ -50629,5 +50782,32 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1603905633295,
     "title": "@jimmy"
+  },
+  {
+    "create-time": 1603931977118,
+    "edit-time": 1603931977119,
+    "title": "\u5370\u8c61\u7b14\u8bb0"
+  },
+  {
+    "create-time": 1603933060568,
+    "edit-time": 1603933060569,
+    "title": "\u6536\u85cf"
+  },
+  {
+    "create-time": 1603933182339,
+    "edit-time": 1603933182340,
+    "title": "\u6210\u672c"
+  },
+  {
+    "create-time": 1603933335965,
+    "edit-time": 1603933335966,
+    "title": "\u7edf\u8ba1"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1603933452997,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1603933452999,
+    "title": "comment"
   }
 ]

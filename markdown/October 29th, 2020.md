@@ -1,1 +1,21 @@
+- [[kunpeng9.serious]] =
+    - 今天尝试了一下大家记录的插件[Roam Portal - Chrome 网上应用店](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe/related)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fb2kvII9iOK.png?alt=media&token=7800533d-a0f7-4cc0-a8f6-47a2ac6e604d)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FS3n41b02kw.png?alt=media&token=656fc6d2-7869-4a50-b2c7-912cd67b949e)
+    - 个人体会，同类型知识管理工具里面，可能只有[[印象笔记]]的[[插件]]数量能稳超漫游者；当初下载安装了一堆印象笔记的插件，结果真的用上的没几个，几乎完全报废，白给；
+    - notion都要稍微差一些，比他们两个；
+    - 葫芦笔记里面粘贴没问题，之前老是解体；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FpGm04Xhync.png?alt=media&token=5d277790-46c8-4fad-9b68-a95bb8b04841)
+    - 老是搞忘记，先建一个块然后tab，应该这样才对；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvafhBiQO90.png?alt=media&token=080e7332-f24f-4b2f-bdaf-a7b87dc57632)
+    - 用了一下，这个插件真6
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fu8bRIIbTrw.png?alt=media&token=d3351729-7836-4c2b-b0a6-135d5d9b503e)
+        - 这个地方好像又能粘贴了；就是不能把翻译一起复制过来；老是这样，不知道为啥有的网页复制可以连带复制中文翻译；有的网页就不行；漫游者网页，插件翻译质量不算好；
+        - 记得使用插件之前刷新一下，之前搞忘记；
+    - [Roam Portal](https://roamresearch.com/#/app/roam-depot-developers/page/rD3rr620s)
+        - 不知道为啥彩云插件有时候，不，是很多时候不能[[收藏]]，很多网页没反应；【必须关闭[[翻译]]才能收藏，不然就失效】漫游者网页好像都不能收藏
+        - #[[02=下一步行动]]随时间和参考两个页面视图应该用的多，其他的几个视图，英文太多了，更多的是国外的内容，[[成本]]高了
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FotCcfLIBGt.png?alt=media&token=b45c7683-afa5-46de-92e3-03dfba0d2068)
+        - 非常不一样的感觉；国外开发者，和国内不匹配，英文中文混杂容易导致[[统计]]失真；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fn2ZbZOsTl5.png?alt=media&token=6135a348-79bf-4aa8-b54a-d6e7738293a0)
+        - 这个jessie是谁？是那个cn的群主吗？好像是的，真猛；
+        - 是(hover me){{comment-button}}
 - 

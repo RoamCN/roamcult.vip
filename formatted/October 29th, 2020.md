@@ -1,1 +1,22 @@
+- [kunpeng9.serious](kunpeng9.serious.md) =
+    - 今天尝试了一下大家记录的插件[Roam Portal - Chrome 网上应用店](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe/related)
+    - ![](../images/b2kvII9iOK.png?)
+    - ![](../images/S3n41b02kw.png?)
+    - 个人体会，同类型知识管理工具里面，可能只有[印象笔记](印象笔记.md)的[插件](插件.md)数量能稳超漫游者；当初下载安装了一堆印象笔记的插件，结果真的用上的没几个，几乎完全报废，白给；
+    - notion都要稍微差一些，比他们两个；
+    - 葫芦笔记里面粘贴没问题，之前老是解体；![](../images/pGm04Xhync.png?)
+    - 老是搞忘记，先建一个块然后tab，应该这样才对；![](../images/vafhBiQO90.png?)
+    - 用了一下，这个插件真6
+        - ![](../images/u8bRIIbTrw.png?)
+        - 这个地方好像又能粘贴了；就是不能把翻译一起复制过来；老是这样，不知道为啥有的网页复制可以连带复制中文翻译；有的网页就不行；漫游者网页，插件翻译质量不算好；
+        - 记得使用插件之前刷新一下，之前搞忘记；
+    - [Roam Portal](https://roamresearch.com/#/app/roam-depot-developers/page/rD3rr620s)
+        - 不知道为啥彩云插件有时候，不，是很多时候不能[收藏](收藏.md)，很多网页没反应；【必须关闭[翻译](翻译.md)才能收藏，不然就失效】漫游者网页好像都不能收藏
+        
+#[02=下一步行动](02=下一步行动.md)随时间和参考两个页面视图应该用的多，其他的几个视图，英文太多了，更多的是国外的内容，[成本](成本.md)高了
+        - ![](../images/otCcfLIBGt.png?)
+        - 非常不一样的感觉；国外开发者，和国内不匹配，英文中文混杂容易导致[统计](统计.md)失真；
+        - ![](../images/n2ZbZOsTl5.png?)
+        - 这个jessie是谁？是那个cn的群主吗？好像是的，真猛；
+        - 是(hover me){{comment-button}}
 - 
