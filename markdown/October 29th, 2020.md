@@ -228,4 +228,6 @@
     - 视图最爽！！！虽然已经比较落后[[潮流]]，但是我当初，一开始使用[[印象笔记]]时候慢慢浮现出来的一个[[设想]]已经差不多被完全[[实现]]了；但是漫游者已经是最前沿的，最潮的，分解到最基本大小【分解成词语，加双链，不停链接，笔记[[精加工]]】
     - 太可惜了，印象笔记动作有点慢；[[国内]]版的更加拉胯；
     - [SmoothNLP 语义解析平台](http://nlp.smoothnlp.com/#/main)
+    - [阿里云 OSS (图床) - 已分享的动作 - Quicker](https://getquicker.net/Sharedaction?code=c4896807-9b84-46e9-7d97-08d808171f98) 这个动作安装了之后好久没用了；今天看更新了一下就配置好结果截图直接报错；靠！
+    - 就只能搜到一页多一个的动作；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FL2tRghAmXc.png?alt=media&token=2291f017-19e7-43f8-9aaa-91932995bf72)只想阿里云，真是不想用，七牛、[[又拍云]]，虽然各种云平台账号都注册了一个，但是还是阿里用的习惯一些；
     - 
