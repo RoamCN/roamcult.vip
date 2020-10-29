@@ -194,3 +194,6 @@
     - Pycharm【没下这个软件，虽然很早之前听说了这个】的下方工具栏中有两个窗口：Python Console和 Terminal
         - 其中， Python Console叫做 Python控制台，即 Python交互模式； Terminal叫做终端，即命令行模式。Python交互模式主要有两种：CPython用>作为提示符，而 IPython用In【序号】：作为提示符Python交互式模式可以直接输入代码，然后执行，并立刻得到结果，因此 PynPython交互模式主要是为了调试代码用的。命令行模式与系统的CMD（命令提示符）一样，可以运行各种系统命令。
         - pycharm，头疼，又要安装新软件
+    - 刚刚突然想到的，一试着卸载；果然如此，之前的卸载没成功？；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fys5LQbtSQu.png?alt=media&token=11871f1d-f8b9-43e9-94b1-ac7f9ca662fc)
+    - 之前用巧克力安装的没有卸载；evernote还是打不开；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FMViQcRjB10.png?alt=media&token=768bd81f-ef3e-4351-900c-e973ec78868a才安装国内版没几天，想体验下更新的，结果又要卸载；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYHgGFOEsV1.png?alt=media&token=dc3c86e1-947f-4018-b22d-dba9e9962385)还是6版本的；
+    - 去除2个版本的看看，还能不能打开国际版10版本的；还是打不开，无奈只能卸载，再重装一次；
