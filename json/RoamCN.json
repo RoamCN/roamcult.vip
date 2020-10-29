@@ -50766,9 +50766,75 @@
         "uid": "6iHWofslP"
       },
       {
+        "children": [
+          {
+            "edit-time": 1603939506126,
+            "heading": 1,
+            "string": "[\u7248\u672c\uff1a1.5.1.2](https://tianruoocr.cn/server/update/#/?id=%e7%89%88%e6%9c%ac%ef%bc%9a1512)",
+            "uid": "rV4SWgIY7"
+          },
+          {
+            "edit-time": 1603939506125,
+            "string": "\u65f6\u95f4\uff1a2020-10-24",
+            "uid": "g5-6PBoT-"
+          },
+          {
+            "children": [
+              {
+                "edit-time": 1603939506125,
+                "string": "\u66f4\u65b0",
+                "uid": "2aEyF7bGB"
+              }
+            ],
+            "edit-time": 1603939506125,
+            "string": "\u5907\u6ce8\uff1a\u5982\u679c\u8f6f\u4ef6\u66f4\u65b0\u5f02\u5e38\u8bf7\u5230\u4e3b\u9875\u91cd\u65b0\u4e0b\u8f7d",
+            "uid": "78T7jg4dj"
+          },
+          {
+            "edit-time": 1603939664213,
+            "string": "- \u589e\u52a0\u8bbe\u7f6e\u4e2d\u7ba1\u7406\u5458\u6743\u9650\u53ef\u9009\u3010\uff1f\u3011\n- \u589e\u52a0\u9519\u8bef\u76ee\u5fd7\u5bfc\u51fa\u529f\u80fd\u3010\u5370\u8c61\u7b14\u8bb0\u63d0\u4f9b\u7684\u8fd9\u4e2a\u529f\u80fd\u6700\u597d\u3011\n- \u589e\u52a0\u516c\u5f0f\u663e\u793a\u5237\u65b0\u6309\u94ae\uff0c\u9632\u6b62\u6709\u65f6\u5019\u516c\u5f0f\u4e0d\u663e\u793a\u3010\u8d5e\u3011\n- \u4fee\u590d\u817e\u8baf\u4f18\u56fe\u6587\u5b57\u8bc6\u522b\u3010\u4e4b\u524d\u597d\u50cf\u662f\u6709\u95ee\u9898\u3011\n- \u4fee\u590d\u6279\u91cf\u8bc6\u522b\uff0c\u56fe\u7247\u635f\u574f\u5bfc\u81f4\u7ec8\u6b62\n- \u4fee\u6539[[dpi]]\u663e\u793a\u3010\u5565\uff1f\u3011\n- \u4fee\u590d\u7ffb\u8bd1\u663e\u793a\u9519\u8bef\n- \u4fee\u590d\u7761\u7720\u540e\u5524\u9192\u81ea\u52a8\u9000\u51fa\n- \u4fee\u590d\u5173\u673a\u9000\u51fabug\n- \u4fee\u590d\u8f6f\u4ef6\u963b\u6b62\u91cd\u542f\n- \u4fee\u590d\u622a\u56fe\u81ea\u52a8\u4fdd\u5b58\u76ee\u5f55\u5220\u9664\u5bfc\u81f4bug\n- \u4fee\u590d\u767b\u5f55\u754c\u9762\u663e\u793a\u4e0d\u5168",
+            "uid": "t6RWiRC55"
+          },
+          {
+            "edit-time": 1603939506125,
+            "heading": 1,
+            "string": "[\u7248\u672c\uff1a1.5.0.0](https://tianruoocr.cn/server/update/#/?id=%e7%89%88%e6%9c%ac%ef%bc%9a1500)",
+            "uid": "LlgsAzTyW"
+          },
+          {
+            "edit-time": 1603939506126,
+            "string": "\u65f6\u95f4\uff1a2020-05-08",
+            "uid": "PThFyTT4U"
+          },
+          {
+            "children": [
+              {
+                "edit-time": 1603939506126,
+                "string": "\u66f4\u65b0",
+                "uid": "7GKHdiAFy"
+              }
+            ],
+            "edit-time": 1603939506126,
+            "string": "\u5907\u6ce8\uff1a\u5982\u679c\u8f6f\u4ef6\u66f4\u65b0\u5f02\u5e38\u8bf7\u5230\u4e3b\u9875\u91cd\u65b0\u4e0b\u8f7d",
+            "uid": "GDHjowk7k"
+          },
+          {
+            "children": [
+              {
+                "create-time": 1603941179294,
+                "edit-time": 1603941208333,
+                "string": "8\u4e2a\u6253\u5f00\u72b6\u6001\uff0c\u6570\u4e86\u4e00\u4e0b2\u4e2a\u662f",
+                "uid": "CP-39fI9l"
+              }
+            ],
+            "edit-time": 1603941161586,
+            "string": "1\u3001\u4fee\u590d\u4e86\u8f6f\u4ef6[[\u767b\u5f55]]bug\uff0c\u4e0d\u4f1a\u518d\u4e8c\u6b21\u767b\u5f55\u3002\n2\u3001\u4fee\u590d\u4e86\u9891\u7e41\u8bfb\u5199[[bug]]\u3002\n3\u3001\u4fee\u590d\u4e86\u5f02\u5e38[[\u65ad\u7535]]\u5bfc\u81f4\u914d\u7f6e\u635f\u574f\u7684bug\u3010\u4e0d\u77e5\u9053picgo\u7684\u662f\u4e0d\u662f\u8fd9\u4e2a\u95ee\u9898\u5bfc\u81f4\u7684\uff0c\u603b\u4e4b\u6709\u65f6\u5019\u7535\u8111\u4f1a\u84dd\u5c4f\uff0c\u4e4b\u540e\u90a3\u4e2a\u5c31\u914d\u7f6e\u5c31\u6ca1\u6709\u4e86\u3011\n4\u3001\u5176\u4f59\u529f\u80fd\u8bf7\u4e0b\u8f7d\u67e5\u770b\n\u90c1\u95f7\uff0c\u5410\u8840\uff0c\u4e3a\u5565\u522b\u4eba\u7528\u7684\u90fd\u597d\u597d\u7684\uff0c\u6211\u7684picgo\u8001\u662f\u6709\u95ee\u9898\uff0c\u6ca1\u6709\u4e00\u4e2a\u597d\u7528\u7684\u56fe\u5e8a\u8f6f\u4ef6\uff1b[\u6253\u4e0d\u5f00\uff0c\u8001\u662f\u663e\u793a\u8fd9\u4e2a\u9519\u8bef\u3002\u30fbIssue #501\u30fbMolunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/issues/501)",
+            "uid": "81M4VqMhF"
+          }
+        ],
         "create-time": 1603934333756,
-        "edit-time": 1603934333756,
-        "string": "",
+        "edit-time": 1603939623519,
+        "string": "[[kunpeng9.serious]] =\u597d\u4e45\u6ca1\u6709\u66f4\u65b0\uff0c\u6700\u8fd1\u5c45\u7136\u4e00\u8fde\u66f4\u65b0\u4e86\u4e24\u6b21\uff1b",
         "uid": "qhcfspwfj"
       }
     ],
@@ -50809,5 +50875,25 @@
     "edit-email": "info@fat-garage.com",
     "edit-time": 1603933452999,
     "title": "comment"
+  },
+  {
+    "create-time": 1603939549704,
+    "edit-time": 1603939549706,
+    "title": "\u65ad\u7535"
+  },
+  {
+    "create-time": 1603939555169,
+    "edit-time": 1603939555171,
+    "title": "bug"
+  },
+  {
+    "create-time": 1603939560880,
+    "edit-time": 1603939560881,
+    "title": "\u767b\u5f55"
+  },
+  {
+    "create-time": 1603939573066,
+    "edit-time": 1603939573067,
+    "title": "dpi"
   }
 ]
