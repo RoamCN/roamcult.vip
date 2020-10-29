@@ -192,10 +192,10 @@
     - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](../images/BKYmzwd4TT.png?)
     - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
     - ![](../images/O5Fmyh6DUR.png?) 什么时候有了文件了；
-    - 吃饭顺便看了一下毛的视频；毛泽东遗体、去世之类的；
+    - 吃饭顺便看了一下[毛](毛.md)的视频；毛泽东遗体、去世之类的；
         -  [列宁遗体现状：每年防腐就耗资上百万美元，但遗体仅剩下 10% - YouTube](https://www.youtube.com/watch?v=cGGTTQkGXVg)
-        - [毛泽东去世当晚到底经历了什么？主席身边的生活管理员说出了真相【记忆】 - YouTube](https://www.youtube.com/watch?v=lzLTll0xW9M)
-        - 坚持
+        - [毛泽东去世当晚到底经历了什么？主席身边的生活管理员说出了真相【记忆】 - YouTube](https://www.youtube.com/watch?v=lzLTll0xW9M) 去世之前，还读了2小时的文件；
+        - [坚持](坚持.md)
     - ![](../images/qeN7Gwckdr.png?)
     - 打开python [console](console.md) 或者[notebook](notebook.md)
     - Pycharm【没下这个软件，虽然很早之前听说了这个】的下方工具栏中有两个窗口：Python Console和 Terminal
@@ -203,4 +203,12 @@
         - pycharm，头疼，又要安装新软件
     - 刚刚突然想到的，一试着卸载；果然如此，之前的卸载没成功？；![](../images/ys5LQbtSQu.png?)
     - 之前用巧克力安装的没有卸载；evernote还是打不开；![](../images/YHgGFOEsV1.png?)还是6版本的；
-    - 去除2个版本的看看，还能不能打开国际版10版本的；还是打不开，无奈只能卸载，再重装一次；
+    - 去除2个版本的看看，还能不能打开国际版10版本的；还是打不开，无奈只能卸载，再重装一次；![](../images/NmdDUqYtv9.png?)
+    - 古怪明明把以往的卸载了，一个1.7一个2.几，这个真是；un里面卸载了；印象笔记网页版没有网页版，有点难受；![](../images/GMSXuQtXIM.png?)
+    - 可怕，有5个；![](../images/8kZcl2RzUR.png?)
+    - 搜了一下发现还有不少的文件在，c盘里面用清理工具，有的清理不了![](../images/OaPBCQa7Jl.png?)
+    - 好像也是用了这个电子；![](../images/KqPXbaiIhf.png?)将log文件发给官方；
+    - 巧克力里面的安装包还在；6版本的，老版本的，uninstall没卸载掉；
+    - ![](../images/T0tZ-UlGZX.png?)是xmind里面登录印象笔记用的吗？配置文件；账号密码；
+    - 这么大的文件；![](../images/W6xf1xqdBV.png?)
+    - 难怪之前un卸载，扫描的时候老半天都没反应；卡死了；![](../images/Rpq4LaFbni.png?) 大概15gb；

@@ -185,10 +185,10 @@
     - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FBKYmzwd4TT.png?alt=media&token=6c873b85-6202-40dd-8533-fe6998d99f57)
     - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FO5Fmyh6DUR.png?alt=media&token=9a36b08d-7cde-453a-b0a9-e9e80738f726) 什么时候有了文件了；
-    - 吃饭顺便看了一下毛的视频；毛泽东遗体、去世之类的；
+    - 吃饭顺便看了一下[[毛]]的视频；毛泽东遗体、去世之类的；
         -  [列宁遗体现状：每年防腐就耗资上百万美元，但遗体仅剩下 10% - YouTube](https://www.youtube.com/watch?v=cGGTTQkGXVg)
-        - [毛泽东去世当晚到底经历了什么？主席身边的生活管理员说出了真相【记忆】 - YouTube](https://www.youtube.com/watch?v=lzLTll0xW9M)
-        - 坚持
+        - [毛泽东去世当晚到底经历了什么？主席身边的生活管理员说出了真相【记忆】 - YouTube](https://www.youtube.com/watch?v=lzLTll0xW9M) 去世之前，还读了2小时的文件；
+        - [[坚持]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FqeN7Gwckdr.png?alt=media&token=01832606-9aa3-46b6-9e4b-1190f036c621)
     - 打开python [[console]] 或者[[notebook]]
     - Pycharm【没下这个软件，虽然很早之前听说了这个】的下方工具栏中有两个窗口：Python Console和 Terminal
@@ -196,4 +196,12 @@
         - pycharm，头疼，又要安装新软件
     - 刚刚突然想到的，一试着卸载；果然如此，之前的卸载没成功？；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fys5LQbtSQu.png?alt=media&token=11871f1d-f8b9-43e9-94b1-ac7f9ca662fc)
     - 之前用巧克力安装的没有卸载；evernote还是打不开；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FMViQcRjB10.png?alt=media&token=768bd81f-ef3e-4351-900c-e973ec78868a才安装国内版没几天，想体验下更新的，结果又要卸载；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYHgGFOEsV1.png?alt=media&token=dc3c86e1-947f-4018-b22d-dba9e9962385)还是6版本的；
-    - 去除2个版本的看看，还能不能打开国际版10版本的；还是打不开，无奈只能卸载，再重装一次；
+    - 去除2个版本的看看，还能不能打开国际版10版本的；还是打不开，无奈只能卸载，再重装一次；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FNmdDUqYtv9.png?alt=media&token=00402373-3b73-48b3-a8c2-d0c170063168)
+    - 古怪明明把以往的卸载了，一个1.7一个2.几，这个真是；un里面卸载了；印象笔记网页版没有网页版，有点难受；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F-3MqKTFr_s.png?alt=media&token=596e2d72-0b9d-4207-8980-45de74f2eff4)半天没反应，其他软件卸载，痕迹都很好删掉的；一看这个进程为啥还在这里，不是卸载了嘛；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FGMSXuQtXIM.png?alt=media&token=90b17a5b-e8ee-414f-b9d8-15fe146ecb8c)
+    - 可怕，有5个；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F8kZcl2RzUR.png?alt=media&token=71c84978-ccbc-438f-b801-2e56e5923bb6)
+    - 搜了一下发现还有不少的文件在，c盘里面用清理工具，有的清理不了![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOaPBCQa7Jl.png?alt=media&token=de5477d6-20ac-4ef8-a50c-640b4fb0f20e)
+    - 好像也是用了这个电子；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FfJp6oYo5rK.png?alt=media&token=0e0a692b-17d1-4478-8095-c9c84d268b36) 根本没卸载掉；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FKqPXbaiIhf.png?alt=media&token=be34fcc9-f566-4017-9a11-33ef8cd1f50d)将log文件发给官方；
+    - 巧克力里面的安装包还在；6版本的，老版本的，uninstall没卸载掉；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FT0tZ-UlGZX.png?alt=media&token=f96982bc-600d-4e27-a6c8-2718c29537aa)是xmind里面登录印象笔记用的吗？配置文件；账号密码；
+    - 这么大的文件；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FUaLJVcMU6u.png?alt=media&token=4c4983ab-0719-4308-b1a1-1dea4e6dfbf4)我**我记得当初设置了存储位置的，不在c盘，但是更新10新版本之后之前的设置似乎是出了问题，不是数据文件应该不会有这么大的才对；难道解压缩之后有几gb；原来位置的那个文件之前看了，好像没有了？新版本可以自动扫描本地的印象笔记数据文件，自动转移位置了？![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FW6xf1xqdBV.png?alt=media&token=6febfe1f-103c-4f23-b334-274f4af95592)
+    - 难怪之前un卸载，扫描的时候老半天都没反应；卡死了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FRpq4LaFbni.png?alt=media&token=6bd9ce4a-2b8c-482f-9d40-7d8a6c9d7bc9) 大概15gb；
