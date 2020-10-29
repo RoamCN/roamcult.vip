@@ -168,5 +168,21 @@
     - [[instapaper]]豆瓣有小组，知乎也有话题或者问题，但是都不多，半死亡状态；
     - 突然想起来这个![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOyjlwso4mM.png?alt=media&token=0eb1b725-c430-4063-bc3c-e8f55731030a)instapaper保存连带翻译一起保存成功了；以前好像也试过，但是不成功；
     - #[[05=将来可能]][GeneratedFeeds - Tiny Tiny RSS](https://git.tt-rss.org/fox/tt-rss/wiki/GeneratedFeeds) 创建了任务10-02，没有实力参加，就放入社区了；
-    - 我【听说别人】34【服务器】一个月就放了 ttrss bitwarden[Bitwarden - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Bitwarden)
+    - 我【听说别人】34【服务器】一个月就放了
+        -  ttrss bitwarden[Bitwarden - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Bitwarden)
+        - 现在上面放了[[rsshub]] [[docker]]和tg的[[bot]]和WP的[[blog]]【他们可真够简短，缩写的，省时，要不是我接触了，接触了这些东西我真不知道他们在说什么】这个放在滴答清单里面不合适也处理不了，还是放在社区合适
+    - 我知道这个项目也好久了，就是没试过；好像订阅了一下就没有然后了；最近更新了，那就顺便试一下，哎我真不克制；基础的nlp解析，我们老早就做了，这是我们的开源项目：https://github.com/smoothnlp/SmoothNLP ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FKqYa1Bf7Hb.png?alt=media&token=e6746f7a-6da6-4599-8931-9bfc4b7fbe74)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3mTR8DidjZ.png?alt=media&token=f83a99c6-3cd7-4ef4-82ad-40da3c1226a0)
+    - https://getquicker.net/sharedaction?code=2c264e98-cf89-4640-9a9d-08d6aec7ad79 之前用一下这个动作结果没反应，power不到指定地点，哪里有问题？![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F1-8yBjdwVD.png?alt=media&token=92706a2f-6b75-4069-b0d1-7eaa70663ecb)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FK2QIz6n7Aj.png?alt=media&token=ba5cf04b-5757-4736-8a0d-b15070464adb)说安装成功了，但是文件夹里面没有，到哪里去了；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYHr_0lWpkr.png?alt=media&token=c512c745-0feb-4de2-b91d-fe65a01aa224)又跑到c盘了，可怜的剩余空间；
+    - jpg粘贴好几次没成功，是ditto最近出问题了吗？收拾c盘的时候发现有张图比较合适用那个项目；
+    - 接着搞；把[[bookxnote]]卸载了，安装了之后养不成使用习惯，脉冲式的使用过一阵之后就没怎么用了，不要可惜干算卸载把;顺便将阿里旺旺卸载,难受那个密码到底是什么搞忘了,而且也没有千牛工作台好用,面向商家的果然是比面向个人的好
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fma7vGXLUUm.png?alt=media&token=47ddd243-82ec-48dc-9a6e-67fa794956bd)发现不知道为啥会有两个,以前好像也出现过这个情况;
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FdMOwqXVKRB.png?alt=media&token=642e78f5-ffbf-4464-ad47-ab2f37187a33)更新成功；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXrM3Uetb2i.png?alt=media&token=d601378b-bf43-4179-8499-af68fbc7e32a)
+    - 发现以往学[[python]]时候写的练手的东西还存在这里![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FyE7qj2p18a.png?alt=media&token=3cd200e0-5352-487e-b44e-75b4e595545a)
+    - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FBKYmzwd4TT.png?alt=media&token=6c873b85-6202-40dd-8533-fe6998d99f57)
+    - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FO5Fmyh6DUR.png?alt=media&token=9a36b08d-7cde-453a-b0a9-e9e80738f726) 什么时候有了文件了；
     - 

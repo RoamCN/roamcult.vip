@@ -51393,16 +51393,114 @@
             "uid": "zpy98M7vm"
           },
           {
-            "create-time": 1603960878999,
-            "edit-time": 1603960928893,
-            "string": "\u6211\u3010\u542c\u8bf4\u522b\u4eba\u301134\u3010\u670d\u52a1\u5668\u3011\u4e00\u4e2a\u6708\u5c31\u653e\u4e86 ttrss bitwarden[Bitwarden - \u7ef4\u57fa\u767e\u79d1\uff0c\u81ea\u7531\u7684\u767e\u79d1\u5168\u4e66](https://zh.wikipedia.org/wiki/Bitwarden)",
-            "uid": "SQ-f-29W4"
+            "children": [
+              {
+                "create-time": 1603960878999,
+                "edit-time": 1603961190721,
+                "string": " ttrss bitwarden[Bitwarden - \u7ef4\u57fa\u767e\u79d1\uff0c\u81ea\u7531\u7684\u767e\u79d1\u5168\u4e66](https://zh.wikipedia.org/wiki/Bitwarden)",
+                "uid": "SQ-f-29W4"
+              },
+              {
+                "create-time": 1603961193792,
+                "edit-time": 1603961259726,
+                "string": "\u73b0\u5728\u4e0a\u9762\u653e\u4e86[[rsshub]] [[docker]]\u548ctg\u7684[[bot]]\u548cWP\u7684[[blog]]\u3010\u4ed6\u4eec\u53ef\u771f\u591f\u7b80\u77ed\uff0c\u7f29\u5199\u7684\uff0c\u7701\u65f6\uff0c\u8981\u4e0d\u662f\u6211\u63a5\u89e6\u4e86\uff0c\u63a5\u89e6\u4e86\u8fd9\u4e9b\u4e1c\u897f\u6211\u771f\u4e0d\u77e5\u9053\u4ed6\u4eec\u5728\u8bf4\u4ec0\u4e48\u3011\u8fd9\u4e2a\u653e\u5728\u6ef4\u7b54\u6e05\u5355\u91cc\u9762\u4e0d\u5408\u9002\u4e5f\u5904\u7406\u4e0d\u4e86\uff0c\u8fd8\u662f\u653e\u5728\u793e\u533a\u5408\u9002",
+                "uid": "w5FhVcOSf"
+              }
+            ],
+            "create-time": 1603961190700,
+            "edit-time": 1603961190700,
+            "string": "\u6211\u3010\u542c\u8bf4\u522b\u4eba\u301134\u3010\u670d\u52a1\u5668\u3011\u4e00\u4e2a\u6708\u5c31\u653e\u4e86",
+            "uid": "TDF3gJQAg"
+          },
+          {
+            "create-time": 1603961689891,
+            "edit-time": 1603962236748,
+            "string": "\u6211\u77e5\u9053\u8fd9\u4e2a\u9879\u76ee\u4e5f\u597d\u4e45\u4e86\uff0c\u5c31\u662f\u6ca1\u8bd5\u8fc7\uff1b\u597d\u50cf\u8ba2\u9605\u4e86\u4e00\u4e0b\u5c31\u6ca1\u6709\u7136\u540e\u4e86\uff1b\u6700\u8fd1\u66f4\u65b0\u4e86\uff0c\u90a3\u5c31\u987a\u4fbf\u8bd5\u4e00\u4e0b\uff0c\u54ce\u6211\u771f\u4e0d\u514b\u5236\uff1b\u57fa\u7840\u7684nlp\u89e3\u6790\uff0c\u6211\u4eec\u8001\u65e9\u5c31\u505a\u4e86\uff0c\u8fd9\u662f\u6211\u4eec\u7684\u5f00\u6e90\u9879\u76ee\uff1ahttps://github.com/smoothnlp/SmoothNLP ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FKqYa1Bf7Hb.png?alt=media&token=e6746f7a-6da6-4599-8931-9bfc4b7fbe74)",
+            "uid": "Wp6Rz2fzc"
           },
           {
             "create-time": 1603960929322,
-            "edit-time": 1603960929322,
-            "string": "",
+            "edit-time": 1603961687405,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3mTR8DidjZ.png?alt=media&token=f83a99c6-3cd7-4ef4-82ad-40da3c1226a0)",
             "uid": "sh727ZkjO"
+          },
+          {
+            "create-time": 1603961723854,
+            "edit-time": 1603961791963,
+            "string": "https://getquicker.net/sharedaction?code=2c264e98-cf89-4640-9a9d-08d6aec7ad79 \u4e4b\u524d\u7528\u4e00\u4e0b\u8fd9\u4e2a\u52a8\u4f5c\u7ed3\u679c\u6ca1\u53cd\u5e94\uff0cpower\u4e0d\u5230\u6307\u5b9a\u5730\u70b9\uff0c\u54ea\u91cc\u6709\u95ee\u9898\uff1f![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F1-8yBjdwVD.png?alt=media&token=92706a2f-6b75-4069-b0d1-7eaa70663ecb)",
+            "uid": "c4C7OCi8e"
+          },
+          {
+            "create-time": 1603961793318,
+            "edit-time": 1603961922574,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FK2QIz6n7Aj.png?alt=media&token=ba5cf04b-5757-4736-8a0d-b15070464adb)\u8bf4\u5b89\u88c5\u6210\u529f\u4e86\uff0c\u4f46\u662f\u6587\u4ef6\u5939\u91cc\u9762\u6ca1\u6709\uff0c\u5230\u54ea\u91cc\u53bb\u4e86\uff1b",
+            "uid": "KpKrbFCC_"
+          },
+          {
+            "create-time": 1603961923602,
+            "edit-time": 1603961947680,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FYHr_0lWpkr.png?alt=media&token=c512c745-0feb-4de2-b91d-fe65a01aa224)\u53c8\u8dd1\u5230c\u76d8\u4e86\uff0c\u53ef\u601c\u7684\u5269\u4f59\u7a7a\u95f4\uff1b",
+            "uid": "axHpeOhmy"
+          },
+          {
+            "create-time": 1603961970382,
+            "edit-time": 1603962217997,
+            "string": "jpg\u7c98\u8d34\u597d\u51e0\u6b21\u6ca1\u6210\u529f\uff0c\u662fditto\u6700\u8fd1\u51fa\u95ee\u9898\u4e86\u5417\uff1f\u6536\u62fec\u76d8\u7684\u65f6\u5019\u53d1\u73b0\u6709\u5f20\u56fe\u6bd4\u8f83\u5408\u9002\u7528\u90a3\u4e2a\u9879\u76ee\uff1b",
+            "uid": "WnjbwA5bK"
+          },
+          {
+            "create-time": 1603962182026,
+            "edit-time": 1603962539215,
+            "string": "\u63a5\u7740\u641e\uff1b\u628a[[bookxnote]]\u5378\u8f7d\u4e86\uff0c\u5b89\u88c5\u4e86\u4e4b\u540e\u517b\u4e0d\u6210\u4f7f\u7528\u4e60\u60ef\uff0c\u8109\u51b2\u5f0f\u7684\u4f7f\u7528\u8fc7\u4e00\u9635\u4e4b\u540e\u5c31\u6ca1\u600e\u4e48\u7528\u4e86\uff0c\u4e0d\u8981\u53ef\u60dc\u5e72\u7b97\u5378\u8f7d\u628a;\u987a\u4fbf\u5c06\u963f\u91cc\u65fa\u65fa\u5378\u8f7d,\u96be\u53d7\u90a3\u4e2a\u5bc6\u7801\u5230\u5e95\u662f\u4ec0\u4e48\u641e\u5fd8\u4e86,\u800c\u4e14\u4e5f\u6ca1\u6709\u5343\u725b\u5de5\u4f5c\u53f0\u597d\u7528,\u9762\u5411\u5546\u5bb6\u7684\u679c\u7136\u662f\u6bd4\u9762\u5411\u4e2a\u4eba\u7684\u597d",
+            "uid": "NC25qZzBl"
+          },
+          {
+            "create-time": 1603962448730,
+            "edit-time": 1603962618797,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fma7vGXLUUm.png?alt=media&token=47ddd243-82ec-48dc-9a6e-67fa794956bd)\u53d1\u73b0\u4e0d\u77e5\u9053\u4e3a\u5565\u4f1a\u6709\u4e24\u4e2a,\u4ee5\u524d\u597d\u50cf\u4e5f\u51fa\u73b0\u8fc7\u8fd9\u4e2a\u60c5\u51b5;",
+            "uid": "gVW2NKKyA"
+          },
+          {
+            "create-time": 1603962779332,
+            "edit-time": 1603962880728,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FdMOwqXVKRB.png?alt=media&token=642e78f5-ffbf-4464-ad47-ab2f37187a33)\u66f4\u65b0\u6210\u529f\uff1b",
+            "uid": "rwYS1AsfL"
+          },
+          {
+            "create-time": 1603962880723,
+            "edit-time": 1603962972511,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXrM3Uetb2i.png?alt=media&token=d601378b-bf43-4179-8499-af68fbc7e32a)",
+            "uid": "dN7KLhHqr"
+          },
+          {
+            "create-time": 1603963111481,
+            "edit-time": 1603963156090,
+            "string": "\u53d1\u73b0\u4ee5\u5f80\u5b66[[python]]\u65f6\u5019\u5199\u7684\u7ec3\u624b\u7684\u4e1c\u897f\u8fd8\u5b58\u5728\u8fd9\u91cc![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FyE7qj2p18a.png?alt=media&token=3cd200e0-5352-487e-b44e-75b4e595545a)",
+            "uid": "D3kqdWfKC"
+          },
+          {
+            "create-time": 1603963157189,
+            "edit-time": 1603963267883,
+            "string": "\u5730\u5740\u5728C:\\Users\\YEDONG\\AppData\\Local\\Programs\\Python\\Python37-32\\Lib\\site-packages![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FBKYmzwd4TT.png?alt=media&token=6c873b85-6202-40dd-8533-fe6998d99f57)",
+            "uid": "4BIJozyF9"
+          },
+          {
+            "create-time": 1603963250970,
+            "edit-time": 1603963469412,
+            "string": "\u63a5\u4e0b\u6765\u5e72\u561b\uff1f\u5dee\u70b9\u5fd8\u8bb0\u9605\u8bfbread me txt \u5185\u5bb9=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.",
+            "uid": "OsdrmKL08"
+          },
+          {
+            "create-time": 1603963553215,
+            "edit-time": 1603963818189,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FO5Fmyh6DUR.png?alt=media&token=9a36b08d-7cde-453a-b0a9-e9e80738f726) \u4ec0\u4e48\u65f6\u5019\u6709\u4e86\u6587\u4ef6\u4e86\uff1b",
+            "uid": "wR7hyO5j6"
+          },
+          {
+            "create-time": 1603963818182,
+            "edit-time": 1603963818182,
+            "string": "",
+            "uid": "nfBKHKLlw"
           }
         ],
         "create-time": 1603954179335,
@@ -51563,5 +51661,30 @@
     "create-time": 1603960016728,
     "edit-time": 1603960016729,
     "title": "\u795e\u7ecf"
+  },
+  {
+    "create-time": 1603961203311,
+    "edit-time": 1603961203312,
+    "title": "docker"
+  },
+  {
+    "create-time": 1603961207351,
+    "edit-time": 1603961207352,
+    "title": "bot"
+  },
+  {
+    "create-time": 1603961210715,
+    "edit-time": 1603961210717,
+    "title": "blog"
+  },
+  {
+    "create-time": 1603962446847,
+    "edit-time": 1603962446850,
+    "title": "bookxnote"
+  },
+  {
+    "create-time": 1603963156093,
+    "edit-time": 1603963156095,
+    "title": "python"
   }
 ]

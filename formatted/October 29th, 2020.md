@@ -175,5 +175,21 @@
     - 突然想起来这个![](../images/Oyjlwso4mM.png?)instapaper保存连带翻译一起保存成功了；以前好像也试过，但是不成功；
     
 #[05=将来可能](05=将来可能.md)[GeneratedFeeds - Tiny Tiny RSS](https://git.tt-rss.org/fox/tt-rss/wiki/GeneratedFeeds) 创建了任务10-02，没有实力参加，就放入社区了；
-    - 我【听说别人】34【服务器】一个月就放了 ttrss bitwarden[Bitwarden - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Bitwarden)
+    - 我【听说别人】34【服务器】一个月就放了
+        -  ttrss bitwarden[Bitwarden - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Bitwarden)
+        - 现在上面放了[rsshub](rsshub.md) [docker](docker.md)和tg的[bot](bot.md)和WP的[blog](blog.md)【他们可真够简短，缩写的，省时，要不是我接触了，接触了这些东西我真不知道他们在说什么】这个放在滴答清单里面不合适也处理不了，还是放在社区合适
+    - 我知道这个项目也好久了，就是没试过；好像订阅了一下就没有然后了；最近更新了，那就顺便试一下，哎我真不克制；基础的nlp解析，我们老早就做了，这是我们的开源项目：https://github.com/smoothnlp/SmoothNLP ![](../images/KqYa1Bf7Hb.png?)
+    - ![](../images/3mTR8DidjZ.png?)
+    - https://getquicker.net/sharedaction?code=2c264e98-cf89-4640-9a9d-08d6aec7ad79 之前用一下这个动作结果没反应，power不到指定地点，哪里有问题？![](../images/1-8yBjdwVD.png?)
+    - ![](../images/K2QIz6n7Aj.png?)说安装成功了，但是文件夹里面没有，到哪里去了；
+    - ![](../images/YHr_0lWpkr.png?)又跑到c盘了，可怜的剩余空间；
+    - jpg粘贴好几次没成功，是ditto最近出问题了吗？收拾c盘的时候发现有张图比较合适用那个项目；
+    - 接着搞；把[bookxnote](bookxnote.md)卸载了，安装了之后养不成使用习惯，脉冲式的使用过一阵之后就没怎么用了，不要可惜干算卸载把;顺便将阿里旺旺卸载,难受那个密码到底是什么搞忘了,而且也没有千牛工作台好用,面向商家的果然是比面向个人的好
+    - ![](../images/ma7vGXLUUm.png?)发现不知道为啥会有两个,以前好像也出现过这个情况;
+    - ![](../images/dMOwqXVKRB.png?)更新成功；
+    - ![](../images/XrM3Uetb2i.png?)
+    - 发现以往学[python](python.md)时候写的练手的东西还存在这里![](../images/yE7qj2p18a.png?)
+    - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](../images/BKYmzwd4TT.png?)
+    - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
+    - ![](../images/O5Fmyh6DUR.png?) 什么时候有了文件了；
     - 
