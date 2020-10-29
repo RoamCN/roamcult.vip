@@ -147,4 +147,15 @@
     - 关闭微博的，只使用两个图床github和阿里云的，其他的虽然注册了账号，但是为防止精力分散，只用这两个了；![](../images/XWD_p8Gpuz.png?)这个应该是图片地址把，但是只有这个一个的；之前通过这个上传的都没有，由于不断出现问题，配置文件根本就没有记录，也不能从云存储里面读取显示出来；另存为，存之前加上配置的记录时间，删掉之前的配置文件；
     - 继续安装flash输入choco install flashplayerplugin [[Win]使用Chocolatey管理你的小软件们 - 知乎](https://zhuanlan.zhihu.com/p/42441423)
     - 心累，昨天固定的标签页今天一看又是这样子，之前好像知道，但是忘记记录了![](../images/w2wGMrKMdC.png?)nlp的网页为啥又没有了，莫名其妙；https://www.aliyun.com/notfound/ 别的忘记都没事的；
-    - 
+    
+#[anki_todo](anki_todo.md)之前忘记了固定这个标签，前一段时间还没有习惯用双链，感谢nlp；效率大增；
+    - flash可能自动被卸载啥意思？![](../images/rZd0f9ILbJ.png?)
+    - 已经被安装到C:\Windows\SysWOW64\Macromed\Flash，再刷新网页设置用flash播放，还是不行，有那个提示；![](../images/3MoB_2cyJA.png?) 哦，原来是又搞忘记允许浏览器运行了【谷歌已经不再支持flash，默认情况下会关闭设置；】
+    - ![](../images/2MSUr_C1i8.png?) 还是这样，怎么刷新都不行，都不显示idm的弹窗，之前搜过一些回答好像都不行，那个设置在谷歌里面搜不到了，更新版本了；
+    - 试一下微信网页视频的【进度条拉到底，加载完，复制medi的地址，idm下载，这个里面好像没有，就复制一下video的】，在b站是否有用；![](../images/JaTlui35bH.png?)
+    - 为啥这个也是弹出![](../images/t0MPjyg-Dg.png?)再试一下；
+    - ![](../images/EinP3iDFcR.png?) 算了放弃了不折腾了；
+    - ![](../images/S4Ms5CkPc0.png?)xy里面不显示log，之前是把啥设置又弄错了；看日志，
+    - 2019-06-27 17:03:04,895 18760 [DEBUG] - XmlConfiguration is now operational【最早记录2019年安装】【但是实际接触日期应该更早，但是学习进度≈0，迟迟没有进展，没有应用，安装之后】
+    - 日志记录【过阵子解读一下】
+        - 

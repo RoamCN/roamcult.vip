@@ -143,4 +143,14 @@
     - 关闭微博的，只使用两个图床github和阿里云的，其他的虽然注册了账号，但是为防止精力分散，只用这两个了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FXWD_p8Gpuz.png?alt=media&token=9c0f6ce4-4497-4471-882d-41260a5e3fd0)这个应该是图片地址把，但是只有这个一个的；之前通过这个上传的都没有，由于不断出现问题，配置文件根本就没有记录，也不能从云存储里面读取显示出来；另存为，存之前加上配置的记录时间，删掉之前的配置文件；
     - 继续安装flash输入choco install flashplayerplugin [[Win]使用Chocolatey管理你的小软件们 - 知乎](https://zhuanlan.zhihu.com/p/42441423)
     - 心累，昨天固定的标签页今天一看又是这样子，之前好像知道，但是忘记记录了![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fw2wGMrKMdC.png?alt=media&token=8d009b44-5ba7-4854-b4df-2f1f398fc2c9)nlp的网页为啥又没有了，莫名其妙；https://www.aliyun.com/notfound/ 别的忘记都没事的；
-    - 
+    - #[[anki_todo]]之前忘记了固定这个标签，前一段时间还没有习惯用双链，感谢nlp；效率大增；
+    - flash可能自动被卸载啥意思？![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FrZd0f9ILbJ.png?alt=media&token=c4e00345-5310-45a7-b06e-92e2b596d3c2)
+    - 已经被安装到C:\Windows\SysWOW64\Macromed\Flash，再刷新网页设置用flash播放，还是不行，有那个提示；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FArjFyiEetO.png?alt=media&token=9d0ac62c-5d48-46ce-8d58-d352ce531941) FlashPlayerPlugin_32_0_0_445.exe管理员权限运行；点击网页上的下载![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3MoB_2cyJA.png?alt=media&token=a3de0845-6550-4b73-8ef8-e99798472e33) 哦，原来是又搞忘记允许浏览器运行了【谷歌已经不再支持flash，默认情况下会关闭设置；】
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F2MSUr_C1i8.png?alt=media&token=a676bc15-cb9e-48cc-b0b6-34f80b91b442) 还是这样，怎么刷新都不行，都不显示idm的弹窗，之前搜过一些回答好像都不行，那个设置在谷歌里面搜不到了，更新版本了；
+    - 试一下微信网页视频的【进度条拉到底，加载完，复制medi的地址，idm下载，这个里面好像没有，就复制一下video的】，在b站是否有用；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FUlkGQDHpd2.png?alt=media&token=99c1b10b-d76f-4c91-bda0-c018df2e32fe)不行；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FJaTlui35bH.png?alt=media&token=0ba5251c-0122-432c-89a3-2ee37b94c3b6)
+    - 为啥这个也是弹出![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Ft0MPjyg-Dg.png?alt=media&token=04d0937c-a937-4db9-b8a0-9455c205d282)再试一下；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FEinP3iDFcR.png?alt=media&token=e321bc5f-8c03-4aa6-8ed3-26eeb460fc33) 为啥非要这个[Flash 必要组件修复帮助 - Flash Player 帮助中心 - Flash 中国官网](https://www.flash.cn/help/service0.html) 算了放弃了不折腾了；
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FS4Ms5CkPc0.png?alt=media&token=b4502493-db7a-43aa-9b41-a03165ed40b9)xy里面不显示log，之前是把啥设置又弄错了；看日志，
+    - 2019-06-27 17:03:04,895 18760 [DEBUG] - XmlConfiguration is now operational【最早记录2019年安装】【但是实际接触日期应该更早，但是学习进度≈0，迟迟没有进展，没有应用，安装之后】
+    - 日志记录【过阵子解读一下】
+        - 
