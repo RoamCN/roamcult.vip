@@ -113,10 +113,19 @@
         - 手动安装的软件列表可以借助 Chocolatey 来导出：
         - choco list -li
     - 打开当前目录，就可以看到 choco.[[txt]] 已经生成。所在目录以[[命令提示符]]前缀为准，如下图中，choco.txt 会生成于 C:\workspace 中。这个wokspace是啥意思，没有找到；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fb9oO0l7Yf3.png?alt=media&token=4ab848ec-2eff-4410-b4fe-39c5f9f8ab2f)
-    - 
+    - 那我试着把图里的命令提示符代码敲一遍好了；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvlbFHijQQd.png?alt=media&token=7471b88a-a94b-4c1c-bff0-d779ffe493b9)
+    - 心累了；发现那个统计安装了多少内容，巧克力还是蛮方便的，un卸载工具导出的好像不太方便【导出不能导入，到时候还是要自己手动一个个安装】
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fts2RgXzDfv.png?alt=media&token=d92d242f-8c5a-47b3-8416-ed531430c10d)警告，已经安装，之前已经成功了
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F4evH6dwH-w.png?alt=media&token=4feb16d9-9e35-4ee7-86e9-547af50f62ab)开始菜单没有生成快捷方式之类的，都没有；桌面也没有；zotero我记得当初用choco安装的时候两个地方都有的啊；看来不同软件有些不一样；
+    - flash
+        - 不能粘贴；
+        - 你可以通过 Chocolatey 安装无捆绑的 Flash 插件。但是要注意对应的插件类型；不同浏览器，如 Firefox 和 Chrome，用的插件类型就不同。【只能复制一行有点麻烦】之前把插件卸载了一直没有安装回来；
+        - __choco install flashplayerplugin__知乎的代码直接复制过来多了下划线；
+        - 累，又搞忘记用[[番茄钟]]了，一回来，心急火燎跑到电脑上敲敲敲；
+        - 
     - ********
     - 我在看你操作 @苏维
         - 没太看明白, 你在解决什么问题
         - [[kunpeng9.serious]] =就是记录一下操作
         - get~
-        - [[kunpeng9.serious]] =我有点迷茫是不是要去把那个[[官方]]课看完，那个内容有点多，二三十节，还有其他；
+        - [[kunpeng9.serious]] =我有点迷茫，是不是要去把那个[[官方]]课看完，那个内容有点多，二三十节，还有其他；
