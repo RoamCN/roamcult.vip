@@ -185,4 +185,4 @@
     - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FBKYmzwd4TT.png?alt=media&token=6c873b85-6202-40dd-8533-fe6998d99f57)
     - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FO5Fmyh6DUR.png?alt=media&token=9a36b08d-7cde-453a-b0a9-e9e80738f726) 什么时候有了文件了；
-    - 
+    -  [列宁遗体现状：每年防腐就耗资上百万美元，但遗体仅剩下 10% - YouTube](https://www.youtube.com/watch?v=cGGTTQkGXVg)

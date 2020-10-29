@@ -192,4 +192,4 @@
     - 地址在C:\Users\YEDONG\AppData\Local\Programs\Python\Python37-32\Lib\site-packages![](../images/BKYmzwd4TT.png?)
     - 接下来干嘛？差点忘记阅读read me txt 内容=This directory exists so that 3rd party packages can be installed here.  Read the source for site.py for more details.
     - ![](../images/O5Fmyh6DUR.png?) 什么时候有了文件了；
-    - 
+    -  [列宁遗体现状：每年防腐就耗资上百万美元，但遗体仅剩下 10% - YouTube](https://www.youtube.com/watch?v=cGGTTQkGXVg)
