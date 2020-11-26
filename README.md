@@ -10,7 +10,7 @@ Roam Research ✍️ Writing with your lovely cards 🧩 and beautiful theme �
 
 ### Quick Start
 
-1. Add a `{{[[roam/js]]}}` tag
+1. Add a `{{` [[roam/js]] `}}` tag
 2. Add a child JavaScript code block to it with this code...
 
 ```js
@@ -37,7 +37,10 @@ Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、�
 - 🎬 B 站地址：https://space.bilibili.com/599106362
 - 🕸 Roam 中文站公共图谱（Public Graph)：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
 - 🤗 Discord 永久地址：[https://discord.gg/stMehBs](https://t.co/Pes3bGfqEi?amp=1 "https://discord.gg/stMehBs")
-- ⭕️ 微信圈子：直接微信「搜一搜」里面搜「Roam中文社区」
+- ⭕️ 微信圈子：直接微信「搜一搜」里面搜「Roam 中文社区」
+- 🌊 知乎圈子：https://www.zhihu.com/club/1312820179727159296
+- 📮 公众号：直接微信「搜一搜」里面搜「Roam Research 中文社区」
+- 📺 视频号：直接微信「视频号」里面搜「Roam Research」
 - 🎧 喜马拉雅：[http://xima.tv/7hMJvm?_sonic=0](https://t.co/RnJVvHHV2C?amp=1 "http://xima.tv/7hMJvm?_sonic=0")
 
 ![](https://pbs.twimg.com/media/Ek6C1fpXYAEMpfB?format=jpg)
