@@ -91,3 +91,9 @@
         - 喜好: 
         - 目前探索:
         - 勾搭:
+
+# Backlinks
+## [November 6th, 2020](November 6th, 2020.md)
+
+#[@多酱](@多酱.md)整理了[好心情手册](好心情手册.md)的模板，有情绪记录需求的可以参考[好心情之旅template](好心情之旅template.md)#[™ templates](™ templates.md)
+

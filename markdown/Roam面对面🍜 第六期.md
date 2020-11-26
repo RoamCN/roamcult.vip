@@ -33,7 +33,7 @@
             - #leodknuth 我觉得更加值得讨论的是，最优的communication的形式是怎么样的，Roam能不能帮我们实现？
         - 对Roam和RoamCN的期待，最希望未来有哪方面的改进/花样？
 - # 演示&笔记
-    - 负责： #@Jessie#[[@多多]]
+    - 负责： #@Jessie#[[@多酱]]
 - # 剪辑与后期
     - 负责成员：#[[小树]] 
 - # 宣传(hover me){{comment-button}}

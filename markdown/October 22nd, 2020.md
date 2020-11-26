@@ -1,5 +1,5 @@
 - [[@苏维]]
-    - [[帖子]] ~ 文库/文档下载
+    - [[📝帖子]] ~ 文库/文档下载
         - [小叶文库](https://www.lanzoux.com/iSOaPgbxola) ~ 推荐
         - [巴法](http://www.blpack.com/)
         - [松鼠文库](http://wk.superlgr.com/)
@@ -10,7 +10,6 @@
             - 发起项目:: [[RoamCN]] 
 [胖车库](fat-garage.com)
             - 年龄::27
-                - 
             - 所在城市:: 北京
             - 食物喜好:: 艾丝拉铁
         [[Victor Wu]]

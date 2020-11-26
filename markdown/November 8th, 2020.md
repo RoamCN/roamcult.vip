@@ -1,0 +1,16 @@
+- 要加两个；； {{[[∆]]:5+2}}
+- #@kunpeng9.serious= [[kunpeng9.serious]]=
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F6NrxFQlt6c.png?alt=media&token=4ccabc90-5a37-4718-bd93-572e63ca907d)
+    - 难受死了，滴答清单的不同步问题，断断续续；辛亏漫游者干算就不出电脑客户端只用网页，新潮流就是所有客户端都一样的功能；滴答还是有不少不同，可能这个导致不同步；
+    - 有一些更改没有从客户端同步到网页，干算断舍离算了，卸载电脑客户端；以前也有过几次【也是忍痛卸载客户端】，可惜没有记住当初的教训；
+    - 从今天起再也不用电脑客户端；真是个大坑呐；这阵子又掉进去了；低生产率过了一段时间；
+    - 曾经我有些轻视todoist，而今发现，我更为仔细反复不断审视，才发现它的厉害，之前在一些付费教程看过部分，说为啥选它，可是还是有疑虑，最后还是选的滴答清单；
+    - 
+- #@Jessie
+    - Q:: 如何高效地引用“自己”？
+        - 最近想引用自己的文字，感觉有点难。问题是我已经输入了一定量的文字（很大一部分是evergreen），但我没有很好地^^整理^^它们，我有时记不住它们。
+        - 如何平衡不断增加的信息输入和消化（寻找联系，形成知识）？
+    - #[[Alias的用法持更⎌]]
+        - 每一个`page`下面的references很多很乱，其实有许多可以合并并分类。于是我就想在page下面建立了一个`导航`，展示**类别**和**对应的原始block**。例如{{query 页下面
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FLEPiaKA2j-.png?alt=media&token=1cedbb04-9c5f-467f-ad0b-73cc35740f20)
+    - [[How to prove you are good at something? 如何“证明”自己擅长什么？]]

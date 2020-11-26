@@ -41,6 +41,7 @@
             - ![](../images/i6pQtmW8WG.png?)
             - From #@jimmy
             - 用portal那个Chrome插件==，我没懂 [!JimmyLv](!JimmyLv.md)
+                - https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe
 
 #@Jerry
     
@@ -48,7 +49,7 @@
         - ![](../images/ptX4vgftlT.png?)
 
 #[@苏维](@苏维.md)
-    - [帖子](帖子.md) ~ RoamR 图片放大/旋转
+    - [📝帖子](📝帖子.md) ~ RoamR 图片放大/旋转
         - 油猴脚本 --> [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
 
 #@leekeifon

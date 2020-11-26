@@ -72,6 +72,6 @@
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-8fef0d8718cdba735c48bbe6fdde6b34.png)
 
 # Backlinks
-## [⍡教程](⍡教程.md)
+## [📘教程](📘教程.md)
 - [效率神奇组合: Roam+readwise](效率神奇组合: Roam+readwise.md)
 

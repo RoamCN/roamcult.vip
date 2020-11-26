@@ -8,7 +8,6 @@
     1. Add a [roam/js](roam/js.md) tag
     2. Add a child JavaScript code block to it with this code...
         - ```javascript
-
 const CARD_MODE_VERSION = 'master'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
 var s = document.createElement('script')
@@ -42,6 +41,9 @@ document.getElementsByTagName('head')[0].appendChild(s)```
             - ![](../images/VVNUqkOHTn.png?)
 
 # Backlinks
+## [November 14th, 2020](November 14th, 2020.md)
+- 文档地址：[Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
+
 ## [September 16th, 2020](September 16th, 2020.md)
 - [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
 
@@ -50,6 +52,6 @@ document.getElementsByTagName('head')[0].appendChild(s)```
 ## [September 21st, 2020](September 21st, 2020.md)
 - **[fix](fix.md):** 修复了[Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)对
 
-## [⍡教程](⍡教程.md)
+## [📘教程](📘教程.md)
 - [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
 

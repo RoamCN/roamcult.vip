@@ -23,7 +23,8 @@
 - Markdown is a way to add formatting to plain text in a way that can be interpreted by text editors (like Roam). Mastering Markdown is easy and sets you on the path of becoming a keyboard-first user, which will speed up your workflow a lot.
 - **Step 3: Create a code block below the JavaScript block**
     - Hit Enter and then Tab to create a child block under the JavaScript block. Now, we’re going to add a code editor.
-    - In the new block, type /code and select the Code Block option from the trigger menu. Alternatively, type six backticks (``````).
+    - In the new block, type /code and select the Code Block option from the trigger menu. Alternatively, type six backticks (```javascript
+```).
     - ![Roam code block via trigger](https://www.roamstack.com/wp-content/uploads/codeblock-trigger-700x356.png)
     - Or:
     - ![Roam code block via shortcode](https://www.roamstack.com/wp-content/uploads/codeblock-shortcode-700x196.png)

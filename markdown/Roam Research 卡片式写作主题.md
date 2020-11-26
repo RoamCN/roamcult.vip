@@ -7,7 +7,6 @@
     1. Add a [[roam/js]] tag
     2. Add a child JavaScript code block to it with this code...
         - ```javascript
-
 const CARD_MODE_VERSION = 'master'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
 var s = document.createElement('script')

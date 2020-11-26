@@ -1,4 +1,4 @@
-- #proposal for [[RoamCN meetup]]
+- #👾proposal for [[RoamCN meetup]]
     - 名称：Roam中文站周聚🍷 
     - 主要内容
         - P1分享:: 拟定**若干主题**进行分享讨论

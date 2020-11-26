@@ -1,4 +1,4 @@
-- {{[roam/js](<../roam/js.md>)}}
+- {{[roam/js](../roam/js.md)}}
     - ```javascript
 // DISABLE FEATURES
 // Remove two forward slashes from in front of name 
@@ -41,7 +41,7 @@ var s = document.createElement('script')
   	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)
 
-const CARD_MODE_VERSION = 'master'
+const CARD_MODE_VERSION = 'ef847c84'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
 var s = document.createElement('script')
 	s.type = "text/javascript"
@@ -51,22 +51,22 @@ document.getElementsByTagName('head')[0].appendChild(s)```
 - <script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>
 
 # Backlinks
-## [Roam Research 卡片式写作主题](<Roam Research 卡片式写作主题.md>)
-1. Add a [roam/js](<../roam/js.md>)
+## [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
+1. Add a [roam/js](../roam/js.md)
 
-## [Twitter-->Roam的最快方式✈️ ](<Twitter-->Roam的最快方式✈️ .md>)
-- **[Step 1](<../Step 1.md>):** 开一个[roam/js](<../roam/js.md>)
+## [Twitter-->Roam的最快方式✈️ ](Twitter-->Roam的最快方式✈️ .md)
+- **[Step 1](../Step 1.md):** 开一个[roam/js](../roam/js.md)
 
-- {{[roam/js](<../roam/js.md>)}
+- {{[roam/js](../roam/js.md)}
 
-## [roam/js](<roam/js.md>)
-- {{[roam/js](<../roam/js.md>)}
+## [roam/js](roam/js.md)
+- {{[roam/js](../roam/js.md)}
 
-## [roam/js/image-tagging](<roam/js/image-tagging.md>)
-- {{[roam/js](<../roam/js.md>)}
+## [roam/js/image-tagging](roam/js/image-tagging.md)
+- {{[roam/js](../roam/js.md)}
 
-## [用roam/js创建和使用模版](<用roam/js创建和使用模版.md>)
-- From any page in Roam, create a page titled roam/js by typing [roam/js](<../roam/js.md>).
+## [用roam/js创建和使用模版](用roam/js创建和使用模版.md)
+- From any page in Roam, create a page titled roam/js by typing [roam/js](../roam/js.md).
 
-- Click the link so you’re on the roam/js page. There, enable JavaScript by typing {{[roam/js](<../roam/js.md>)}
+- Click the link so you’re on the roam/js page. There, enable JavaScript by typing {{[roam/js](../roam/js.md)}
 

@@ -9,6 +9,9 @@
         - Twitter：[@Jesscate93](https://twitter.com/JESSCATE93)
 
 # Backlinks
+## [November 7th, 2020](November 7th, 2020.md)
+- 是不是每句话都 #[@Jessie](@Jessie.md)
+
 ## [October 13th, 2020](October 13th, 2020.md)
 - {{[query](query.md): {and: [RoamCN meetup](RoamCN meetup.md) [@Jessie](@Jessie.md)}
 
@@ -24,9 +27,14 @@
 ## [RoamCN grocery 大脑杂货店](RoamCN grocery 大脑杂货店.md)
 - [@Jessie](@Jessie.md)
 
-## [ℹ︎内容导航页](ℹ︎内容导航页.md)
-- 作者：[多酱](多酱.md)[@Jessie](@Jessie.md)
-
 ## [周报Newsletter 2020-07-25 003期](周报Newsletter 2020-07-25 003期.md)
 - 编辑：#[@Jessie](@Jessie.md)
+
+## [阅读书单接龙🐲](阅读书单接龙🐲.md)
+- 1）用[@名字](@名字.md)代表分享者，例如`[@Jessie](@Jessie.md)`
+
+- [@Jessie](@Jessie.md)
+
+## [🎈内容导航页](🎈内容导航页.md)
+- 作者：[@多酱](@多酱.md)[@Jessie](@Jessie.md)
 

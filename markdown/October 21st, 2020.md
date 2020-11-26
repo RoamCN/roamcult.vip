@@ -1,5 +1,5 @@
 - [[@苏维]]
-    - [[帖子]] ~ 投屏方案
+    - [[📝帖子]] ~ 投屏方案
         - [QtScrcpy: Android - Gitee](https://gitee.com/Barryda/QtScrcpy)
         - [QtScrcpy: Android - GitHub](https://github.com/barry-ran/QtScrcpy)
         - [QtScrcpy 使用教程](https://www.appinn.com/qtscrcpy/)

@@ -4,17 +4,17 @@
 - Step 2:: copy下面代码到roam/js的任意block，如👇 
 - {{[[roam/js]]}}
     - ```javascript
-var old = document.getElementById("twitter");
-if (old) {
-  old.remove();
-}
+  var old = document.getElementById("twitter");
+  if (old) {
+    old.remove();
+  }
 
-var s = document.createElement("script");
-s.src = "https://roam.davidvargas.me/master/twitter.js";
-s.id = "twitter";
-s.async = false;
-s.type = "text/javascript";
-document.getElementsByTagName("head")[0].appendChild(s);```
+  var s = document.createElement("script");
+  s.src = "https://roam.davidvargas.me/master/twitter.js";
+  s.id = "twitter";
+  s.async = false;
+  s.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(s);```
 - Step 3:: 开一个[[roam/js/twitter]]在sidebar, 输入任意Username::
     - 比如：woonomic
 - Step 4:: 开一个新的[[]], page名输入你想查找的推文关键词

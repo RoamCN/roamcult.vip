@@ -1,5 +1,5 @@
 - [@苏维](@苏维.md)
-    - [帖子](帖子.md) ~ 文库/文档下载
+    - [📝帖子](📝帖子.md) ~ 文库/文档下载
         - [小叶文库](https://www.lanzoux.com/iSOaPgbxola) ~ 推荐
         - [巴法](http://www.blpack.com/)
         - [松鼠文库](http://wk.superlgr.com/)
@@ -12,7 +12,6 @@
             - **[发起项目](发起项目.md):** [RoamCN](RoamCN.md) 
 [胖车库](fat-garage.com)
             - **[年龄](年龄.md):**27
-                - 
             - **[所在城市](所在城市.md):** 北京
             - **[食物喜好](食物喜好.md):** 艾丝拉铁
         [Victor Wu](Victor Wu.md)

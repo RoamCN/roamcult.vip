@@ -1,6 +1,6 @@
 
 #@Jessie [TIL](TIL.md)
-    - 今天胖车库有读者让我解读书：[Usefulness of the useless knowledge](Usefulness of the useless knowledge.md) ，想到Roam里面可不可以形成一个collective intelligence 系列。大家都在Roam上解读自己解读的书、播客，然后输出到CN公众号。#[⍢活动](⍢活动.md)
+    - 今天胖车库有读者让我解读书：[Usefulness of the useless knowledge](Usefulness of the useless knowledge.md) ，想到Roam里面可不可以形成一个collective intelligence 系列。大家都在Roam上解读自己解读的书、播客，然后输出到CN公众号。#[🎃活动](🎃活动.md)
 
 # Backlinks
 ## [October 13th, 2020](October 13th, 2020.md)

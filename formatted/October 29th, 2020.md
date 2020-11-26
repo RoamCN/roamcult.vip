@@ -247,3 +247,13 @@
     - 想去世了，又是这种难受的微信群名字，也不能说，说了也没用；天天被强奸；
     - 以前是葫芦笔记的微信群，非得用那个.    两个字从上往下放在中间的那个点，也不知道他们是怎么打出来的；后来退群了，只在论坛发帖子，这个方面反馈了也没有鸟用；
     - 
+
+#[@HybridRbt](@HybridRbt.md)
+    
+#[阅读](阅读.md) [Pocket - Getting Started with Algorithms of Thought](https://app.getpocket.com/read/3056898025) 介绍了一个很有意思的[概念](概念.md) [Algorithms of Thought](Algorithms of Thought.md) [思考算法](思考算法.md) #[今天学到了](今天学到了.md) #[TIL](TIL.md)
+        - 本质上是把一些常用的[思考](思考.md)方式总结出来，形成所谓的“[算法](算法.md)”并[模板](模板.md)化，用来指导以后遇到的同类[问题](问题.md)的思考：遇到这类问题，采用这种思路比较好，按照这个模板走一遍
+        - 算是又一种把关于[电脑](电脑.md)的[研究](研究.md)成果用于人脑的方式
+    
+#[阅读](阅读.md) [How To Keep Your House Tidy. Use these efficiency lessons I learned… | by Raina Nichole | Better Humans | Medium](https://medium.com/better-humans/how-to-keep-your-house-tidy-3c96d1b4882e)
+        - 可能是最近最能引起共鸣的一篇关于[效率](效率.md)的文章，特别是文中提到的“满手进，满手出”的原则。从小在家我妈就会不断提醒我，在屋里走动的时候绝不空手，一旦瞄见我甩着手去哪里就会叫住我，让我带上什么[东西](东西.md)；她自己也是如此践行，她说这是外婆教给她的。现在想来，这些不成文不成理，没有总结成十万加，只是在父母和孩子间言传身教的生活[经验](经验.md)，可能就是对我关于效率[理论](理论.md)的最初的 inception 了。原来外婆的[道理](道理.md)早就唱给我听，孙燕姿诚不我欺。
+    - 

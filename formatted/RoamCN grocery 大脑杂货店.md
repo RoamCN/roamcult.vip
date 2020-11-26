@@ -69,6 +69,6 @@ Here are two ways for you to participate:
 
 #[RoamCN grocery 大脑杂货店](RoamCN grocery 大脑杂货店.md)
 
-## [⍢活动](⍢活动.md)
+## [🎃活动](🎃活动.md)
 - [RoamCN grocery 大脑杂货店](RoamCN grocery 大脑杂货店.md)
 
