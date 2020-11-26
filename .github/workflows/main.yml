@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    -   cron: "*/30 * * * *"
+    -   cron: "0 7-24/2 * * *"
 
 jobs:
   backup:
@@ -27,8 +27,8 @@ jobs:
           run: |
             roam-to-git --skip-git .
             python scripts/roam_image_backup.py json/$ROAMRESEARCH_DATABASE.json images
+            sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\n\1\./g;s~(https.*%2F\(.*\)\?alt=media.*)~(../images\/\1)~g' ./formatted/**/*.md
             sed -i 's/- #/\n#/g;s/](</](/g;s/.md>)/.md)/g;s/- \([[:digit:]]*\)\./\n\1\./g;s~(https.*%2F\(.*\)\?alt=media.*)~(../images\/\1)~g' ./formatted/*.md
-            
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
