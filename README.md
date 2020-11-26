@@ -12,7 +12,17 @@ Roam Research 中文社区： https://roamresearchfan.com
 - 也欢迎社区小伙伴将自己的使用技巧和应用案例分享给出来，让更多人受益！可以通过投稿的方式发送邮件到**[hq@roamcn.club](mailto:hq@roamcn.club)**。我们会添加到周报和中文站的Roam Graph 当中！
 - 是的，我们还用Roam建立了一个[[[公共graph]]](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ)，想要聚集集体智慧(Collective Intelligence)，实现Roam社区的生长。
 
-关注我们![👽](https://mail.google.com/mail/e/1f47d) ：[B站](https://space.bilibili.com/599106362) | [Roam Graph](https://roamresearch.com/#/app/victor-wu/page/3oqvUOfsQ) | [Notion](https://www.notion.so/Roam-cn-e64eb6c374f44cb9aafc8f1992ee2e98) | [微信群] 👇
+Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、微信圈子、公共图谱和新的Discord平台，致力于更好建设RoamCN中文生态，和大家一起探索 @RoamResearch 的可能性，🚀
+
+- 🐦 Twitter 地址：https://twitter.com/cn_roam
+- 🎬 B 站地址：https://space.bilibili.com/599106362
+- 🕸 Roam 中文站公共图谱（Public Graph)：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
+- 🤗 Discord 永久地址：[https://discord.gg/stMehBs](https://t.co/Pes3bGfqEi?amp=1 "https://discord.gg/stMehBs")
+- ⭕️ 微信圈子：直接微信「搜一搜」里面搜「Roam 中文社区」
+- 🌊 知乎圈子：https://www.zhihu.com/club/1312820179727159296
+- 📮 公众号：直接微信「搜一搜」里面搜「Roam Research 中文社区」
+- 📺 视频号：直接微信「视频号」里面搜「Roam Research」
+- 🎧 喜马拉雅：[http://xima.tv/7hMJvm?_sonic=0](https://t.co/RnJVvHHV2C?amp=1 "http://xima.tv/7hMJvm?_sonic=0")
 
 <img width=620 src="https://jimmylv.github.io/images/2020/Roam%E5%BE%AE%E4%BF%A1%E5%9C%88%E5%AD%90.JPG" alt="Roam微信圈子" style="max-width:100%;">
 
