@@ -41,7 +41,7 @@ aaaaAαααα🐣 吕立青@JimmyLv: 
 
 aaaaAαααα🐣 吕立青@JimmyLv: 
 我觉得我们可以聚焦一下：
-1 即时沟通：微信
+1 即时沟通：飞书
 2 异步讨论：Roam
 3 内容发布：GitHub
 4 视频输出：哔哩哔哩
@@ -51,7 +51,7 @@ aaaaAαααα🐣 吕立青@JimmyLv: 
 反正我也有这个记录习惯
 
 aaaaAαααα🐣 吕立青@JimmyLv: 
-数据流：微信 -> Roam  -> GitHub  -> 哔哩哔哩
+数据流：飞书 -> Roam  -> GitHub  -> 哔哩哔哩
 
 aaaaAαααα🐣 吕立青@JimmyLv: 
 微信圈子、视频号什么的 还是太不好用了

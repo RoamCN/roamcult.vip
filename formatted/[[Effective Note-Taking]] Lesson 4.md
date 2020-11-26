@@ -1,0 +1,25 @@
+- **[Metadata](<Metadata.md>):**
+    - **[Tags](<Tags.md>):** #[翻译](<翻译.md>)
+    - **[Source](<Source.md>):** #[Effective Note-Taking](<Effective Note-Taking.md>)
+    - 校对: [Alex](<Alex.md>)
+- Hi,
+- Today we're going to cover the ****sidebar**** and ****filters****. The sidebar is an extra panel that can be opened and closed independently of the main page content.
+- **Sidebar**
+- You can open the sidebar using the triple-dots menu at the top right of the screen. It's not very exciting initially. Its primary purpose is as a convenient place to put other notes side-by-side for review or reference as you write in the central pane. You can write on either pane, whichever works best for you. You can even open the same page. An easy way to do this is to right-click on the page heading and choose ____Open in sidebar____. If you do this and have the place where you're editing your notes visible in both, you'll see that one affects the other—live-editing in both.
+- Now, the only downside currently is no easy way to jump between the panes with the keyboard. What you can do when you're working in the main page is open the block you're currently editing in the sidebar using the Control-Shift-O notation, as we talked about yesterday. This will let you continue writing it in the sidebar. This is of limited benefit, but what it does demonstrate is that you can open arbitrary blocks and links into the sidebar, and they get stacked. You can open the same block multiple times. It's all the same view. Where this gets really meta is where you are using block references. Opening the original block in the sidebar when you are viewing it in context on the main page allows you to edit the original block's text and see it change in real-time in the main page.
+- When you have a page opened in the sidebar, you'll see you can collapse and expand the section using the ____minus____ and ____plus____ buttons that toggle to the left of the heading. On the right are a set of buttons, a close button, one to ____Filter this page____ and a number. The number shows the number of other linked references to that page. Clicking it will open the list of related references as a new section in the sidebar.
+- **The Filter**
+- This brings us to the Filter functionality. This works identically wherever you see the funnel symbol. It will change colour when there are filters in effect. There's always a filter for the current page, this is found to the right of the search bar.
+- This shows you all the references you have on the page as a set of buttons, and the subscript number after the text illustrates how many times it's mentioned. Again, currently, this requires a mouse to use. Clicking a button will ____include____ it; this means it'll only show the blocks hierarchy on the page which contain that reference (so you have the full context). You'll notice the filter icon turns red when there is a filter in effect. Clicking the button again will remove it.
+- Shift-clicking a button will do the reverse, hiding those blocks on the page. And of course, you can combine both the ____Includes____ and ____Removes____.
+- **References filter**
+- The same filter is available at the bottom of each page to allow you to filter the linked references. This starts to become really useful when your linked references list starts to get long. For example, I have a page called ____Resonance Calendar____ where I collect all the things I have read or watched and found interesting. I will typically add multiple tags to each block. Here's how I'm using it to filter all my resonance calendar items to see just those that I tagged with 1% rule.
+- **Using the sidebar effectively**
+- One of the handiest things about the sidebar is that it makes it easy to move blocks between pages. As you would within a page, you can drag and drop the blocks across to pages in the sidebar and back.
+- A real-world example: Let's say you've made a note on your daily notes page of a meeting you had with Fred and he gave you his phone number, which you duly noted in Roam.
+- Now, you're reviewing your notes at the end of the day, it makes sense to put that phone number on Fred's page (Roam makes for an excellent personal CRM - I'll be talking more about this in later lessons), but you also want to keep it referenced on the daily page too. Here's a short GIF because sometimes a video is better than a thousand words...
+- First, I create a block reference inline of the phone number. Then I shift-click Fred to open his page up in the sidebar. Finally, I drag over the original text of the phone number. This then lets me use the reference button to see all the mentions of the phone number, which shows me that I got it during the meeting I had with Fred on the 7th of June.
+- In Lesson 5, we'll begin exploring some of Roam's toolkit for ****task management****.
+- If you have any feedback or a burning question you'd like answered, feel free to reply to this email. I'll do my best to respond and incorporate it into revised versions and future lessons.
+- Until tomorrow's lesson,
+- Andy

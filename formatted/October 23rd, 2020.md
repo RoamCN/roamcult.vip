@@ -1,0 +1,10 @@
+- [kunpeng9](<kunpeng9.md>).serious[因为有时候也用kunpeng9，所以两个都加上双链]  [kunpeng9.serious](<kunpeng9.serious.md>) =今天尝试把roamcn的全部内容导出为md，再导入ob，看看效果；发现提取的时容易出问题【命名等有问题=出了问题文件名、目录名或卷标语法不正确。（Excep_FromHResult 0x8007007B）】，一些内容不得不点击跳过；
+    - [2020/10/09|03 = 等待事项 | 系统思维 - 知乎](https://zhuanlan.zhihu.com/p/262526360)
+    - [葫芦笔记](<葫芦笔记.md>)社区 乌托邦的记录 https://web.uvw.org.cn/circle/s51A4n5/post/BbrNqr
+    - 效果还行，就是不太适应[Obsidian](<Obsidian.md>)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2F4CZH48UaZs.png?alt=media&token=d47b65fe-a5bc-4868-ae97-2fe90777a134)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FXzgv0Czy0b.png?alt=media&token=1c3d50ef-7c59-429d-93c4-7f1c70356e20)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FYoBqyetf0S.png?alt=media&token=f5394650-a128-4b4b-888a-f0b2147dba8b)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FcWLql9VfmH.png?alt=media&token=5a0dc0e2-554c-45ad-9beb-d191aaf470c4)
+- 抽词的分词结果 [Pullword - 永久免费的基于深度学习的中文在线抽词](http://www.pullword.com/)
+    - 
