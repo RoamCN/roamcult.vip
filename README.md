@@ -31,7 +31,7 @@ document.getElementsByTagName("head")[0].appendChild(s);
 
 ## RoamCN Community
 
-Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、微信圈子、公共图谱和新的Discord平台，致力于更好建设RoamCN中文生态，和大家一起探索 @RoamResearch 的可能性火箭 
+Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、微信圈子、公共图谱和新的Discord平台，致力于更好建设RoamCN中文生态，和大家一起探索 @RoamResearch 的可能性，🚀
 
 - 🐦 Twitter 地址：https://twitter.com/cn_roam
 - 🎬 B 站地址：https://space.bilibili.com/599106362
