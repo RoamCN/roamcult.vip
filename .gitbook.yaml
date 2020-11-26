@@ -1,0 +1,8 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: formatted/🎈内容导航页.md
+
+#redirects:
+#  previous/page: new-folder/page.md
