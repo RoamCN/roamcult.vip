@@ -119,6 +119,10 @@
     --kanban-card-background  : [1B1A23](../1B1A23.md);
     --kanban-text-hover       : [81FFEA](../81FFEA.md);
   }
+}
+
+[roam-table-background="visible"] {
+  background-color:  [52b788](../52b788.md);
 }```
 - [good](../good.md)
 - ```css
