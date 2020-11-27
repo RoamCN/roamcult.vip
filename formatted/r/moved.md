@@ -3,6 +3,9 @@
 ## [November 26th, 2020](November 26th, 2020.md)
 - qqqq {{[r/moved](../r/moved.md)}
 
+## [November 27th, 2020](November 27th, 2020.md)
+- qqqq {{[r/moved](../r/moved.md)}
+
 ## [November 2nd, 2020](November 2nd, 2020.md)
 要加两个；； {{[r/moved](../r/moved.md)}
 
