@@ -7159,8 +7159,8 @@
           {
             "create-email": "jessie@fat-garage.com",
             "create-time": 1597162115863,
-            "edit-email": "yuanyuan.zhang.hash@outlook.com",
-            "edit-time": 1606490597858,
+            "edit-email": "zly.cxy@gmail.com",
+            "edit-time": 1606532513482,
             "emojis": [
               {
                 "emoji": {
@@ -7182,7 +7182,7 @@
                 ]
               }
             ],
-            "string": "```python\n@import url('https://abhayprasanna.github.io/better-dark-age.css');\n\n@import url('https://fonts.googleapis.com/css?family=Commissioner|Crimson+Text|Fira+Code|Bitter|Work+Sans');\n\n@media (prefers-color-scheme: light) {\n  :root {\n    /* FONTS */\n    --global-font             : 'Work Sans', sans-serif;\n    --secondary-font          : 'Fira Code', monospace;\n    --header-font             : 'Crimson Text', serif;\n    /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */\n    --reduce-padding-right    : 3400px;\n    --reduce-padding-left     : 3400px;\n    /* COLORS - One light*/\n    --page-links              : #2979ff;\n    --attributes-color        : #986801;\n    --external-links          : #50A14E;\n    --links-hover             : #E4564A;\n    --hashtags                : #A626A4;\n    --body-text               : #292D31;\n    --italics-color           : #E4564A;\n    --bold-color              : #0184BC;\n    --highlight-text-color    : #292D31;\n    --highlighter             : #FFFF80;\n    --background              : #FAFAFA;\n    --sidebar-background      : #EAEAEB;\n    --sidebar-text            : #292D31;\n    --page-heading            : #2979ff;\n    --daily-heading           : #2979ff;\n    --headings                : #292D31;\n    --bullets                 : #4078F2;\n    --closed-bullets          : #4078F277;\n    --references              : #4078F2;\n    --block-reference-text    : #0184BC;\n    --namespaces              : #E4564A;\n    --all-pages-mentions      : #0184BC;\n    --cursor                  : #292D31;\n    --icons                   : #4078F2;\n    --icons-hover             : #E4564A;\n    --filter-icon             : #50A14E;\n    /* FONT SIZES */\n    --main-font-size          : 1em;\n    --page-head-font-size     : 2.2em;\n    --h1-font-size            : 2em;\n    --h2-font-size            : 1.6em;\n    --h3-font-size            : 1.2em;\n    --sidebar-h1-size         : 2.2em;\n    /* DROPDOWN MENU */\n    --dropdown-menu-background: #EAEAEB;\n    --dropdown-menu-highlight : #FAFAFA;\n    --dropdown-menu-text      : #292D31;\n    --dropdown-newpage        : #2979ff;\n    /* SEARCH BAR */\n    --search-bar-background   : #F7F8FA;\n    --search-bar-text         : #292D31;\n    /* KANBAN CARD COLORS */\n    --kanban-main-background  : #FAFAFA;\n    --kanban-column-background: #EAEAEB;\n    --kanban-card-background  : #FAFAFA;\n    --kanban-text-hover       : #E4564A;\n  }\n}\n@media (prefers-color-scheme: dark) {\n  :root {\n    /* FONTS */\n    --global-font             : 'Work Sans', sans-serif;\n    --secondary-font          : 'Fira Code', monospace;\n    --header-font             : 'Bitter', serif;\n    /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */\n    --reduce-padding-right    : 3400px;\n    --reduce-padding-left     : 3400px;\n    /* COLORS (HT: Jack Laing for [[Dracula Pro]] color theme) */\n    --page-links              : #9580FF;\n    --attributes-color        : #FFFF80;\n    --external-links          : #8AFF80;\n    --links-hover             : #92FFFF;\n    --hashtags                : #FE7FBF;\n    --body-text               : #F2F2F2;\n    --italics-color           : #92FFFF;\n    --bold-color              : #FF9580;\n    --highlight-text-color    : #1B1A23;\n    --highlighter             : #FFFF80;\n    --background              : #1B1A23;\n    --sidebar-background      : #2B2640;\n    --sidebar-text            : #F2F2F2;\n    --page-heading            : #9580FF;\n    --daily-heading           : #9580FF;\n    --headings                : #F2F2F2;\n    --bullets                 : #7C6EAD;\n    --closed-bullets          : #313340;\n    --references              : #7C6EAD;\n    --block-reference-text    : #FF9580;\n    --namespaces              : #92FFFF;\n    --all-pages-mentions      : #FF9580;\n    --cursor                  : #F2F2F2;\n    --icons                   : #7C6EAD;\n    --icons-hover             : #92FFFF;\n    --filter-icon             : #8AFF80;\n    /* FONT SIZES */\n    --main-font-size          : 1em;\n    --page-head-font-size     : 2.2em;\n    --h1-font-size            : 2em;\n    --h2-font-size            : 1.6em;\n    --h3-font-size            : 1.2em;\n    --sidebar-h1-size         : 2.2em;\n    /* DROPDOWN MENU */\n    --dropdown-menu-background: #2B2640;\n    --dropdown-menu-highlight : #1B1A23;\n    --dropdown-menu-text      : #F2F2F2;\n    --dropdown-newpage        : #9580FF;\n    /* SEARCH BAR */\n    --search-bar-background   : #1B1A23;\n    --search-bar-text         : #F2F2F2;\n    /* KANBAN CARD COLORS */\n    --kanban-main-background  : #1B1A23;\n    --kanban-column-background: #2A2C37;\n    --kanban-card-background  : #1B1A23;\n    --kanban-text-hover       : #81FFEA;\n  }\n}```",
+            "string": "```css\n@import url('https://abhayprasanna.github.io/better-dark-age.css');\n\n@import url('https://fonts.googleapis.com/css?family=Commissioner|Crimson+Text|Fira+Code|Bitter|Work+Sans');\n\n@media (prefers-color-scheme: light) {\n  :root {\n    /* FONTS */\n    --global-font             : 'Work Sans', sans-serif;\n    --secondary-font          : 'Fira Code', monospace;\n    --header-font             : 'Crimson Text', serif;\n    /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */\n    --reduce-padding-right    : 3400px;\n    --reduce-padding-left     : 3400px;\n    /* COLORS - One light*/\n    --page-links              : #2979ff;\n    --attributes-color        : #986801;\n    --external-links          : #50A14E;\n    --links-hover             : #E4564A;\n    --hashtags                : #A626A4;\n    --body-text               : #292D31;\n    --italics-color           : #E4564A;\n    --bold-color              : #0184BC;\n    --highlight-text-color    : #292D31;\n    --highlighter             : #FFFF80;\n    --background              : #FAFAFA;\n    --sidebar-background      : #EAEAEB;\n    --sidebar-text            : #292D31;\n    --page-heading            : #2979ff;\n    --daily-heading           : #2979ff;\n    --headings                : #292D31;\n    --bullets                 : #4078F2;\n    --closed-bullets          : #4078F277;\n    --references              : #4078F2;\n    --block-reference-text    : #0184BC;\n    --namespaces              : #E4564A;\n    --all-pages-mentions      : #0184BC;\n    --cursor                  : #292D31;\n    --icons                   : #4078F2;\n    --icons-hover             : #E4564A;\n    --filter-icon             : #50A14E;\n    /* FONT SIZES */\n    --main-font-size          : 1em;\n    --page-head-font-size     : 2.2em;\n    --h1-font-size            : 2em;\n    --h2-font-size            : 1.6em;\n    --h3-font-size            : 1.2em;\n    --sidebar-h1-size         : 2.2em;\n    /* DROPDOWN MENU */\n    --dropdown-menu-background: #EAEAEB;\n    --dropdown-menu-highlight : #FAFAFA;\n    --dropdown-menu-text      : #292D31;\n    --dropdown-newpage        : #2979ff;\n    /* SEARCH BAR */\n    --search-bar-background   : #F7F8FA;\n    --search-bar-text         : #292D31;\n    /* KANBAN CARD COLORS */\n    --kanban-main-background  : #FAFAFA;\n    --kanban-column-background: #EAEAEB;\n    --kanban-card-background  : #FAFAFA;\n    --kanban-text-hover       : #E4564A;\n  }\n}\n@media (prefers-color-scheme: dark) {\n  :root {\n    /* FONTS */\n    --global-font             : 'Work Sans', sans-serif;\n    --secondary-font          : 'Fira Code', monospace;\n    --header-font             : 'Bitter', serif;\n    /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */\n    --reduce-padding-right    : 3400px;\n    --reduce-padding-left     : 3400px;\n    /* COLORS (HT: Jack Laing for [[Dracula Pro]] color theme) */\n    --page-links              : #9580FF;\n    --attributes-color        : #FFFF80;\n    --external-links          : #8AFF80;\n    --links-hover             : #92FFFF;\n    --hashtags                : #FE7FBF;\n    --body-text               : #F2F2F2;\n    --italics-color           : #92FFFF;\n    --bold-color              : #FF9580;\n    --highlight-text-color    : #1B1A23;\n    --highlighter             : #FFFF80;\n    --background              : #1B1A23;\n    --sidebar-background      : #2B2640;\n    --sidebar-text            : #F2F2F2;\n    --page-heading            : #9580FF;\n    --daily-heading           : #9580FF;\n    --headings                : #F2F2F2;\n    --bullets                 : #7C6EAD;\n    --closed-bullets          : #313340;\n    --references              : #7C6EAD;\n    --block-reference-text    : #FF9580;\n    --namespaces              : #92FFFF;\n    --all-pages-mentions      : #FF9580;\n    --cursor                  : #F2F2F2;\n    --icons                   : #7C6EAD;\n    --icons-hover             : #92FFFF;\n    --filter-icon             : #8AFF80;\n    /* FONT SIZES */\n    --main-font-size          : 1em;\n    --page-head-font-size     : 2.2em;\n    --h1-font-size            : 2em;\n    --h2-font-size            : 1.6em;\n    --h3-font-size            : 1.2em;\n    --sidebar-h1-size         : 2.2em;\n    /* DROPDOWN MENU */\n    --dropdown-menu-background: #2B2640;\n    --dropdown-menu-highlight : #1B1A23;\n    --dropdown-menu-text      : #F2F2F2;\n    --dropdown-newpage        : #9580FF;\n    /* SEARCH BAR */\n    --search-bar-background   : #1B1A23;\n    --search-bar-text         : #F2F2F2;\n    /* KANBAN CARD COLORS */\n    --kanban-main-background  : #1B1A23;\n    --kanban-column-background: #2A2C37;\n    --kanban-card-background  : #1B1A23;\n    --kanban-text-hover       : #81FFEA;\n  }\n}```",
             "uid": "pIbyWGiSD"
           }
         ],
@@ -14680,6 +14680,16 @@
     "title": "Roam\u79fb\u52a8\u7aef\u6559\u7a0b\ud83c\udfc3"
   },
   {
+    "children": [
+      {
+        "create-email": "zzq787an150@gmail.com",
+        "create-time": 1606531500521,
+        "edit-email": "zzq787an150@gmail.com",
+        "edit-time": 1606531500521,
+        "string": "",
+        "uid": "k89dZYnZD"
+      }
+    ],
     "create-email": "info@fat-garage.com",
     "create-time": 1600315581065,
     "edit-email": "info@fat-garage.com",
@@ -16966,8 +16976,8 @@
             "create-email": "info@fat-garage.com",
             "create-time": 1601713800238,
             "edit-email": "info@fat-garage.com",
-            "edit-time": 1606177799518,
-            "string": "```javascript\n  var old = document.getElementById(\"twitter\");\n  if (old) {\n    old.remove();\n  }\n\n  var s = document.createElement(\"script\");\n  s.src = \"https://roam.davidvargas.me/master/twitter.js\";\n  s.id = \"twitter\";\n  s.async = false;\n  s.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(s);```",
+            "edit-time": 1606534490221,
+            "string": "```javascript\n  var old = document.getElementById(\"twitter\");\n  if (old) {\n    old.remove();\n  }\n\n  var s = document.createElement(\"script\");\n  s.src = \"https://roamjs.com\";\n  s.id = \"twitter\";\n  s.async = false;\n  s.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(s);```",
             "uid": "ZyOXkvvEP"
           }
         ],
@@ -17018,7 +17028,7 @@
         "create-email": "info@fat-garage.com",
         "create-time": 1601713938552,
         "edit-email": "info@fat-garage.com",
-        "edit-time": 1601714002691,
+        "edit-time": 1606533828321,
         "props": {
           "image-size": {
             "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCEluJPq3pU.png?alt=media&token=5b55dc9f-b500-4edf-bcaa-02605ba2bb40": {
@@ -17027,16 +17037,8 @@
             }
           }
         },
-        "string": "Step 5:: \u5728\u8be5page\u4efb\u610fblock\u8f93\u5165{{twitter references}}\uff0c\u5c31\u53ef\u4ee5\u5566\uff01![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCEluJPq3pU.png?alt=media&token=5b55dc9f-b500-4edf-bcaa-02605ba2bb40)",
+        "string": "Step 5:: \u5728\u8be5page\u4efb\u610fblock\u8f93\u5165`{{twitter references}}`\uff0c\u5c31\u53ef\u4ee5\u5566\uff01![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCEluJPq3pU.png?alt=media&token=5b55dc9f-b500-4edf-bcaa-02605ba2bb40)",
         "uid": "w49KPr74b"
-      },
-      {
-        "create-email": "info@fat-garage.com",
-        "create-time": 1601714105419,
-        "edit-email": "info@fat-garage.com",
-        "edit-time": 1601714105419,
-        "string": "",
-        "uid": "LQEKzHdCG"
       },
       {
         "create-email": "info@fat-garage.com",
@@ -17945,6 +17947,14 @@
         "edit-time": 1600252359086,
         "string": "[[roam/css]] \u6837\u5f0f",
         "uid": "8o0dmkvUV"
+      },
+      {
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1606536080047,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606536080047,
+        "string": "",
+        "uid": "fCKQlKxpO"
       },
       {
         "edit-email": "jings9506@gmail.com",
@@ -19051,6 +19061,14 @@
         "edit-time": 1606027118991,
         "string": "[roam\u65b0\u624b\u4f7f\u7528\u53c2\u8003](https://mp.weixin.qq.com/s/oMXPUrk8BEpHWn-KpS_A2w)#[[@\u591a\u9171]]",
         "uid": "mvDX_ebR8"
+      },
+      {
+        "create-email": "zzq787an150@gmail.com",
+        "create-time": 1606531558321,
+        "edit-email": "zzq787an150@gmail.com",
+        "edit-time": 1606531577458,
+        "string": "[[\u7528roam/js\u521b\u5efa\u548c\u4f7f\u7528\u6a21\u7248]]fd ",
+        "uid": "U0af1pqlw"
       }
     ],
     "create-email": "info@fat-garage.com",
@@ -67208,6 +67226,14 @@
             "uid": "PNJ3SQESS"
           },
           {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1605837116609,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1605837122235,
+            "string": "\u7406\u8bba\u652f\u6491",
+            "uid": "9oyYCiA1w"
+          },
+          {
             "edit-email": "lv460051518@gmail.com",
             "edit-time": 1605837142078,
             "heading": 1,
@@ -67955,18 +67981,97 @@
     "title": "November 30th, 2020"
   },
   {
+    "create-email": "xw85543998@gmail.com",
+    "create-time": 1606535281916,
+    "edit-email": "xw85543998@gmail.com",
+    "edit-time": 1606535281917,
+    "title": "November 28th, 2020"
+  },
+  {
     "children": [
       {
-        "create-time": 1606523595697,
-        "edit-time": 1606523595697,
+        "children": [
+          {
+            "create-email": "jings9506@gmail.com",
+            "create-time": 1606536147419,
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1606536158274,
+            "string": "[Roam42 Installation](https://roamresearch.com/#/app/roamhacker/page/UeoxCm8rm)",
+            "uid": "3nOQgFNxW"
+          }
+        ],
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1600214373407,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606536166618,
+        "string": "> Roam42 \u63d2\u4ef6\u5b98\u7f51",
+        "uid": "4Z6ZdAO1p"
+      },
+      {
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1600214525505,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606536136783,
         "string": "",
-        "uid": "8KLfDgVM6"
+        "uid": "qYJMfE2M6"
+      },
+      {
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1600214523498,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606536136783,
+        "string": "------",
+        "uid": "mvnCCndFq"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1606536136783,
+            "string": "",
+            "uid": "oQOtQt5eI"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "jings9506@gmail.com",
+                "edit-time": 1606536136783,
+                "string": "```javascript\n\n// DISABLE FEATURES\n// Remove two forward slashes from in front of name \n// of feature to DISABLE it\n// Everything is enabled by default\nwindow.disabledFeatures = [\n  // 'quickReference',\n  // 'turnDown',\n  // 'dateProcessing',\n  // 'lookupUI',\n  // 'livePreview',\n  // 'dailyNote',\n  // 'jumpToDate',\n  // 'jumpNav',\n];\n\n// Live Preview - to change the defaults \n// 1) remove // in front of parameter to ACTIVATE the change\n// 2) modify the value to change it's behavior\n// width  = width of preview window\n// height = height of preview window\n// delay  = milliseconds of delay for preview to \n// \t\t\tfire (defaults to 200) can be set to 0\nwindow.roam42LivePreview = {\n  //width:\t'400px',\n  //height: '600px',\n  //delay: 500,\n}\n\n// Change the Deep navigation options\n// activate-on-no-focus - activate navigation mode when body is focused (default: false)\n// REMOVE // in front of setting to change it from default setting\nwindow.roamNavigatorSettings = {\n //  'activate-on-no-focus': true, \n}\n\nvar s = document.createElement('script')\n\ts.type = \"text/javascript\"\n    s.src =  \"https://roam42.glitch.me/main.js\"\n  \ts.async = true\ndocument.getElementsByTagName('head')[0].appendChild(s)\n```",
+                "uid": "4crk7_Rzl"
+              }
+            ],
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1606536136783,
+            "string": "{{[[roam/js]]}}",
+            "uid": "IOlqz3CKL"
+          },
+          {
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1606536136783,
+            "string": "",
+            "uid": "GnAezseYT"
+          }
+        ],
+        "create-email": "kunicki@gmail.com",
+        "create-time": 1598042459025,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606536136783,
+        "string": "**== START:  COPY FROM NEXT LINE  ==========** ",
+        "uid": "rDx-hzUok"
+      },
+      {
+        "create-email": "kunicki@gmail.com",
+        "create-time": 1598042447789,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606536136783,
+        "string": "**== END:  COPY TO PREVIOUS LINE  ==========**",
+        "uid": "5SXLMYafs"
       }
     ],
-    "create-email": "77759059@qq.com",
-    "create-time": 1606492808187,
-    "edit-email": "77759059@qq.com",
-    "edit-time": 1606492808189,
-    "title": "November 28th, 2020"
+    "create-email": "jings9506@gmail.com",
+    "create-time": 1606536129524,
+    "edit-email": "jings9506@gmail.com",
+    "edit-time": 1606536129524,
+    "title": "roam/js/Roam42"
   }
 ]

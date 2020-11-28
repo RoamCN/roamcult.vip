@@ -10,7 +10,7 @@
   }
 
   var s = document.createElement("script");
-  s.src = "https://roam.davidvargas.me/master/twitter.js";
+  s.src = "https://roamjs.com";
   s.id = "twitter";
   s.async = false;
   s.type = "text/javascript";
@@ -19,8 +19,7 @@
     - 比如：woonomic
 - **[Step 4](Step 4.md):** 开一个新的[[]], page名输入你想查找的推文关键词
     - 比如：Bitcoin
-- **[Step 5](Step 5.md):** 在该page任意block输入{{twitter references}}，就可以啦！![](../images/CEluJPq3pU.png?)
-- 
+- **[Step 5](Step 5.md):** 在该page任意block输入`{{twitter references}}`，就可以啦！![](../images/CEluJPq3pU.png?)
 - 英文教程：https://roam.davidvargas.me/extensions/twitter/
 - b站教程：https://m.bilibili.com/video/BV19y4y1k7SW
 

@@ -62,6 +62,9 @@ document.getElementsByTagName('head')[0].appendChild(s)```
 ## [roam/js](roam/js.md)
 - {{[roam/js](../roam/js.md)}
 
+## [roam/js/Roam42](roam/js/Roam42.md)
+- {{[roam/js](../roam/js.md)}
+
 ## [roam/js/image-tagging](roam/js/image-tagging.md)
 - {{[roam/js](../roam/js.md)}
 
