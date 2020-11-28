@@ -19,3 +19,6 @@
 - [把自己作为方法](把自己作为方法.md)~个人经验问题化
         - **[show a piece(截一小段)](show a piece(截一小段).md):**
 
+- [How to Fail at Almost Everything and Still Win Big](How to Fail at Almost Everything and Still Win Big.md)
+        - **[show a piece(截一小段)](show a piece(截一小段).md):**
+
