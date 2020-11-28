@@ -31783,50 +31783,6 @@
       {
         "children": [
           {
-            "create-email": "info@fat-garage.com",
-            "create-time": 1603347732625,
-            "edit-email": "info@fat-garage.com",
-            "edit-time": 1603350883303,
-            "string": "\u6668\u95f4\u65e5\u8bb0::abc",
-            "uid": "QUzxGzTvt"
-          }
-        ],
-        "create-email": "info@fat-garage.com",
-        "create-time": 1603350765068,
-        "edit-email": "info@fat-garage.com",
-        "edit-time": 1603350868080,
-        "string": "#[[\u4e2d\u4e0d\u6e9c]] ",
-        "uid": "Zw1kMqbgU"
-      },
-      {
-        "children": [
-          {
-            "create-email": "info@fat-garage.com",
-            "create-time": 1603350875608,
-            "edit-email": "info@fat-garage.com",
-            "edit-time": 1603350887934,
-            "string": "\u6668\u95f4\u65e5\u8bb0::cde",
-            "uid": "rl-7nwbR4"
-          },
-          {
-            "create-email": "info@fat-garage.com",
-            "create-time": 1603350577674,
-            "edit-email": "info@fat-garage.com",
-            "edit-time": 1603350807455,
-            "string": "{{attr-table:[[\u6668\u95f4\u65e5\u8bb0]]}}",
-            "uid": "H3Noy0fb1"
-          }
-        ],
-        "create-email": "info@fat-garage.com",
-        "create-time": 1603350860115,
-        "edit-email": "info@fat-garage.com",
-        "edit-time": 1603350870548,
-        "string": "#[[Allure]] #leodknuth ",
-        "uid": "l9xGnLd1X"
-      },
-      {
-        "children": [
-          {
             "create-email": "jyciloveyoumost@gmail.com",
             "create-time": 1603364071627,
             "edit-email": "jyciloveyoumost@gmail.com",
@@ -32037,9 +31993,21 @@
       },
       {
         "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350649483,
+        "string": "",
+        "uid": "k1h-8pDOI"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
         "edit-time": 1603351953174,
         "string": "\u5982\u679c\u4f60\u5df2\u7ecf\u4f7f\u7528\u4e86[Roam42](https://www.roamstack.com/roam42)\uff0c\u4f60\u53ef\u4ee5\u8df3\u8fc7\u524d5\u6b65\uff0c\u76f4\u63a5\u4ece\u7b2c\u516d\u6b65\u5f00\u59cb\u3002 ",
         "uid": "0c0rtkHHP"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350651552,
+        "string": "",
+        "uid": "ElpuQ0a-N"
       },
       {
         "edit-email": "leefuxiang@gmail.com",
@@ -32048,10 +32016,74 @@
         "uid": "vj0qdTfsF"
       },
       {
+        "children": [
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[An introduction to Roam-flavored Markdown](https://www.roamstack.com/templates/#intro-markdown)",
+            "uid": "pUKMBZIdN"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[Why use text templates?](https://www.roamstack.com/templates/#why-text-templates)",
+            "uid": "i9xv9UARm"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[Create your own Roam shortcodes that turn into templates](https://www.roamstack.com/templates/#text-expander-choices)",
+            "uid": "dlfN6vWF9"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[System-wide text expansion](https://www.roamstack.com/templates/#system-wide-text-expansion)",
+            "uid": "lDaycSNNq"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[Browser-wide text expansion](https://www.roamstack.com/templates/#browser-wide-text-expansion)",
+            "uid": "nemavlzQ9"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[Roam-wide text expansion](https://www.roamstack.com/templates/#roam-wide-text-expansion)",
+            "uid": "sSr5Uscbz"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[Low-tech: copy-paste](https://www.roamstack.com/templates/#low-tech-copy-paste)",
+            "uid": "7FOPIYTL9"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609823,
+            "string": "[Text template examples](https://www.roamstack.com/templates/#text-template-examples)",
+            "uid": "w2UzI32eM"
+          }
+        ],
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609823,
+        "heading": 2,
+        "string": "Table of Contents",
+        "uid": "FAu_LsKkk"
+      },
+      {
         "edit-email": "leefuxiang@gmail.com",
         "edit-time": 1603352098759,
         "string": "\u914d\u5957\u6559\u5b66\u89c6\u9891YouTube video by\u00a0Les Kristofs https://youtu.be/aJEqN98j2W4",
         "uid": "Hzny0lKS9"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609823,
+        "heading": 2,
+        "string": "[]()An introduction to Roam-flavored Markdown",
+        "uid": "V37V9puS9"
       },
       {
         "children": [
@@ -32066,6 +32098,12 @@
         "edit-time": 1603350609826,
         "string": "**Step 1: Create roam/js page**",
         "uid": "v_2u4zZJu"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Markdown is a way to add formatting to plain text in a way that can be interpreted by text editors (like Roam). Mastering Markdown is easy and sets you on the path of becoming a keyboard-first user, which will speed up your workflow a lot.",
+        "uid": "1JOLzM1WQ"
       },
       {
         "children": [
@@ -32094,6 +32132,12 @@
         "edit-time": 1603350609826,
         "string": "**Step 2: Enable JavaScript on roam/js page**",
         "uid": "cta52HryN"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "If you\u2019re going to use text templates that you create outside Roam (using an app or browser extension), you\u2019ll need Markdown. If you\u2019re going for the \u201cRoam-native\u201d expansion plugin we\u2019re teaching you later, you can directly style your templates in Roam.",
+        "uid": "M5ghJLwsP"
       },
       {
         "children": [
@@ -32146,6 +32190,12 @@
         "uid": "xYOXhwtTf"
       },
       {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "**Bold****",
+        "uid": "q3WzYXO4s"
+      },
+      {
         "children": [
           {
             "edit-email": "leefuxiang@gmail.com",
@@ -32192,6 +32242,12 @@
         "edit-time": 1603350609827,
         "string": "**Step 4: Add plugin to code block**",
         "uid": "Kmfq6fApf"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "__Italics____ (double underscore)",
+        "uid": "HYdjw80p-"
       },
       {
         "children": [
@@ -32254,6 +32310,182 @@
         "edit-time": 1603350609827,
         "string": "**Step 5: Enable JavaScript**",
         "uid": "BCdYxpFIK"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "~~Strikethrough~~~~",
+        "uid": "ts1FvRgEn"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Highlight^^",
+        "uid": "OLUlfK9hF"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Heading 1 *#",
+        "uid": "IRK-l-ESp"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Heading 2 *##",
+        "uid": "K5J6FKr3l"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Heading 3 *###",
+        "uid": "Yez2JFJQ0"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "__* These shortcodes only work in text templates, not when directly typed in Roam.__",
+        "uid": "UWIDbUNS6"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603351396577,
+        "heading": 2,
+        "string": "Why use text templates?",
+        "uid": "Zps0A_TYl"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Roam has no inherent structure as it\u2019s a tool for networked thinking; each block can connect to every block. But, there is some hierarchy on a page level; the way blocks are placed.",
+        "uid": "yA1J77y6u"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Many Roamans plan their pages with attributes and headings, to give their system some structure and make it easier to retrieve notes. But having to type the same thing again and again is wasteful. A programmer wouldn\u2019t do that, and we\u2019re here to become programmers of thoughts.",
+        "uid": "GZwRsz3sX"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Early on, Roamans started to keep pages of text snippets that they use often. As Roam\u2019s markup information is all in characters you can type, people could go completely wild.",
+        "uid": "2mnIWTed9"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "Before long, other people pointed to text expanders, and now thousands of Roamans are creating their own Roam shortcuts each day. Some have 1000-character templates that they trigger with three keystrokes; the possibilities are almost endless.",
+        "uid": "zy0VZsABe"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "string": "We will now cover a few ways to reduce typing in Roam. Then, we share snippets we use ourselves so you get an idea of what\u2019s possible.",
+        "uid": "xTOuHHTug"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609824,
+        "heading": 2,
+        "string": "[]()Create your own Roam shortcodes that turn into templates",
+        "uid": "Oa4vQR7Vy"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609826,
+            "string": "System-wide: apps",
+            "uid": "ARmbQcPAT"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609826,
+            "string": "Browser-wide: extensions",
+            "uid": "LULoBCEVs"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609826,
+            "string": "Roam-wide: JavaScript.",
+            "uid": "5BZKIE2s-"
+          }
+        ],
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "Now that you understand the power of text templates, let\u2019s dive into the different ways to set up some automation for them. There are three ways, each requiring different tools and knowledge:",
+        "uid": "nZw9aEJuP"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609826,
+            "string": "If you want to have access to templates on your whole system, go for a proper text expander app (requires a purchase).",
+            "uid": "jY3VeA1Vy"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609826,
+            "string": "If you\u2019re likely to use templates on other websites too, go for the browser extension.",
+            "uid": "SZQDZrtEu"
+          },
+          {
+            "edit-email": "leefuxiang@gmail.com",
+            "edit-time": 1603350609826,
+            "string": "If you\u2019re strapped for cash and are only likely to use shortcuts in Roam, go for the templates in Roam.",
+            "uid": "8LgoIFxbl"
+          }
+        ],
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "We\u2019ll discuss each option briefly, starting with system-wide apps. Then, we move to the browser, and finish by walking you through an implementation specifically for Roam. Each approach has its advantages and disadvantages. Pick one:",
+        "uid": "8zbJUoBTT"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "heading": 2,
+        "string": "[]()System-wide text expansion",
+        "uid": "isanfFKRE"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "In this category, we see famous apps like\u00a0[Alfred](https://www.alfredapp.com/)\u00a0(Mac) and\u00a0[TextExpander](https://textexpander.com/)\u00a0(Mac, Windows, and mobile). The advantage of using a text expansion\u00a0__app__\u00a0is that you can use it anywhere on your system.",
+        "uid": "zBP_aRQnq"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "Want to set up templates for Word? Or email templates for Outlook? Use an app. You\u2019ll be able to set up simple text templates, but they also have dynamic fields to insert other data\u2014think of the time, date, or manual inputs.",
+        "uid": "9U5VsB0eo"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "If you go with TextExpander, your snippets will sync across all your devices. However, this costs you a yearly fee of $40. If you\u2019re a Mac user and only need to have text templates on one device, Alfred is probably a better option with its one-time fee.",
+        "uid": "1cP5nongJ"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "heading": 2,
+        "string": "[]()Browser-wide text expansion",
+        "uid": "i5nUFWQjw"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "We don\u2019t have a lot of experience in the area of browser-based text expanders, but one tool that keeps popping up on our radar is\u00a0[Text Blaze](https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj). This is a free extension (while still in beta) that works in Chromium browsers (Chrome, Edge, Brave, Vivaldi).",
+        "uid": "ABtkuNguL"
+      },
+      {
+        "edit-email": "leefuxiang@gmail.com",
+        "edit-time": 1603350609826,
+        "string": "Text Blaze works the same as system-wide apps, but only in your browser. Given that Roam currently is a web app, Text Blaze will be enough for most users.",
+        "uid": "r8S5-8Rac"
       }
     ],
     "create-email": "leefuxiang@gmail.com",
@@ -32314,11 +32546,27 @@
             "children": [
               {
                 "create-email": "jyciloveyoumost@gmail.com",
+                "create-time": 1603451454191,
+                "edit-email": "jyciloveyoumost@gmail.com",
+                "edit-time": 1603451454191,
+                "string": "To Dr. Marcus Raichle, discoverer of the default",
+                "uid": "RPJxr7JyE"
+              },
+              {
+                "create-email": "jyciloveyoumost@gmail.com",
                 "create-time": 1603361762673,
                 "edit-email": "jyciloveyoumost@gmail.com",
                 "edit-time": 1603451454196,
                 "string": "mode network, whose breakthrough made our work possible, whose science\nunderlies this entire book, and for whose guidance we are profoundly grateful.",
                 "uid": "LkIEDpjWW"
+              },
+              {
+                "create-email": "jyciloveyoumost@gmail.com",
+                "create-time": 1603361735921,
+                "edit-email": "jyciloveyoumost@gmail.com",
+                "edit-time": 1603361735937,
+                "string": "Title Page",
+                "uid": "rGK4Yk3m2"
               },
               {
                 "children": [
@@ -38419,6 +38667,14 @@
                 "edit-time": 1603361735937,
                 "string": "Part One: The Butterflies",
                 "uid": "OE2UPRQ3c"
+              },
+              {
+                "create-email": "jyciloveyoumost@gmail.com",
+                "create-time": 1603361735921,
+                "edit-email": "jyciloveyoumost@gmail.com",
+                "edit-time": 1603361735937,
+                "string": "Copyright",
+                "uid": "GKPJ6Q-XH"
               },
               {
                 "children": [
@@ -45329,8 +45585,24 @@
                 "create-time": 1603361735921,
                 "edit-email": "jyciloveyoumost@gmail.com",
                 "edit-time": 1603361735937,
+                "string": "Dedication",
+                "uid": "qZSvQ35WY"
+              },
+              {
+                "create-email": "jyciloveyoumost@gmail.com",
+                "create-time": 1603361735921,
+                "edit-email": "jyciloveyoumost@gmail.com",
+                "edit-time": 1603361735937,
                 "string": "Chapter Summaries",
                 "uid": "l-PTTdRv1"
+              },
+              {
+                "create-email": "jyciloveyoumost@gmail.com",
+                "create-time": 1603361735921,
+                "edit-email": "jyciloveyoumost@gmail.com",
+                "edit-time": 1603361735937,
+                "string": "Contents",
+                "uid": "bTbk4-uhE"
               },
               {
                 "create-email": "jyciloveyoumost@gmail.com",
@@ -52028,46 +52300,12 @@
             "uid": "AxIAql8tl"
           },
           {
-            "children": [
-              {
-                "create-email": "89780998@qq.com",
-                "create-time": 1603702146601,
-                "edit-email": "89780998@qq.com",
-                "edit-time": 1603702146609,
-                "string": "max-height: calc(100%);",
-                "uid": "ZgKB3Ltgx"
-              },
-              {
-                "create-email": "89780998@qq.com",
-                "create-time": 1603702146601,
-                "edit-email": "89780998@qq.com",
-                "edit-time": 1603702146609,
-                "string": "overflow-y: auto;",
-                "uid": "6l5Ous_xp"
-              }
-            ],
-            "create-email": "89780998@qq.com",
-            "create-time": 1603702146601,
-            "edit-email": "89780998@qq.com",
-            "edit-time": 1603702146609,
-            "string": "#all-pages-search {",
-            "uid": "5xL7Xuvj5"
-          },
-          {
             "create-email": "89780998@qq.com",
             "create-time": 1603709805753,
             "edit-email": "89780998@qq.com",
             "edit-time": 1603709998578,
             "string": "/* chrome\u6d4f\u89c8\u5668 4240.111 \u7248\u672c\u4e0a \u51fa\u73b0\u4e86 allPage\u663e\u793a\u4e0d\u5168\u7684\u517c\u5bb9\u6027\u95ee\u9898 */",
             "uid": "FcFf0GnG9"
-          },
-          {
-            "create-email": "89780998@qq.com",
-            "create-time": 1603702146601,
-            "edit-email": "89780998@qq.com",
-            "edit-time": 1603702146609,
-            "string": "}",
-            "uid": "fK1XzLGLI"
           },
           {
             "children": [
@@ -52104,38 +52342,12 @@
             "uid": "dbq5hWyQC"
           },
           {
-            "children": [
-              {
-                "create-email": "89780998@qq.com",
-                "create-time": 1603702146601,
-                "edit-email": "89780998@qq.com",
-                "edit-time": 1603702146609,
-                "string": "height:inherit !important;",
-                "uid": "Si3DC3yeD"
-              }
-            ],
-            "create-email": "89780998@qq.com",
-            "create-time": 1603702146601,
-            "edit-email": "89780998@qq.com",
-            "edit-time": 1603702146609,
-            "string": ".roam-article, #all-pages-search, .sidebar-content > *{",
-            "uid": "PtcOGAcwy"
-          },
-          {
             "create-email": "89780998@qq.com",
             "create-time": 1603709805753,
             "edit-email": "89780998@qq.com",
             "edit-time": 1603709805790,
             "string": "}",
             "uid": "g9lCSd0y3"
-          },
-          {
-            "create-email": "89780998@qq.com",
-            "create-time": 1603702146601,
-            "edit-email": "89780998@qq.com",
-            "edit-time": 1603702146609,
-            "string": "}",
-            "uid": "PD6S8XGGt"
           },
           {
             "create-email": "89780998@qq.com",
@@ -52912,7 +53124,7 @@
         "create-email": "jerryliang9609@gmail.com",
         "create-time": 1603860026302,
         "edit-email": "jerryliang9609@gmail.com",
-        "edit-time": 1603860127173,
+        "edit-time": 1603891028148,
         "string": "#@Jerry",
         "uid": "mBM4Kl94d"
       },
@@ -53081,12 +53293,6 @@
                     "edit-time": 1603880258344,
                     "string": "communication based on time linear structure",
                     "uid": "JSr-12R9H"
-                  },
-                  {
-                    "edit-email": "leekeifon@gmail.com",
-                    "edit-time": 1603880252658,
-                    "string": "Example: whatsapp/wechat/qq/twiiter/weibo/",
-                    "uid": "bjuQVuslQ"
                   },
                   {
                     "children": [
@@ -67002,14 +67208,6 @@
             "uid": "PNJ3SQESS"
           },
           {
-            "create-email": "lv460051518@gmail.com",
-            "create-time": 1605837116609,
-            "edit-email": "lv460051518@gmail.com",
-            "edit-time": 1605837122235,
-            "string": "\u7406\u8bba\u652f\u6491",
-            "uid": "9oyYCiA1w"
-          },
-          {
             "edit-email": "lv460051518@gmail.com",
             "edit-time": 1605837142078,
             "heading": 1,
@@ -67587,19 +67785,27 @@
       },
       {
         "create-email": "twitterpig@gmail.com",
-        "create-time": 1606209131378,
+        "create-time": 1606223182490,
         "edit-email": "twitterpig@gmail.com",
-        "edit-time": 1606245706270,
-        "props": {
-          "image-size": {
-            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F5aHB05j-9f.png?alt=media&token=3290c2b5-b00a-4a83-b139-8718961e8e4a": {
-              "height": null,
-              "width": 231
-            }
-          }
-        },
+        "edit-time": 1606223198126,
+        "string": "#tag",
+        "uid": "eI7j4giQW"
+      },
+      {
+        "create-email": "twitterpig@gmail.com",
+        "create-time": 1606223198387,
+        "edit-email": "twitterpig@gmail.com",
+        "edit-time": 1606223221151,
+        "string": "#[[\u5403\u996d]]",
+        "uid": "YAf-8cLFO"
+      },
+      {
+        "create-email": "twitterpig@gmail.com",
+        "create-time": 1606223205507,
+        "edit-email": "twitterpig@gmail.com",
+        "edit-time": 1606223205507,
         "string": "",
-        "uid": "jikCdSEfy"
+        "uid": "p_NkcCAuG"
       }
     ],
     "create-email": "77759059@qq.com",
@@ -67627,12 +67833,22 @@
         "uid": "SVVm0yg53"
       },
       {
-        "create-email": "twitterpig@gmail.com",
-        "create-time": 1606235335845,
-        "edit-email": "twitterpig@gmail.com",
-        "edit-time": 1606235339470,
-        "string": "ffdfdf",
-        "uid": "x18y9U8Ne"
+        "children": [
+          {
+            "create-email": "jings9506@gmail.com",
+            "create-time": 1606262970120,
+            "edit-email": "jings9506@gmail.com",
+            "edit-time": 1606262970120,
+            "string": "",
+            "uid": "4p0qS0LV7"
+          }
+        ],
+        "create-email": "jings9506@gmail.com",
+        "create-time": 1606262956023,
+        "edit-email": "jings9506@gmail.com",
+        "edit-time": 1606262965406,
+        "string": "#[[@\u82cf\u7ef4]]",
+        "uid": "m9_sp1DMM"
       }
     ],
     "create-email": "jerryliang9609@gmail.com",
@@ -67739,10 +67955,18 @@
     "title": "November 30th, 2020"
   },
   {
-    "create-email": "yuanyuan.zhang.hash@outlook.com",
-    "create-time": 1606492805295,
-    "edit-email": "yuanyuan.zhang.hash@outlook.com",
-    "edit-time": 1606492805298,
+    "children": [
+      {
+        "create-time": 1606523595697,
+        "edit-time": 1606523595697,
+        "string": "",
+        "uid": "8KLfDgVM6"
+      }
+    ],
+    "create-email": "77759059@qq.com",
+    "create-time": 1606492808187,
+    "edit-email": "77759059@qq.com",
+    "edit-time": 1606492808189,
     "title": "November 28th, 2020"
   }
 ]
