@@ -40,13 +40,6 @@
         - Discord永久地址🤗 ：https://discord.gg/stMehBs
         - Roam中文站公共图谱（public graph)🕸️ ：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
         - 微信圈子⭕️ ：直接微信「搜一搜」里面搜「Roam中文社区」。
-
-#[中不溜](中不溜.md) 
-    - **[晨间日记](晨间日记.md):**abc
-
-#[Allure](Allure.md) [leodknuth](leodknuth.md) 
-    - **[晨间日记](晨间日记.md):**cde
-    - {{attr-table:[晨间日记](晨间日记.md)}}
 - 18:21 [Batapha](Batapha.md) 建立[B-Net and the Butterfly](B-Net and the Butterfly.md)，分为中文版与英文版
     - 18:54 更新到"Part One: The Butterflies"
 
