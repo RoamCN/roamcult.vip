@@ -17661,8 +17661,8 @@
         "create-email": "jings9506@gmail.com",
         "create-time": 1602300833584,
         "edit-email": "jings9506@gmail.com",
-        "edit-time": 1603446432863,
-        "string": "/",
+        "edit-time": 1606710902051,
+        "string": "",
         "uid": "zZxepw5Hp"
       },
       {
@@ -18005,14 +18005,6 @@
         "edit-time": 1600252359086,
         "string": "[[roam/css]] \u6837\u5f0f",
         "uid": "8o0dmkvUV"
-      },
-      {
-        "create-email": "jings9506@gmail.com",
-        "create-time": 1606536080047,
-        "edit-email": "jings9506@gmail.com",
-        "edit-time": 1606536080047,
-        "string": "",
-        "uid": "fCKQlKxpO"
       },
       {
         "edit-email": "jings9506@gmail.com",
@@ -19127,6 +19119,70 @@
         "edit-time": 1606531577458,
         "string": "[[\u7528roam/js\u521b\u5efa\u548c\u4f7f\u7528\u6a21\u7248]]fd ",
         "uid": "U0af1pqlw"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1606715062659,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1606715085343,
+                "string": "```css\nTags\n/* Custom data tags */\nspan.rm-page-ref[data-tag=\"Life\"] {\n    background: #81D5ED !important;\n    color: white !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"SOP\"] {\n    background: #9769FF !important;\n    color: white !important;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\n\nspan.rm-page-ref[data-tag=\"Life\"] {\n    background: #0DBAC6 !important;\n    color: #fff !important;\n    padding: 3px 8px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Seedling\"] {\n    color: #0dbac6 !important;\n    padding: 3px 3px;\n    font-weight: 600;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Idea Bank\"] {\n    color: #FCB815 !important;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Idea Bank\"]:before {\n    content: '\u2726 '\n}\n\nspan.rm-page-ref[data-tag=\"Inbox\"] {\n    color: #7172FC;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"Li\"] {\n    color: #9DBC13;\n    padding: 3px 4px;\n    font-weight: 700;\n    line-height: 1.4em;\n}\n\nspan.rm-page-ref[data-tag=\"SOP\"] {\n    color: #db3b8d;\n    padding: 3px 4px;\n    line-height: 1.4em;\n    font-weight: 700;\n}\n\nspan.rm-page-ref[data-tag=\"Read\"] {\n    background: #ADCB2A;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\n\nspan.rm-page-ref[data-tag=\"Livestream\"] {\n    color: #B979CF;\n    padding: 3px 4px;\n    line-height: 1.4em;\n    font-weight: 700;\n}\n\nspan.rm-page-ref[data-tag=\"Work\"] {\n    background: #7172FC;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Inport\"] {\n    background: #F9C866;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Outport\"] {\n    background: #FF9D66 !important;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Learning\"] {\n    background: #FC766F !important;\n    color: #fff !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\n\nspan.rm-page-ref[data-tag=\"Important\"] {\n    background: #EE5F85 !important;\n    color: #fff !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}```",
+                "uid": "qZTNw-xGe"
+              }
+            ],
+            "create-email": "info@fat-garage.com",
+            "create-time": 1606715145912,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1606715151809,
+            "string": "css\u4ee3\u7801",
+            "uid": "DsBcv6VX4"
+          },
+          {
+            "children": [
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1606715205051,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1606715206494,
+                "string": "https://roamresearch.com/#/app/roam-tricks/page/O04LkT8_V",
+                "uid": "eOjMbSbx3"
+              }
+            ],
+            "create-email": "info@fat-garage.com",
+            "create-time": 1606715190429,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1606715205061,
+            "string": "Roamtrick\u4e2d\u7684\u65b9\u6cd5",
+            "uid": "22BxWkpuU"
+          },
+          {
+            "children": [
+              {
+                "create-email": "info@fat-garage.com",
+                "create-time": 1606715167550,
+                "edit-email": "info@fat-garage.com",
+                "edit-time": 1606715515096,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FGCLND37MxA.png?alt=media&token=17f8470d-7a52-4ace-977b-2d40ef1fdd9c)",
+                "uid": "QKpvlnmR5"
+              }
+            ],
+            "create-email": "info@fat-garage.com",
+            "create-time": 1606715158456,
+            "edit-email": "info@fat-garage.com",
+            "edit-time": 1606715166706,
+            "string": "\u6837\u5f0f",
+            "uid": "p7XJvBdFY"
+          }
+        ],
+        "create-email": "info@fat-garage.com",
+        "create-time": 1606715047236,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1606715121720,
+        "string": "[[color coding]]\u6559\u7a0b #@Jessie #[[\u4e2d\u4e0d\u6e9c]]",
+        "uid": "5kFrDd_oo"
       }
     ],
     "create-email": "info@fat-garage.com",
@@ -64702,6 +64758,16 @@
                 "create-time": 1605356952630,
                 "edit-email": "nkwshuyi@gmail.com",
                 "edit-time": 1605356957352,
+                "props": {
+                  "iframe": {
+                    "https://htmlpreview.github.io/?https://github.com/wshuyi/my-public-loom-videos/blob/main/2020-11-14-20-23-58-892076.html": {
+                      "size": {
+                        "height": 244,
+                        "width": 424
+                      }
+                    }
+                  }
+                },
                 "string": "{{iframe: https://htmlpreview.github.io/?https://github.com/wshuyi/my-public-loom-videos/blob/main/2020-11-14-20-23-58-892076.html}}",
                 "uid": "3KUYlP8mc"
               },
@@ -64852,6 +64918,16 @@
     "title": "Autobiography of a Yogi"
   },
   {
+    "children": [
+      {
+        "create-email": "gululu2020@outlook.com",
+        "create-time": 1606711111647,
+        "edit-email": "gululu2020@outlook.com",
+        "edit-time": 1606711111647,
+        "string": "",
+        "uid": "JROSclSHp"
+      }
+    ],
     "create-email": "info@fat-garage.com",
     "create-time": 1604804932879,
     "edit-email": "info@fat-garage.com",
@@ -67396,6 +67472,14 @@
             "uid": "PNJ3SQESS"
           },
           {
+            "create-email": "lv460051518@gmail.com",
+            "create-time": 1605837116609,
+            "edit-email": "lv460051518@gmail.com",
+            "edit-time": 1605837122235,
+            "string": "\u7406\u8bba\u652f\u6491",
+            "uid": "9oyYCiA1w"
+          },
+          {
             "edit-email": "lv460051518@gmail.com",
             "edit-time": 1605837142078,
             "heading": 1,
@@ -67973,19 +68057,27 @@
       },
       {
         "create-email": "twitterpig@gmail.com",
-        "create-time": 1606209131378,
+        "create-time": 1606223182490,
         "edit-email": "twitterpig@gmail.com",
-        "edit-time": 1606245706270,
-        "props": {
-          "image-size": {
-            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F5aHB05j-9f.png?alt=media&token=3290c2b5-b00a-4a83-b139-8718961e8e4a": {
-              "height": null,
-              "width": 231
-            }
-          }
-        },
+        "edit-time": 1606223198126,
+        "string": "#tag",
+        "uid": "eI7j4giQW"
+      },
+      {
+        "create-email": "twitterpig@gmail.com",
+        "create-time": 1606223198387,
+        "edit-email": "twitterpig@gmail.com",
+        "edit-time": 1606223221151,
+        "string": "#[[\u5403\u996d]]",
+        "uid": "YAf-8cLFO"
+      },
+      {
+        "create-email": "twitterpig@gmail.com",
+        "create-time": 1606223205507,
+        "edit-email": "twitterpig@gmail.com",
+        "edit-time": 1606223205507,
         "string": "",
-        "uid": "jikCdSEfy"
+        "uid": "p_NkcCAuG"
       }
     ],
     "create-email": "77759059@qq.com",
@@ -68029,14 +68121,6 @@
         "edit-time": 1606262965406,
         "string": "#[[@\u82cf\u7ef4]]",
         "uid": "m9_sp1DMM"
-      },
-      {
-        "create-email": "twitterpig@gmail.com",
-        "create-time": 1606235335845,
-        "edit-email": "twitterpig@gmail.com",
-        "edit-time": 1606235339470,
-        "string": "ffdfdf",
-        "uid": "x18y9U8Ne"
       }
     ],
     "create-email": "jerryliang9609@gmail.com",
@@ -68132,12 +68216,38 @@
         "edit-time": 1606700844606,
         "string": "qqqq {{[[r/moved]]}}[*](((E1h8xzz8K)))",
         "uid": "mAM2AeWRW"
+      },
+      {
+        "children": [
+          {
+            "create-email": "690995298@qq.com",
+            "create-time": 1606711485206,
+            "edit-email": "kioneg.kl@gmail.com",
+            "edit-time": 1606715023490,
+            "string": "https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ",
+            "uid": "C0K-NmKGE"
+          }
+        ],
+        "create-email": "690995298@qq.com",
+        "create-time": 1606711485206,
+        "edit-email": "kioneg.kl@gmail.com",
+        "edit-time": 1606715023490,
+        "string": "#[[Quick Capture]]",
+        "uid": "rsSAP0PzS"
+      },
+      {
+        "create-email": "info@fat-garage.com",
+        "create-time": 1606715541937,
+        "edit-email": "info@fat-garage.com",
+        "edit-time": 1606715580972,
+        "string": "#Life",
+        "uid": "xw7ZJGkLT"
       }
     ],
     "create-email": "yuanyuan.zhang.hash@outlook.com",
     "create-time": 1606491037695,
-    "edit-email": "yuanyuan.zhang.hash@outlook.com",
-    "edit-time": 1606491037695,
+    "edit-email": "kioneg.kl@gmail.com",
+    "edit-time": 1606715023491,
     "title": "November 30th, 2020"
   },
   {
@@ -70495,5 +70605,12 @@
     "create-time": 1606700844601,
     "edit-time": 1606700844602,
     "title": "December 5th, 2020"
+  },
+  {
+    "create-email": "info@fat-garage.com",
+    "create-time": 1606715580976,
+    "edit-email": "info@fat-garage.com",
+    "edit-time": 1606715580978,
+    "title": "Life"
   }
 ]
