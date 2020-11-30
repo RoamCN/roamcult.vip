@@ -16,7 +16,7 @@
             - 发起项目:: [[RoamCN]]
 [MCDEX](https://mcdex.io/)
             - 年龄::27
-            - 所在城市:: 上海
+            - 
             - 食物喜好:: 干锅肥肠
         [[JimmyLv]]
             - 发起项目:: [[RoamCN]] 
@@ -37,5 +37,10 @@
         - Discord永久地址🤗 ：https://discord.gg/stMehBs
         - Roam中文站公共图谱（public graph)🕸️ ：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
         - 微信圈子⭕️ ：直接微信「搜一搜」里面搜「Roam中文社区」。
+- #[[中不溜]] 
+    - 晨间日记::abc
+- #[[Allure]] #leodknuth 
+    - 晨间日记::cde
+    - {{attr-table:[[晨间日记]]}}
 - 18:21 #Batapha 建立[[B-Net and the Butterfly]]，分为中文版与英文版
     - 18:54 更新到"Part One: The Butterflies"
