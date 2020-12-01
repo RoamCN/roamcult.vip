@@ -383,3 +383,4 @@
     - [工具类](https://takesmartnotes.com/tools/)
     - [特色资源 - 中国工程科技知识中心](http://mall.ckcest.cn/)
     - [我是一位40岁的“老程序员”，我有一些想法](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651045133&idx=1&sn=3c9c22bb7ddbf8c32c0e6e28547451ee&chksm=bdbe455e8ac9cc486e46d773aaad189fd66fe63fdb0e754a046a65e5624f637ff66265b81f7a&mpshare=1&scene=1&srcid=1008tLsUrG9ozTzBk5oUIwrq&sharer_sharetime=1602113226318&sharer_shareid=e9e2dce311463a0fb35decab135a67ca&version=3.0.31.2998&platform=win[rd](rd.md))
+- 
