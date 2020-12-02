@@ -1,0 +1,3 @@
+- 编辑:: [[JimmyLv]]
+- Source:: [Roam Newsletter 漫游研究所周报 #2020W48](https://roamresearch.com/#/app/Note-Tasking/page/-Q0mDFd-r)
+- Tweet:: https://twitter.com/Jimmy_JingLv/status/1330831899598622720?s=20

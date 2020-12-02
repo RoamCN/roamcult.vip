@@ -50,6 +50,12 @@
 ## [周报Newsletter 2020-11-15 W46期](周报Newsletter 2020-11-15 W46期.md)
 - **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
 
+## [周报Newsletter 2020-11-23 W47期](周报Newsletter 2020-11-23 W47期.md)
+- **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
+
+## [周报Newsletter 2020-11-30 W48期](周报Newsletter 2020-11-30 W48期.md)
+- **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
+
 ## [阅读书单接龙🐲](阅读书单接龙🐲.md)
 - [JimmyLv](JimmyLv.md)
 
