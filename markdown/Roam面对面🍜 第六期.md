@@ -9,11 +9,28 @@
         - 3. 安静的环境
         - 4. 带上你的疑问和好奇
     - 大纲
+        - Jimmy的分享 🤓  
+            - roam/cn的成长
+            - jimmy的daily routine
+            - Roam Hacking 👾
+                - e.g.关于卡片themes
+                - 关于最新的community idea
         - Personal questions
             - Roam对你来说影响的最大的一点是啥？
                 - 作为believer的想法💡 
                     - 初见😮 ：怎么接触到Roam的？
                     - 成亲😈 ：让你决定成为believer的那个瞬间是什么？
+        - 讨论时间🤩  
+            - 
+
+            - general topic
+                - roam对你来说影响的最大的一点是啥？
+                - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
+                    - 结合GTD的使用
+                    - roam文本编程
+                - 对roam的期待，最希望未来有哪方面的改进/创新？
+                - 对RoamCN的期待，希望我们（一起）玩出什么花样？
+                    - #Jessie 多做一些collective intelligence的尝试
         - 关于Roam的使用
             - 功能
                 - 讲一个你使用的最多的功能？
