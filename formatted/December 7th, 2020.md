@@ -1,18 +1,18 @@
-- [[📝帖子]] ~ 自定义 引用 功能样式
-    - > [[@苏维]] 
-    - > 自定义 引用块功能 样式 #roam/css
+- [📝帖子](📝帖子.md) ~ 自定义 引用 功能样式
+    - > [@苏维](@苏维.md) 
+    - > 自定义 引用块功能 样式 [roam](roam.md)/css
         - /* 修改引用块样式 */
         - blockquote {
             - padding: 0px 0px;
             - margin: 0 0 1px;
             - font-size: 17.5px;
-            - border-left: 5px solid #eee;
+            - border-left: 5px solid [eee](eee.md);
             - /* !important; */
         - }
         - blockquote.rm-bq {
             - display: inline-block;
-            - background-color: #fdfdfd42;
-            - border-left: 5px solid #ec4f4f;
+            - background-color: [fdfdfd42](fdfdfd42.md);
+            - border-left: 5px solid [ec4f4f](ec4f4f.md);
             - font-size: 14px;
         - }
         - /* ---- */
