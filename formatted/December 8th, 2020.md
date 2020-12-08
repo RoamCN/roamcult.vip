@@ -2,3 +2,16 @@
 - Import
     - [leodknuth插件集合](leodknuth插件集合.md)
         - From: js.json
+- [JimmyLv](JimmyLv.md)
+    - [周报Newsletter 2020-12-06 W49期](周报Newsletter 2020-12-06 W49期.md)
+    - 使用 [Roam42](Roam42.md) SmartBlock 添加周报模板
+        - **[Author](Author.md):** [JimmyLv](JimmyLv.md)
+        - **[Date](Date.md):** /Today
+        - **[Source](Source.md):** 
+        - **[Tweet](Tweet.md):** 
+        - 
+        - Roam Newsletter [42SmartBlock](42SmartBlock.md)
+            - **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
+            - **[Date](Date.md):** <%DATE:TODAY%>
+            - **[Source](Source.md):** 
+            - **[Tweet](Tweet.md):** 

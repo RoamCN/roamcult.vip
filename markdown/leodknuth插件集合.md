@@ -1,7 +1,9 @@
 - >说明：
 1. 不要在本页点击“Yes, I know what I'm doing.”按钮，这会让我们RoamCN的js插件生效，可能会造成js插件之间的冲突
 2.建议选择合适的插件，将javascript代码拷贝粘贴到自己roam/js运营
-3.
+3.以下排版是以一个功能js插件前用一个\{roam/js\}打头的方式，目的是修改某个js功能模块时，不影响其他js功能模块的运行
+- 第一个js模块：roam42启用模块
+    - > 启用roam42，很多js代码会基于roam42基础运行（特别是42smartblock）。代码如下：
 - {{roam/js}}
     - ```javascript
 // DISABLE FEATURES
@@ -41,7 +43,7 @@ window.roamNavigatorSettings = {
 
 var s = document.createElement('script')
 	s.type = "text/javascript"
-    s.src =  "https://roam42.glitch.me/main.js"
+    s.src =  "https://cdn.jsdelivr.net/gh/roamhacker/roam42/main.js"
   	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)
 
@@ -53,8 +55,8 @@ var s = document.createElement('script')
 	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)```
 - <script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>
-- {{[[leodknuth插件集合]]}}
-    - roam42
+- {{roam/js}}
+    - 
     - ```javascript
 
 // DISABLE FEATURES
@@ -98,9 +100,9 @@ var s = document.createElement('script');
 	s.src =  "https://cdn.jsdelivr.net/gh/roamhacker/roam42/main.js";
   	s.async = true;
 document.getElementsByTagName('head')[0].appendChild(s);```
-- Roam mobile long tap
+- 第二个js模块：卡片写作模块
+    - > 该模块由 @JimmyLv 提供，模拟卡片写作的环境。代码如下：
 - {{roam/js}}
-    - Cards Writing
     - ```javascript
 const CARD_MODE_VERSION = 'master'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
@@ -109,8 +111,9 @@ var s = document.createElement('script')
     s.src =  window.URLScriptServer + "js/index.js"
 	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)```
+- 第三个js模块：获取tweet
+    - > 当你拷贝某条tweet的链接，粘贴到roam，自动将链接的推文获取到粘贴位置。代码如下：
 - {{roam/js}}
-    - Gather Twitter
     - ```javascript
 var old = document.getElementById("twitter");
 if (old) {
@@ -123,8 +126,9 @@ s.id = "twitter";
 s.async = false;
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);```
+- 第四个js模块：拉取所在页面的references到本页
+    - > 激活语法为 {{pull references}}**（不要试图按本页的pull references按钮）**
 - {{roam/js}}
-    - pull references
     - ```javascript
 var old = document.getElementById("pull-references");
 if (old) {
@@ -137,6 +141,8 @@ s.id = "pull-references";
 s.async = false;
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);```
+- 第五个js模块：TO-DO Trigger
+    - >当todo被标记完成时，可以自动添加标签、自定义尾缀，同时将此条todo画上删除线。代码如下：
 - {{roam/js}}
     - Filter attribute tables
     - ```javascript
@@ -445,7 +451,6 @@ function filterAttr(evt){
 
 document.addEventListener('click', filterAttr)```
 - {{roam/js}}
-    - TODO Trigger
     - ```javascript
 var old = document.getElementById("todo-trigger");
 if (old) {
@@ -458,6 +463,10 @@ s.id = "todo-trigger";
 s.async = false;
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);```
+        - 完成以上代码复制后，仍需在你的roam里创建一个名为"roam/js/todo-trigger"的页面，并将以下三行内容粘贴进入:
+            - Append Text:: /Today  /Current Time
+            - Replace Tags::
+            - Strikethrough::{{True}}
 - {{roam/js}}
     - Wikipedia Search and Insert
     - ```javascript
@@ -1365,3 +1374,338 @@ window.KeyboardLib = {
 - 
 - 
 - 
+- #@Jessie 以下plug-in 来自[推特总结](https://twitter.com/wirtzdan/status/1334976252684476417)
+- 第六个js模块：显示外部链接来源的icon
+    - > 在插入的外部链接前面添加一个图标，显示来源。![图像](https://pbs.twimg.com/media/EobJyxNXUAk1evj?format=jpg&name=small)
+        - ```javascript
+const addFavicons = () => {
+  let filtered = Array.prototype.filter.call(document.querySelectorAll('.roam-body a'), a => {
+    return a.hostname && a.hostname !== document.location.hostname;
+  });
+  Array.prototype.forEach.call(filtered, a => {
+    if (a.text == "*") {
+      a.style.background = `url(https://www.google.com/s2/favicons?sz=16&domain=${a.hostname}) right center no-repeat`;
+      a.style.paddingRight = "18px";
+    } else {
+      a.style.background = `url(https://www.google.com/s2/favicons?sz=16&domain=${a.hostname}) left center no-repeat`;
+      a.style.paddingLeft = "20px";
+    }
+  });
+};
+
+const observer = new MutationObserver(addFavicons);
+observer.observe(document.querySelector('.roam-body'), {
+  attributes: true,
+  childList: true,
+  subtree: true
+});```
+- 第七个js模块：在所有每日笔记页面的顶部显示带有**加密货币价格**的表格
+    - ![图像](https://pbs.twimg.com/media/EobJzEbXUAIBgfg?format=jpg&name=small)
+        - ```javascript
+window.roamFinance = {}
+window.roamFinance.crypto = {
+  tickers: [
+    'BTC', 
+    'ETH', 
+    'LTC',
+    'BAT',
+    'CEL',
+    'NEO',
+  ],
+  currency: 'eur'
+}
+
+const addFinanceScript = (name) => {
+  var old = document.getElementById("roam-fin-" + name);
+  if (old) {
+    old.remove();
+  }
+
+  var s = document.createElement("script");
+  s.src = `https://roamjs-finance.andreynocap.com/${name}.js`;
+  s.id = name;
+  s.async = true;
+  s.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(s);
+};
+addFinanceScript("crypto-price-table");```
+- 第八个js模块：随机页面跳转
+    - ![图像](https://pbs.twimg.com/media/EobJzXrW8AAHnvV?format=jpg&name=small)
+        - ```javascript
+function randomPagePlugin() {
+  function isMac() {
+    return window.navigator.platform.startsWith('Mac');
+  }
+  
+  // settings
+  const title = 'Go to random page';
+  const icon = 'bp3-button bp3-minimal bp3-icon-random pointer bp3-small';
+  const shortcut = isMac() ? {ctrlKey: true, key: "r"} : {altKey: true, key: "r"};
+
+  function addButton() {
+    // cleanup old versions of the button
+    var randomButton = document.querySelector('#random-button');
+    if (randomButton != null) {
+      randomButton.parentNode.removeChild(randomButton);
+    }
+    // create button
+    var template = document.createElement('template');
+    template.innerHTML = '<span id="random-button" title="' + title + '" class="' + icon + '"></span>';
+    template.content.firstChild.onclick = goToRandomPage;
+    randomButton = template.content.firstChild;
+
+    // insert button into topbar
+    const topbar = document.querySelector('.roam-topbar .flex-h-box');
+    const dots = document.querySelector('.roam-topbar div[style="margin-left: 4px;"]');
+    topbar.insertBefore(randomButton, dots);
+  }
+
+  function addKeyboardShortcut() {
+    document.onkeyup = function(e) {
+      if (shortcut.ctrlKey && !e.ctrlKey) return;
+      if (shortcut.shiftKey && !e.shiftKey) return;
+      if (shortcut.altKey && !e.altKey) return;
+      if (shortcut.key === e.key) goToRandomPage(e);
+    }
+  }
+
+  function goToRandomPage(e) {
+    if (isAllPages()) {
+      clickRandomPageLink(e.shiftKey);
+    } else if (e.shiftKey) {
+      goToAllPagesThen(function() {
+        clickRandomPageLink(e.shiftKey);
+        history.back();
+      });
+    } else {
+      const allPages = roamAlphaAPI.q('[ :find (pull ?e [:block/uid]) :where [?e :node/title]]');
+      const page = getRandomElement(allPages);
+      const uid = page[0].uid;
+      const db = location.hash.split('/')[2];
+      location.assign('/#/app/' + db + '/page/' + uid);
+    }
+  }
+
+  function isAllPages() {
+    return location.hash.endsWith('/search');
+  }
+
+  function goToAllPagesThen(f) {
+    document.querySelector('.bp3-icon-list').parentNode.parentNode.click();
+    setTimeout(f, 0);
+  }
+
+  function clickRandomPageLink(shift) {
+    // https://forum.roamresearch.com/t/what-would-be-your-top-3-tips-for-beginners/255/9
+    var allPages = document.querySelectorAll('div.rm-pages-title-col a');
+    var pageLink = getRandomElement(allPages);
+    getEventHandlers(pageLink).onClick({ shiftKey: shift });
+  }
+
+  function getRandomElement(array) {
+    return array[Math.floor(Math.random() * array.length)];
+  }
+
+  function getEventHandlers(element) {
+    for (var prop in element) {
+      if (prop.includes('reactEventHandlers')) {
+        return element[prop];
+      }
+    }
+  }
+
+  addButton();
+  addKeyboardShortcut();
+}
+randomPagePlugin();```
+- 第九个js模块：前进和后退导航箭头
+    - ![图像](https://pbs.twimg.com/media/EobJzqWXMAItefD?format=jpg&name=small)
+        - ```javascript
+;(function () { 
+    // Don't show navigation controls on mobile
+    if(/Android|iPhone/i.test(navigator.userAgent)){
+      return;
+    }
+  
+    // Only show navigation controls when using Roam in app mode
+    if ((window.navigator.standalone == true) || (window.matchMedia('(display-mode: standalone)').matches)) {
+      const navigation_controls = document.createElement("div");    
+      navigation_controls.id = 'roam-navigation-controls';     
+      navigation_controls.style.display = 'block';
+      navigation_controls.setAttribute("style", "display: block; left: 2px; width: 35px; max-width: 35px!important; top: 40px; position: relative; z-index: 100000;");
+
+      const navigation_controls_back = document.createElement("i");    
+      navigation_controls_back.id = 'roam-navigation-controls_back';     
+      navigation_controls_back.style.display = 'block'; 
+      navigation_controls_back.setAttribute('style', "margin-bottom:2px;border: solid black;border-width: 0 3px 3px 0;display: inline-block;position: relative;padding: 5px;transform: rotate(135deg);-webkit-transform: rotate(135deg);cursor: pointer;")
+      navigation_controls_back.onclick = () => {
+        window.history.back();
+      }
+      navigation_controls_back.title = 'Go back';
+
+      const navigation_controls_forward = document.createElement("i");    
+      navigation_controls_forward.id = 'roam-navigation-controls_forward';     
+      navigation_controls_forward.style.display = 'block'; 
+      navigation_controls_forward.setAttribute('style', "margin-bottom:2px;border: solid black;border-width: 0 3px 3px 0;display: inline-block;position: relative;padding: 5px;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);cursor: pointer;")
+      navigation_controls_forward.onclick = () => {
+        window.history.forward();
+      }
+
+      navigation_controls_forward.title = 'Go forward';
+
+      const toolbar_container = document.querySelector('.roam-topbar');
+      const toolbar_container_flex_box = toolbar_container.querySelector('.flex-h-box');
+
+      toolbar_container_flex_box.prepend(navigation_controls);
+
+      document.getElementById("roam-navigation-controls").appendChild(navigation_controls_back);
+      document.getElementById("roam-navigation-controls").appendChild(navigation_controls_forward);
+    }
+})();```
+- 第十个js模块：查看最近访问
+    - ![图像](https://pbs.twimg.com/media/EobJ0AeXUAcxXJT?format=jpg&name=small)
+        - ```javascript
+initiliaze();
+
+function initiliaze() { /*removes any residual instances of breadcrumb feature*/
+    window.removeEventListener("hashchange", timedFunction);
+    document.removeEventListener("keydown", hotKeyEvent);
+    var elem = document.querySelector('#recentLinks');
+    var btn = document.querySelector('#closeCrumbs');
+  	if(elem != null) { elem.parentNode.removeChild(elem); }
+    if(btn != null) { btn.parentNode.removeChild(btn); }
+}
+
+//#recentLinks div to hold breadcrumbs
+var breadCrumbDiv = document.createElement('div'); // #recentLinks div to hold breadcrumbs
+breadCrumbDiv.id = 'recentLinks';
+breadCrumbDiv.style.position = 'absolute';
+breadCrumbDiv.style.left = '228px';
+breadCrumbDiv.style.height = '45px';
+breadCrumbDiv.style.padding = '10px';
+var topBarDiv = document.getElementsByClassName("roam-topbar")[0];
+topBarDiv.appendChild(breadCrumbDiv); //put it in the topbar div for z-index purposes
+window.addEventListener("hashchange", timedFunction);
+
+//div + button to stop/start listener, & show/hide breadcrumbs
+var toggleDiv = document.createElement('div');
+toggleDiv.id = 'closeCrumbs';
+toggleDiv.style.position = 'absolute';
+toggleDiv.style.left = '212px';
+toggleDiv.style.height = '45px';
+toggleDiv.style.padding = '10px';
+topBarDiv.appendChild(toggleDiv);
+
+var toggleButton = document.createElement("button");
+toggleButton.id = 'buttonLayer';
+toggleButton.style.border = '0';
+toggleButton.style.color = 'green';
+toggleButton.style.fontSize = '24px';
+toggleButton.innerHTML = "‣";
+toggleDiv.appendChild(toggleButton);
+toggleButton.onclick = turnOnOff;
+
+var urlArray = [];
+var linksArray = [];
+var onOff = true;
+var n = 0;
+//this function flips the toggle switch, then shows/hides the breadcrumbs and adds/removes listener
+function turnOnOff() {
+    onOff = !onOff;
+    if (!onOff) {
+        breadCrumbDiv.style.display = 'none';
+        toggleButton.style.color = 'grey';
+      	window.removeEventListener("hashchange", timedFunction);
+    } else {
+        breadCrumbDiv.style.display = 'block';
+        toggleButton.style.color = 'green';
+      	window.addEventListener("hashchange", timedFunction);
+    }
+}
+
+//had to delay function for adding breadcrumbs to give page time to load
+function timedFunction() {
+    setTimeout(addPageToRecent, 150)
+}
+
+function addPageToRecent() {
+    var pageUrl = window.location.href; //snags the url for said page
+    if (urlArray.slice(0, 8).includes(pageUrl) == false) { //checks if the link already exists in the last 5 links
+        addLinkElement(pageUrl);
+    }
+    else {
+        var index = urlArray.indexOf(pageUrl);
+        urlArray.splice(index, 1);
+        linksArray.splice(index, 1);
+        addLinkElement(pageUrl);
+    }
+}
+
+function  addLinkElement(pageUrl) {
+    var parent = document.getElementsByClassName("rm-title-display")[0]; //snags the page title
+    if(pageUrl == 'https://roamresearch.com/#/app/shodty') { //checks if they are on daily notes page
+        createLinkElement(parent, pageUrl, 0);
+    }
+    if(parent != null) {  // gets page name if not on daily pages
+        var children = parent.children[0];
+        createLinkElement(children, pageUrl, 1);
+    }
+    else { // checks if the user is zoomed into a bullet
+        var parent = document.getElementsByClassName("zoom-path-view")[0];
+        var children = parent.children[0].children[0].children[0];
+        createLinkElement(children, pageUrl, 2);
+    }
+}
+
+function createLinkElement(children, pageUrl, urlCase) {
+    var lastNine = pageUrl.substr(pageUrl.length - 9);
+    if(urlCase == 0) {var innerChild = "<span style='color: #FF5E00;'>✹</span> Daily Notes" }
+    else if(urlCase == 1) { var innerChild = children.innerHTML.substring(0, 25) }
+    else if(urlCase == 2) { var innerChild =  "<span style='color: #0D9BDB;'>🞇</span> " + children.innerHTML.substring(0, 20) }
+    var linkElement = "<a id='" + lastNine + "' href='" + pageUrl + "' class='recentLink' style='padding: 0 10px;'>" + innerChild + "</a>"; //adds <a> element to array, maximum 25 chars, increase substring size if you wish
+    urlArray.unshift(pageUrl);
+    linksArray.unshift(linkElement);
+    linksArray = linksArray.slice(0, 8); //reduces the array to to 5 link max, in crease if you wish
+    breadCrumbDiv.innerHTML = linksArray.slice(1, 8).join("‣"); //puts the <a> array into the breadCrumbDiv
+    var linkElements = document.getElementsByClassName("recentLink");
+    for(i=0; i<linkElements.length; i++){
+        var linkNumber = "<span style='color: #0087FF; padding-right: 3px;' class='linkNumber'>" + (i+1).toString() + "</span>";
+    linkElements[i].innerHTML = linkNumber + linkElements[i].innerHTML;
+    }
+}
+
+window.addEventListener ("keyup", hotKeyEvent);
+
+function hotKeyEvent(zEvent) {
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "1") { clickLink(1); }
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "2") { clickLink(2); }
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "3") { clickLink(3); }
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "4") { clickLink(4); }
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "5") { clickLink(5); }
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "6") { clickLink(6); }
+    if (zEvent.altKey || zEvent.ctrlKey  &&  zEvent.key === "7") { clickLink(7); }
+}
+
+function clickLink(n) {
+    var linkToClick = linksArray[n];
+    if(linkToClick != null) {
+        var linkId = linkToClick.substring(7, 16)
+        var someLink = document.getElementById(linkId);
+        simulateClick(someLink);
+    }
+}
+
+var simulateClick = function (elem) {
+	// Create our event (with options)
+	var evt = new MouseEvent('click', {
+		bubbles: true,
+		cancelable: true,
+		view: window
+	});
+	// If cancelled, don't dispatch our event
+	var canceled = !elem.dispatchEvent(evt);
+};```
+- 第十一个js模块：attr-table属性筛选
+    - ![How to Use](https://user-images.githubusercontent.com/64155612/96104315-8cc79600-0e8d-11eb-9c68-bf930d041054.gif)
+    - ![Default Filters](https://user-images.githubusercontent.com/64155612/96158005-e056d580-0ec7-11eb-8510-3b363ba6c605.gif)
+    - 资源：https://github.com/GitMurf/roam-javascript#smart-linking

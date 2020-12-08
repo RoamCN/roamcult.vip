@@ -1,3 +1,3 @@
-- 编辑:: [[JimmyLv]]
+- Author:: [[JimmyLv]]
 - Source:: [Roam 周报 2020W47 树状结构 vs 网状结构](https://roamresearch.com/#/app/Note-Tasking/page/cCVsBsyc7)
 - Tweet:: https://twitter.com/Jimmy_JingLv/status/1328733263234428929?s=20

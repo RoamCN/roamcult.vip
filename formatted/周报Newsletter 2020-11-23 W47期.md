@@ -1,4 +1,4 @@
-- **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
 - **[Source](Source.md):** [Roam 周报 2020W47 树状结构 vs 网状结构](https://roamresearch.com/#/app/Note-Tasking/page/cCVsBsyc7)
 - **[Tweet](Tweet.md):** https://twitter.com/Jimmy_JingLv/status/1328733263234428929?s=20
 

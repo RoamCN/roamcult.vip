@@ -1,2 +1,2 @@
-- 编辑:: [[JimmyLv]]
+- Author:: [[JimmyLv]]
 - Source:: https://twitter.com/search?q=%23RoamCN2020W43&src=typed_query&f=live

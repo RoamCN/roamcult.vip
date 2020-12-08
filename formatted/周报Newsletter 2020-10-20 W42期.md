@@ -1,4 +1,4 @@
-- **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
 - **[Source](Source.md):** https://twitter.com/i/events/1318369420708769792
 - ![](../images/kQLxqDUYdG.png?)
 
