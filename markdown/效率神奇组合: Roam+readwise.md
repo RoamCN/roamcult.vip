@@ -42,8 +42,8 @@
 - Medium， 一个能自由发表言论还不会被乱删帖子的高质量内容平台，不过英文内容为主，也欢迎在这儿关注我 👀 **https://medium.com/nataliamok**
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-e1251b6abda5ec02e1d6acaa7d0f43ea.png)
 - **这个更简单：将日常阅读的highlight – readwise – rr**
-- **Hypothes**
-- 最近新发现的插件！**能直接hightlight所有网页看到的好东西 **👀
+- **Hypothes** 
+- 最近新发现的插件！**能直接highlight所有网页看到的好东西 **👀
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-93766ef71ae6b3320bfb5b7d28aa4f91.png)
 - 良心推荐啊。
 - **Twitter**

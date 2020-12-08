@@ -1,0 +1,4 @@
+- [[JimmyLv]]
+    - 👀 更新：今天有空给卡片式写作主添加了一个 Focus Mode
+    - 感兴趣的朋友去我们的 [[RoamCN]] Graph 体验一下吧，👉 https://roamcn.club
+    - 文档地址：[[Roam Research 卡片式写作主题]]
