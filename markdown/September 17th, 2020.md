@@ -6,5 +6,5 @@
         - 那么根据用户的状态，是否可以执行 JavaScript 来加载不同的主题皮肤？https://super.so/
 
 - #@Jessie #TIL 
-    - #[[RoamCN grocery 大脑杂货店]] 
+    - #[[roam/cn grocery 大脑杂货店]] 
         - {{[[DONE]]}} onboard H 的page

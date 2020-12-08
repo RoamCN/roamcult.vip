@@ -60,9 +60,3 @@
         - 看到roam_md发的roam和疾病数据库（roam+disease database）结合的用例，然后[RE](RE.md) 群中联想到了粗糙集，进一步由[dsy](dsy.md) 联想到贝叶斯估计+拓扑学+微分同胚
 - 读书会
     - [Roam book club](https://roamresearch.com/#/app/roam-book-club/page/D-igrPZnN)
-
-# Backlinks
-## [How to prove you are good at something? 如何“证明”自己擅长什么？](How to prove you are good at something? 如何“证明”自己擅长什么？.md)
-
-#[roam 用例](roam 用例.md)
-

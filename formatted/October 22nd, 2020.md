@@ -1,5 +1,5 @@
 - [@苏维](@苏维.md)
-    - [📝帖子](📝帖子.md) ~ 文库/文档下载
+    - [帖子](帖子.md) ~ 文库/文档下载
         - [小叶文库](https://www.lanzoux.com/iSOaPgbxola) ~ 推荐
         - [巴法](http://www.blpack.com/)
         - [松鼠文库](http://wk.superlgr.com/)
@@ -7,18 +7,19 @@
 
 #@Jessie [TIL](TIL.md)
     
-#[attr-table用法持更⎌](attr-table用法持更⎌.md) 联系人信息自动整理
+#[attr-table用法持更⎌](attr-table用法持更⎌.md)
         [@Jessie](@Jessie.md)
             - **[发起项目](发起项目.md):** [RoamCN](RoamCN.md) 
 [胖车库](fat-garage.com)
             - **[年龄](年龄.md):**27
+                - 
             - **[所在城市](所在城市.md):** 北京
             - **[食物喜好](食物喜好.md):** 艾丝拉铁
         [Victor Wu](Victor Wu.md)
             - **[发起项目](发起项目.md):** [RoamCN](RoamCN.md)
 [MCDEX](https://mcdex.io/)
             - **[年龄](年龄.md):**27
-            - 
+            - **[所在城市](所在城市.md):** 上海
             - **[食物喜好](食物喜好.md):** 干锅肥肠
         [JimmyLv](JimmyLv.md)
             - **[发起项目](发起项目.md):** [RoamCN](RoamCN.md) 
@@ -40,6 +41,13 @@
         - Discord永久地址🤗 ：https://discord.gg/stMehBs
         - Roam中文站公共图谱（public graph)🕸️ ：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
         - 微信圈子⭕️ ：直接微信「搜一搜」里面搜「Roam中文社区」。
+
+#[中不溜](中不溜.md) 
+    - **[晨间日记](晨间日记.md):**abc
+
+#[Allure](Allure.md) [leodknuth](leodknuth.md) 
+    - **[晨间日记](晨间日记.md):**cde
+    - {{attr-table:[晨间日记](晨间日记.md)}}
 - 18:21 [Batapha](Batapha.md) 建立[B-Net and the Butterfly](B-Net and the Butterfly.md)，分为中文版与英文版
     - 18:54 更新到"Part One: The Butterflies"
 
