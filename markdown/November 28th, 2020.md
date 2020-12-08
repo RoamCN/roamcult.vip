@@ -13,7 +13,7 @@
 - 14:20
     -  #[[@Jerry]] #[[分享]]
         - 链接:: [CSS分享](((u3dFr7-gj))) 
-        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FhtAFHcFb7a.png?alt=media&token=550b22f9-7aa0-4594-897d-60238538a486)"
+        - ""
 - Import
     - [[1f9596c699490f40c280a57a68a0e84a779fc8d1]]
         - From: 1f9596c699490f40c280a57a68a0e84a779fc8d1.md

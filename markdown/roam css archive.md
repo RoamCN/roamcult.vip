@@ -1,7 +1,6 @@
-- 亮色 #@Jerry
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FhtAFHcFb7a.png?alt=media&token=550b22f9-7aa0-4594-897d-60238538a486)
-    - abhay
-        ```css
+- 
+    - 
+        - ```css
 @import url('https://abhayprasanna.github.io/better-dark-age.css');
 
 @import url('https://fonts.googleapis.com/css?family=Commissioner|Crimson+Text|Fira+Code|Bitter|Work+Sans');
