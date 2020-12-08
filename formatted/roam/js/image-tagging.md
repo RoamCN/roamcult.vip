@@ -1,4 +1,4 @@
-- {{[roam/js](<../../roam/js.md>)}}
+- {{[leodknuth插件集合](<../../leodknuth插件集合.md>)}}
     - ```javascript
 var old = document.getElementById("image-tagging");
 if (old) {

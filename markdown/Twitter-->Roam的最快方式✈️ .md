@@ -1,8 +1,8 @@
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F53Sv0nbZO-.png?alt=media&token=5917d532-2325-4d7b-b97b-d7288b4d1bd5)
 - 如上图，怎样最快的track某人带有[[]]关键词的Tweets呢？以**吴威利（@woonomic)**为例。我想看他近一周所有提及bitcoin的推文(艾玛，可真多😀 ）
-- Step 1:: 开一个[[roam/js]]
+- Step 1:: 开一个[[leodknuth插件集合]]
 - Step 2:: copy下面代码到roam/js的任意block，如👇 
-- {{[[roam/js]]}}
+- {{[[leodknuth插件集合]]}}
     - ```javascript
   var old = document.getElementById("twitter");
   if (old) {

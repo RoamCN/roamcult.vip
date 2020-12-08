@@ -1,8 +1,8 @@
 - ![](../images/53Sv0nbZO-.png?)
 - 如上图，怎样最快的track某人带有[[]]关键词的Tweets呢？以**吴威利（@woonomic)**为例。我想看他近一周所有提及bitcoin的推文(艾玛，可真多😀 ）
-- **[Step 1](Step 1.md):** 开一个[roam/js](roam/js.md)
+- **[Step 1](Step 1.md):** 开一个[leodknuth插件集合](leodknuth插件集合.md)
 - **[Step 2](Step 2.md):** copy下面代码到roam/js的任意block，如👇 
-- {{[roam/js](roam/js.md)}}
+- {{[leodknuth插件集合](leodknuth插件集合.md)}}
     - ```javascript
   var old = document.getElementById("twitter");
   if (old) {
