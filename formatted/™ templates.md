@@ -60,14 +60,14 @@
             - Judgement ✩✩✩
                 - analyze company&tech trend
         - **[产品分析](产品分析.md):**
-        - 4ltLm_-Gg
+        - ((4ltLm_-Gg))
         - **[商业画布](商业画布.md):**
         - {{[embed](embed.md): ((((AatnAPKlu))))}}
         - **[投资分析](投资分析.md):**（e.g. [Investment Thesis for $FVAC ](Investment Thesis for $FVAC .md))
             - Qualitative
             - Quantatitive
             - Risks
-        - CXLJfY2ox
+        - ((CXLJfY2ox))
         - 投资分析（e.g. RoamResearch DD by [Jeff Morris](Jeff Morris.md))
         - ![](../images/BXrfE-Fj8E.png?)
     

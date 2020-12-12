@@ -29,7 +29,7 @@ Roam Research是当前硅谷最火的笔记软件，它的魅力在于让你无�
         - 这部分我觉得最有价值了。日常我用的是Google Drive，Google Docs为主，故结合Roam的用法可以是这样
             - Roam and Google Drive
                 - 如果搜索到一些PDF、PPT、DOC文件，我用Save to Google Drive的Chrome扩展，快速剪藏到Drive里，同时按照规范重命名。
-r42KHA9ty
+((r42KHA9ty))
                 - 在Roam里，如果相关文件我要引用时，我在Drive里邮件复制文件的链接，然后在Roam里用{ { iframe: Drive链接 } }的方式将文件插入。此方式下插入PDF可以直接预览，doc、xls、ppt文件可以直接修改，实在太方便。
     - Roam and Website,
         - Roam支持用iframe的方式嵌入网页，故有些网页我会直接用irame嵌入，需要chrome插件roamhelper来帮忙快速生成iframe链接。举例如下：

@@ -52,14 +52,14 @@
             - Judgement ✩✩✩
                 - analyze company&tech trend
         - 产品分析::
-        - 4ltLm_-Gg
+        - ((4ltLm_-Gg))
         - 商业画布::
         - {{[[embed]]: ((((AatnAPKlu))))}}
         - 投资分析::（e.g. [[Investment Thesis for $FVAC ]])
             - Qualitative
             - Quantatitive
             - Risks
-        - CXLJfY2ox
+        - ((CXLJfY2ox))
         - 投资分析（e.g. RoamResearch DD by [[Jeff Morris]])
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Ffatgarage%2FBXrfE-Fj8E.png?alt=media&token=0da22d4a-0816-4397-944c-c7cd85982095)
     - ## 💲 Investment
