@@ -10,7 +10,9 @@ __（猜猜他在说啥-。-）__
     - 你现在在用Roam做什么有趣的project？
 (比如词典、法典、数据库、CRM、研究院、whatever...)
     - 你是怎么“玩” [42SmartBlock](42SmartBlock.md) 的？
-    - 
+    - 如果我们做教程的话，希望了解什么？
+    - 送Conor一份来自CN社区的🎄礼物 Brainstorming!
+
 ### 报名方式，按以下格式进行填写
 参与者::
     - Jessie👧
