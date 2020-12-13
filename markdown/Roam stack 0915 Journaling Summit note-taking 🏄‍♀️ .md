@@ -7,7 +7,10 @@ Tracy Winchell: Our Three Selves
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F660fAHKwa1.png?alt=media&token=bddcffed-e61b-4f26-8110-909666ac70d7)
 - 会议地址：
 https://us02web.zoom.us/webinar/register/WN_XBjWZovPR520fvEdNLDKeA
+- Our Panelists:
 - ## 请开始表演 👏 
+- Ramses Oudt: Philosophical Journaling
+- (断线中....
 - #@Jessie
     - Tracy
         - the change:stop complaining
@@ -59,9 +62,9 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
 - Especially on days that I'm tired, or barely have time to write long-form. Small bullet points of prompts where I can pick and choose is a lot quicker for me to get the day started         
 - I think it follows a lot on ideas of [[Algorithms of Thought]] where our brains follow pathways for thinking         
 - Allows for variation, things just aren't as boring y'know
-- (断线中....
 - About #[[ feminine energies ]]
     - Tiago wrote a blog post about masculine vs feminine energies https://fortelabs.co/blog/feminine-energy-what-productivity-is-missing/
+- Matt Brockwell: Journaling for Mental Health
 - [[Helen Li]]
     - [[Key Takeaway]]
         - Journaling 要发挥作用，一定需要有一个 Review 的系统或 Routine；好像[[Tim Ferriss]] 所做的
@@ -129,3 +132,5 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
         - Q4 日记过去会被视为女性化的行为，怎么看
             - Brandon：自己过去也会觉得关注自己的情绪，好像不太符合对自己的男性期待；但接触 Stoic 学派后，认识到关注情绪有很强大的力量，每个人都应该了解和触及通过日记带来的反思的力量。
             - [[Resource]]:  [[Tiago Forte]] wrote an amazing #Article about masculine vs feminine energies  [Feminine Energy: What Productivity is Missing - Forte Labs](https://fortelabs.co/blog/feminine-energy-what-productivity-is-missing/)
+- Brandon Toner: Atomic Journaling
+- Tracy Winchell: Our Three Selves

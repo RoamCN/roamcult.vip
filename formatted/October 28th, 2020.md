@@ -70,6 +70,7 @@
                     - it needs to split the gem of thoughts into different topics, I need to find a place to store, which needs a nice pre-design of granularity. 
                         - example: discord of [RoamCN](RoamCN.md)
             - communication based on time linear structure
+            - Example: whatsapp/wechat/qq/twiiter/weibo/
             - communication based on time linear structure
                 - Example: whatsapp/wechat/qq/twiiter/weibo/
                     Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions(mindset of problem solving)"
