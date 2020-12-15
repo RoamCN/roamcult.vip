@@ -1,4 +1,4 @@
-- ```css
+- ```javascript
 [roam-table-background="visible"] {
   background-color:  [52b788](../52b788.md) !important;
 }
@@ -217,7 +217,6 @@ Optional border adjustments:
 - [good](../good.md)
 - ```css
 - 
-- [roam css archive](../roam css archive.md)
 - /* -------------------------- */
 - 
 - /*           MISC             */
@@ -620,6 +619,7 @@ Optional border adjustments:
 - }
 - **[[rm-mobile-bar](../rm-mobile-bar.md) .bp3-button](../[rm-mobile-bar](../rm-mobile-bar.md) .bp3-button.md):**before, [rm-mobile-bar](../rm-mobile-bar.md) .bp3-button i::before {
     - color: var(--color-secondary-contrast) !important;
+- roam css archive
 
 # Backlinks
 ## [August 12th, 2020](August 12th, 2020.md)

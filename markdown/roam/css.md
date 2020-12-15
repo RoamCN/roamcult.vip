@@ -1,4 +1,4 @@
-- ```css
+- ```javascript
 [roam-table-background="visible"] {
   background-color:  #52b788 !important;
 }
@@ -217,7 +217,6 @@ Optional border adjustments:
 - #good
 - ```css
 - 
-- [[roam css archive]]
 - /* -------------------------- */
 - 
 - /*           MISC             */
@@ -578,3 +577,4 @@ Optional border adjustments:
 - }
 - #rm-mobile-bar .bp3-button::before, #rm-mobile-bar .bp3-button i::before {
     - color: var(--color-secondary-contrast) !important;
+- roam css archive
