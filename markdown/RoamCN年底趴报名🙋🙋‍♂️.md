@@ -1,5 +1,5 @@
-**时间：2020年12月18日 晚19:30**
-**地点：**北京市 Somewhere 🚶
+**时间：2020年12月18日（周五） 晚20:00**
+**地点：国贸5L酒店共享季 真格基金会议室（导航搜索真格基金就可以找到✌️）**
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FMt5jkUyJY8.gif?alt=media&token=e74444c2-9f87-4949-8a73-5ea1cbe7f3d7)
 __（猜猜他在说啥-。-）__
 画风: ^^不是吃吃喝喝局，这回是Roam技能互剽局^^。所以带着💻来
@@ -44,4 +44,5 @@ __（猜猜他在说啥-。-）__
     - https://roamresearch.com/#/app/Mridula-Public/page/a5AUdOPQ4
 
 {{attr-table:[[参与者]]}}
-
+最后放上本次活动的群二维码，参加的朋友可以提前在这里沟通路线及其他各种问题::
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCCTWpAEHAY.png?alt=media&token=da8be65f-7bb6-4c01-a5da-2a2785a0a31d)
