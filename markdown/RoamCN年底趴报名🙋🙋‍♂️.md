@@ -12,6 +12,8 @@ __（猜猜他在说啥-。-）__
     - 你是怎么“玩” #42SmartBlock 的？
     - 如果我们做教程的话，希望了解什么？
     - 送Conor一份来自CN社区的🎄礼物 Brainstorming!
+    - 活动彩蛋：每人带一本书（可以附上寄语），随机交换，收获意外惊喜～
+
 
 ### 报名方式，按以下格式进行填写
 参与者::
@@ -38,6 +40,8 @@ __（猜猜他在说啥-。-）__
     - {{or: smart block | SRS间隔重复 | Query}}
     - {{or: daily notes |smart block}}
     - {{or: embed | reference}}
+    - Linked automaticly
+    - 
 展示一页你的代表性page::
     - https://roamresearch.com/#/app/Medicallearning/page/gWsvu7J3-
     - https://roamresearch.com/#/app/fat-garage/page/X9_jYV0Rn
