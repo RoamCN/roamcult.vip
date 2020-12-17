@@ -6,14 +6,25 @@ __（猜猜他在说啥-。-）__
 ![Brown hackathon aims to make coding more inclusive | Brown University](https://www.brown.edu/sites/g/files/dprerj316/files/styles/wide_xlrg/public/2019-05/Hack-a-thon2016_03.jpg?h=08de3a47&itok=C2Y_aZeA)
 
 ### **环节（还在想，欢迎补充）**
-    - 讲一个Roam你觉得最好用的功能/场景，并分享展示。
-    - 你现在在用Roam做什么有趣的project？
-(比如词典、法典、数据库、CRM、研究院、whatever...)
-    - 你是怎么“玩” [42SmartBlock](42SmartBlock.md) 的？
-    - 如果我们做教程的话，希望了解什么？
+    - 1/讲一个Roam你觉得最好用的功能/场景，并分享展示。
+    - 2/你是怎么用daily notes的？
+    - 3/你会用Roam做什么有趣的project？
+(比如词典、法典、数据库、CRM、研究院、或至少怎么用roam写文章的...)
+    - 4/你是怎么“玩” [42SmartBlock](42SmartBlock.md) 的？
+    - 5/吐槽大烩
+        - 关于竞品的吐槽
+        - 你觉得它和其他工具有什么不同？
+    - 6/roam在哪方面帮助到你最多？
+    - 7/杰西的困惑：zettelkasten卡片盒笔记法
+    - 
     - 送Conor一份来自CN社区的🎄礼物 Brainstorming!
     - 活动彩蛋：每人带一本书（可以附上寄语），随机交换，收获意外惊喜～
 
+
+
+👾 小调查
+    - 每天用roam的平均时长？
+    - 
 
 ### 报名方式，按以下格式进行填写
 参与者::
