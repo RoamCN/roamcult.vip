@@ -31,7 +31,14 @@
     #all-pages-search {
         - max-height: calc(100%);
         - overflow-y: auto;
+    }
+    #all-pages-search {
+        - max-height: calc(100%);
+        - overflow-y: auto;
         - height:100% !important;
+    .roam-article, #all-pages-search, .sidebar-content > *{
+        - height:inherit !important;
+    }
     }
     .rm-pages-col-word-count > span:first-child, .rm-pages-col-word-count + div > span:first-child {
     display: none;
