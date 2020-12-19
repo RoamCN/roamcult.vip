@@ -137,4 +137,35 @@
 - #good
 - 
 - 
-- roam css archive
+- mermaid
+    ```css
+.rm-mermaid{
+  background: transparent !important;
+  min-width: 0px !important;
+}
+
+.rm-mermaid .node rect{
+  stroke: #2A496F !important;
+}
+
+.rm-mermaid div
+{
+  color: #448889 !important;
+  margin-right: 15px;
+}
+
+.rm-mermaid text
+{
+  fill: #34A5A5 !important;
+  font-size: 25px !important;
+}
+
+.rm-mermaid rect{
+  fill: transparent !important;
+  stroke-width: 0px !important;
+}
+
+.rm-mermaid tspan{
+  fill: #438BE0 !important;
+  font-size: 20px !important;
+}```

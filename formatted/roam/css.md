@@ -137,7 +137,38 @@
 - [good](../good.md)
 - 
 - 
-- roam css archive
+- mermaid
+    ```css
+.rm-mermaid{
+  background: transparent !important;
+  min-width: 0px !important;
+}
+
+.rm-mermaid .node rect{
+  stroke: [2A496F](../2A496F.md) !important;
+}
+
+.rm-mermaid div
+{
+  color: [448889](../448889.md) !important;
+  margin-right: 15px;
+}
+
+.rm-mermaid text
+{
+  fill: [34A5A5](../34A5A5.md) !important;
+  font-size: 25px !important;
+}
+
+.rm-mermaid rect{
+  fill: transparent !important;
+  stroke-width: 0px !important;
+}
+
+.rm-mermaid tspan{
+  fill: [438BE0](../438BE0.md) !important;
+  font-size: 20px !important;
+}```
 
 # Backlinks
 ## [August 12th, 2020](August 12th, 2020.md)
