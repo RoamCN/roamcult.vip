@@ -6,8 +6,8 @@ __（猜猜他在说啥-。-）__
 ![Brown hackathon aims to make coding more inclusive | Brown University](https://www.brown.edu/sites/g/files/dprerj316/files/styles/wide_xlrg/public/2019-05/Hack-a-thon2016_03.jpg?h=08de3a47&itok=C2Y_aZeA)
 
 ### **环节（还在想，欢迎补充）**
-    - 1/讲一个Roam你觉得最好用的功能/场景，并分享展示。
     - 2/你是怎么用daily notes的？
+    - 1/讲一个Roam你觉得最好用的功能/场景，并分享展示。
     - 3/你会用Roam做什么有趣的project？
 (比如词典、法典、数据库、CRM、研究院、或至少怎么用roam写文章的...)
     - 4/你是怎么“玩” #42SmartBlock 的？
