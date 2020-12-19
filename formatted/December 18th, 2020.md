@@ -1,1 +1,24 @@
 - 
+- By Chloe
+    - 需求：想做一个smartblock， 可以pulldown需要的metadata的template
+        - articles:
+            - **[source](source.md):**
+            - **[link](link.md):**
+            - **[topics](topics.md):**
+            - **[I am reading this to](I am reading this to.md):**
+        - book:
+            - **[author](author.md):**
+            - **[category](category.md):**
+            - **[highlight](highlight.md):**
+            - **[reading status](reading status.md):** {{or: read | reading | to read}}
+            - **[published year](published year.md):**
+        - 专栏
+            - **[author](author.md):**
+            - **[source](source.md):**
+            - **[topics](topics.md):**
+        - video
+            - **[source](source.md):**
+            - **[topic](topic.md):**
+            - **[author](author.md):**
+    - 类似于，我先打出article，然后双分号，选择要使用的smartblock，如果有对应article的template，就能pulldown。或者可以实现类似功能。。。
+- 
