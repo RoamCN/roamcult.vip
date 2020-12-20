@@ -1,9 +1,5 @@
 
 # Backlinks
-## [December 4th, 2020](December 4th, 2020.md)
-
-#@kunpeng9.serious= [kunpeng9.serious](kunpeng9.serious.md)=
-
 ## [November 10th, 2020](November 10th, 2020.md)
 
 #@kunpeng9.serious= [kunpeng9.serious](kunpeng9.serious.md)=
