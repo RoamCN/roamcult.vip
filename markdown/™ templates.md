@@ -19,7 +19,7 @@
         - Author::
         - Related to::#Investment
         - Why read this::
-        - ## Evergreens & Key Concepts
+        - ## Evergreens & Key Conceptsx
         - ## Notes
     - ## 📺 Youtube
         - Categories:: #youtube
