@@ -22,6 +22,9 @@ $.ajax(settings).done(function (response) {
 return '';``` %>
     - <%JAVASCRIPT: document.activeElement.value = ""; return'> ';%><%GET:quote%>
 [<%GET:author%>](<%GET:author%>.md)
+    - 
+    - 
+    - 
 - 
 - [42SmartBlock](42SmartBlock.md) Useless Ideas 随机灵感
     - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
