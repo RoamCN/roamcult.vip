@@ -1305,8 +1305,7 @@ randomPagePlugin();```
 - 第九个js模块：前进和后退导航箭头
     - ![图像](https://pbs.twimg.com/media/EobJzqWXMAItefD?format=jpg&name=small)
         - ```javascript
-;(function () { 
-    // Don't show navigation controls on mobile
+Don't show navigation controls on mobile
     if(/Android|iPhone/i.test(navigator.userAgent)){
       return;
     }
