@@ -7,7 +7,9 @@
 - [🍚 今天吃什么？](🍚 今天吃什么？.md)
     - **[JimmyLv](JimmyLv.md):**
 
-- **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
+
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
 
 ## [November 14th, 2020](November 14th, 2020.md)
 - [JimmyLv](JimmyLv.md)
@@ -65,10 +67,20 @@
 ## [周报Newsletter 2020-12-06 W49期](周报Newsletter 2020-12-06 W49期.md)
 - **[Author](Author.md):** [JimmyLv](JimmyLv.md)
 
+## [周报Newsletter 2020-12-12 W50期](周报Newsletter 2020-12-12 W50期.md)
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
+
+## [周报Newsletter 2020-12-21 W51期](周报Newsletter 2020-12-21 W51期.md)
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
+
 ## [阅读书单接龙🐲](阅读书单接龙🐲.md)
 - [JimmyLv](JimmyLv.md)
 
 ## [🍚 今天吃什么？](🍚 今天吃什么？.md)
 - [🍚 今天吃什么？](🍚 今天吃什么？.md) [42SmartBlock](42SmartBlock.md)
+    - **[JimmyLv](JimmyLv.md):**
+
+## [🎫插件](🎫插件.md)
+- 以 [🍚 今天吃什么？](🍚 今天吃什么？.md) 为例，只需要点击 `;;` 符号，然后选择模板即可生成
     - **[JimmyLv](JimmyLv.md):**
 

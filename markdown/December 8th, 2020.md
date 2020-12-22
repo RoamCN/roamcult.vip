@@ -8,8 +8,13 @@
 - #JimmyLv
     - [[周报Newsletter 2020-12-06 W49期]]
     - 使用 #Roam42 SmartBlock 添加周报模板
+        - Author:: [[JimmyLv]]
+        - Date:: /Today
+        - Source:: 
+        - Tweet:: 
+        - 
         - Roam Newsletter #42SmartBlock
-            - 编辑:: [[JimmyLv]]
+            - Author:: [[JimmyLv]]
             - Date:: <%DATE:TODAY%>
             - Source:: 
             - Tweet:: 

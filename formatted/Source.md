@@ -1,13 +1,13 @@
 
 # Backlinks
 ## [December 8th, 2020](December 8th, 2020.md)
+- **[Date](Date.md):** /Today
+        - **[Source](Source.md):**
+
 - **[Date](Date.md):** <%DATE:TODAY%>
             - **[Source](Source.md):**
 
 ## [™ templates](™ templates.md)
-- **[Author](Author.md):** 
-        - **[Source](Source.md):**
-
 - **[Author](Author.md):** 
         - **[Source](Source.md):**
 
@@ -44,6 +44,14 @@
 
 ## [周报Newsletter 2020-12-06 W49期](周报Newsletter 2020-12-06 W49期.md)
 - **[Author](Author.md):** [JimmyLv](JimmyLv.md)
+- **[Source](Source.md):**
+
+## [周报Newsletter 2020-12-12 W50期](周报Newsletter 2020-12-12 W50期.md)
+- **[Date](Date.md):** [December 5th, 2020](December 5th, 2020.md)
+- **[Source](Source.md):**
+
+## [周报Newsletter 2020-12-21 W51期](周报Newsletter 2020-12-21 W51期.md)
+- **[Date](Date.md):** [December 22nd, 2020](December 22nd, 2020.md)
 - **[Source](Source.md):**
 
 ## [效率神奇组合: Roam+readwise](效率神奇组合: Roam+readwise.md)
