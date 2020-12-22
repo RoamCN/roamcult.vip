@@ -26,6 +26,8 @@ return '';``` %>
     - 
     - 
 - 
+- 
+- 
 - [42SmartBlock](42SmartBlock.md) Useless Ideas 随机灵感
     - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
 var settings = {
