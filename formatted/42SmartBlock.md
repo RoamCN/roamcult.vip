@@ -27,6 +27,32 @@ window.open("ticktick://x-callback-url/v1/add_task?title=" + content + "&x-succe
 return '';```
 %><%NOBLOCKOUTPUT%>
 - 
+- [42SmartBlock](42SmartBlock.md) Flomo 回顾浮墨岛
+    - <%CURRENTBLOCKREF:blockRef%>
+    - <%SET:curBlock,<%RESOLVEBLOCKREF:<%GET:blockRef%>%>%><%NOBLOCKOUTPUT%>
+    - <%JAVASCRIPT:
+```javascript
+var curBlock = roam42.smartBlocks.activeWorkflow.vars["curBlock"];
+var content = curBlock.substring(0,curBlock.indexOf(';;')).trim();
+var currentUrl = window.location.href;
+
+var settings = {
+  "url": "https://flomoapp.com/iwh/NzE5/6ba1568079857c2c7de64941ab4f2caf/",
+  "data": {
+    "content": `${content} ${currentUrl}`
+  },
+  "method": "POST",
+  "timeout": 0,
+  "async": false
+};
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});
+
+return '';```
+%><%NOBLOCKOUTPUT%>
+    - 
 - [42SmartBlock](42SmartBlock.md) Random Quotes 随机语录
     - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
 var settings = {
@@ -94,15 +120,14 @@ return '';``` %>
 [<%GET:author%>](<%GET:author%>.md)
 - 
 - [42SmartBlock](42SmartBlock.md) Tweet this
-    - <%CLIPBOARDCOPY:<%RESOLVEBLOCKREF:<%CURRENTBLOCKREF%>%>%>
+    - <%CURRENTBLOCKREF:blockRef%>
+    - <%SET:curBlock,<%RESOLVEBLOCKREF:<%GET:blockRef%>%>%><%NOBLOCKOUTPUT%>
     - <%JAVASCRIPTASYNC:```javascript
-//Create variable with text from clipboard
-var tweetFodder = await navigator.clipboard.readText();
-//Parse out the ;; and SB name at end that was copied to clipboard when executing SB
-var tweetFodder = tweetFodder.substring(0,tweetFodder.indexOf(';;')).trim();
+var curBlock = roam42.smartBlocks.activeWorkflow.vars["curBlock"];
+var content = curBlock.substring(0,curBlock.indexOf(';;')).trim();
 // Encode as URL
 var tweetURLstart = "https://twitter.com/intent/tweet?text=";
-var tweetURL = tweetURLstart.concat(encodeURIComponent(tweetFodder.slice(0, 279)));
+var tweetURL = tweetURLstart.concat(encodeURIComponent(content));
 // Open tab with Tweet in compose box!
 var currentUrl = encodeURIComponent(window.location.href);
 window.open(tweetURL + ' ' + currentUrl);
