@@ -10,7 +10,7 @@
             - **[author](author.md):**
             - **[category](category.md):**
             - **[highlight](highlight.md):**
-            - **[reading status](reading status.md):** {{or: read | reading | to read}}
+            - **[reading status](reading status.md):** {{or: reading | read | to read}}
             - **[published year](published year.md):**
         - 专栏
             - **[author](author.md):**
