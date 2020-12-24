@@ -1,13 +1,13 @@
 
 # Backlinks
 ## [December 8th, 2020](December 8th, 2020.md)
+- **[Date](Date.md):** /Today
+        - **[Source](Source.md):**
+
 - **[Date](Date.md):** <%DATE:TODAY%>
             - **[Source](Source.md):**
 
 ## [™ templates](™ templates.md)
-- **[Author](Author.md):** 
-        - **[Source](Source.md):**
-
 - **[Author](Author.md):** 
         - **[Source](Source.md):**
 
