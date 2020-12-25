@@ -14,9 +14,6 @@
 - **[Author](Author.md):** 
         - **[Source](Source.md):**
 
-- **[Author](Author.md):** 
-        - **[Source](Source.md):**
-
 ## [周报Newsletter 2020-10-20 W42期](周报Newsletter 2020-10-20 W42期.md)
 - **[Author](Author.md):** [JimmyLv](JimmyLv.md)
 - **[Source](Source.md):**
