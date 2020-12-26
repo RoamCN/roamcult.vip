@@ -5,8 +5,10 @@
     - 
 - 书籍全本
     - 英文版
+        - To Dr. Marcus Raichle, discoverer of the default
         - mode network, whose breakthrough made our work possible, whose science
 underlies this entire book, and for whose guidance we are profoundly grateful.
+        - Title Page
         - Introduction
             - IN A SMALL city in Switzerland on a fine spring day in 1905, a young patent clerk left his one-year-old son and wife at home to go see his best friend about a riddle. The two friends loved exchanging ideas, from philosophy to physics, from art to electricity, and this morning our young patent clerk wanted to discuss a problem that had been vexing him for some time.
             - For the past year, he’d been especially focused on a physics theory he’d begun formulating ten years ago. He laid out every detail of the problem he had been struggling with, and for an entire day the two friends analyzed ideas and rehashed every aspect of the dilemma.
@@ -752,6 +754,7 @@ underlies this entire book, and for whose guidance we are profoundly grateful.
                     - Use Tom Chi’s critique method of brainstorming in a more open way. Get as many ideas up on the board as you can, find the connections, invite quiet, create narratives, create clusters of ideas and rank them.
                     - Create a constraint box by writing out all your constraints in the form of a box. The big, open center of the box will define your breakthrough space.
                     - Put your idea into the world and see what happens.
+        - Copyright
         - Part Two: The Blockers
             - Chapter 7: The Spiders of Fear
                 - A Powerful Butterfly Repellent
@@ -1594,7 +1597,9 @@ underlies this entire book, and for whose guidance we are profoundly grateful.
                         - •	Choose a cue, something that, when it occurs, activates the habit of taking a mindful breath. The cue we most highly recommend is any situation in which you have to wait.
                         - •	Whenever the cue occurs, take one slow, deep breath, and bring some amount of attention to that breath. For safety reasons (for example, if you’re walking or driving), you may need to maintain the appropriate amount of attention on your surroundings as you pay some attention to your breath.
                         - •	If taking that mindful breath makes you feel any better, simply notice that. That will be the reward that reinforces the habit.
+        - Dedication
         - Chapter Summaries
+        - Contents
         - Key Exercises
         - Science Appendix
         - Recommended Resources
