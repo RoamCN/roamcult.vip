@@ -46,6 +46,10 @@
 - ![](../images/b0G-5dj5r7.png?)
 - **[Author](Author.md):**
 
+## [周报Newsletter 2020-12-26 W52期](周报Newsletter 2020-12-26 W52期.md)
+- ![](../images/AlBr-_6qF3.png?)
+- **[Author](Author.md):**
+
 ## [效率神奇组合: Roam+readwise](效率神奇组合: Roam+readwise.md)
 - **[Categories](Categories.md):** [Articles](Articles.md)
     - **[Author](Author.md):**

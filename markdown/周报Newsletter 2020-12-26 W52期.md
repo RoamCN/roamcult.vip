@@ -1,0 +1,5 @@
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FAlBr-_6qF3.png?alt=media&token=48b5ff5f-fd10-4091-9898-4e6d0f56495f)
+- Author:: [[JimmyLv]]
+- Date:: [[December 26th, 2020]]
+- Source:: [Roam Newsletter 漫游研究所周报 #2020W52_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1Gp4y1B7ec)
+- Tweet:: https://twitter.com/Jimmy_JingLv/status/1340859568281116677?s=20

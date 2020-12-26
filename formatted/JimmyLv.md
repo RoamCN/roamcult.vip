@@ -71,6 +71,9 @@
 ## [周报Newsletter 2020-12-21 W51期](周报Newsletter 2020-12-21 W51期.md)
 - **[Author](Author.md):** [JimmyLv](JimmyLv.md)
 
+## [周报Newsletter 2020-12-26 W52期](周报Newsletter 2020-12-26 W52期.md)
+- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
+
 ## [阅读书单接龙🐲](阅读书单接龙🐲.md)
 - [JimmyLv](JimmyLv.md)
 

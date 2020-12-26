@@ -24,3 +24,7 @@
 - **[Source](Source.md):** [Roam Newsletter 漫游研究所周报 [2020W51_](2020W51_.md)哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1pV411h7zQ)
 - **[Tweet](Tweet.md):**
 
+## [周报Newsletter 2020-12-26 W52期](周报Newsletter 2020-12-26 W52期.md)
+- **[Source](Source.md):** [Roam Newsletter 漫游研究所周报 [2020W52_](2020W52_.md)哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1Gp4y1B7ec)
+- **[Tweet](Tweet.md):**
+

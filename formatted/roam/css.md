@@ -1,7 +1,7 @@
 - mono themeset
     - ```css
 @import url('https://abhayprasanna.github.io/better-dark-age.css');
-a
+
 @import url('https://fonts.googleapis.com/css?family=Commissioner|Crimson+Text|Fira+Code|Bitter|Work+Sans');
 
 @media (prefers-color-scheme: light) {
