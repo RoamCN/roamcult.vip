@@ -275,8 +275,6 @@ s.id = "pull-references";
 s.async = false;
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);```
-- 第五个js模块：TO-DO Trigger
-    - >当todo被标记完成时，可以自动添加标签、自定义尾缀，同时将此条todo画上删除线。代码如下：
 - {{roam/js}}
     - Filter attribute tables
     - ```javascript
@@ -584,6 +582,8 @@ function filterAttr(evt){
 }
 
 document.addEventListener('click', filterAttr)```
+- 第五个js模块：TO-DO Trigger
+    - >当todo被标记完成时，可以自动添加标签、自定义尾缀，同时将此条todo画上删除线。代码如下：
 - {{roam/js}}
     - ```javascript
 var old = document.getElementById("todo-trigger");
