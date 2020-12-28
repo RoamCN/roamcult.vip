@@ -2,8 +2,8 @@
 - 
 - 
 - 
-- -> 大纲圆点颜色 #[[roam/css]]
-    - ```css
+- -> 大纲圆点颜色
+    - ``css
 .rm-bullet__inner {
     background-color: #aac3aa !important;
 }

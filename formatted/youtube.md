@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Smartblocks](Smartblocks.md)
+## [42SmartBlock](42SmartBlock.md)
 - {{[youtube](youtube.md):
 
 ## [Youtube timestamp](Youtube timestamp.md)
