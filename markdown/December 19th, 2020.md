@@ -10,7 +10,7 @@
         - author::
         - category::
         - highlight::
-        - reading status:: {{or: read | reading | to read}}
+        - reading status:: {{or:to read | reading | read}}
         - published year::
     - 专栏
         - author::
