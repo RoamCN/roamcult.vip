@@ -47,7 +47,7 @@ var s = document.createElement('script')
   	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)
 
-const CARD_MODE_VERSION = '854539d6'
+const CARD_MODE_VERSION = 'd4507a7c'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
 var s = document.createElement('script')
 	s.type = "text/javascript"
