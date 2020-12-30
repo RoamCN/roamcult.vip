@@ -1,4 +1,0 @@
-- #@Jessie
-    - 用#[[attr-table做词典]] 效果还不错，今早读[[Word power made easy]]的时候有很多的词根（greek roots)感觉列在第三列，每个词的词根是什么，从而进行猜词的意思。
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FJlQeXMEL-M.png?alt=media&token=69fb8bd0-1de3-48ad-97ac-6a0edee35658)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FybVvJdz_fX.png?alt=media&token=051263f4-7c69-4751-944b-d27b7fe31499)

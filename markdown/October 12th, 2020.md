@@ -1,5 +1,5 @@
 - #@Jessie #TIL
-    - {{[[DONE]]}} #[[🎫插件]] 整理
+    - {{[[DONE]]}} #[[␃插件]] 整理
         - [roam空间图-css插件~树状形式展开不同pages](https://github.com/roam-unofficial/roam-toolkit/pull/165)
             - https://twitter.com/daveludavelu/status/1315214048691064832
     - {{[[DONE]]}} 和 #Batapha 建立 RoamCN discord 社区
@@ -18,4 +18,4 @@
 非线性
         - 总结：都适合^^沉淀^^
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FdJRDoiGs2K.png?alt=media&token=bd9039ed-66f0-4632-9855-d1b4874e2a4f)
-    - {{[[DONE]]}} 整理了一下#[[🎈内容导航页]]，并建立#[[▸roamcults CRM]]
+    - {{[[DONE]]}} 整理了一下#[[ℹ︎内容导航页]]，并建立#[[▸roamcults CRM]]

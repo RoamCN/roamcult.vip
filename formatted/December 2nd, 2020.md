@@ -1,7 +1,0 @@
-- 
-- [JimmyLv](JimmyLv.md)
-    - 添加了新的两期周报
-        - "[周报Newsletter 2020-11-23 W47期](周报Newsletter 2020-11-23 W47期.md)"
-        - "[周报Newsletter 2020-11-30 W48期](周报Newsletter 2020-11-30 W48期.md)"
-    - 欢迎大家关注「Roam Research 中文社区」微信公众号
-        - ![](../images/tS2UdFU0Wo.png?)

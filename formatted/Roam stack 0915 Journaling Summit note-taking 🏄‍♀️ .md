@@ -8,11 +8,8 @@ Tracy Winchell: Our Three Selves
     - ![](../images/660fAHKwa1.png?)
 - 会议地址：
 https://us02web.zoom.us/webinar/register/WN_XBjWZovPR520fvEdNLDKeA
-- Our Panelists:
 
 ## 请开始表演 👏 
-- Ramses Oudt: Philosophical Journaling
-- (断线中....
 
 #@Jessie
     - Tracy
@@ -35,7 +32,6 @@ https://us02web.zoom.us/webinar/register/WN_XBjWZovPR520fvEdNLDKeA
 e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式来解释自己的行为、心态...比如为啥自己情绪低落,问问自己
             - ![](../images/CxcGNFeuef.png?)
             - ![](../images/CUkC2bEufq.png?)
-                - ) LJuly 1st, 202008:56 LLLIGINLLYTLY Feeling: love | Energy: high= [Feeling](Feeling.md): relieved[Feeling](Feeling.md): sadJune 29th, 2020Q69:52 [PEPIIYTTY Fesling: sad | Energy: low.v June 24th, 2020v 11:48 [P RIT IT) Feeling: euphoric | Energy: high=~ [Feeling](Feeling.md): hopefulJune 19th, 202009:23 [IETEPIITYY Feeling: hopeful | Energy: medium H[Feeling](Feeling.md): low spirits ‘June 18th, 2020 ‘\11:25 [TTRPTOETITN: | have no idea what's exactly going Ramses Oudton, but it's 11:25 and | haven't done a fucking thing yet (well,except for watching YouTube). 1'm in low spirits and don’t feel likedoing anything. [CINGEEILTNERETETNT)It reminds me of when | was in college and was so overwhelmedby the amount of work I had to do that I became paralyzed. Nowit's not the amount of work that | have to do, but the utteramount of stimuli that comes at me.1/do believe this s partly because of my own behavior. Thereare many sneaky things happening and I'm sensitive to thatHowever, instead of looking at what happens at macro-level, |should have more attention for my own micro-levelWhat do | want to achieve in life? That's a good question. I had oplanned to do my 3MIQ today, which | will do now. T R]]]]]
         - comments
             - Matt: the most important thing of life is something around the cornor,the edges
             - Brandon: documenting the story is powerful
@@ -66,9 +62,9 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
 - Especially on days that I'm tired, or barely have time to write long-form. Small bullet points of prompts where I can pick and choose is a lot quicker for me to get the day started         
 - I think it follows a lot on ideas of [Algorithms of Thought](Algorithms of Thought.md) where our brains follow pathways for thinking         
 - Allows for variation, things just aren't as boring y'know
+- (断线中....
 - About #[ feminine energies ]( feminine energies .md)
     - Tiago wrote a blog post about masculine vs feminine energies https://fortelabs.co/blog/feminine-energy-what-productivity-is-missing/
-- Matt Brockwell: Journaling for Mental Health
 - [Helen Li](Helen Li.md)
     - [Key Takeaway](Key Takeaway.md)
         - Journaling 要发挥作用，一定需要有一个 Review 的系统或 Routine；好像[Tim Ferriss](Tim Ferriss.md) 所做的
@@ -136,10 +132,8 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
         - Q4 日记过去会被视为女性化的行为，怎么看
             - Brandon：自己过去也会觉得关注自己的情绪，好像不太符合对自己的男性期待；但接触 Stoic 学派后，认识到关注情绪有很强大的力量，每个人都应该了解和触及通过日记带来的反思的力量。
             - [Resource](Resource.md):  [Tiago Forte](Tiago Forte.md) wrote an amazing [Article](Article.md) about masculine vs feminine energies  [Feminine Energy: What Productivity is Missing - Forte Labs](https://fortelabs.co/blog/feminine-energy-what-productivity-is-missing/)
-- Brandon Toner: Atomic Journaling
-- Tracy Winchell: Our Three Selves
 
 # Backlinks
-## [🎃活动](🎃活动.md)
+## [⍢活动](⍢活动.md)
 - [Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ ](Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ .md)
 

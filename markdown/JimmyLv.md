@@ -1,2 +1,2 @@
 - #[[roam/cn crew]]
-- Blog:: https://blog.jimmylv.info/
+- https://blog.jimmylv.info/
