@@ -1,0 +1,116 @@
+- [[kunpeng9.serious]] =
+    - 有点难受，是不是应该用roam，[[葫芦笔记]]的问题有点多，目前；显示老是出问题，数据库也有问题；不是很习惯roam的视图；先养成的葫芦的使用[[习惯]]；
+    - 不知道为啥有时候彩云[[翻译]][[插件]]莫名其妙打开【我是关闭了的啊】，并且把[[中文]]翻译成[[英文]]；多此一举，以前好像[[反馈]]过，至今没有改进；![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FUGOzexK7aV.png?alt=media&token=ac7ffa2c-76a5-47c3-a7ed-162e6e011085)
+    - 视图真的不习惯；不知道为啥那个文章里面的那个视图显示的是那样的，就是误导人；那个[[视图]]非常平面，这个就是快是一条线了；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FNzg8NpkYSt.png?alt=media&token=c3774aaa-f785-41a4-81f1-2bc6d8945ef7)
+    - 往图的下面加内容稍微有点麻烦；非得要另外的操作；不知道啥时候roam修复了符号显示的问题，以前【】都是显示为[]的，葫芦笔记也是，都修复了这个问题了；别忘记把roam称为漫游者，[[漫游者]]，myz，搜狗输入法已经会联想了，只用打3个字符就行了；roam增加理解、[[认知]]成本；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FPYYw_uKVR0.png?alt=media&token=f29a4b47-e93b-4f9c-909e-0687d492bb2c)
+        - 别忘记粘贴图片的时候[[习惯]]性enter一下，增加一个新页面；
+        - 英文真多；老是做增加成本的事情；虽然不是看不懂；以前和[[pimgeek]]说过这个事情；不少次；
+            - 老是要enter一下到下一个点，然后上一个点才能渲染，才能点击，都是这样，有点麻烦；
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FVyYd6NWrBj.png?alt=media&token=9eb8c082-a87d-4a36-b33e-0f74849fe00f)
+        - [[粘贴]]之后是这样的
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FTs0i_7-I5W.png?alt=media&token=17d101a9-ddc1-4caf-bddb-f82207d04211)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FvzRQIHkDeF.png?alt=media&token=ea316b78-4230-4014-b9a6-a5b766380189)
+            - 葫芦笔记[[复制]]稍微麻烦，添加倒是方便，从葫芦笔记里面复制内容有时候有点麻烦；到那个nlp就不是很方便了；
+            - 两个都不能点击放大，这个图小了一点，粘贴之后不好看词语了；
+            - 葫芦笔记没有这个编辑图标少了麻烦，多了另外一个麻烦，以前和他们说过，如今还未解决；
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fro-tieVLRg.png?alt=media&token=bf4e311f-e370-4feb-b1ec-114ecd6889d1)
+    - 
+- #@Jessie
+    - #[[每天一条CN tweet]]
+        - Why called Roam **Research**?
+            - **Roam**叫**Research**一点问题都没有** **
+            - 因为他把做笔记这件事情上伸到了做研究的程度，想象一下scientists, PhD students 做研究，他们要引用大量的参考文献，去证明他们的观点 essay or whatever it is. 
+            - > in science you have to prove it —— Richard Feynman
+            - 你需要做大量的研究，从一个兔子洞钻到另一个兔子洞，把各种你想到的没想到的事情联系起来。
+            - [[]]的作用其实是把你不懂的东西挖个洞，为你构建系统。不怕你打洞，就怕你似懂非懂装作没看见而欺骗自己，最后坑了自己。
+                - （一个图，你假装没事人 其实前面有个洞🆚 一个大牌子立在那告诉你：前方有洞）
+            - 我很多时候对知识的态度就是这样的，但到头来发现你绕不过去。Feynman教授说：你总是要知道懂一件事和知道他名字之间的区别。
+            - Roam的这种钻洞模式有意识的将我们导向“好奇心”驱动的方向了，不怕自己无知。
+            - 苏格拉底：我知道自己的无知
+            - > I know that I know nothing ——Socrates
+            - 从这个岑面上来说，[[]]指引着人们不断完善自己的系统，I can not say the less[[]]the better in that sense.
+    - Q::时间因素Date在#[[{{attr-table]]里面没有体现出来。比如，没办法总结一周（或特定时长）的东西，一attr就是所有的内容，怎么破？[[!JimmyLv]]给david发个issue?
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FzxdUMU7VpY.png?alt=media&token=5d6b08eb-6870-4bd6-b8b5-6ee71551ce03)
+        - 16:38 两个解决方案
+            - From Neil: use query https://twitter.com/neilkakkar/status/1321362880692953088
+            - From [[Norman Chella]] 
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fi6pQtmW8WG.png?alt=media&token=97c03ddf-7b3b-4fa6-8896-171d4ab84b85)
+            - From #@jimmy
+            - 用portal那个Chrome插件==，我没懂 [[!JimmyLv]]
+                - https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe
+- #@Jerry
+    - #[[inline block reference]]团队协作举例
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FptX4vgftlT.png?alt=media&token=b1864891-a527-4d72-b629-6e803d0f27fd)
+- #[[@苏维]]
+    - [[📝帖子]] ~ RoamR 图片放大/旋转
+        - 油猴脚本 --> [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
+- #@leekeifon
+    - Q:: 有什么更好的 communication pattern? 或者说现有的communication pattern 已经足够了?
+        - Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. from [[@leekeifon]] 
+            - related to "#[[inline block reference]]团队协作举例"
+            - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。(to be formalized)
+                - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
+            - communication based on topics/questions(mindset of problem solving)
+                - Example: github issue
+                - advantage
+                    - can achieve deeper understanding on the topic.
+                    - can be easily queried/retrieved, contexts are almost within that page. so that,
+                        - information last longer and more valuable, because information is not hided by other non-related information?
+                        - to be discussed, 
+                - disadvantage
+                    - lacks cross topics inspirations?
+                    - it needs to split the gem of thoughts into different topics, I need to find a place to store, which needs a nice pre-design of granularity. 
+                        - example: discord of [[RoamCN]]
+            - communication based on time linear structure
+            - Example: whatsapp/wechat/qq/twiiter/weibo/
+            - communication based on time linear structure
+                - Example: whatsapp/wechat/qq/twiiter/weibo/
+                    Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions(mindset of problem solving)"
+                - advantage
+                    - Timeliness and the feeling of communication freedom.
+                - disadvantage
+                    - topic will change quickly in time.
+- [[kunpeng9.serious]] =真不想[[学习]]，要学的东西已经排了长长长长的队列了，为了[[调用]]阿里云的[[自然语言处理]]【自然语言处理】[[api]]不得不学习[[json]]；[[难受]]；
+    - 今天稀里糊涂又下载了一大堆的动作，json的，[[quicker]]还不定名字，敲的有点累，每次没有中文名的，都要让我多敲几下[[键盘]]；
+    - [quicker的中文名？ · Issue #1281 · cuiliang/Quicker](https://github.com/cuiliang/Quicker/issues/1281) 【群里有大佬的话，帮群主一下，我记得以前在群里好像和他说过这个，到现在了还没确定中文名，之前在[[rsshub]]各种推，搞的我差点被退群；好像在电报还被[[禁言]]了2次】
+    - 真是没办法，本来想尽量不用roam公共[[社区]]，不参加建设的【尽量少，或者加个[[滴答清单]]任务，一个星期一次？】，非常害怕[[精力]]分散了，又和以往一样
+    - 摊大饼，浮皮潦草，学这学那最后一个都没学好，没学会，不管怎么强调，重视这个[[经验]][[教训]]都不为过；
+    - 和葫芦笔记pimgeek谈过[[组织]]问题，目前看来是没办法了，[[社区]]搞不起来，乌托邦没啥人用，阅读人数几次而已，虽然加入了有五六十人；
+    - [什么是 Json - Json.cn](https://www.json.cn/wiki.html) 不得不学，并把json内容加入[[anki]][[暗记]]
+    - 包买了几天，统计里还是啥都没有，调用不成功；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FOfPRTOqCzW.png?alt=media&token=da6f9a60-a16d-4568-83a7-c445bae2b8d8)
+        - 用[[双链]]也不知道是对还是错，是不是早了？等都[[成熟]]，葫芦笔记成熟了再说，我好躺？开辟都阵地太多了；滴答清单催促了几次了，视图还是没改进，也不和我说大致方向【社区里有用户的话，或许大家可以一起催？】视图是真不够完善，以前吐槽过；
+        - #[[03=等待事项]]关于我来【目前进度还是**】
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F1emBPD3n_Z.png?alt=media&token=b4fc97a8-f60e-48a2-9df2-b6498f8f6b87)
+            - 作为一个社区来说，[[善用佳软]]老师的微信群已经是半死不活了；可能是因为里面[[职场]]人为主；
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FVbq81grLLe.png?alt=media&token=132522a6-f378-4e41-859d-bf90d6ef3b37)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FF_79Rx0AX_.png?alt=media&token=e9e02978-c3e9-4b06-bacd-d45eb20f5bdc)
+                - 转发自[[wolai]]的[[马锐拉]]马总；
+                - 社区里有[[大佬]]的话可以投个[[简历]]看看；我这个[[家里蹲]]是去不了了；
+                - 如果融入自然语言处理取得先发优势，[[我来]]未必逊色于其他同类产品；
+                - [[美帝]]的实力真是没的说【让人没脾气】；[[脚本]]之类的，各种，一看都已经这么多了；
+    - #[[03=等待事项]]是否可以用原子[[编辑器]]直接从ob、roam类工具的导出json文件当中剪切出双链【atom的不知道为啥是一行的，xy里面确是非常有条理的】，这样应用[[水思维]]呢？不拘泥于某一个双链的工具，随意[[流动]]，体验不同，把握工具的精髓；[2020/10/10|02-下一步|水思维 - 知乎](https://zhuanlan.zhihu.com/p/264424074) 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3_JZF9YosO.png?alt=media&token=244384d1-f0c5-4dc9-94cc-61fdf8dcdb03)
+    - 这个原子编辑的任务加到滴答里面好像也不行，不太好完成；
+    - 和pimgeek[[皮姆极客]]沟通了此事【】，问了一下他的看法；他给我的分享，我分享给大家=【已#[[anki_done]]】
+        - [Warren Buffett Says This 1 Simple Habit Separates Successful People From Everyone Else | Inc.com](https://fanyi.caiyunapp.com/article1/?id=5f96b1f26f255b0ce4efd462)
+        - #[[04=执行项目]]“成功人士和真正[[成功]]人士的区别在于，真正成功的人几乎对所有事情都[[说不]]。”【目前做得实在是像坨[[屎]]一样】
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FgmO-k5uQa_.png?alt=media&token=86f8b300-37d9-439a-ad9f-7f95b1995961)
+                - 讨厌，老是弹出，搞的我习惯性使用的【】都受限了
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FpdmBXCAOes.png?alt=media&token=467ba707-a5c5-4b0b-b636-2f24c2abee9d)
+    - [[kunpeng9.serious]] =#[[03=等待事项]]我的提问=[[大家]]是[[如何]]说不的？
+        - #[[08=共享繁华]]【[[粘贴]]这个的时候发现[[漫游者]]也有这个粘贴[[问题]]，不同的是葫芦笔记可以粘贴，粘贴[[解体]][[文章]]，通过我的反馈似乎已经解决了这个[[问题]]；漫游就谨慎一些，直接不能粘贴了】我费了不少[[力气]]才找回了这篇文章：[[标题]]很没意思，但是内容对我有启发——[[乔布斯]]曾说：“人们认为[[专注]]意味着对你必须关注的[[事情]]说是。但事实并非如此。这意味着对其他上百个好点子说不。你必须小心挑选。事实上，我为我们没有做过的事情感到骄傲，就像我做过的事情一样。[[创新]]就是对1000件事说不。”
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F3MMZSHFWqa.png?alt=media&token=e16f2da5-6dfa-438b-8b65-584a26e989bf)
+        - #[[03=等待事项]]【多个enter就没法儿粘贴，删掉就可以】![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2F0taZu-oEds.png?alt=media&token=bde5ab08-5e6b-4368-aff3-6f040b3839c1)
+        - #[[02=下一步行动]]创新就是对1000件事说不，no！！！
+            - #[[05=将来可能]]之前的内容还有很多没看，只是随便略过一下，然后就是把文件导出，导入到各种双链工具，尝试功能等；
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FIQkR2kUljT.png?alt=media&token=f495a9ff-1a52-414b-8e65-6296265461c9)
+        - #[[06=归档资料]]从漫游者复制粘贴然后识别的体验还可以；
+            - 事、要学、不知道为啥被识别为名词，过阵子再比较一下各双链直接复制之后的[[识别]]效果；#[[05=将来可能]]
+    - #[[02=下一步行动]]发现自己使用折叠之后就喜欢叠罗汉一样，不停叠，层级有点多，有时候；不过在漫游者里面或许没关系；在我来里面就需要注意一些；概念也是；
+    - [feat: add Kindle Unlimited会员限时免费读书单 by nczitzk · Pull Request #6031 · DIYgod/RSSHub](https://github.com/DIYgod/RSSHub/pull/6031) [[大佬]]终于回应和处理我提的问题了；欣喜的一天；
+        - 还是熟悉的人by: @nczitzk (https://github.com/nczitzk) 想过[[捐款]]给他，还加了任务，最近一两年经济都非常紧张，可能三五年不止？捐款应该定在什么比例好？依然拿不定主意【[[nczitzk]]】
+        - 漫游者+[[标签]]做书架？还是依然使用滴答清单？葫芦展开和收缩那个不太好；看板，[[雪小豹]]的那个文也看了，没然后了；
+    - 多发展了一阵，漫游者的编辑体验确实比葫芦要好些啊；不得不承认的；

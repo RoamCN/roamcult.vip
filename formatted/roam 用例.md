@@ -2,6 +2,9 @@
     - [Digital Garden](Digital Garden.md)[roam/css](roam/css.md)
     - https://twitter.com/azlenelza/status/1256696567379062784
     - https://twitter.com/Mappletons/status/1279798483218767877
+- Public website for collective experiment
+    - 合作翻译
+        - https://twitter.com/solimans/status/1271846707827965953
 - 商业用例[roam_fu](roam_fu.md)
     - **Business model productive tool**
         - 商业画布（Business model canvas)
@@ -54,9 +57,32 @@
                     - {{[table](table.md)}}
                         - "{{table}}"
                         - "{{table}}"
+- Reading machine,digest paper and books efficiently
+    - https://twitter.com/JESSCATE93/status/1262938091192561664
+        - can insert pdf！！e.g.[neurolink](neurolink.md)
+        - can add timestamp while doing Youtube video translation
+            - ((ARKvEquEg))
+- 读书会
+    - [Roam book club](https://roamresearch.com/#/app/roam-book-club/page/D-igrPZnN)
+- Learning lessons and taking notes at the same time at same place!
+    - https://twitter.com/JESSCATE93/status/1268034431211597824
+- personal mission #[FG initiatives](FG initiatives.md)
+    - build wikis for knowledge (bitcoin,blockchain and deep tech)
+        - terms(zkp,asteroid minning)
+    - build wikis for entrepreneurs and awesome projects
+        - entrepreneurs(小岛)
+        - projects(Roam,起源太空)
+    - all for the good writings and storytelling
+        - leverage all kinds of media efficiently from a very simple entry point 
+        - and it is very new fashion,stylish and highly customized
+        - it's iterating daily!
 - 医学用例#[roam_md](roam_md.md)
     - https://twitter.com/roam_md/status/1292137456947605506
     - 数学[粗糙集](粗糙集.md)
         - 看到roam_md发的roam和疾病数据库（roam+disease database）结合的用例，然后[RE](RE.md) 群中联想到了粗糙集，进一步由[dsy](dsy.md) 联想到贝叶斯估计+拓扑学+微分同胚
-- 读书会
-    - [Roam book club](https://roamresearch.com/#/app/roam-book-club/page/D-igrPZnN)
+
+# Backlinks
+## [How to prove you are good at something? 如何“证明”自己擅长什么？](How to prove you are good at something? 如何“证明”自己擅长什么？.md)
+
+#[roam 用例](roam 用例.md)
+

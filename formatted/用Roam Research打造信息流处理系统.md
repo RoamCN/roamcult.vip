@@ -50,6 +50,6 @@ Roam Research是当前硅谷最火的笔记软件，它的魅力在于让你无�
 ## [Roam面对面🍜 第六期](Roam面对面🍜 第六期.md)
 - "[用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)#
 
-## [⍡教程](⍡教程.md)
+## [📘教程](📘教程.md)
 - [用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)#
 

@@ -37,7 +37,7 @@
             - 如果需要精确的定位到某个页面中的某个具体的块级内容 ，目前解决的最好的办法是control + shirft+ (  【这是MAC 的键位】
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvictor-wu%2FOsD6xql00_.png?alt=media&token=d08c9e8f-2c7a-48e8-a096-7dea129f50e3)
 - # 剪辑与后期
-    - 负责成员：#[[多酱]]
+    - 负责成员：#[[@多酱]]
 - # 宣传(hover me){{comment-button}}
     - 负责成员：#@Jessie
     - 视频成果："[第2期：用Evergreen Notes实现思维聚合](https://www.bilibili.com/video/BV13A411e7m5/?spm_id_from=333.788.videocard.1)"

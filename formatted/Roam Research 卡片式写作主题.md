@@ -5,10 +5,9 @@
     - ![RoamResearch卡片式青色主题](https://raw.staticdn.net/JimmyLv/images/master/2020/Roam Research 卡片式青色主题.jpg)
 
 ## Quick Start
-    1. Add a [roam/js](roam/js.md) tag
+    1. Add a [leodknuth插件集合](leodknuth插件集合.md) tag
     2. Add a child JavaScript code block to it with this code...
         - ```javascript
-
 const CARD_MODE_VERSION = 'master'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
 var s = document.createElement('script')
@@ -17,7 +16,8 @@ var s = document.createElement('script')
 	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)```
     3. Press the BIG RED button (also works with [roam42](https://github.com/roamhacker/roam42), so you can just put them together)
-    4. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
+    4. Select
+    5. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
         - ![](https://raw.staticdn.net/JimmyLv/styled-roam/master/preview/git%20hash.png)
 
 ## Quick Review
@@ -42,6 +42,9 @@ document.getElementsByTagName('head')[0].appendChild(s)```
             - ![](../images/VVNUqkOHTn.png?)
 
 # Backlinks
+## [November 14th, 2020](November 14th, 2020.md)
+- 文档地址：[Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
+
 ## [September 16th, 2020](September 16th, 2020.md)
 - [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
 
@@ -50,6 +53,6 @@ document.getElementsByTagName('head')[0].appendChild(s)```
 ## [September 21st, 2020](September 21st, 2020.md)
 - **[fix](fix.md):** 修复了[Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)对
 
-## [⍡教程](⍡教程.md)
+## [📘教程](📘教程.md)
 - [Roam Research 卡片式写作主题](Roam Research 卡片式写作主题.md)
 
