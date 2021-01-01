@@ -17,6 +17,9 @@
 - **[Categories](Categories.md):** [youtube](youtube.md)
         - **[Author](Author.md):**
 
+- **[Categories](Categories.md):** [Podcasts](Podcasts.md)
+        - **[Author](Author.md):**
+
 ## [周报Newsletter 2020-10-20 W42期](周报Newsletter 2020-10-20 W42期.md)
 - **[Author](Author.md):**
 
