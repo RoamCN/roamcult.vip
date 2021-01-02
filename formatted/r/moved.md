@@ -9,6 +9,9 @@
 ## [December 5th, 2020](December 5th, 2020.md)
 - qqqq {{[r/moved](../r/moved.md)}
 
+## [January 2nd, 2021](January 2nd, 2021.md)
+- qqqq {{[r/moved](../r/moved.md)}
+
 ## [November 26th, 2020](November 26th, 2020.md)
 - qqqq {{[r/moved](../r/moved.md)}
 
