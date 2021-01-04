@@ -1055,34 +1055,6 @@ window.addEventListener('mouseup', function() {
  * How to install it:
  *  - go to `roam/js` page`
  *  - make a new node: {{[roam/js](roam/js.md)}}
- *  - put this code under that node
- *  - set type to javascript and allow the js to run
- *  - create a template page with some content: [template](template.md)/test
- *  - write :test: to you daily page and see what happens
- * 
- * known issues:
- *  - looks hacky
- *  - for longer templates it messes up some lines
- */
-
-document.addEventListener('input', function(e){
-	if ('_templateHook' in window) {
-		setTimeout(function(){ window._templateHook(e); }, 0);
-	}
-});
-
-window._templateHook = async function(e) {
-	// logging
-	window._e = e;
-
-	// exit if not target
-	var elem = e.target
-	if (elem.nodeName != 'TEXTAREA' || e.data != ':') return;
-
-	console.log('ok',elem.value, elem);
-
-	// nativeValueSetter to bypass
-	var nativeSetter = Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype,"value").set;
 
 	// resolve templates
 	var tab = 0;
