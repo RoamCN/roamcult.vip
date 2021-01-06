@@ -20,5 +20,4 @@ Hello 新朋友，这里会收集一些钻研某一(一些)领域非常深入的
 [[JimmyLv]] ~ 卡片式js主题
 [[Zack Fan]] ~ roam白皮书译者
 [Leo]([[leodknuth]]) ~ 个人知识管理者、Evernote十年用户
-[[Kyle Harrison]] ~ someone who really get **collective intelligence**
 

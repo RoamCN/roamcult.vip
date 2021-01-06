@@ -123,5 +123,4 @@ So feature planning is actually primitive design & would require technical train
     - Roam适合反向gtd #idelem
     - Roam给了我自由思考的空间，就像一个没有边界的游乐场，你不用担心什么，去玩去输入去探索就好了 #@Jessie
     - Roam是Minecraft，我可以用block构建起我想象中的世界，无论是一篇论文，一本小说还是一套GTD系统，Roam给了我无限自由。#Innis
-    - Roam的关键是用线性的记录成本，来获得网状的知识结构。（引自[在网状结构笔记应用中线性记录——以 Roam Research 为例 - 少数派](https://sspai.com/post/62637) ）所以优化工作流程的原则，应该是记录新笔记时越自由越好，链接旧笔记时越简单充分越好。
     - 
