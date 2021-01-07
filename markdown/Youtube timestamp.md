@@ -1,5 +1,11 @@
 - {{[[youtube]]: https://youtu.be/sD0NjbwqlYw}}
 - 2:10 
+- 时间戳方案汇总
+- 方案一：css+js
+    - [Responsive YouTube Player and YouTube Timestamp for Roamresearch](https://gist.github.com/c3founder/0d47fe3f15f677a0a6f0e96b4868e46a)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2Fa0om1N_CXa.png?alt=media&token=82a113f2-b370-4aee-8cd1-98870ebf48bd)
+- 方案二：插件
+    - https://greasyfork.org/en/scripts/405550-roam-youtube-timestamp-controls
 - 方案三：（最新方案）利用Smartblock [[王树义老师]]
     - 我把上午的效果，分几个视频讲一下实现过程。这是第一个 roam42 安装方法：https://www.loom.com/share/9d492301f10843a89c8e8710d235e5ab
     - 第二部分：smartblocks 基础。自定义一个包含日期时间的模板样例 https://www.loom.com/share/5bf64766f6ef4093bb53495281a4f1d3

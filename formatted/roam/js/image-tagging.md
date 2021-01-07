@@ -1,4 +1,4 @@
-- {{[roam/js](<../../roam/js.md>)}}
+- {{[leodknuth插件集合](<../../leodknuth插件集合.md>)}}
     - ```javascript
 var old = document.getElementById("image-tagging");
 if (old) {
@@ -15,8 +15,9 @@ document.getElementsByTagName("head")[0].appendChild(s);```
     - The writers' workshop is a dance, and without knowing the steps, a participant mighe trip, even fal. Feet could be sprained or even broken—one should never participate in a writets' workshop without an introduction o it of some sort and the ground rules being set. You need a moderator or workshop leader—someone with experience and, even better, expertise i the workshop and a mas-cee writer, The feet that are most badly hurt will not be those of the experienced,
 buc those of a new writer, a young person, and it not out of the realm of possibiley that a career might be changed by the wrong kind of statement at the wrong time. The conversations in a writers workshop are not a debate, not a chat, not an argument, not a forum €0 show off, not a flame war, not a love-fest,ot a shouting match, not a lecture, not a demonstration, and certainly not a cakewalk.
 
+- [ ] 需要替换下代码根据提示“Hey! Thanks for using extensions from roam.davidvargas.me! I'm currently migrating the extensions to roamjs.com. Please edit the src in your roam/js block, replacing "roam.davidvargas.me/master" with "roamjs.com"”
 
 # Backlinks
-## [␃插件](<␃插件.md>)
+## [🎫插件](<🎫插件.md>)
 - CN教程：[roam/js/image-tagging](<../../roam/js/image-tagging.md>)
 

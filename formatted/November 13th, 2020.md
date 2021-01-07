@@ -1,0 +1,3 @@
+
+#@kunpeng9.serious= [kunpeng9.serious](kunpeng9.serious.md)=
+    - [算算你的 “屌丝值”- 吴晓波 - 财新博客 - 新世纪的常识传播者 - 财新网](http://wuxiaobo.blog.caixin.com/archives/74618)#[anki_done](anki_done.md)

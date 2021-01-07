@@ -1,4 +1,5 @@
-- [proposal](proposal.md) for [RoamCN meetup](RoamCN meetup.md)
+
+#👾proposal for [RoamCN meetup](RoamCN meetup.md)
     - 名称：Roam中文站周聚🍷 
     - 主要内容
         - **[P1分享](P1分享.md):** 拟定**若干主题**进行分享讨论
