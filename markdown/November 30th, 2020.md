@@ -1,4 +1,0 @@
-- qqqq {{[[r/moved]]}}[*](((E1h8xzz8K)))
-- #[[Quick Capture]]
-    - https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
-- #Life

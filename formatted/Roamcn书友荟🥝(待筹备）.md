@@ -19,3 +19,8 @@
     2. Do not write in any page other than your own
         - All your notes will come up in the appropriate chapter's linked references if you follow the instructions above
     3. Do not edit any other person's block other than your own
+
+# Backlinks
+## [⍢活动](⍢活动.md)
+- [Roamcn书友荟🥝(待筹备）](Roamcn书友荟🥝(待筹备）.md)
+

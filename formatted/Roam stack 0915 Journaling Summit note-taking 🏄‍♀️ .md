@@ -32,7 +32,6 @@ https://us02web.zoom.us/webinar/register/WN_XBjWZovPR520fvEdNLDKeA
 e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式来解释自己的行为、心态...比如为啥自己情绪低落,问问自己
             - ![](../images/CxcGNFeuef.png?)
             - ![](../images/CUkC2bEufq.png?)
-                - ) LJuly 1st, 202008:56 LLLIGINLLYTLY Feeling: love | Energy: high= [Feeling](Feeling.md): relieved[Feeling](Feeling.md): sadJune 29th, 2020Q69:52 [PEPIIYTTY Fesling: sad | Energy: low.v June 24th, 2020v 11:48 [P RIT IT) Feeling: euphoric | Energy: high=~ [Feeling](Feeling.md): hopefulJune 19th, 202009:23 [IETEPIITYY Feeling: hopeful | Energy: medium H[Feeling](Feeling.md): low spirits ‘June 18th, 2020 ‘\11:25 [TTRPTOETITN: | have no idea what's exactly going Ramses Oudton, but it's 11:25 and | haven't done a fucking thing yet (well,except for watching YouTube). 1'm in low spirits and don’t feel likedoing anything. [CINGEEILTNERETETNT)It reminds me of when | was in college and was so overwhelmedby the amount of work I had to do that I became paralyzed. Nowit's not the amount of work that | have to do, but the utteramount of stimuli that comes at me.1/do believe this s partly because of my own behavior. Thereare many sneaky things happening and I'm sensitive to thatHowever, instead of looking at what happens at macro-level, |should have more attention for my own micro-levelWhat do | want to achieve in life? That's a good question. I had oplanned to do my 3MIQ today, which | will do now. T R]]]]]
         - comments
             - Matt: the most important thing of life is something around the cornor,the edges
             - Brandon: documenting the story is powerful
@@ -135,6 +134,6 @@ e.g.see when he was in low spirit and why 通过在Roam中写作冥想的方式�
             - [Resource](Resource.md):  [Tiago Forte](Tiago Forte.md) wrote an amazing [Article](Article.md) about masculine vs feminine energies  [Feminine Energy: What Productivity is Missing - Forte Labs](https://fortelabs.co/blog/feminine-energy-what-productivity-is-missing/)
 
 # Backlinks
-## [🎃活动](🎃活动.md)
+## [⍢活动](⍢活动.md)
 - [Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ ](Roam stack 0915 Journaling Summit note-taking 🏄‍♀️ .md)
 

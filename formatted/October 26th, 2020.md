@@ -27,7 +27,7 @@
                 - **[简介](简介.md):** bulabulabula
             - {{[query](query.md): {and: [创投CRM](创投CRM.md) {or: [领域](领域.md) [NLP](NLP.md)}}}}
         - 筛选Todo{{[query](query.md):{and:[TODO](TODO.md){not:[query](query.md)}}}}
-- [📝帖子](📝帖子.md) ~ #[@码客](@码客.md): allPage显示不全的解决方案
+- [帖子](帖子.md) ~ #[@码客](@码客.md): allPage显示不全的解决方案
     /* chrome浏览器 4240.111 版本上 table出现了不同的加载方式 导致allpage长度显示不全  本修改只针对azlen样式 */
     __**css部分**__
     [all-pages-search](all-pages-search.md) {
@@ -46,4 +46,3 @@
     }
     display: none;
     }
-    [Batapha](Batapha.md) 增加[B-Net and the Butterfly](B-Net and the Butterfly.md)的中文版到"04 阶段3：羽化成蝶 突破性灵感是如何产生的"

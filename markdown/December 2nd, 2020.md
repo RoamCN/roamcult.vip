@@ -1,7 +1,0 @@
-- 
-- #JimmyLv
-    - 添加了新的两期周报
-        - "[[周报Newsletter 2020-11-23 W47期]]"
-        - "[[周报Newsletter 2020-11-30 W48期]]"
-    - 欢迎大家关注「Roam Research 中文社区」微信公众号
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FtS2UdFU0Wo.png?alt=media&token=0e799a65-58f9-453b-90f0-7595d7157f59)

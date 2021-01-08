@@ -17,5 +17,5 @@
                 - write down your own thinking in roam blocks #[[How to write a thread]] by dates
         - other thoughts
             - roam can be more diverse when it comes to collective efforts
-    - in roam ,can we do twitter? #👾proposal #[[🎃活动]]
+    - in roam ,can we do twitter? #proposal #[[⍢活动]]
         - {{[[DONE]]}} 发起一个活动，大家在RoamCN Daily notes里面随意记录，鼓励大家去引用他人的block和page，就像在Twitter里面引用、转发别人的tweets/thread一样

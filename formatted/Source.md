@@ -1,12 +1,5 @@
 
 # Backlinks
-## [December 8th, 2020](December 8th, 2020.md)
-- **[Date](Date.md):** /Today
-        - **[Source](Source.md):**
-
-- **[Date](Date.md):** <%DATE:TODAY%>
-            - **[Source](Source.md):**
-
 ## [™ templates](™ templates.md)
 - **[Author](Author.md):** 
         - **[Source](Source.md):**
@@ -16,38 +9,6 @@
 
 - **[Author](Author.md):** 
         - **[Source](Source.md):**
-
-## [周报Newsletter 2020-10-20 W42期](周报Newsletter 2020-10-20 W42期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-10-25 W43期](周报Newsletter 2020-10-25 W43期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-10-31 W44期](周报Newsletter 2020-10-31 W44期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-11-06 W45期](周报Newsletter 2020-11-06 W45期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-11-15 W46期](周报Newsletter 2020-11-15 W46期.md)
-- **[编辑](编辑.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-11-23 W47期](周报Newsletter 2020-11-23 W47期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-11-30 W48期](周报Newsletter 2020-11-30 W48期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
-
-## [周报Newsletter 2020-12-06 W49期](周报Newsletter 2020-12-06 W49期.md)
-- **[Author](Author.md):** [JimmyLv](JimmyLv.md)
-- **[Source](Source.md):**
 
 ## [周报Newsletter 2020-12-12 W50期](周报Newsletter 2020-12-12 W50期.md)
 - **[Date](Date.md):** [December 5th, 2020](December 5th, 2020.md)

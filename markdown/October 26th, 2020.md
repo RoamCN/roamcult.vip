@@ -24,7 +24,7 @@
                 - 简介:: bulabulabula
             - {{[[query]]: {and: [[创投CRM]] {or: [[领域]] [[NLP]]}}}}
         - 筛选Todo{{[[query]]:{and:[[TODO]]{not:[[query]]}}}}
-- [[📝帖子]] ~ #[[@码客]]: allPage显示不全的解决方案
+- [[帖子]] ~ #[[@码客]]: allPage显示不全的解决方案
     /* chrome浏览器 4240.111 版本上 table出现了不同的加载方式 导致allpage长度显示不全  本修改只针对azlen样式 */
     __**css部分**__
     #all-pages-search {
@@ -43,4 +43,3 @@
     }
     display: none;
     }
-    #Batapha 增加[[B-Net and the Butterfly]]的中文版到"04 阶段3：羽化成蝶 突破性灵感是如何产生的"

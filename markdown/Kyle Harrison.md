@@ -1,1 +1,0 @@
-- [Kyle Harrison](https://www.roambrain.com/author/kyleharrison/)

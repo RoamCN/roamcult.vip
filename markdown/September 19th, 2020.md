@@ -1,4 +1,4 @@
 - #@Jessie #TIL 
-    - #[[RoamCN grocery 大脑杂货店]]
+    - #[[roam/cn grocery 大脑杂货店]]
         - {{[[DONE]]}} push cn社区中@笔记爱好者 整理图谱的思考 
     - {{[[TODO]]}} 跟进老黄[[H]]的面对面进展 @多多

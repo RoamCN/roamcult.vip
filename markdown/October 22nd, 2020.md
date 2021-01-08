@@ -1,22 +1,23 @@
 - [[@苏维]]
-    - [[📝帖子]] ~ 文库/文档下载
+    - [[帖子]] ~ 文库/文档下载
         - [小叶文库](https://www.lanzoux.com/iSOaPgbxola) ~ 推荐
         - [巴法](http://www.blpack.com/)
         - [松鼠文库](http://wk.superlgr.com/)
         - [全网各大文库逐一击破，免费下载不是梦！ - 知乎](https://zhuanlan.zhihu.com/p/44833964)
 - #@Jessie #TIL
-    - #[[attr-table用法持更⎌]] 联系人信息自动整理
+    - #[[attr-table用法持更⎌]]
         [[@Jessie]]
             - 发起项目:: [[RoamCN]] 
 [胖车库](fat-garage.com)
             - 年龄::27
+                - 
             - 所在城市:: 北京
             - 食物喜好:: 艾丝拉铁
         [[Victor Wu]]
             - 发起项目:: [[RoamCN]]
 [MCDEX](https://mcdex.io/)
             - 年龄::27
-            - 
+            - 所在城市:: 上海
             - 食物喜好:: 干锅肥肠
         [[JimmyLv]]
             - 发起项目:: [[RoamCN]] 

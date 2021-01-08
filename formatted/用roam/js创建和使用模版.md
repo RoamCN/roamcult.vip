@@ -3,15 +3,13 @@
 - 最近，我们注意到了另一种扩大文本的方法。 Roaman 同事 [Victor Tabori](https://twitter.com/ViktorTabori)编写了一个漫游插件，使我们能够在漫游中直接设置文本扩展器。 它可以与 JavaScript 配合使用，而 JavaScript 听起来比实际复杂得多。
 - 配套教学视频YouTube video by Les Kristofs https://youtu.be/aJEqN98j2W4
 - **Step 1: Create roam/js page**
-    - From any page in Roam, create a page titled roam/js by typing [leodknuth插件集合](../leodknuth插件集合.md).
+    - From any page in Roam, create a page titled roam/js by typing [roam/js](../roam/js.md).
 - **Step 2: Enable JavaScript on roam/js page**
-    - Click the link so you’re on the roam/js page. There, enable JavaScript by typing {{[leodknuth插件集合](../leodknuth插件集合.md)}}
-    - 
+    - Click the link so you’re on the roam/js page. There, enable JavaScript by typing {{[roam/js](../roam/js.md)}}
     - ![roam/js page](https://www.roamstack.com/wp-content/uploads/roamjs-page.png)
 - **Step 3: Create a code block below the JavaScript block**
     - Hit Enter and then Tab to create a child block under the JavaScript block. Now, we’re going to add a code editor.
-    - In the new block, type /code and select the Code Block option from the trigger menu. Alternatively, type six backticks (```javascript
-```).
+    - In the new block, type /code and select the Code Block option from the trigger menu. Alternatively, type six backticks (``````).
     - ![Roam code block via trigger](https://www.roamstack.com/wp-content/uploads/codeblock-trigger-700x356.png)
     - Or:
     - ![Roam code block via shortcode](https://www.roamstack.com/wp-content/uploads/codeblock-shortcode-700x196.png)
@@ -34,8 +32,6 @@
     - ![Expanding Roam template animation](https://www.roamstack.com/wp-content/uploads/book-template-expansion.gif)
 
 # Backlinks
-## [📘教程](📘教程.md)
+## [⍡教程](⍡教程.md)
 - [用roam/js创建和使用模版](../用roam/js创建和使用模版.md)
-
-- [用roam/js创建和使用模版](../用roam/js创建和使用模版.md)f
 
