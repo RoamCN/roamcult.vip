@@ -14,20 +14,33 @@
         
 4. 带上你的疑问和好奇
     - 大纲
-        - general topic
-            - roam对你来说影响的最大的一点是啥？
-                - 作为believer的想法💡
-            - 关于roam的使用（什么功能使用的最多，觉得哪个最惊艳 etc)
-                - 晨间笔记
+        - Personal questions
+            - Roam对你来说影响的最大的一点是啥？
+                - 作为believer的想法💡 
+                    - 初见😮 ：怎么接触到Roam的？
+                    - 成亲😈 ：让你决定成为believer的那个瞬间是什么？
+        - 关于Roam的使用
+            - 功能
+                - 讲一个你使用的最多的功能？
+            - 应用场景
+                - 晨间笔记 logs
                 - 知识管理workflow
                     - ![0OdIC8.jpg](https://s1.ax1x.com/2020/10/17/0OdIC8.jpg)
                         - "[用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)[leodknuth](leodknuth.md)"
-            - roam与其他笔记软件的对比
-            - 对roam的期待，最希望未来有哪方面的改进/创新？
-            - 对RoamCN的期待，希望我们（一起）玩出什么花样
+        - 在Roam上协作 (基于discord#[协作channel](协作channel.md)里面的讨论)
+            - https://twitter.com/Conaw/status/1320561978805383168
+                - video里面比较抽象，他想表达的意思是无限嵌套的能力。如果从实用角度来讲，你可以想象一下基于这个功能实现类似于Twitter的交流，但它的context会更加完整
+                - [12:22] 因为你可以embed page，这样你就不需要Twitter thread 这样东西
+            
+#@Jessie 为什么我们会觉得Roam很像Google+Twitter+Excel? 三驾马车
+                - google-->attributes
+                - ^^twitter-->page embed^^
+                - excel-->query
+            - [leodknuth](leodknuth.md) 我觉得更加值得讨论的是，最优的communication的形式是怎么样的，Roam能不能帮我们实现？
+        - 对Roam和RoamCN的期待，最希望未来有哪方面的改进/花样？
 
 # 演示&笔记
-    - 负责： #@Jessie#[@多多](@多多.md)
+    - 负责： #@Jessie#[@多酱](@多酱.md)
 
 # 剪辑与后期
     - 负责成员：#[小树](小树.md) 
@@ -41,6 +54,6 @@
     - 
 
 # Backlinks
-## [ℹ︎内容导航页](ℹ︎内容导航页.md)
+## [🎈内容导航页](🎈内容导航页.md)
 - [Roam面对面🍜 第六期](Roam面对面🍜 第六期.md)
 

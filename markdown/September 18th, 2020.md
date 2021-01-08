@@ -1,5 +1,5 @@
 - #@Jessie #TIL 
-    - #[[roam/cn grocery 大脑杂货店]] 
+    - #[[RoamCN grocery 大脑杂货店]] 
         - [[💡 ]]: 可以做monthly journal
             - roam/cn每月优选
         - {{[[DONE]]}} onboard王树义老师和小树的page

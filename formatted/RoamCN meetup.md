@@ -11,5 +11,6 @@
 - {{[query](query.md): {and: [@Jessie](@Jessie.md) {or: [RoamCN meetup](RoamCN meetup.md)
 
 ## [October 8th, 2020](October 8th, 2020.md)
-- [proposal](proposal.md) for [RoamCN meetup](RoamCN meetup.md)
+
+#👾proposal for [RoamCN meetup](RoamCN meetup.md)
 

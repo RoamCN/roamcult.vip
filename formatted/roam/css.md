@@ -145,6 +145,7 @@
 }```
 - [good](../good.md)
 - 
+- 
 - mermaid
     ```css
 .rm-mermaid{
@@ -193,6 +194,6 @@
 ## [roam 用例](roam 用例.md)
 - [Digital Garden](../Digital Garden.md)[roam/css](../roam/css.md)
 
-## [␃插件](␃插件.md)
+## [🎫插件](🎫插件.md)
 - [roam/css](../roam/css.md)
 

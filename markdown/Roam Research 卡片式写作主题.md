@@ -4,10 +4,9 @@
     - ![RoamResearch卡片Flow模式](https://raw.staticdn.net/JimmyLv/images/master/2020/Roam Research 卡片 Flow 模式.gif)
     - ![RoamResearch卡片式青色主题](https://raw.staticdn.net/JimmyLv/images/master/2020/Roam Research 卡片式青色主题.jpg)
 - ## Quick Start
-    1. Add a [[roam/js]] tag
+    1. Add a [[leodknuth插件集合]] tag
     2. Add a child JavaScript code block to it with this code...
         - ```javascript
-
 const CARD_MODE_VERSION = 'master'
 window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
 var s = document.createElement('script')
