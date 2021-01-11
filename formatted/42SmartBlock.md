@@ -99,6 +99,23 @@ return '';``` %>
 [<%GET:author%>](<%GET:author%>.md)
 - 
 - [42SmartBlock](42SmartBlock.md) Random Poem 随机诗词
+    - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
+var settings = {
+  "url": "https://v1.jinrishici.com/all.json",
+  "method": "GET",
+  "timeout": 0,
+  "async": false
+};
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+  var jsonQuotes = JSON.stringify(response);
+  var quote = JSON.parse(jsonQuotes);
+  roam42.smartBlocks.activeWorkflow.vars['author'] = quote.author;
+  roam42.smartBlocks.activeWorkflow.vars['quote'] = quote.content;
+  roam42.smartBlocks.activeWorkflow.vars['source'] = quote.origin;
+});
+return '';``` %>
     - <%JAVASCRIPT: document.activeElement.value = ""; return'> ';%><%GET:quote%> __——《<%GET:source%>》__
 [<%GET:author%>](<%GET:author%>.md)
 - 
