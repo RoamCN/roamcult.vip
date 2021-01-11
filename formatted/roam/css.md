@@ -228,7 +228,7 @@ Optional border adjustments:
 - ```css
 - 
 - mermaid
-    ```css
+    ```clojure
 .rm-mermaid{
   background: transparent !important;
   min-width: 0px !important;
