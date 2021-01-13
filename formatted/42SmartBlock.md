@@ -3,6 +3,7 @@
 - > 不要担心自己问的问题听起来很傻。99% 的情况下，其他人都有和你一样的问题，只不过羞于问出口而已。 [*](https://q24.io/api/v1/idea/link/419)
 [ 凯文·凯利（Kevin Kelly）（翻译：赵嘉敏）]( 凯文·凯利（Kevin Kelly）（翻译：赵嘉敏）.md)
 - 
+- ---
 - [42SmartBlock](42SmartBlock.md) Due me 提醒我
     - <%CURRENTBLOCKREF:blockRef%>
     - <%SET:curBlock,<%RESOLVEBLOCKREF:<%GET:blockRef%>%>%><%NOBLOCKOUTPUT%>
@@ -99,23 +100,6 @@ return '';``` %>
 [<%GET:author%>](<%GET:author%>.md)
 - 
 - [42SmartBlock](42SmartBlock.md) Random Poem 随机诗词
-    - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
-var settings = {
-  "url": "https://v1.jinrishici.com/all.json",
-  "method": "GET",
-  "timeout": 0,
-  "async": false
-};
-
-$.ajax(settings).done(function (response) {
-  console.log(response);
-  var jsonQuotes = JSON.stringify(response);
-  var quote = JSON.parse(jsonQuotes);
-  roam42.smartBlocks.activeWorkflow.vars['author'] = quote.author;
-  roam42.smartBlocks.activeWorkflow.vars['quote'] = quote.content;
-  roam42.smartBlocks.activeWorkflow.vars['source'] = quote.origin;
-});
-return '';``` %>
     - <%JAVASCRIPT: document.activeElement.value = ""; return'> ';%><%GET:quote%> __——《<%GET:source%>》__
 [<%GET:author%>](<%GET:author%>.md)
 - 
@@ -134,8 +118,6 @@ var tweetURL = tweetURLstart.concat(encodeURIComponent(content));
 var currentUrl = encodeURIComponent(window.location.href);
 window.open(tweetURL + ' ' + currentUrl);
 return '';```%>
-- 
-- > Hello 待开发~
 - 
 - 
 - 
