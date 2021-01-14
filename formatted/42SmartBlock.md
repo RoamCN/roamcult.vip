@@ -146,7 +146,7 @@ return '';```%>
     - 代码：https://github.com/roamhacker/SmartBlocks/issues/152
 - [用Smartblocks自动生成时间序列](用Smartblocks自动生成时间序列.md)
     - ![](../images/Y_1JrnWfHV.gif?)
-    - 视频教程：https://www.loom.com/share/232f57b1fb4d4d6c90918bd4522bfea3?sharedAppSource=personal_library
+    - 视频教程：{{[video](video.md): https://www.loom.com/share/232f57b1fb4d4d6c90918bd4522bfea3?}}
     - Github代码：https://github.com/roamhacker/SmartBlocks/issues/154
 - [用Smartblocks一键做ppt](用Smartblocks一键做ppt.md)
     - ![](../images/jiWESDOQuY.gif?)

@@ -23,7 +23,7 @@ Please don't edit other person's block other than your own.
         - https://twitter.com/AlixLahuec/status/1288882218610425857
     - If you take lots of notes and struggle to make sense of them, organize them, and find/use connections between them, I'd highly recommend giving Roam a try.#Jackson
         - https://twitter.com/jacksondahl/status/1288207969759268864
-    - **Stress free productivity!** #Conor
+    - **Stress free [[Productivity]]!** #Conor
         - https://twitter.com/Conaw/status/1129788856851619840
     - **Make your notes as Research partner** #NotesWithRen
         - https://twitter.com/NotesWithRen/status/1289756747284877312

@@ -146,7 +146,7 @@ return '';```%>
     - 代码：https://github.com/roamhacker/SmartBlocks/issues/152
 - [[用Smartblocks自动生成时间序列]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FY_1JrnWfHV.gif?alt=media&token=05202156-496b-4a0d-8ca9-e7a62d151940)
-    - 视频教程：https://www.loom.com/share/232f57b1fb4d4d6c90918bd4522bfea3?sharedAppSource=personal_library
+    - 视频教程：{{[[video]]: https://www.loom.com/share/232f57b1fb4d4d6c90918bd4522bfea3?}}
     - Github代码：https://github.com/roamhacker/SmartBlocks/issues/154
 - [[用Smartblocks一键做ppt]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FjiWESDOQuY.gif?alt=media&token=b6dd00b5-a5d0-4bca-b1d7-1bd91104aa48)
