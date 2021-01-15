@@ -1,1 +1,1 @@
-- qqqq {{[∆](∆.md):15+2}}
+- qqqq {{[r/moved](r/moved.md)}}[*](((E1h8xzz8K)))
