@@ -998,13 +998,17 @@ window.KeyboardLib = {
 
 #@Jessie 以下plug-in 来自[推特总结](https://twitter.com/wirtzdan/status/1334976252684476417)
 - 第六个js模块：显示外部链接来源的icon
+    - 源文件：[Add favicons](https://gist.github.com/ottsch/51a3640910a82d36fcd1fc70ad4b109b)
     - > 在插入的外部链接前面添加一个图标，显示来源。![图像](https://pbs.twimg.com/media/EobJyxNXUAk1evj?format=jpg&name=small)
         - ```javascript
-const addFavicons = () => {
-  let filtered = Array.prototype.filter.call(document.querySelectorAll('.roam-body a'), a => {
-    return a.hostname && a.hostname !== document.location.hostname;
-  });
-  Array.prototype.forEach.call(filtered, a => {
+new MutationObserver(() => {
+  let filtered = Array.prototype.filter.call(
+    document.querySelectorAll(".roam-body a"),
+    (a) => {
+      return a.hostname && !a.hostname.includes("roamresearch.com");
+    }
+  );
+  Array.prototype.forEach.call(filtered, (a) => {
     if (a.text == "*") {
       a.style.background = `url(https://www.google.com/s2/favicons?sz=16&domain=${a.hostname}) right center no-repeat`;
       a.style.paddingRight = "18px";
@@ -1013,13 +1017,10 @@ const addFavicons = () => {
       a.style.paddingLeft = "20px";
     }
   });
-};
-
-const observer = new MutationObserver(addFavicons);
-observer.observe(document.querySelector('.roam-body'), {
+}).observe(document.body, {
   attributes: true,
   childList: true,
-  subtree: true
+  subtree: true,
 });```
 - 第七个js模块：在所有每日笔记页面的顶部显示带有**加密货币价格**的表格
     - ![图像](https://pbs.twimg.com/media/EobJzEbXUAIBgfg?format=jpg&name=small)
@@ -1330,6 +1331,96 @@ var simulateClick = function (elem) {
     - ![How to Use](https://user-images.githubusercontent.com/64155612/96104315-8cc79600-0e8d-11eb-9c68-bf930d041054.gif)
     - ![Default Filters](https://user-images.githubusercontent.com/64155612/96158005-e056d580-0ec7-11eb-8510-3b363ba6c605.gif)
     - 资源：https://github.com/GitMurf/roam-javascript[smart-linking](smart-linking.md)
+- 第十二个js模块：[ViktoRoam](https://github.com/thesved/ViktoRoam)
+    - 功能
+        - gallery: zoom in on images 
+        - longtap: long tap for right clicking on touch devices
+        - dateformatter:  display dates differently than `January 1st, 2021` format to `2021.01.01 Friday`
+        - relativelinks: have relative links, like [next block](block:next)
+        - export: `ctrl + S` for quickly exporting the whole database
+        - blockcss: create css for blocks with tags, eg [block](block.md):hide
+        - autoenclose: automatically enclose " and ' characters
+        - fuckitline: use [fuckitline](fuckitline.md) on a block and it highlights the first 3 children
+    - {{roam/js}}
+        - ```javascript
+/*
+ * Viktor's Roam Plugin Loader
+ * version: 0.1
+ * author: @ViktorTabori
+ *
+ * How to install it:
+ *  - go to page [roam/js](roam/js.md)
+ *  - create a node with: {{[roam/js](roam/js.md)}}
+ *  - create a clode block under it
+ *  - allow the running of the javascript on the {{[roam/js](roam/js.md)}} node
+ * 
+ * DISABLE a script: 
+ *  1) change `true` to `false` in the load variable
+ *     eg. 'gallery': false
+ *  2) reload Roam 
+ *      OR disable and enable the {{[roam/js](roam/js.md)}} block
+ */
+
+// settings
+window.ViktorOpts = {
+	dateformat: 'YYYY.MM.DD EEE',	// see for details: https://github.com/thesved/ViktoRoam/blob/master/js/dateformat.js
+	nameMonths: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+	nameMonthsShort: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+	nameDays: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+	nameDaysShort: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+	exportFormat: 'JSON',		// EDN | JSON | Markdown
+	fuckitlineTag: 'fuckitline',	// tag a block with this, eg [fuckitline](fuckitline.md)
+	fuckitlineName: 'fuck it line'	// name above the fuckitline
+};
+
+// plugins handling
+(()=>{
+	var load = {
+		'gallery': true,	// zoom in on images 
+		'longtap': true,	// long tap for right clicking on touch devices
+		'dateformatter': true,	// display dates differently than `January 1st, 2020` format
+		'relativelinks': true,	// have relative links, like [next block](block:next)
+		'export': true,		// `ctrl + S` for quickly exporting the whole database
+		'blockcss': true,	// create css for blocks with tags, eg [block](block.md):hide
+		'autoenclose': true,	// automatically enclose " and ' characters
+		'fuckitline': true,	// use [fuckitline](fuckitline.md) on a block and it highlights the first 3 children
+	};
+
+	var defaultrepo = 'https://js.limitlessroam.com/js/';
+
+	// add alpha channel
+	if (typeof alphaChannel == 'object') Object.keys(alphaChannel).forEach(a=>{ load[a]=true });
+
+	// handling script loading and stopping
+	Object.keys(load).forEach(k=>{
+		var moduleName = 'Viktor'+k.replace(/^\w/, c => c.toUpperCase()); // eg. ViktorGallery
+
+		// remove script if exists
+		var script = document.getElementById(moduleName);
+		if (script) 
+			script.remove();
+
+		// if script is set to false
+		if (!load[k]) {
+			// stop from running
+			try {
+				if (window[moduleName] && typeof window[moduleName].stop === 'function') window[moduleName].stop();
+			} catch(_) {}
+
+			return;
+		}
+
+		// add it
+		var extension = document.createElement("script");
+		extension.src = typeof alphaChannel == 'object' && typeof alphaChannel[k] != 'undefined' ? alphaChannel[k] : defaultrepo+k+'.js';	// add url
+		extension.src = extension.src + (extension.src.indexOf('?') > -1 ? '&' : '?') + 'cb='+Date.now();	// add cache buster
+		extension.id = moduleName;
+		extension.async = false;
+		extension.type = "text/javascript";
+		document.head.appendChild(extension);
+	});
+	
+})();```
 
 # Backlinks
 ## [December 8th, 2020](December 8th, 2020.md)
