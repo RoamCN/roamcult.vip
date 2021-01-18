@@ -3,6 +3,9 @@
 ## [December 17th, 2020](December 17th, 2020.md)
 {{[embed](embed.md):
 
+## [January 18th, 2021](January 18th, 2021.md)
+- {{[embed](embed.md):
+
 ## [November 12th, 2020](November 12th, 2020.md)
 - {{[embed](embed.md):
 
