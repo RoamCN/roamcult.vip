@@ -1,4 +1,4 @@
-# [[roam/cn]] Roam Research 中文社区 #roamcult
+# [[[roam/cn]] Roam Research 中文社区 #roamcult](https://github.com/roam-cn/roamcult.vip/discussions)
 
 ## RoamCN Community
 
