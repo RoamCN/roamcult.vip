@@ -33,11 +33,6 @@
 
 - {{[embed](embed.md):
 
-## [™ templates](™ templates.md)
-- {{[embed](embed.md):
-
-- {{[embed](embed.md):
-
 ## [⌸ 周报Newsletter](⌸ 周报Newsletter.md)
 - {{[embed](embed.md):
 

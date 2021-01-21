@@ -1,5 +1,25 @@
 - cc x
 - 
+- [42SmartBlock](42SmartBlock.md) 测试
+    - articles:
+        - **[source](source.md):**
+        - **[link](link.md):**
+        - **[topics](topics.md):**
+        - **[I am reading this to](I am reading this to.md):**
+    - book:
+        - **[author](author.md):**
+        - **[category](category.md):**
+        - **[highlight](highlight.md):**
+        - **[reading status](reading status.md):** {{or:to read | reading | read}}
+        - **[published year](published year.md):**
+    - 专栏
+        - **[author](author.md):**
+        - **[source](source.md):**
+        - **[topics](topics.md):**
+    - video
+        - **[source](source.md):**
+        - **[topic](topic.md):**
+        - **[author](author.md):**
 - 
 
 #@Jerry mermaid 去除背景
