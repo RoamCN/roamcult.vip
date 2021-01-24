@@ -669,8 +669,6 @@ Optional border adjustments:
 - [roam/css](../roam/css.md)
 
 ## [December 23rd, 2020](December 23rd, 2020.md)
-- -> 大纲圆点颜色 #[roam/css](../roam/css.md)
-
 - css 菜鸟指南 #[roam/css](../roam/css.md)
 
 ## [December 24th, 2020](December 24th, 2020.md)
