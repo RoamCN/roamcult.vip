@@ -402,6 +402,172 @@ span.rm-page-ref[data-tag="Card"]:before {
     content: '🧩 '
 }
 ```
+- 一款css
+    - URL: https://catominor3.medium.com/roamext-roam-extended-a-little-piece-of-code-with-mighty-power-a18184c0c5be
+    
+# :hiccup[:div {:class "alert alert-success"} "🎉 Support" ]
+        - ^^If you like my work, follow me on [Twitter](https://twitter.com/catominor3), check the public Roam database [Roam-tricks](https://roamresearch.com/#/app/roam-tricks), my personal [public collection of my hacks](https://roamresearch.com/#/app/CatoMinor-public/page/FhtBdGjOL), and yes, you can support me on [Patreon](https://www.patreon.com/catominor) or through [PayPal](https://paypal.me/catominor3). I would really appreciate it!^^
+    
+# :hiccup[:div {:class "alert alert-info"} "🧐 What is this?"] 
+        - A little companion website to my [Medium article](https://catominor3.medium.com/roamext-roam-extended-a-little-piece-of-code-with-mighty-power-a18184c0c5be). It provides some useful snippets of code and examples you can use by yourself that implement steps described in the article. 
+    
+# :hiccup[:div {:class "alert alert-warning"} "💾 Code"]
+        
+## Code of the ROAMEXT extension: [ROAMEXT (stable)](ROAMEXT (stable).md) 
+        
+## Blockquotes
+            - Example:
+                - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit elit in erat congue, quis efficitur massa ultrices. Aliquam volutpat lobortis dapibus. Cras lacus ligula, maximus luctus porta rutrum, viverra rhoncus elit. Fusce sit amet nulla tincidunt sapien vulputate mattis in ac felis. Vestibulum dictum eu velit id pulvinar. Integer lacus nulla, ornare vitae mauris id, vulputate aliquam diam. Aliquam ullamcorper tempor arcu a malesuada. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in condimentum sapien, ac feugiat mi. Nulla facilisi. Integer ut velit metus. Donec lacinia mattis imperdiet. Pellentesque vulputate augue sit amet egestas hendrerit. Duis ultricies auctor libero id ornare. bq
+            - 下面是引用
+            - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit elit in erat congue, quis efficitur massa ultrices. Aliquam volutpat lobortis dapibus. Cras lacus ligula, maximus luctus porta rutrum, viverra rhoncus elit. Fusce sit amet nulla tincidunt sapien vulputate mattis in ac felis. Vestibulum dictum eu velit id pulvinar. Integer lacus nulla, ornare vitae mauris id, vulputate aliquam diam. Aliquam ullamcorper tempor arcu a malesuada. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in condimentum sapien, ac feugiat mi. Nulla facilisi. Integer ut velit metus. Donec lacinia mattis imperdiet. Pellentesque vulputate augue sit amet egestas hendrerit. Duis ultricies auctor libero id ornare. bq"
+            - Code
+                - Definition of the blockquote:
+                    - ```css
+
+[data-tags~="bq"] {
+  background-color: rgb(244,242,242);
+  border-left: 5px solid rgb(255,204,111);
+  padding-left: 10px;
+  
+}
+
+[data-tag="bq"] {
+display:none;
+  }```
+                - Hiding the tag
+                    - ```javascript
+
+[data-tag="bq"] {
+display:none;
+  }```
+                - 
+        
+## Colored blocks - **new version**
+            - Color scheme: [Alerts · Bootstrap (getbootstrap.com)](https://getbootstrap.com/docs/4.0/components/alerts/)
+            - To hide tags, change "html" to "css" in the following code
+                - ```css
+
+/* this code hides all block tags */
+[data-tag^="chld:"],
+[data-tag^="blck-chld:"],
+[data-tag^="blck:"] {
+display:none;
+}```
+            - Grey block [blck](blck.md):grey
+                - Examples
+                    - Main block [blck](blck.md):grey
+                    - Block with children [blck-chld](blck-chld.md):grey
+                        - Children
+                    - Only children [chld](chld.md):grey
+                        - Child 1
+                        - Child 2
+                - Code
+                    - ```css
+[data-page-links*="blck:grey"] > .rm-block-main,
+[data-page-links*="blck-chld:grey"],
+[data-page-links*="chld:grey"] > .rm-block-children
+{
+    /* color: [383d41](383d41.md); */
+    background-color: [e2e3e5](e2e3e5.md);
+    border: 1px solid [d6d8db](d6d8db.md); 
+    margin-bottom: 5px;
+}```
+            - Blue block [blck](blck.md):blue
+                - Examples
+                    - Main block [blck](blck.md):blue
+                    - Block with children [blck-chld](blck-chld.md):blue
+                        - Children
+                    - Only children [chld](chld.md):blue
+                        - Child 1
+                        - Child 2
+                - Code
+                    - ```css
+[data-page-links*="blck:blue"] > .rm-block-main,
+[data-page-links*="blck-chld:blue"],
+[data-page-links*="chld:blue"] > .rm-block-children
+{
+ /*	 color: [004085](004085.md);*/
+    background-color: [124275](124275.md);
+    /*border-color: [b8daff](b8daff.md);*/
+  border: solid 1px [b8daff](b8daff.md);
+  /*border-color: [80BDFF](80BDFF.md);*/
+    margin-bottom: 5px;
+}```
+            - Green block  [blck](blck.md):green
+                - Examples
+                    - Main block [blck](blck.md):green
+                    - Block with children [blck-chld](blck-chld.md):green
+                        - Children
+                    - Only children [chld](chld.md):green
+                        - Child 1
+                        - Child 2
+                - Code:
+                    - ```css
+[data-page-links*="blck:green"] > .rm-block-main,
+[data-page-links*="blck-chld:green"],
+[data-page-links*="chld:green"] > .rm-block-children
+{
+ 
+  /*   color: [155724](155724.md); */
+    background-color: [d4edda](d4edda.md);
+    border: 1px solid [c3e6cb](c3e6cb.md);
+  
+    margin-bottom: 5px;
+}```
+            - Red block [blck](blck.md):red
+                - Examples
+                    - Main block [blck](blck.md):red
+                    - Block with children [blck-chld](blck-chld.md):red
+                        - Children
+                    - Only children [chld](chld.md):red
+                        - Child 1
+                        - Child 2
+                - Code
+                    - ```css
+[data-page-links*="blck:red"] > .rm-block-main,
+[data-page-links*="blck-chld:red"],
+[data-page-links*="chld:red"] > .rm-block-children
+{
+ 
+  /*   color: [721c24](721c24.md);*/
+    background-color: [f8d7da](f8d7da.md);
+    border: 1px solid [f5c6cb](f5c6cb.md);
+  
+    margin-bottom: 5px;
+}```
+            - Yellow block [blck](blck.md):yellow
+                - Examples
+                    - Main block [blck](blck.md):yellow
+                    - Block with children [blck-chld](blck-chld.md):yellow
+                        - Children
+                    - Only children [chld](chld.md):yellow
+                        - Child 1
+                        - Child 2
+                - Code
+                    - ```css
+[data-page-links*="blck:yellow"] > .rm-block-main,
+[data-page-links*="blck-chld:yellow"],
+[data-page-links*="chld:yellow"] > .rm-block-children
+{
+ 
+ /*  color: [856404](856404.md); */
+    background-color: [fff3cd](fff3cd.md);
+    
+    border: 1px solid [ffeeba](ffeeba.md);
+ 
+    margin-bottom: 5px;
+}```
+        
+## Sticky blocks
+            - Code:
+                - ```javascript
+
+[data-tags-up~="sticky"] {
+  position: -webkit-sticky; /* Safari */
+  position: sticky !important;
+  top: 0;
+  z-index: 10;
+}```
 
 # Backlinks
 ## [阅读书单接龙🐲](阅读书单接龙🐲.md)
