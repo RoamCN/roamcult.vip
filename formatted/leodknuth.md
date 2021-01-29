@@ -9,7 +9,7 @@
     - 印象笔记首批授权认证咨询师(ECC)官方公告:印象笔记首批授权认证咨询师(ECC)官方公告:https://mp.weixin.qq.com/s/nLNDp8huV8gaIzS2sSYs4Q
 
 # Backlinks
-## [Roam面对面🍜 第六期](Roam面对面🍜 第六期.md)
+## [Roam面对面🍜 第七期](Roam面对面🍜 第七期.md)
 - 嘉宾： [leodknuth](leodknuth.md)（
 
 ## [▸roamcults CRM](▸roamcults CRM.md)
