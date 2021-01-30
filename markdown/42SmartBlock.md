@@ -2,6 +2,8 @@
 - {{embed: ((tBZdhZHM-))}}
 - > 不要担心自己问的问题听起来很傻。99% 的情况下，其他人都有和你一样的问题，只不过羞于问出口而已。 [*](https://q24.io/api/v1/idea/link/419)
 [[ 凯文·凯利（Kevin Kelly）（翻译：赵嘉敏）]]
+- 
+- ---
 - #42SmartBlock Due me 提醒我
     - <%CURRENTBLOCKREF:blockRef%>
     - <%SET:curBlock,<%RESOLVEBLOCKREF:<%GET:blockRef%>%>%><%NOBLOCKOUTPUT%>
@@ -13,28 +15,7 @@ var currentUrl = encodeURIComponent(window.location.href);
 window.open("due://x-callback-url/add?title=" + content + "&x-success=" + currentUrl);
 return '';```
 %><%NOBLOCKOUTPUT%>
-- #42SmartBlock Random Quotes 随机语录
-    - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
-var settings = {
-  "url": "https://api.quotable.io/random",
-  "method": "GET",
-  "timeout": 0,
-  "async": false
-};
-
-$.ajax(settings).done(function (response) {
-  console.log(response);
-  var jsonQuotes = JSON.stringify(response);
-  var quote = JSON.parse(jsonQuotes);
-  roam42.smartBlocks.activeWorkflow.vars['author'] = quote.author;
-  roam42.smartBlocks.activeWorkflow.vars['quote'] = quote.content;
-});
-return '';``` %>
-    - <%JAVASCRIPT: document.activeElement.value = ""; return'> ';%><%GET:quote%>
-[[<%GET:author%>]]
-    - 
-    - 
-    - 
+- 
 - #42SmartBlock TickTick 滴答清单
     - <%CURRENTBLOCKREF:blockRef%>
     - <%SET:curBlock,<%RESOLVEBLOCKREF:<%GET:blockRef%>%>%><%NOBLOCKOUTPUT%>
@@ -46,7 +27,6 @@ var currentUrl = encodeURIComponent(window.location.href);
 window.open("ticktick://x-callback-url/v1/add_task?title=" + content + "&x-success=" + currentUrl);
 return '';```
 %><%NOBLOCKOUTPUT%>
-- 
 - 
 - #42SmartBlock Flomo 回顾浮墨岛
     - <%CURRENTBLOCKREF:blockRef%>
@@ -74,6 +54,30 @@ $.ajax(settings).done(function (response) {
 return '';```
 %><%NOBLOCKOUTPUT%>
     - 
+- #42SmartBlock Random Quotes 随机语录
+    - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
+var settings = {
+  "url": "https://api.quotable.io/random",
+  "method": "GET",
+  "timeout": 0,
+  "async": false
+};
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+  var jsonQuotes = JSON.stringify(response);
+  var quote = JSON.parse(jsonQuotes);
+  roam42.smartBlocks.activeWorkflow.vars['author'] = quote.author;
+  roam42.smartBlocks.activeWorkflow.vars['quote'] = quote.content;
+});
+return '';``` %>
+    - <%JAVASCRIPT: document.activeElement.value = ""; return'> ';%><%GET:quote%>
+[[<%GET:author%>]]
+    - 
+    - 
+    - 
+- 
+- 
 - #42SmartBlock Useless Ideas 随机灵感
     - <%NOBLOCKOUTPUT%><%JAVASCRIPTASYNC: ```javascript
 var settings = {
