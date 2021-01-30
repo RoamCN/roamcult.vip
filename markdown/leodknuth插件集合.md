@@ -55,8 +55,6 @@ var s = document.createElement('script')
 	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)```
 - <script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>
-- 第二个js模块：卡片写作模块
-    - > 该模块由 @JimmyLv 提供，模拟卡片写作的环境。代码如下：
 - {{roam/js}}
     - 
     - ```javascript
@@ -102,6 +100,8 @@ var s = document.createElement('script');
 	s.src =  "https://cdn.jsdelivr.net/gh/roamhacker/roam42/main.js";
   	s.async = true;
 document.getElementsByTagName('head')[0].appendChild(s);```
+- 第二个js模块：卡片写作模块
+    - > 该模块由 @JimmyLv 提供，模拟卡片写作的环境。代码如下：
 - {{roam/js}}
     - ```javascript
 const CARD_MODE_VERSION = 'master'
@@ -141,6 +141,8 @@ s.id = "pull-references";
 s.async = false;
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);```
+- 第五个js模块：TO-DO Trigger
+    - >当todo被标记完成时，可以自动添加标签、自定义尾缀，同时将此条todo画上删除线。代码如下：
 - {{roam/js}}
     - Filter attribute tables
     - ```javascript
@@ -448,8 +450,6 @@ function filterAttr(evt){
 }
 
 document.addEventListener('click', filterAttr)```
-- 第五个js模块：TO-DO Trigger
-    - >当todo被标记完成时，可以自动添加标签、自定义尾缀，同时将此条todo画上删除线。代码如下：
 - {{roam/js}}
     - ```javascript
 var old = document.getElementById("todo-trigger");
