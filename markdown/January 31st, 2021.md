@@ -1,0 +1,2 @@
+- #[[Quick Capture]]
+    - 快速笔记
