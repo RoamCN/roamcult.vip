@@ -1,6 +1,9 @@
 
 # Backlinks
 ## [December 8th, 2020](December 8th, 2020.md)
+- 使用 [Roam42](Roam42.md) SmartBlock 添加周报模板
+        - **[Author](Author.md):**
+
 - Roam Newsletter [42SmartBlock](42SmartBlock.md)
             - **[Author](Author.md):**
 

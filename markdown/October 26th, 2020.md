@@ -27,13 +27,20 @@
 - [[📝帖子]] ~ #[[@码客]]: allPage显示不全的解决方案
     /* chrome浏览器 4240.111 版本上 table出现了不同的加载方式 导致allpage长度显示不全  本修改只针对azlen样式 */
     __**css部分**__
+    #all-pages-search {
+        - max-height: calc(100%);
+        - overflow-y: auto;
     /* chrome浏览器 4240.111 版本上 出现了 allPage显示不全的兼容性问题 */
+    }
     #all-pages-search {
         - max-height: calc(100%);
         - overflow-y: auto;
         - height:100% !important;
     }
+    .roam-article, #all-pages-search, .sidebar-content > *{
+        - height:inherit !important;
     .rm-pages-col-word-count > span:first-child, .rm-pages-col-word-count + div > span:first-child {
+    }
     display: none;
     }
     #Batapha 增加[[B-Net and the Butterfly]]的中文版到"04 阶段3：羽化成蝶 突破性灵感是如何产生的"

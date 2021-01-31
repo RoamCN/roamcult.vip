@@ -55,6 +55,8 @@ var s = document.createElement('script')
 	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)```
 - <script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>
+- 第二个js模块：卡片写作模块
+    - > 该模块由 @JimmyLv 提供，模拟卡片写作的环境。代码如下：
 - {{roam/js}}
     - 
     - ```javascript
@@ -100,8 +102,6 @@ var s = document.createElement('script');
 	s.src =  "https://cdn.jsdelivr.net/gh/roamhacker/roam42/main.js";
   	s.async = true;
 document.getElementsByTagName('head')[0].appendChild(s);```
-- 第二个js模块：卡片写作模块
-    - > 该模块由 @JimmyLv 提供，模拟卡片写作的环境。代码如下：
 - {{roam/js}}
     - ```javascript
 const CARD_MODE_VERSION = 'master'
