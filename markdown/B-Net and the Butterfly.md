@@ -5,8 +5,10 @@
     - 
 - 书籍全本
     - 英文版
+        - To Dr. Marcus Raichle, discoverer of the default
         - mode network, whose breakthrough made our work possible, whose science
 underlies this entire book, and for whose guidance we are profoundly grateful.
+        - Title Page
         - Introduction
             - IN A SMALL city in Switzerland on a fine spring day in 1905, a young patent clerk left his one-year-old son and wife at home to go see his best friend about a riddle. The two friends loved exchanging ideas, from philosophy to physics, from art to electricity, and this morning our young patent clerk wanted to discuss a problem that had been vexing him for some time.
             - For the past year, he’d been especially focused on a physics theory he’d begun formulating ten years ago. He laid out every detail of the problem he had been struggling with, and for an entire day the two friends analyzed ideas and rehashed every aspect of the dilemma.
@@ -176,8 +178,8 @@ underlies this entire book, and for whose guidance we are profoundly grateful.
                     - Task completed, Richards falls back asleep as his executive leaves the front office.
                 - The executive, among many other things, sets the direction for your genius council to follow. And once the genius council has come up with something, the executive is the one that puts into practice the ideas the genius council comes up with. It’s as if the executive were giving the genius council a bunch of Legos and saying, “See what you can turn these into.” The Legos snap together the same way neurons do. Your genius council is constantly trying out new neural connections. Sometimes it makes a multicolored Lego mess, but sometimes it puts together a locomotive, a spaceship, or the special theory of relativity.
                 - If the DN Is So Important, Why Haven’t You Heard of It Before?
-                    - Since 1929, neuroscientists have known that the brain is in a constant state of activity, and that background noise surrounds our more rational processes, but only recently has that background noise been examined as anything more than a nuisance.6
                     - Kekulé, like Einstein, Edison, Dalí, Tesla, Watts, and countless other innovators, achieved his breakthrough thanks to the back-and-forth switch between his executive mode and his genius mode. In fact, Dr. Raichle told us that it was after leaving a meeting and walking down the hall that he had the breakthrough leading to the default network’s discovery.
+                    - Since 1929, neuroscientists have known that the brain is in a constant state of activity, and that background noise surrounds our more rational processes, but only recently has that background noise been examined as anything more than a nuisance.6
                     - Our modern biases are geared toward the logical, the structured, the efficient—all the things that the DN is not. As the DN’s discoverer, Dr. Marcus Raichle, told us, “Up until recently, our focus has been on making the brain do specific things, ignoring the background, default, nonconscious, nondirected activity.”7 The default network is one of the most powerful tools at our disposal, but it is not task focused.
                     - Focus is a positive attribute: a bias for the executive is a bias for what is feasible. But the top performers, the stars, the innovators, the geniuses reach breakthroughs by switching back and forth between the focused EN and the unfocused DN.
                     - Dr. Raichle, who discovered the existence of the default network in 1997, named it thus because it is the mode that the brain defaults to anytime it isn’t on-task. And this mode never actually shuts off, but rather quiets down when we are focused on something. The moment we switch off a task, we default to this network. Look out the window, bang! Default to the network. Get up to make coffee, bang! We default to the network.
@@ -752,6 +754,7 @@ underlies this entire book, and for whose guidance we are profoundly grateful.
                     - Use Tom Chi’s critique method of brainstorming in a more open way. Get as many ideas up on the board as you can, find the connections, invite quiet, create narratives, create clusters of ideas and rank them.
                     - Create a constraint box by writing out all your constraints in the form of a box. The big, open center of the box will define your breakthrough space.
                     - Put your idea into the world and see what happens.
+        - Copyright
         - Part Two: The Blockers
             - Chapter 7: The Spiders of Fear
                 - A Powerful Butterfly Repellent
@@ -1594,7 +1597,9 @@ underlies this entire book, and for whose guidance we are profoundly grateful.
                         - •	Choose a cue, something that, when it occurs, activates the habit of taking a mindful breath. The cue we most highly recommend is any situation in which you have to wait.
                         - •	Whenever the cue occurs, take one slow, deep breath, and bring some amount of attention to that breath. For safety reasons (for example, if you’re walking or driving), you may need to maintain the appropriate amount of attention on your surroundings as you pay some attention to your breath.
                         - •	If taking that mindful breath makes you feel any better, simply notice that. That will be the reward that reinforces the habit.
+        - Dedication
         - Chapter Summaries
+        - Contents
         - Key Exercises
         - Science Appendix
         - Recommended Resources
