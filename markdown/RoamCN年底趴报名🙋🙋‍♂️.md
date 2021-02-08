@@ -59,4 +59,5 @@ __（猜猜他在说啥-。-）__
 
 {{attr-table:[[参与者]]}}
 最后放上本次活动的群二维码，参加的朋友可以提前在这里沟通路线及其他各种问题::
+建议还是注意一下隐私保护
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FCCTWpAEHAY.png?alt=media&token=da8be65f-7bb6-4c01-a5da-2a2785a0a31d)
