@@ -17,13 +17,13 @@
 - **实不相瞒，我最喜欢捣鼓不同工具，如何搭配能更好地解决自身问题：**这期安利我近期挚爱Roam Research + Readwise,
 - 作为一枚RR的铁粉，但我不想手动复制粘贴，所以我开始找工具如何实现自动流操作；试想一个场景：假如能把我每天看过的书&好句，听到的音频，甚至随时看到的好东西能自动记录下来就完美了 **🤔**
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-f7b353bb07e0a4506dc7fb5f4fc3566c.png)
-- **打造第二大脑必备 🧠**
+- ### **打造第二大脑必备 🧠**
 - Roam Research之前简单介绍了：[推荐一款私藏小众笔记神器: Roam Research](https://nataliamok.com/my-new-fav-tool-roam-research/) 
 - ****![](https://nataliamok.com/wp-content/uploads/2020/09/frc-53fa0af7240e938e60f499d71b445248.png)****
 - ****这期特别想安利********Readwise******Get the most out of what you read**
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-65e63544683c7ca8d31414854455b5c5.png)
 - **这工具三大特色：**
-- 多平台自动同步、多番回顾、协助回忆
+    - 多平台自动同步、多番回顾、协助回忆
 - ****这是我**近期最爱神器，更赞的是已拥有和RR搭配游戏的beta版。**其实可以把Readwise当作粘合剂，把平常看到&听到的精华自动传输到RR.
 - **Audio**
 - **音频**

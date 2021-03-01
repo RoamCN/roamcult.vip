@@ -46,8 +46,8 @@ __（猜猜他在说啥-。-）__
     - 18911417553
     - 15181715136
 你在用Roam时，最喜欢/擅长的功能是什么(这个是可以添加的呀朋友们)::
-    - {{or:Query | SRS间隔重复 | smart block}}
-    - {{or: smart block | SRS间隔重复 | Query}}
+    - {{or:smart block | Query | SRS间隔重复}}
+    - {{or:SRS间隔重复 | smart block | Query}}
     - {{or:daily notes | smart block}}
     - {{or: embed | reference}}
     - Linked automaticly

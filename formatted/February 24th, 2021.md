@@ -1,0 +1,9 @@
+- 
+- 测试 Vivaldi 浏览器
+    - Chrome 真的很臃肿
+    - 我想把Roam Research放到另外的浏览器当中
+    - 本来Safari是理想选择，但直到今天，Roam 在Safari无法输入中文的bug还未解决
+- "Unable to load the graph"
+    - 我的个人 Graph 打不开了，内心受到极大的冲击
+    - 一方面，说明了 Roam 的重要性
+    - 另一方面，也让我重新思考 Web App 的必要性

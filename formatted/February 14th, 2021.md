@@ -1,0 +1,6 @@
+- 
+-  [@kunpeng9.serious](@kunpeng9.serious.md)
+    - 今天看了这个视频 [“入关”关键时刻，是时候重读教员这篇文章了【从书说起·《矛盾论》01】 - YouTube](https://www.youtube.com/watch?v=q5KF_pbnr_A)之后顺便了解了一下《美帝国的崩溃》里面也有提到的理论
+    - 顺便投稿了两个视频到哔哩哔哩，一搜发现还有全球可持续发展大学，哔哩哔哩没啥内容只有一个视频，youtube倒有不少。
+    - [20191124 Michael Hudson - Dollar Recycling and De-Dollarization - YouTube](https://www.youtube.com/watch?v=Rr_swuerrto) 20191124 Michael Hudson-美元回收和反美元化 
+    - 

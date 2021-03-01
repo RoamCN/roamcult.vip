@@ -146,7 +146,7 @@ return '';```%>
     - Github代码：https://github.com/roamhacker/SmartBlocks/issues/154
 - [用Smartblocks一键做ppt](用Smartblocks一键做ppt.md)
     - ![](../images/jiWESDOQuY.gif?)
-    - 视频教程：https://www.loom.com/share/71953a50f8c446f28a82abba88d91d13?sharedAppSource=personal_library
+    - 视频教程：{{[video](video.md): https://www.loom.com/share/71953a50f8c446f28a82abba88d91d13?sharedAppSource=personal_library}}
     - 用到的插件：https://roamjs.com/docs/extensions/presentation
 - [用Smartblocks收集用户信息](用Smartblocks收集用户信息.md)
     - ![](../images/_nlmmpoy2u.gif?)
