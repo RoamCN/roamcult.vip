@@ -115,3 +115,31 @@ JavaScript warning: https://cdn.jsdelivr.net/gh/roamhacker/roam42/ext/smartBlock
 
 (firefox:2094): GLib-GObject-CRITICAL **: 08:24:35.324: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614587076522	Marionette	INFO	Stopped listening on port 43475
+1614595683193	geckodriver	INFO	Listening on 127.0.0.1:39493
+1614595684006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler7kKtT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614595693398	Marionette	INFO	Listening on port 45995
+1614595693498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614595693525	Marionette	ERROR	[18] No reply from Marionette:Register
+1614595694596	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.jsdelivr.net/gh/roamhacker/roam42/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:1841): GLib-GObject-CRITICAL **: 10:48:43.256: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614595724233	Marionette	INFO	Stopped listening on port 45995
+1614595724823	geckodriver	INFO	Listening on 127.0.0.1:47635
+1614595724831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6W0OKh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614595726813	Marionette	INFO	Listening on port 43675
+1614595726883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614595726910	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://cdn.jsdelivr.net/gh/roamhacker/roam42/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:2078): GLib-GObject-CRITICAL **: 10:49:20.064: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614595762003	Marionette	INFO	Stopped listening on port 43675
