@@ -203,3 +203,39 @@ JavaScript warning: https://cdn.jsdelivr.net/gh/roamhacker/roam42/ext/smartBlock
 
 (firefox:2123): GLib-GObject-CRITICAL **: 14:18:34.628: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614608316105	Marionette	INFO	Stopped listening on port 40625
+1614616366731	geckodriver	INFO	Listening on 127.0.0.1:37879
+1614616367589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTSwW9M"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614616378985	Marionette	INFO	Listening on port 45857
+1614616379123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614616379145	Marionette	ERROR	[18] No reply from Marionette:Register
+1614616380233	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://cdn.jsdelivr.net/gh/roamhacker/roam42/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:1853): GLib-GObject-CRITICAL **: 16:33:26.015: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614616407894	Marionette	INFO	Stopped listening on port 45857
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614616408498	geckodriver	INFO	Listening on 127.0.0.1:40285
+1614616408504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebiB67v"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614616410550	Marionette	INFO	Listening on port 46135
+1614616410638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614616410663	Marionette	ERROR	[15] No reply from Marionette:Register
+1614616411612	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://cdn.jsdelivr.net/gh/roamhacker/roam42/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:2134): GLib-GObject-CRITICAL **: 16:34:03.107: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614616444710	Marionette	INFO	Stopped listening on port 46135
