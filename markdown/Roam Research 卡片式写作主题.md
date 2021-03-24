@@ -7,13 +7,18 @@
     1. Add a [[leodknuth插件集合]] tag
     2. Add a child JavaScript code block to it with this code...
         - ```javascript
-const CARD_MODE_VERSION = 'master'
-window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
-var s = document.createElement('script')
-	s.type = "text/javascript"
-    s.src =  window.URLScriptServer + "js/index.js"
-	s.async = true
-document.getElementsByTagName('head')[0].appendChild(s)```
+const CARD_MODE_VERSION = "gh-pages";
+window.URLScriptServer = `https://raw.githack.com/JimmyLv/styled-roam/${CARD_MODE_VERSION}/`;
+
+var existing = document.getElementById("styled-roam");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = window.URLScriptServer + "js/index.js";
+  extension.id = "styled-roam";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
     3. Press the BIG RED button (also works with [roam42](https://github.com/roamhacker/roam42), so you can just put them together)
     4. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
         - ![](https://raw.staticdn.net/JimmyLv/styled-roam/master/preview/git%20hash.png)

@@ -47,13 +47,18 @@ var s = document.createElement('script')
   	s.async = true
 document.getElementsByTagName('head')[0].appendChild(s)
 
-const CARD_MODE_VERSION = 'dev'
-window.URLScriptServer = `https://cdn.jsdelivr.net/gh/JimmyLv/styled-roam@${CARD_MODE_VERSION}/`
-var s = document.createElement('script')
-	s.type = "text/javascript"
-    s.src =  window.URLScriptServer + "js/index.js"
-	s.async = true
-document.getElementsByTagName('head')[0].appendChild(s)```
+const CARD_MODE_VERSION = "gh-pages";
+window.URLScriptServer = `https://raw.githack.com/JimmyLv/styled-roam/${CARD_MODE_VERSION}/`;
+
+var existing = document.getElementById("styled-roam");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = window.URLScriptServer + "js/index.js";
+  extension.id = "styled-roam";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
 - <script src="https://kit.fontawesome.com/8c717ed232.js" crossorigin="anonymous"></script>
 - {{roam/js}}
     - 
