@@ -32,7 +32,7 @@
                 - 晨间笔记 logs
                 - 知识管理workflow
                     - ![0OdIC8.jpg](https://s1.ax1x.com/2020/10/17/0OdIC8.jpg)
-                        - "[用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)[leodknuth](leodknuth.md)"
+                        - [用Roam Research打造信息流处理系统](用Roam Research打造信息流处理系统.md)[leodknuth](leodknuth.md)
         - 讨论时间🤩  
             - 
 

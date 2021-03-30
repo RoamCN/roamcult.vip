@@ -238,7 +238,7 @@ https://zhuanlan.zhihu.com/p/336511553
     养殖嘛,《黑客帝国》
 - Steve
     要想人类灭亡，女人不生。就可以了。还要什么原子弹，那么麻烦.
-        - "养殖嘛,《黑客帝国》" -- 技术达不到的
+        - 养殖嘛,《黑客帝国》 -- 技术达不到的
     这里必须说明一下，女人不生。不是说女人的责任。责任应该是男人
 - JimmyLv
     那一天还是太远，回到现实，这个时代人类还是由此割裂了，大部分人成为数据的养料，满足于浮浅；小部分人善用机器，保有思考的意识。-《未来简史》
@@ -396,7 +396,7 @@ https://zhuanlan.zhihu.com/p/336511553
 - Steve yang
     - 当然有。
 - Steve yang
-    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FtYHGtZQipN.png?alt=media&token=d0abcf68-5a61-45d3-9003-9da228e0f213)"
+    ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamCN%2FtYHGtZQipN.png?alt=media&token=d0abcf68-5a61-45d3-9003-9da228e0f213)
     要是按照这个图，从Data，到information，再到knowledge，再到 insight，再到wisdom。这种路径太长，依赖笔记工具，可视化图形工具，成本太高，等等等诸多负面因素
 - Iris Poon
     为什么专长对应的是阴呢？

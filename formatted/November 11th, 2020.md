@@ -37,7 +37,7 @@
     - 
 
 #@Jessie
-    -  ""Tell the truth — or, at least, don’t lie""
+    -  "Tell the truth — or, at least, don’t lie"
         - Why roam is built for private use 1st is that a person is usually honest with “himself”
             - It’s no point for you to lie when you are with yourself.
             - But when it comes to group or organization,under the public scenarios,people will do self-propagating. Sometimes they hide things and, they lie. 
@@ -47,7 +47,7 @@
                 - https://twitter.com/search?q=(from%3Anaval)truth&src=typed_query
                 - https://twitter.com/naval/status/1254177712945500160
                 - https://twitter.com/Conaw/status/1326310124630155264
-    - ""Do not let your children do anything that makes you dislike them""
+    - "Do not let your children do anything that makes you dislike them"
         - same,do not let yourself do anything that make you dislike you.
         - 一诺说，想起纪伯伦写的孩子，其实读起来很刺耳，像这一节：
             - For their souls dwell in the house of tomorrow, which you cannot visit, not even in your dreams.

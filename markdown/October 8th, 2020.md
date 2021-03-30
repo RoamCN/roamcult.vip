@@ -8,7 +8,7 @@
         - P3 collective intelligence的pitching:: 有一些需要大家参与的项目（比如#[[ℹ︎DeFi 词典]] 出来pitching一下，engage一下感兴趣的人
     - 物料准备
         - 根据主题拟一张海报
-            - "主题：{{query 的用法；Anki到底是怎样work的"
+            - 主题：{{query 的用法；Anki到底是怎样work的
                 - 就可以设计成 ^^卡片盒子^^
         - kt 板来一个吧（roam/cn)
         - 活动行发布活动

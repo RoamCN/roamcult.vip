@@ -40,7 +40,7 @@
     - 负责成员：#[[@多酱]]
 - # 宣传(hover me){{comment-button}}
     - 负责成员：#@Jessie
-    - 视频成果："[第2期：用Evergreen Notes实现思维聚合](https://www.bilibili.com/video/BV13A411e7m5/?spm_id_from=333.788.videocard.1)"
+    - 视频成果：[第2期：用Evergreen Notes实现思维聚合](https://www.bilibili.com/video/BV13A411e7m5/?spm_id_from=333.788.videocard.1)
 - # 总结与Next Step
     - #@Jessie #Victor #[[兴龙]]
     - Jessie：总体录制过程很棒，4个人交互效果不错。

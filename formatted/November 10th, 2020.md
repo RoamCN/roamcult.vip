@@ -1,6 +1,6 @@
 
 #@kunpeng9.serious= [kunpeng9.serious](kunpeng9.serious.md)=
-    - 老实说我觉得现在漫游者已经够小众了，不管是潜在的还是显性的成本都很高；"设置门槛（or)"
+    - 老实说我觉得现在漫游者已经够小众了，不管是潜在的还是显性的成本都很高；设置门槛（or)
     - [dvargas92495/roam-client](https://github.com/dvargas92495/roam-client) An npm package with various utilities and UI components to help developers write their own Roam extensions.一个包含各种实用程序和 UI 组件的 npm 包，帮助开发人员编写自己的 Roam 扩展。
     - 社区里程序员【或者说用漫游者的】还是比较少的感觉；插件之类的，生态都是老外做的
     - [UniFont - portable text with font](https://uni-font.now.sh/)

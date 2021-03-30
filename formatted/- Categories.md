@@ -4,7 +4,7 @@
 - **[- Categories](- Categories.md):**
 
 ## [visakanv](visakanv.md)
-- "{{👯‍♀️ CRM}}"
+- {{👯‍♀️ CRM}}
     - **[- Categories](- Categories.md):**
 
 ## [™ templates](™ templates.md)

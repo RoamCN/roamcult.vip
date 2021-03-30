@@ -41,7 +41,7 @@
         - Roam中文站公共图谱（public graph)🕸️ ：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
         - 微信圈子⭕️ ：直接微信「搜一搜」里面搜「Roam中文社区」。
 - 18:21 [Batapha](Batapha.md) 建立[B-Net and the Butterfly](B-Net and the Butterfly.md)，分为中文版与英文版
-    - 18:54 更新到"Part One: The Butterflies"
+    - 18:54 更新到Part One: The Butterflies
 
 # Backlinks
 ## [October 20th, 2020](October 20th, 2020.md)

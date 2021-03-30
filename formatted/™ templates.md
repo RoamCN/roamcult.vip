@@ -62,7 +62,9 @@
         - **[产品分析](产品分析.md):**
         - ((4ltLm_-Gg))
         - **[商业画布](商业画布.md):**
-        - {{[embed](embed.md): ((((AatnAPKlu))))}}
+        - {{[table](table.md)}}
+            - {{table}}
+            - {{table}}
         - **[投资分析](投资分析.md):**（e.g. [Investment Thesis for $FVAC ](Investment Thesis for $FVAC .md))
             - Qualitative
             - Quantatitive

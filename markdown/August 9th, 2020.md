@@ -1,3 +1,3 @@
 - #[[@苏维]] 整理的内容导航的反馈
     - ((pVonouLP2)) 是不是内容失去同步了，如果不考虑内容实时同步，就不能挂上来
-    - "[张玉新的公开库](https://roamresearch.com/#/app/xbeta2)" 是不是命名为 ^^善用佳软的 ...^^
+    - [张玉新的公开库](https://roamresearch.com/#/app/xbeta2) 是不是命名为 ^^善用佳软的 ...^^

@@ -4,7 +4,7 @@
 - 作者：[Norman Chella](Norman Chella.md)
 
 ## [August 7th, 2020](August 7th, 2020.md)
-- "从[Norman Chella](Norman Chella.md)做
+- 从[Norman Chella](Norman Chella.md)做
 
 ## [July 31st,2020](July 31st,2020.md)
 - 从[Norman Chella](Norman Chella.md)做

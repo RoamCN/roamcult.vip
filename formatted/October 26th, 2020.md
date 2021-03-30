@@ -39,4 +39,4 @@
     .rm-pages-col-word-count > span:first-child, .rm-pages-col-word-count + div > span:first-child {
     display: none;
     }
-    [Batapha](Batapha.md) 增加[B-Net and the Butterfly](B-Net and the Butterfly.md)的中文版到"04 阶段3：羽化成蝶 突破性灵感是如何产生的"
+    [Batapha](Batapha.md) 增加[B-Net and the Butterfly](B-Net and the Butterfly.md)的中文版到04 阶段3：羽化成蝶 突破性灵感是如何产生的

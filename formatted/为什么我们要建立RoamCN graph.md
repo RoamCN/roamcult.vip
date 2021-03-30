@@ -19,5 +19,5 @@
 #@Jessie about organizational memories and **Why we made this RoamCN public graph** [为什么要建立组织大脑]([为什么我们要建立RoamCN graph](为什么我们要建立RoamCN graph.md))
 
 ## [November 5th, 2020](November 5th, 2020.md)
-- 刚才看了"#@Jessie about organizational memories and **Why we made this RoamCN public graph** [为什么要建立组织大脑]([为什么我们要建立RoamCN graph](为什么我们要建立RoamCN graph.md))
+- 刚才看了#@Jessie about organizational memories and **Why we made this RoamCN public graph** [为什么要建立组织大脑]([为什么我们要建立RoamCN graph](为什么我们要建立RoamCN graph.md))
 

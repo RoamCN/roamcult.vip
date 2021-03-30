@@ -38,7 +38,7 @@ Roam Research是当前硅谷最火的笔记软件，它的魅力在于让你无�
     - Roam and Eloquent
         - Eloquent是一个辅助摘录原文标题、网址、时间等文章元数据信息以及原文部分文字的chrome扩展，非常方便使用，高效摘录文字和文章元数据。官方网页：https://eloquent.works/
     - Roam and Hypothes,
-        - "Eloquent是一个辅助摘录原文标题、网址、时间等文章元数据信息以及原文部分文字的chrome扩展，非常方便使用，高效摘录文字和文章元数据。官方网页：https://eloquent.works/"
+        - Eloquent是一个辅助摘录原文标题、网址、时间等文章元数据信息以及原文部分文字的chrome扩展，非常方便使用，高效摘录文字和文章元数据。官方网页：https://eloquent.works/
 - **有用的roam/js扩展**
     - 我使用的扩展并不多，只有以下几个，认为可以推荐：
     - 卡片写作风格插件，参考网址：https://github.com/JimmyLv/styled-roam

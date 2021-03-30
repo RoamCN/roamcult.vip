@@ -35,25 +35,47 @@
                     - Key partners
                         - thought leaders
                     - {{table}}
-                        - {{[embed](embed.md): ((((jDnWtTodE))))}}
-                        - {{[embed](embed.md): ((((HOUidsjUF))))}}
+                        - Key Activites
+                            - development
+                            - education
+                        - Key Resources
+                            - [Roamcult](Roamcult.md)
                     - {{table}}
-                        - {{[embed](embed.md): ((((6atcqU5HT))))}}
-                        - {{[embed](embed.md): ((((fo5HWCZET))))}}
+                        - Relationships
+                        - Channels
+                            - website
+                            - desktop apps
+                            - mobile apps
                     - {{table}}
                         - 
-                        - {{[embed](embed.md): (((SJKpa8mHx))}}
-                            - {{[embed](embed.md): ((((pLCzm1yQ2))))}}
-                                - {{[embed](embed.md): ((((Xgm-2bQuF))))}}
-                                    - "{{table}}"
-                                        - {{[embed](embed.md): ((((4_P2i94NM))))}}
+                        - Key partners
+                            - thought leaders
+                            - {{table}}
+                                - Key Activites
+                                    - development
+                                    - education
+                                - Key Resources
+                                    - [Roamcult](Roamcult.md)
+                                - Value Proposition
+                                    - second brain
+                                    - digital garden
+                                    - digital coach
+                                    - {{table}}
+                                        - Constomer segments
+                                            - Users
+                                            - Employees
+                                            - Developers
                     - {{table}}
-                        - {{[embed](embed.md): ((((7Sn-hFDI-))))}}
-                            - {{[embed](embed.md): ((((msGv0MHdc))))}}
+                        - Cost
+                            - developers
+                            - servers
+                            - Revenue
+                                - monthly sub (B2B, B2C)
+                                - B2C2C: substack for digital gardens
                 - 产出：Roam Research BMC
                     - {{[table](table.md)}}
-                        - "{{table}}"
-                        - "{{table}}"
+                        - {{table}}
+                        - {{table}}
 - 医学用例#[roam_md](roam_md.md)
     - https://twitter.com/roam_md/status/1292137456947605506
     - 数学[粗糙集](粗糙集.md)

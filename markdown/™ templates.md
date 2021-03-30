@@ -54,7 +54,9 @@
         - 产品分析::
         - ((4ltLm_-Gg))
         - 商业画布::
-        - {{[[embed]]: ((((AatnAPKlu))))}}
+        - {{[[table]]}}
+            - {{table}}
+            - {{table}}
         - 投资分析::（e.g. [[Investment Thesis for $FVAC ]])
             - Qualitative
             - Quantatitive

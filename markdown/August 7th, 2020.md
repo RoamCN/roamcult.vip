@@ -28,7 +28,7 @@
         - [iPic](https://apps.apple.com/cn/app/ipic-markdown-%E5%9B%BE%E5%BA%8A-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/id1101244278?mt=12) ~ Mac 环境
 - Roam/cn FM 的想法💡
     - 借鉴[[RoamFM]]
-        - "从[[Norman Chella]]做[[RoamFM]]学到什么？#[[lessons learnt]]"
+        - 从[[Norman Chella]]做[[RoamFM]]学到什么？#[[lessons learnt]]
         - RoamFM Graph 
             - https://roamresearch.com/#/app/RoamFM/page/B2T6zN-6h
     - 多多

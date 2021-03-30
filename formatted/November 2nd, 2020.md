@@ -267,7 +267,7 @@ alias 和Alias 的区别 [!Batapha](!Batapha.md) #[📘教程](📘教程.md) #[
             - 详细看，语法结构则是外面是“{{}}”，里面则是“alias:”+"block ref"+“序号”
             - 结构与上一个非常不同 
                 - [November 2nd, 2020](November 2nd, 2020.md) 23:36 #[@HybridRbt](@HybridRbt.md) 比较好奇除了显示上的不同以外还有什么其他不一样的地方吗？
-#[@Batapha](@Batapha.md)继续更新[B-Net and the Butterfly](B-Net and the Butterfly.md)中文版，更新到"07 阻碍1：畏惧带来灾难化思维"
+#[@Batapha](@Batapha.md)继续更新[B-Net and the Butterfly](B-Net and the Butterfly.md)中文版，更新到07 阻碍1：畏惧带来灾难化思维
 
 # Backlinks
 ## [November 2nd, 2020](November 2nd, 2020.md)

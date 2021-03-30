@@ -49,7 +49,7 @@
 - #@leekeifon
     - Q:: 有什么更好的 communication pattern? 或者说现有的communication pattern 已经足够了?
         - Roughly speaking, there're two types of communications pattern, representing two types of mindset when doing communications. from [[@leekeifon]] 
-            - related to "#[[inline block reference]]团队协作举例"
+            - related to #[[inline block reference]]团队协作举例
             - 我认为 spaced repetition system(DELTA feature in Roam) 是一种糅合了上述两种 communication pattern 特点的一个实现方式。(to be formalized)
                 - [关于 spaced repetition system 的一些信息](https://roamresearch.com/#/app/dw-csapp-faq/page/lfzSPNXZD) (未整理，但有一些insights在里面供大家了解)
             - communication based on topics/questions(mindset of problem solving)
@@ -66,7 +66,7 @@
             - communication based on time linear structure
             - communication based on time linear structure
                 - Example: whatsapp/wechat/qq/twiiter/weibo/
-                    Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of "communication based on topics/questions(mindset of problem solving)"
+                    Most of them now have the reply functionality, which help construct a loop, so that it could route the content back to previous time and restart from there, which could mimic the advantage of communication based on topics/questions(mindset of problem solving)
                 - advantage
                     - Timeliness and the feeling of communication freedom.
                 - disadvantage

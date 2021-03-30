@@ -1,5 +1,12 @@
 - 
-- {{embed: ((tBZdhZHM-))}}
+- #Roam42 [[SmartBlocks]] 目前还在 Beta，需要修改为测试版本的 js 文件
+    - ```javascript
+var s = document.createElement('script');
+	s.type = "text/javascript";
+    s.src =  "https://cdn.jsdelivr.net/gh/roamhacker/roam42/main.js";
+      // "https://roam42.glitch.me/main.js";
+  	s.async = true;
+document.getElementsByTagName('head')[0].appendChild(s);```
 - > 不要担心自己问的问题听起来很傻。99% 的情况下，其他人都有和你一样的问题，只不过羞于问出口而已。 [*](https://q24.io/api/v1/idea/link/419)
 [[ 凯文·凯利（Kevin Kelly）（翻译：赵嘉敏）]]
 - #42SmartBlock Due me 提醒我

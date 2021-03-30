@@ -1,4 +1,4 @@
-- "{{👯‍♀️ CRM}}"
+- {{👯‍♀️ CRM}}
     - - Categories:: #[[▸roamcults CRM]] [*](((iSkpYft_4)))
     - - Website:: [*](((wc3Lpb-j-)))
         - https://www.youtube.com/visakanv

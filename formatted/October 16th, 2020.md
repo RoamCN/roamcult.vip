@@ -1,6 +1,6 @@
 #[@多酱](@多酱.md)
     - 收集RoamCN logo设计（图片或者想法💡都可）
-        - "[x] #[Almen阳皓](Almen阳皓.md)讨论logo，决定加入中国元素的星盘把手![](../images/IPv3ud68K8.png?)"
+        - [x] #[Almen阳皓](Almen阳皓.md)讨论logo，决定加入中国元素的星盘把手![](../images/IPv3ud68K8.png?)
         - [Ivan](Ivan.md) logo设计成灯笼🏮
         
 #[@多酱](@多酱.md)

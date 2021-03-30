@@ -4,7 +4,7 @@
 
 #[roam power user community](roam power user community.md)
 
-- 关于 "#[roam power user community](roam power user community.md)
+- 关于 #[roam power user community](roam power user community.md)
 
--  "关于 "#[roam power user community](roam power user community.md)
+-  关于 #[roam power user community](roam power user community.md)
 

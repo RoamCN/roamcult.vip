@@ -1,6 +1,9 @@
 - 
 
 # Backlinks
+## [42SmartBlock](42SmartBlock.md)
+- [Roam42](Roam42.md) [SmartBlocks](SmartBlocks.md)
+
 ## [roam/css](roam/css.md)
 - [SmartBlocks](SmartBlocks.md)
 

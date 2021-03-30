@@ -9,7 +9,7 @@
 - {{[[DONE]]}} 面对面第五期的录制⏺️  @8pm [[Roam面对面🍜 第五期]]
     - 大家都要露脸啊🤩 
     - 看一下改版之后的效果，讨论和沉淀都重要
-- #Batapha 在roam的官方页面找到的关于query的视频-"主题：{{query 的用法"[youtube视频](https://www.youtube.com/watch?v=LJZBGJOzhUY&feature=emb_logo&ab_channel=RobertHaisfield)
+- #Batapha 在roam的官方页面找到的关于query的视频-主题：{{query 的用法[youtube视频](https://www.youtube.com/watch?v=LJZBGJOzhUY&feature=emb_logo&ab_channel=RobertHaisfield)
     - “and”语法是包含RoamCN与Jessie的page/block
         - {{[[query]]: {and: [[RoamCN meetup]] [[@Jessie]]}}}
     - “or”语法是包含RoamCN或Jessie的page/block

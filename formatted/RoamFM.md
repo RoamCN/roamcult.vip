@@ -3,7 +3,7 @@
 ## [August 7th, 2020](August 7th, 2020.md)
 - 借鉴[RoamFM](RoamFM.md)
 
-- "从[Norman Chella](Norman Chella.md)做[RoamFM](RoamFM.md)学
+- 从[Norman Chella](Norman Chella.md)做[RoamFM](RoamFM.md)学
 
 ## [July 31st,2020](July 31st,2020.md)
 - 从[Norman Chella](Norman Chella.md)做[RoamFM](RoamFM.md)学

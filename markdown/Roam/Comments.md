@@ -1,7 +1,7 @@
-- {{comments: "宣传(hover me){{comment-button}}"
+- {{comments: 宣传(hover me){{comment-button}}
     - {{[[comment]]}}
 
-- {{comments: "是(hover me){{comment-button}}"
+- {{comments: 是(hover me){{comment-button}}
     - {{[[comment]]}}
 
     - {{[[comment]]}}
@@ -24,7 +24,7 @@ hi this is @Jessie
 - {{comments: ((9875))
     - {{[[comment]]}}
 来试试Roam Research评论功能吧
-- {{comments: "补齐了历史的周报链接 [[⌸ 周报Newsletter]]，麻烦 [[Alex]] 对齐一下 002期和 003 期，😉 {{comment-button}}"
+- {{comments: 补齐了历史的周报链接 [[⌸ 周报Newsletter]]，麻烦 [[Alex]] 对齐一下 002期和 003 期，😉 {{comment-button}}
     - {{[[comment]]}}
 
 - {{comments: ((D83lzDmbh))}}
