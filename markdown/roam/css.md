@@ -7,7 +7,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Commissioner|Crimson+Text|Fira+Code|Bitter|Work+Sans');
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
     /* FONTS */
     --global-font             : 'Work Sans', sans-serif;
@@ -65,7 +65,7 @@
     --kanban-text-hover       : #E4564A;
   }
 }
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     /* FONTS */
     --global-font             : 'Work Sans', sans-serif;
