@@ -19,9 +19,9 @@ if (!existing) {
   extension.type = "text/javascript";
   document.getElementsByTagName("head")[0].appendChild(extension);
 }```
-    3. Press the BIG RED button (also works with [roam42](https://github.com/roamhacker/roam42), so you can just put them together)
-    4. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
+    3. Change CARD_MODE_VERSION value `master` to the latest Git commit hash whenever you're ready to upgrade
         - ![](https://raw.staticdn.net/JimmyLv/styled-roam/master/preview/git%20hash.png)
+    4. {{[[drawing]]}}
 - ## Quick Review
     - Gingko 卡片式写作完整视频 Demo
         - https://twitter.com/Jimmy_JingLv/status/1305893239187103749?s=20
