@@ -1,3 +1,1 @@
-- testTemplate
-    - testName
-- ; <%date:now %> 
+- 
