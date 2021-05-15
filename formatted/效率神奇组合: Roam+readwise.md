@@ -55,7 +55,7 @@
 - 自动同步到RR后，效果如下：
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-cdc0b41fe608a1e15dd23fdc6194dbc7.png)
 - **Instapaper**
-- 这个是自动把文章保存下来，晚点儿再看的神器，界面干净。
+- 这个动把文章保存下来，晚点儿再看的神器，界面干净。
 - ![](https://nataliamok.com/wp-content/uploads/2020/09/frc-36441d249856737a1e35a1d73887edb1.png)
 - **以上提及的全部骚操作只需要Readwise就可以优雅实现了。**
 - 有付费版和免费版，但基本二杯咖啡的钱我就不省了，毕竟时间更贵:p
