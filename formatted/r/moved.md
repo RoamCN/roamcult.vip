@@ -39,6 +39,9 @@
 ## [May 14th, 2021](May 14th, 2021.md)
 - [一天](../一天.md){{[r/moved](../r/moved.md)}
 
+## [May 15th, 2021](May 15th, 2021.md)
+- ;;  {{[r/moved](../r/moved.md)}
+
 ## [May 8th, 2021](May 8th, 2021.md)
 - ;; [*](((-G0hKwSVW))) {{[r/moved](../r/moved.md)}
 
