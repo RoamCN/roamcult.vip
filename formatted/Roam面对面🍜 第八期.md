@@ -1,0 +1,44 @@
+- 策划：Jessie Li,多多
+- 嘉宾： [和燕燕](和燕燕.md) [张博涵](张博涵.md)（➕ 个头像🤓  ）
+- 时间：周六 [May 22nd, 2021](May 22nd, 2021.md) 晚8pm--9.30pm
+- 准备事项：
+    
+1. zoom账号
+    
+2. 可以进行zoom会议的手机/平板/电脑以及麦克风（不强制）
+    
+3. 安静的环境
+- 问题大纲
+    - 关于个人
+        - 自我介绍（研究领域）
+            - 燕燕：语言学
+                - 语言与roam中元素的对应关系
+                    - ![](../images/A5bZgAzk_S.png?)
+                    - page--专有名词、topics
+                    - block--
+                    - roam for result里面zettel是非常像的。我们 通常往blocks里面写的东西反映着一些attention(一般的句子、词)，但是当你回顾的时候会发现一些focus。然后把它写到**topics**的页面，形成你要进一步研究的一些话题`[[]]`。
+            - 博涵：
+    - 关于roam的使用场景
+        - 科研方面
+            - 科研的workflow是怎样的，期间涉及到哪些工具（zotero等）
+            - 聊聊zettel kasten与科研
+                - 卡片盒笔记法对科研的作用
+                - 各种notes（fleeting,literature permanent etc)的进化史
+            - roam对科研的最大作用
+                - 有人说__PhD——为人类知识体系作出原创性的贡献(with permanent head damage)__，你觉得做科研最大的挑战是什么？连接知识？创造新的东西？在这些方面有什么具体的感受和受益？（比如有没有专攻方向的课题，在用了roam之后有了突破性的进展，或aha moment?)
+        - 其他方面
+            - 个人任务管理（project management)
+            - 个人生活管理
+            - etc...
+    - roam对我们的影响
+        - 上瘾的那个moment是什么？
+        - 你觉得roam的什么方面被低估了？
+        - 记笔记会有所克制吗？为什么？
+        - roam for result作者说，phd是一个孤独的生意，roam就像一个。
+            - PhD is a lonely business, make roam as your peregion cafe. if you approach roam as your conversation partner,you talk to roam. then it will talk back.
+        - 我们只是知道了非常少的一部分，而且发现知道的越多，就知道的越少，这个其实是非常难受的，所以要有一个平衡点。roam长期来看是一个第二大脑，一个帮助训练第一大脑的东西；但短期，又是一个行动的reminder，
+
+# Backlinks
+## [🎈内容导航页](🎈内容导航页.md)
+- [Roam面对面🍜 第八期](Roam面对面🍜 第八期.md)
+
