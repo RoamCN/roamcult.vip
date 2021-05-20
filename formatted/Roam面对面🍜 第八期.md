@@ -10,7 +10,7 @@
 3. 安静的环境
 - 问题大纲
     - 关于个人
-        - 自我介绍（研究领域）
+        - 自我介绍（研究领域引入）
             - 燕燕：语言学
                 - 语言与roam中元素的对应关系
                     - ![](../images/A5bZgAzk_S.png?)
@@ -23,7 +23,8 @@
             - 科研的workflow是怎样的，期间涉及到哪些工具（zotero等）
             - 聊聊zettel kasten与科研
                 - 卡片盒笔记法对科研的作用
-                - 各种notes（fleeting,literature permanent etc)的进化史
+                - 各种notes（fleeting,literature permanent etc) 的进化史
+                    - [roam for results](roam for results.md) notes--lesson 9 #@Jessie
             - roam对科研的最大作用
                 - 有人说__PhD——为人类知识体系作出原创性的贡献(with permanent head damage)__，你觉得做科研最大的挑战是什么？连接知识？创造新的东西？在这些方面有什么具体的感受和受益？（比如有没有专攻方向的课题，在用了roam之后有了突破性的进展，或aha moment?)
         - 其他方面
@@ -33,10 +34,12 @@
     - roam对我们的影响
         - 上瘾的那个moment是什么？
         - 你觉得roam的什么方面被低估了？
-        - 记笔记会有所克制吗？为什么？
-        - roam for result作者说，phd是一个孤独的生意，roam就像一个。
-            - PhD is a lonely business, make roam as your peregion cafe. if you approach roam as your conversation partner,you talk to roam. then it will talk back.
-        - 我们只是知道了非常少的一部分，而且发现知道的越多，就知道的越少，这个其实是非常难受的，所以要有一个平衡点。roam长期来看是一个第二大脑，一个帮助训练第一大脑的东西；但短期，又是一个行动的reminder，
+        - 记笔记会有所克制吗？为什么？现在哪个功能用的最勤？
+        - roam for result作者说，phd是一个孤独的生意，她会把roam当成一个对话伙伴。有类似的感受吗？
+            - __PhD is a lonely business, make roam as your peregion cafe. if you approach roam as your conversation partner,you talk to roam. then it will talk back.__
+            - Jessie：虽然我只是野生的研究（not professional)，但用roam以来，也深切体会到知识的无边际和无穷的联系（简直看到任何两个事物之间都会去想联系了！）。我们只是知道了非常少的一部分，而且发现知道的越多，就知道的越少，这个其实是非常难受的，所以我在想要有一个**平衡点**。roam长期来看是一个第二大脑，一个帮助训练第一大脑的东西；但短期，又是一个行动的reminder，告诉我有些东西不能拖着，要快速的决策。
+        - 你会给别的科研伙伴推荐这个工具吗？他们反馈如何
+        - 还想看到那些方面的用力分享？
 
 # Backlinks
 ## [🎈内容导航页](🎈内容导航页.md)
