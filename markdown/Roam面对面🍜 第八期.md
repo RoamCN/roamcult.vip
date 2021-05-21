@@ -15,6 +15,7 @@
                     - block--
                     - roam for result里面zettel是非常像的。我们 通常往blocks里面写的东西反映着一些attention(一般的句子、词)，但是当你回顾的时候会发现一些focus。然后把它写到**topics**的页面，形成你要进一步研究的一些话题`[[]]`。
             - 博涵：
+                - 统计学，时间序列预测
     - 关于roam的使用场景
         - 科研方面
             - 科研的workflow是怎样的，期间涉及到哪些工具（zotero等）
