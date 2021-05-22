@@ -19,6 +19,9 @@
                     - roam for result里面zettel是非常像的。我们 通常往blocks里面写的东西反映着一些attention(一般的句子、词)，但是当你回顾的时候会发现一些focus。然后把它写到**topics**的页面，形成你要进一步研究的一些话题`[[]]`。
             - 博涵：
                 - 统计学，时间序列预测
+                    - 商品的销量预测，电力的需求预测
+                    - 金融预测（根据历史的数据）
+                        - 很复杂的模型还不如random的模型
     - 关于roam的使用场景
         - 科研方面
             - 科研的workflow是怎样的，期间涉及到哪些工具（zotero等）
@@ -28,7 +31,7 @@
                 - 各种notes（fleeting,literature permanent etc) 的进化史
                     - [roam for results](roam for results.md) notes--lesson 9 #@Jessie
             - roam对科研的最大作用
-                - 有人说__PhD——为人类知识体系作出原创性的贡献(with permanent head damage)__，你觉得做科研最大的挑战是什么？连接知识？创造新的东西？在这些方面有什么具体的感受和受益？（比如有没有专攻方向的课题，在用了roam之后有了突破性的进展，或aha moment?)
+                - 有人说__PhD——为人类知识体系作出原创性的贡献(with permanent head damage)__，你觉得做**科研最大的挑战是什么**？连接知识？创造新的东西？在这些方面有什么具体的感受和受益？（比如有没有专攻方向的课题，在用了roam之后有了突破性的进展，或aha moment?)
                 - 大家对PhD知识储备期待要比其他学位的人更多，作为PhD是怎样管理自己的知识，知识管理部分能否帮助——为人类知识体系作出原创性的贡献
         - 其他方面
             - 个人任务管理（project management)
@@ -40,7 +43,6 @@
         - 记笔记会有所克制吗？为什么？现在哪个功能用的最勤？
         - roam for result作者说，phd是一个孤独的生意，她会把roam当成一个对话伙伴。有类似的感受吗？
             - __PhD is a lonely business, make roam as your peregion cafe. if you approach roam as your conversation partner,you talk to roam. then it will talk back.__
-            - Jessie：虽然我只是野生的研究（not professional)，但用roam以来，也深切体会到知识的无边际和无穷的联系（简直看到任何两个事物之间都会去想联系了！）。我们只是知道了非常少的一部分，而且发现知道的越多，就知道的越少，这个其实是非常难受的，所以我在想要有一个**平衡点**。roam长期来看是一个第二大脑，一个帮助训练第一大脑的东西；但短期，又是一个行动的reminder，告诉我有些东西不能拖着，要快速的决策。
         - 你会给别的科研伙伴推荐这个工具吗？他们反馈如何
         - 还想看到那些方面的用力分享？
             - 研究的专业名词有缩写同义词什么的，同一个概念的内容怎么做管理更容易链接使用到
