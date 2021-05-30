@@ -1,0 +1,3 @@
+- {{[[embed]]: [[JimmyLv]]}}
+- [[!JimmyLv]]
+- [[@jimmy]]

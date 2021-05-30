@@ -21,6 +21,9 @@
 ## [roam/js/roam-enhance](roam/js/roam-enhance.md)
 - {{[roam/js](../roam/js.md)}
 
+## [roam/js/roam42](roam/js/roam42.md)
+- {{[roam/js](../roam/js.md)}
+
 ## [roam/js/styled-roam](roam/js/styled-roam.md)
 - {{[roam/js](../roam/js.md)}
 
