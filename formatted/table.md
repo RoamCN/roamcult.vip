@@ -12,3 +12,6 @@
 ## [™ templates](™ templates.md)
 - {{[table](table.md)}
 
+## [毛泽东选集：第一卷](毛泽东选集：第一卷.md)
+- {{[table](table.md)}
+
