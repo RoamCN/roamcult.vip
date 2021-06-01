@@ -17,7 +17,7 @@
     --reduce-padding-right    : 3400px;
     --reduce-padding-left     : 3400px;
     /* COLORS - One light*/
-    --page-links              : [2979ff](../2979ff.md);
+    --page-links              : [585DCF](../585DCF.md);
     --attributes-color        : [986801](../986801.md);
     --external-links          : [50A14E](../50A14E.md);
     --links-hover             : [E4564A](../E4564A.md);
