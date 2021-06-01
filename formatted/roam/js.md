@@ -27,3 +27,6 @@
 ## [roam/js/styled-roam](roam/js/styled-roam.md)
 - {{[roam/js](../roam/js.md)}
 
+## [roam/js/unlink-finder](roam/js/unlink-finder.md)
+- {{[roam/js](../roam/js.md)}
+

@@ -10,7 +10,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     /* FONTS */
-    --global-font             : 'Work Sans', sans-serif;
+    --global-font             : "Iowan Old Style", serif, "PingFang SC", -apple-system, "SF UI Text", "Lucida Grande", STheiti, "Microsoft YaHei", sans-serif;
     --secondary-font          : 'Fira Code', monospace;
     --header-font             : 'Crimson Text', serif;
     /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */
@@ -44,7 +44,7 @@
     --icons-hover             : [E4564A](../E4564A.md);
     --filter-icon             : [50A14E](../50A14E.md);
     /* FONT SIZES */
-    --main-font-size          : 1em;
+    --main-font-size          : 1.2em;
     --page-head-font-size     : 2.2em;
     --h1-font-size            : 2em;
     --h2-font-size            : 1.6em;
@@ -68,7 +68,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     /* FONTS */
-    --global-font             : 'Work Sans', sans-serif;
+    --global-font             : "Iowan Old Style", serif, "PingFang SC", -apple-system, "SF UI Text", "Lucida Grande", STheiti, "Microsoft YaHei", sans-serif;
     --secondary-font          : 'Fira Code', monospace;
     --header-font             : 'Bitter', serif;
     /* WIDTH FIXES - default 568px,1032px - increase to increase WIDTH */
@@ -102,7 +102,7 @@
     --icons-hover             : [92FFFF](../92FFFF.md);
     --filter-icon             : [8AFF80](../8AFF80.md);
     /* FONT SIZES */
-    --main-font-size          : 1em;
+    --main-font-size          : 1.2em;
     --page-head-font-size     : 2.2em;
     --h1-font-size            : 2em;
     --h2-font-size            : 1.6em;
@@ -124,6 +124,9 @@
   }
 }
 
+span.rm-block-ref {
+  border-bottom: 0.5px solid [D8E1E8](../D8E1E8.md);
+}
 
 [data-link-title^='🍚 今天'] {
   padding: 8px;
