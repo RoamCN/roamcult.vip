@@ -1,0 +1,3 @@
+- Append Text:: Current Time
+- Replace Tags::
+- Strikethrough::{{True}}

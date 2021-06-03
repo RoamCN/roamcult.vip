@@ -1,0 +1,3 @@
+- **[Append Text](Append Text.md):** Current Time
+- **[Replace Tags](Replace Tags.md):**
+- **[Strikethrough](Strikethrough.md):**{{True}}

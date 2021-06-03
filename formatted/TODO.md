@@ -5,6 +5,11 @@
 
 - {{[TODO](TODO.md)}
 
+## [June 3rd, 2021](June 3rd, 2021.md)
+- {{[TODO](TODO.md)}
+
+- {{[TODO](TODO.md)}
+
 ## [May 26th, 2021](May 26th, 2021.md)
 - {{[TODO](TODO.md)}
 
