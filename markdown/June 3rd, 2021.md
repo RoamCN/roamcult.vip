@@ -1,0 +1,9 @@
+- [[kunpeng9.serious]] =
+    - 么西么西的想法 - 知乎
+    - https://www.zhihu.com/pin/1383729916932853760    工业革命有代差的惨状。中国人的祖先 那些封建士大夫选择放弃大航海，错过2.5次~3次工业革命。很多白人来中国轻松百人斩。
+    - [Go East Young White Man! - YouTube](https://www.youtube.com/watch?v=s8KCOgLM4AQ)
+    - 百人斩不夸张，不过到了这个数量，谁曹谁不确定了。
+    - 为什么国内女性对国内男性要彩礼对国外男性不要呢？ - 田园拳师掌门人的回答 - 知乎
+https://www.zhihu.com/question/426775926/answer/1919225850
+    - 精神殖民存在的惊人的，怎么说？收益，发达国家白人，美国白人，尝到了甜头，绝无可能放弃
+    - 
