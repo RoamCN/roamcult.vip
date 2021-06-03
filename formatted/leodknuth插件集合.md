@@ -456,7 +456,7 @@ s.async = false;
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);```
         - 完成以上代码复制后，仍需在你的roam里创建一个名为"roam/js/todo-trigger"的页面，并将以下三行内容粘贴进入:
-            - **[Append Text](Append Text.md):** /Today  /Current Time
+            - **[Append Text](Append Text.md):** Current Time
             - **[Replace Tags](Replace Tags.md):**
             - **[Strikethrough](Strikethrough.md):**{{True}}
 - {{roam/js}}
