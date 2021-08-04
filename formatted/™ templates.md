@@ -54,8 +54,8 @@
         - **[summary](summary.md):**
         - {{kanban}}
             - Capital ✩
-                - least important
             - Access to deals ✩✩
+                - least important
                 - keep track related to founders
             - Judgement ✩✩✩
                 - analyze company&tech trend
