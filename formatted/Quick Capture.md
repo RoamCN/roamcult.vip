@@ -4,6 +4,10 @@
 
 #[Quick Capture](Quick Capture.md)
 
+## [August 5th, 2021](August 5th, 2021.md)
+
+#[Quick Capture](Quick Capture.md)
+
 ## [January 31st, 2021](January 31st, 2021.md)
 
 #[Quick Capture](Quick Capture.md)
