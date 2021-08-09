@@ -1,0 +1,8 @@
+- [[Day Log]]
+    - 09:23 - 10:24 study: ***
+- 
+- 
+- 
+- 
+- [[Weekly Summary]] from [[August 9th, 2021]] to [[August 9th, 2021]]
+    - Spent 1h 1m Study

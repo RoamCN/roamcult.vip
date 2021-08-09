@@ -4,6 +4,11 @@
 - [roam/js/roam-enhance](../roam/js/roam-enhance.md)
 
 # Backlinks
+## [Day Log](Day Log.md)
+- 安装插件。创建一个{{[roam/js](../roam/js.md)}
+
+- {{[roam/js](../roam/js.md)}
+
 ## [leodknuth插件集合](leodknuth插件集合.md)
 *  - make a new node: {{[roam/js](../roam/js.md)}
 
