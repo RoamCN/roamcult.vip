@@ -3,12 +3,17 @@
     - work: Work
     - life: Life
 - 
-- 操作方法
-    - 安装插件。创建一个{{[roam/js](roam/js.md)}}块并在其下复制插件的代码。单击__是，我知道我在做什么__按钮。重新加载漫游。
-    - 创建一个名为__[Day log shortnames](Day log shortnames.md)__的块，它将帮助您为要跟踪的任务添加小键
-    - 现在您可以开始在__[Day Log](Day Log.md)__下编写您的条目。__请确保条目嵌套在此块下。__
-    - 条目的格式应为__starttime - endtime task-shortname: 和您的描述__
-    - 在一周结束时，您可以在任何地方键入__--ws__以查看您的时间摘要。
+- ^^操作方法^^
+    1. 安装插件。创建一个`{{[roam/js](roam/js.md)}}`块并在其下复制插件的代码。单击`是，我知道我在做什么`按钮。重新加载漫游。
+    2. 创建一个名为`[Day log shortnames](Day log shortnames.md)`的块，它将帮助您为要跟踪的任务添加小键
+        - `[Day log shortnames](Day log shortnames.md)`子级内容: `:`左边为`[Day Log](Day Log.md)`子级的任务简称,右边为输入 `--ws`后的时间归集类别
+    3. 现在您可以开始在`[Day Log](Day Log.md)`下编写您的条目。__请确保条目嵌套在此块下。__
+        - 条目的格式应为: `开始时间 - 结束时间 任务简称: 任务描述`
+            - ^^注意点^^
+                - 起止日期与`-`之间要空一格,不然归集不到
+                - 任务简称一定要先在`[Day log shortnames](Day log shortnames.md)`子级下进行描述,不然归集不到
+    4. 在一周结束时，您可以在任何地方键入`--ws`以查看您的时间摘要。
+- 
 - 
 - 修改一周的开始为周一而非周日 `startOf("week")`改为 `startOf("isoweek")`
 - 
@@ -48,5 +53,7 @@ const results={};timeEntries.forEach((entry)=>{const logMatch=entry.match(/^(\d+
 - [Day Log](Day Log.md)
 
 ## [Day Log](Day Log.md)
-- 现在您可以开始在__[Day Log](Day Log.md)_
+- `[Day log shortnames](Day log shortnames.md)`子级内容: `:`左边为`[Day Log](Day Log.md)`
+
+3. 现在您可以开始在`[Day Log](Day Log.md)`
 
