@@ -1,5 +1,9 @@
 
 # Backlinks
+## [August 11th, 2021](August 11th, 2021.md)
+
+#[Quick Capture](Quick Capture.md)
+
 ## [August 4th, 2021](August 4th, 2021.md)
 
 #[Quick Capture](Quick Capture.md)
