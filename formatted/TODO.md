@@ -1,8 +1,5 @@
 
 # Backlinks
-## [August 19th, 2021](August 19th, 2021.md)
-- {{[TODO](TODO.md)}
-
 ## [December 1st, 2020](December 1st, 2020.md)
 - {{[TODO](TODO.md)}
 
