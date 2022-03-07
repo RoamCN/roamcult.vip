@@ -13,6 +13,8 @@ Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、�
 - 📺 视频号：直接微信「视频号」里面搜「Roam Research」
 - 🎧 喜马拉雅：http://xima.tv/7hMJvm?_sonic=0
 
+<img width="476" alt="二维码 - 视频号 微信" src="https://user-images.githubusercontent.com/4997466/156963917-f9d98468-e4f6-4849-9aa8-048677fc5ef2.png">
+
 ![](https://pbs.twimg.com/media/Ek6C1fpXYAEMpfB?format=jpg)
 
 ![](https://pbs.twimg.com/media/Ek6C1fuX0AAI7Wm?format=jpg)
