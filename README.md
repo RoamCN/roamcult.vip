@@ -1,6 +1,6 @@
 # [[[roam/cn]] Roam Research 中文社区 #roamcult](https://github.com/roam-cn/roamcult.vip/discussions)
 
-## RoamCN Community
+## RoamCN Community 中文社区
 
 Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、微信圈子、公共图谱和新的Discord平台，致力于更好建设RoamCN中文生态，和大家一起探索 @RoamResearch 的可能性，🚀
 
