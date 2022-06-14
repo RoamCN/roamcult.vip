@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# [[[roam/cn]] Roam Research 中文社区 #roamcult](https://github.com/roam-cn/roamcult.vip/discussions)
 
-You can use the [editor on GitHub](https://github.com/roam-cn/roamcult.vip/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## RoamCN Community 中文社区
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi #RoamCN 伙伴们！Roam中文社区的小伙伴目前已经组织了B站、微信圈子、公共图谱和新的Discord平台，致力于更好建设RoamCN中文生态，和大家一起探索 @RoamResearch 的可能性，🚀
 
-### Markdown
+- 🐦 Twitter 地址：https://twitter.com/cn_roam
+- 📲 Telegram 频道: https://t.me/roam_newsletter
+- 🎬 B 站地址：https://space.bilibili.com/599106362
+- 🕸 Roam 中文站公共图谱（Public Graph)：https://roamresearch.com/#/app/RoamCN/page/3TbMTyHMJ
+- 🤗 Discord 永久地址：https://discord.gg/YAU9MUwGP4
+- 📮 公众号：直接微信「搜一搜」里面搜「Roam Research 中文社区」
+- 📺 视频号：直接微信「视频号」里面搜「Roam Research」
+- 🎧 喜马拉雅：http://xima.tv/7hMJvm?_sonic=0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img width="476" alt="二维码 - 视频号 微信" src="https://user-images.githubusercontent.com/4997466/156963917-f9d98468-e4f6-4849-9aa8-048677fc5ef2.png">
 
-```markdown
-Syntax highlighted code block
+![](https://pbs.twimg.com/media/Ek6C1fpXYAEMpfB?format=jpg)
 
-# Header 1
-## Header 2
-### Header 3
+![](https://pbs.twimg.com/media/Ek6C1fuX0AAI7Wm?format=jpg)
 
-- Bulleted
-- List
+![](https://pbs.twimg.com/media/Ek6C1neXYAEN6ph?format=jpg)
 
-1. Numbered
-2. List
+![](https://pbs.twimg.com/media/Ek6C1naXUAEqyJe?format=jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roam-cn/roamcult.vip/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
